@@ -19,5 +19,5 @@ Runs in the cloud with the owner's laptop off. Read `docs/rules.md` and `docs/pr
 7. Host: `git checkout --orphan v/DATE`, then `git rm -rf --cached .`, add only `reel.mp4`, commit, and push the branch.
    The URL is `https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/v/DATE/reel.mp4`.
 8. Run vidiq_video_upload(url). Then vidiq_instagram_publish_reel with isAiGenerated true (Gemini footage). Poll the containerId until PUBLISHED.
-9. Afterwards, delete the `v/DATE` branch and log it in `docs/posted.md`. Include the date, permalink, hook and product.
+9. Leave the `v/DATE` branch in place. The git proxy refuses branch deletes. Log the post in `docs/posted.md` on main: date, permalink, hook and product. Push main.
 10. Comments: ig-reply skill on the latest posts. **Drafts only.** Send them to the owner for batch approval.
