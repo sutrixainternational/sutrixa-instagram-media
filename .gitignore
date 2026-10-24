@@ -1,0 +1,4 @@
+tools/tts/*.onnx
+tools/tts/*.bin
+work/
+__pycache__/

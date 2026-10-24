@@ -1,0 +1,81 @@
+{
+ "out": "out2/SAT_voiced.mp4",
+ "accent": "#3fd1ff",
+ "beats": [
+  {
+   "video": "gemini/sat_accountant.mp4",
+   "vstart": 0,
+   "dur": 4.5,
+   "size": 84,
+   "text": "Your hotel's accountant. 11 PM. Again.",
+   "sub": "Room bills, restaurant bills, supplier bills. All sorted by hand.",
+   "say": "Your hotel's accountant. Eleven PM. Again. Sorting room bills, restaurant bills and supplier bills by hand."
+  },
+  {
+   "video": "gemini/sat_accountant.mp4",
+   "vstart": 4.5,
+   "dur": 5.0,
+   "size": 76,
+   "text": "Rizstay puts every bill in the right register for you.",
+   "sub": "Here's how, in 3 steps.",
+   "say": "Rizstay puts every bill in the right register for you. Here's how, in three steps."
+  },
+  {
+   "image": "shots/rz_registers.jpg",
+   "dur": 5.5,
+   "step": "1",
+   "text": "Every bill lands in its register",
+   "sub": "Purchase, Issue, Sale Bill, KOT, NC KOT, Stock, GST, Vendor, B2B.",
+   "hl": [
+    18,
+    133,
+    384,
+    252
+   ],
+   "say": "Step one. Every bill lands in its own register. Purchase, sale bill, K O T, stock, G S T, vendor, and more."
+  },
+  {
+   "image": "shots/rz_registers.jpg",
+   "dur": 5.0,
+   "step": "2",
+   "text": "GST is split on every bill",
+   "sub": "CGST + SGST, or IGST. Discounts are taken off before tax.",
+   "hl": [
+    35,
+    292,
+    305,
+    322
+   ],
+   "say": "Step two. G S T is split on every bill. C G S T plus S G S T, or I G S T. Discounts come off before tax."
+  },
+  {
+   "image": "shots/rz_registers.jpg",
+   "dur": 5.0,
+   "step": "3",
+   "text": "One click: Excel for your CA",
+   "sub": "Every register exports to Excel. No retyping.",
+   "hl": [
+    40,
+    481,
+    362,
+    518
+   ],
+   "say": "Step three. One click exports any register to Excel. Send it straight to your C A."
+  },
+  {
+   "image": "shots/rz_dashboard.jpg",
+   "dur": 4.0,
+   "text": "Rooms, restaurant and billing on one screen",
+   "sub": "Runs in your browser. No installs.",
+   "say": "Rooms, restaurant and billing, on one screen. It runs in your browser."
+  },
+  {
+   "dur": 3.5,
+   "size": 96,
+   "text": "Rizstay by Sutrixa",
+   "sub": "Save this for your next GST filing. Follow @sutrixainternational",
+   "say": "Rizstay, by Sutrixa. Save this for your next G S T filing."
+  }
+ ],
+ "voice": "af_heart"
+}
