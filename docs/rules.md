@@ -1,6 +1,6 @@
 # Standing content rules (@sutrixainternational)
 - Every Reel opens with REAL moving Gemini video (Veo, 9:16) with its audio. Never stand in a screenshot, still frame or placeholder, not even in a preview sent to the owner.
-- If the Gemini clip can't be pulled into the workspace, stop and say so; do not render or show a version without it.
+- If no new Gemini clip is in Drive, never skip the day (owner rule, 24 Oct): reuse the least-recently-used real Gemini clip from "3 - Posted" (not used in the last 3 days) with a new angle and segment. Never use stills.
 - Reels must explain, not list: problem (Gemini clip) -> what the product does -> numbered steps on the real product screen with the exact UI element highlighted -> one-line outcome -> logo end card. 25-35s.
 - Sutrixa logo on every frame. Facts only from /root/.claude/instagram/products.md.
 - Renderer: scratchpad/render_reel2.py (video beats, step badges, highlight boxes, music bed).
