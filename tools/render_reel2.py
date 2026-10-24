@@ -114,7 +114,7 @@ def render(spec):
     accent = hexrgb(spec.get("accent", "#3fd1ff"))
     work = tempfile.mkdtemp(dir=os.path.dirname(os.path.abspath(spec["out"])))
     # voiceover: every beat with "say" gets narration; beat stretches to fit the line
-    vo_voice, vo_speed = spec.get("voice", "af_heart"), spec.get("speed", 1.05)
+    vo_voice, vo_speed = spec.get("voice", "af_heart"), spec.get("speed", 1.15)
     vo_files = []
     for bi, b in enumerate(spec["beats"]):
         if b.get("say"):
