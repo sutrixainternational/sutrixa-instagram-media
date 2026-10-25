@@ -1,0 +1,9 @@
+GST billing for hotels shouldn't mean adding bills by hand at 11 PM.
+
+You've got room bills, restaurant orders and supplier bills, each with its own tax. Good hotel billing does the sums for you. In Rizstay every bill splits CGST and SGST or IGST, the discount comes off before tax, and the whole stay lands on 1 bill at checkout. At month end you pick the dates, export the register to Excel and send your CA 1 file.
+
+It's hotel software that runs in your browser on the desk PC. No installs.
+
+Save this for month end.
+
+#hotelmanagement #gstbilling #hotelsoftware #restaurantbusiness #hotelowners
