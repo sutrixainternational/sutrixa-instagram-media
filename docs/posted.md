@@ -4,3 +4,5 @@
 | 2026-10-24 | Rizstay | Your hotel's accountant. 11 PM. Again. | https://www.instagram.com/reel/De4Cq8ugGky/ |
 | 2026-10-25 | Voxa | Stop letting your phone ring at 8 PM. (hookscore 81.4 STRONG, #2 Negative Command; 29.4s; new clip 2026-10-25_voxa_restaurant_missed_calls) | https://www.instagram.com/reel/De63z8XEePe/ |
 | 2026-10-25 TRIAL | Voxa | You don't need staff for 8 PM calls. (hookscore 77.8 STRONG, #20 Permission; 28.7s; rendered, hosted on v/2026-10-25-trial) | NOT PUBLISHED: Meta refused Trial Reels (code 10, subcode 2207081, app lacks permission) |
+| 2026-10-26 | Voxa | Stop dropping your scissors for 1 more call. (hookscore 81.4 STRONG, #2 Negative Command; 32.3s, 9 beats; new clip 2026-10-26_voxa_salon_missed_calls; ask: share this) | https://www.instagram.com/reel/De9bOrjDFEk/ |
+| 2026-10-26 TRIAL | Voxa | "No receptionist." Fine. Your phone still gets answered. (hookscore 100.0 STRONG, #12 The Objection; 29.1s; steps reversed: text-back first; hosted on v/2026-10-26-trial) | NOT PUBLISHED: Meta refused Trial Reels again (code 10, subcode 2207081, app lacks permission) |
