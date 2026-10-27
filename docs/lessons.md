@@ -18,7 +18,12 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - PROVEN (25-27 Oct): with 4 followers and no send history, Instagram tests each Reel on about 9-50 people. Retention alone doesn't expand reach. Sends do. The owner's first-hour sends to contacts are the biggest lever we have.
 - PROVEN (25-26 Oct): Meta refuses Trial Reels through vidIQ (code 10/2207081). Don't try.
 
-## Profile (done 27 Oct via the Claude app's browser, logged in as @sutrixainternational)
+## Profile (updated again 27 Oct, 21:45: company-wide)
+- Name field now "Sutrixa | AI Business Software". Both name changes for the 14-day window are used, so NO further name changes before 10 Nov.
+- Bio now: "Business owners: AI that answers calls, bills guests, runs payroll & marketing. / Rizstay · Voxa · HR4U · Velocity / $1.1M+ projects delivered worldwide ↓" (150 chars). It covers all 4 products, per the owner. The proof comes from sutrixa.com.
+- Correction: HQ is Mississauga, Canada, not Bengaluru (sutrixa.com).
+
+## Profile, earlier version (27 Oct via the Claude app's browser, logged in as @sutrixainternational)
 - Name field set to "Sutrixa | Hotel & GST Software" (Instagram allows 2 name changes per 14 days, so don't change it again before 10 Nov).
 - Bio set to: "Hotel & restaurant software from Bengaluru. / GST bills, KOTs & registers on one screen. / AI receptionist in 12 Indian languages. / See products ↓". Link: sutrixa.com (owner's choice).
 - Account Status: no limits on reach (checked 27 Oct). Sharing settings: all on.

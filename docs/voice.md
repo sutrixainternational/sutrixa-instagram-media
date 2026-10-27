@@ -6,7 +6,7 @@ Every ig-* skill reads this first. Install it with: `mkdir -p ~/.claude/instagra
 - **Name:** Sutrixa International
 - **Handle:** @sutrixainternational
 - **What I do, in one sentence:** We build simple AI software that takes the paperwork out of running a hotel, restaurant or small business in India.
-- **Who I am talking to:** Owners and managers of independent hotels, guest houses and restaurants in India (10 to 80 rooms, or 1 to 3 outlets). Also small-business owners (salons, clinics, shops) who miss calls and drown in admin. They are busy, practical, price-aware, and not technical. Most are aged 30 to 55.
+- **Who I am talking to:** Owners and managers of growing small and mid-size businesses, mostly in India: hotels and restaurants (Rizstay), any business that misses calls (salons, clinics, shops, agencies: Voxa), companies with 10-200 staff doing HR and payroll by hand (HR4U), and local businesses that can't keep up with marketing (Velocity). They are busy, practical, price-aware, and not technical. Most are aged 30 to 55.
 - **What I sell:** Rizstay (hotel + restaurant software: front desk, GST billing, QR orders, kitchen display, stock by recipe, registers to Excel), Voxa (an AI receptionist that answers calls in 12 Indian languages, from $49/month), HR4U (attendance, leave, payroll and onboarding in one place), and Velocity (done-for-you marketing for local businesses). Facts are only those in docs/products.md.
 
 ## What I sound like
@@ -34,5 +34,5 @@ Every ig-* skill reads this first. Install it with: `mkdir -p ~/.claude/instagra
 ## Proof I can use
 - Real product screens (shots/): Rizstay registers (Purchase, Issue, Sale Bill, KOT, NC KOT, Stock, GST, Vendor, B2B Receivables), the restaurant dashboard reorder alert ("46 ingredients at or below reorder level"), the guest portal, and Voxa/Velocity/HR4U public pages.
 - Voxa pricing: $49 (200 min), $199 Growth, $499, $1,499; pay as you go $0.14/min.
-- Offices: Bengaluru HQ, Kolkata, Mississauga.
+- Company: HQ Mississauga (Canada), offices in Bengaluru and Kolkata. "$1,103,000+" in projects delivered worldwide (sutrixa.com).
 - {{customer result: ask the owner}}

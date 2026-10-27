@@ -1,13 +1,15 @@
-# Sutrixa product fact sheet (verified from sites, 24 Oct 2026)
+# Sutrixa product fact sheet (verified from sites, 24 Oct 2026; company facts re-checked on sutrixa.com 27 Oct)
 Only claims listed here may appear in posts. Anything else = ask the owner.
 
 ## Sutrixa International (sutrixa-website.vercel.app)
 - "Building the Intelligence Layer" / "Fuelling For Future Generations"
 - Builds "AI-native operating systems" for fragmented industries
 - Claim: "$1,103,000+ valued projects round the globe"
-- Offices: Bengaluru (HQ), Kolkata, Mississauga (Canada). connect@sutrixa.com
+- Offices (sutrixa.com, checked 27 Oct): **HQ Mississauga, Canada** (1065 Canadian Pl, Ste 201); Bengaluru (Prestige Technology Park III, Bellandur); Kolkata (2 British Indian St, Esplanade). connect@sutrixa.com. Book a demo: sutrixa.com/connect/
+- Positioning (sutrixa.com): "a futuristic investment and innovation firm building scalable AI businesses solving real-world problems"; it finds the pain points, reduces friction and reduces revenue leakage. "5 AI platforms", "24/7 working team".
+- Industries listed: Hospitality & F&B, Real Estate, Manufacturing & RMG, Education, BFSI, Supply Chain & Logistics, Corporate HR, Infrastructure, Energy, Industrial Ops.
 - Products page also lists InfraRobo (AI infrastructure intelligence, live, infrarobo.com) - not in owner's list
-- Products page says Velocity "Coming soon"; velocity.sutrixa.com is live with sign-up -> CONFIRM status with owner
+- sutrixa.com homepage (27 Oct) labels InfraRobo, Rizstay and Velocity "Live". Velocity is live: it can be promoted. InfraRobo stays excluded (owner rule).
 
 ## Rizstay (restaurant.rizstay.com) - Hospitality OS for hotels & restaurants
 - Tagline: "Run your whole hotel from one calm screen."
