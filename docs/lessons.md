@@ -18,5 +18,10 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - PROVEN (25-27 Oct): with 4 followers and no send history, Instagram tests each Reel on about 9-50 people. Retention alone doesn't expand reach. Sends do. The owner's first-hour sends to contacts are the biggest lever we have.
 - PROVEN (25-26 Oct): Meta refuses Trial Reels through vidIQ (code 10/2207081). Don't try.
 
-## Profile
-- TRY: the name field and the bio need the words people search for ("Hotel software", "GST billing"). Set them as soon as profile edits are possible.
+## Profile (done 27 Oct via the Claude app's browser, logged in as @sutrixainternational)
+- Name field set to "Sutrixa | Hotel & GST Software" (Instagram allows 2 name changes per 14 days, so don't change it again before 10 Nov).
+- Bio set to: "Hotel & restaurant software from Bengaluru. / GST bills, KOTs & registers on one screen. / AI receptionist in 12 Indian languages. / See products ↓". Link: sutrixa.com (owner's choice).
+- Account Status: no limits on reach (checked 27 Oct). Sharing settings: all on.
+- Fixed the false claims in the captions of DefAkOrjWRo (14 Oct, "housekeeping auto-dispatched") and Dejs2WJjJT7 (16 Oct, "summarises every conversation").
+- The web can't pin, archive, set the category or add Highlights. The owner does those in the app.
+- TRY: measure whether profile visits turn into follows now that the profile is clearer (weekly review).
