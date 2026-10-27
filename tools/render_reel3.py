@@ -92,8 +92,23 @@ def chip(img, text, accent, y=230, alpha=1.0):
     d.text((x0 + 28, y + 12), text, font=f, fill=(10, 10, 10, int(255 * alpha)))
 
 
+def caption_words(text):
+    """Join spelled-out acronyms for display: 'G S T' -> 'GST', 'C A.' -> 'CA.'"""
+    toks = text.split(); out = []; i = 0
+    single = lambda w: re.fullmatch(r"[A-Z][^\w\s]*", w) is not None
+    while i < len(toks):
+        j = i
+        while j < len(toks) and single(toks[j]) and (j == i or re.fullmatch(r"[A-Z]", toks[j - 1])):
+            j += 1
+        if j - i >= 2:  # a run of 2+ single capitals is a spelled acronym
+            out.append("".join(toks[i:j])); i = j
+        else:
+            out.append(toks[i]); i += 1
+    return out
+
+
 def word_times(text, total, start=0.25):
-    words = text.split()
+    words = caption_words(text)
     weights = [len(re.sub(r"\W", "", w)) + 2 for w in words]
     span = max(total - start - 0.15, 0.3); s = sum(weights); t = start; out = []
     for w, k in zip(words, weights):

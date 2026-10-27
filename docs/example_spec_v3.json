@@ -1,12 +1,18 @@
-{"out": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/out3/A_proof.mp4", "preset": "proof", "accent": "#FFD400", "beat_bpm": 100, "loop": true,
+{"out": "work/reel.mp4", "preset": "tips", "accent": "#FFD400", "beat_bpm": 96, "loop": true,
  "beats": [
-  {"kind": "clip", "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/gemini/sat_accountant.mp4", "vstart": 0.5,
+  {"kind": "clip", "video": "work/clip.mp4", "vstart": 0.4,
    "headline": "Stop paying your accountant overtime to type 9 hotel registers.",
    "say": "Stop paying your accountant overtime to type nine hotel registers."},
-  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [18,133,384,252], "tap": true, "label": "IN RIZSTAY",
-   "say": "Every bill already sits in its register."},
-  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [40,481,362,518], "tap": true, "label": "ONE TAP",
-   "say": "Tap export. Excel, ready for your C A."},
-  {"kind": "card", "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/gemini/sat_accountant.mp4", "vstart": 6, "headline": "Rizstay by Sutrixa",
-   "say": "Rizstay. Comment REGISTER and we'll show you."}
+  {"kind": "clip", "video": "work/clip.mp4", "vstart": 3.5, "label": "3 YOUR CA ASKS FOR",
+   "say": "At month end, your C A asks for three registers first. Here's where each one comes from."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [22,137,112,170], "tap": true, "label": "1/3 PURCHASE",
+   "say": "One. The purchase register. Every supplier bill, with the tax split already done."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [188,137,268,170], "tap": true, "label": "2/3 SALE BILL",
+   "say": "Two. The sale bill register. Every room and restaurant bill you raised."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [305,180,358,206], "tap": true, "label": "3/3 GST",
+   "say": "Three. The G S T register. C G S T plus S G S T for in-state guests, I G S T for out-of-state."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [40,481,362,518], "tap": true, "label": "THEN",
+   "say": "Discounts come off before tax. Then tap export, and each register is an Excel file."},
+  {"kind": "card", "video": "work/clip.mp4", "vstart": 7, "headline": "Send this to your accountant",
+   "say": "Send this to your accountant. Then stop typing nine registers."}
  ]}
