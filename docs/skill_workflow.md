@@ -6,7 +6,8 @@ The skills live in `igpack/skills/<name>/SKILL.md`, and the synced account skill
 | step | skill | hard gate |
 |---|---|---|
 | 1 | **ig-reel**: write 5+ hooks from hooks.json formulas for the clip's problem | `python3 igpack/skills/ig-reel/hookscore.py hooks.txt`. Use the top hook. It must score **≥ 75 (STRONG)**, with no dealbreaker. Otherwise write more hooks. |
-| 2 | **ig-reel**: script + on-screen text | `python3 igpack/skills/ig-reel/beats.py script.txt --target <preset length> --wpm 170`. Hook ≤ 2s, no beat > 4s, total within the preset range in docs/presets.md (25 Oct review: main 15-20s, Trial 9-12s). Loop the last line back to the hook where possible. |
+| 2 | **ig-reel**: script + on-screen text | `python3 igpack/skills/ig-reel/beats.py script.txt --target <preset length> --wpm 170`. Hook ≤ 2s, no beat > 4s, total within the preset range in docs/presets.md (27 Oct: informative Reels 30-50s; proof 15-25s at most 1 in 5 posts; see docs/algorithm.md). Loop the last line back to the hook where possible. |
+| 2b | **Informative check** | List the facts the Reel teaches. Need ≥ 3 concrete, checkable facts or steps (docs/algorithm.md), all in docs/products.md or general verifiable knowledge. Fewer means add beats. |
 | 3 | **ig-human** on the script, the on-screen text and the caption | `python3 igpack/skills/ig-human/detect.py <file>` must come back clean. Fix with humanize.py, then re-check. |
 | 4 | **ig-caption** | `python3 igpack/skills/ig-caption/caption.py cap.txt --keywords "<2-3 search phrases>"` gives **READY**. |
 | 5 | Trial Reel cut: **ig-reel** again with a *different* formula (also ≥ 75) | same gates |

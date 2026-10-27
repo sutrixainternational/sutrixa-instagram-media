@@ -6,11 +6,13 @@ Instagram shows mostly-text Reels less: footage or real screens must fill the fr
 
 | preset | length | structure (beats) | best for |
 |---|---|---|---|
-| **proof** | 8-15s | `clip` + contrarian/"stop" headline → `screen` tap+zoom on the exact UI (the proof) → `screen` 2nd tap → `card` keyword CTA | One claim, proven instantly. Rizstay registers/GST, Voxa pricing page |
-| **pov** | 10-18s | `clip` label "POV" + "POV: it's 8 PM and the phone won't stop" → `clip` 2nd segment (escalation) → `screen` the fix → `card` | Relatable pain: Voxa missed calls, month end, kitchen rush |
-| **stages** | 12-20s | `clip` hook → `split` BEFORE (clip) / AFTER (screen with hl) → `screen` "STEP 2" → `card` | Before/after transformations |
-| **tips** | 18-30s | `clip` "3 signs your hotel needs…" → 3 × `screen` labelled "1/3", "2/3", "3/3" → `card` save CTA | Saves: checklists, HR4U month-end, GST tips |
-| **quiz** | 8-14s | `clip` question headline ("Which register does your CA ask for first?") → `screen` showing the options (hl the tabs) → `card` "Comment the number" | Comments: interaction bait. Never invent a "right answer" claim |
+| **tips** (core) | 35-50s | `clip` hook "3 registers your CA asks for every month" → 3-5 × `screen`/`clip` beats labelled "1/3", "2/3"… Each teaches one concrete fact with tap+zoom on the real UI → `card` "send this to your accountant" | Teaching, saves and sends. HR4U month end, GST basics, Voxa setup |
+| **stages** | 30-45s | `clip` hook → `split` BEFORE (clip) / AFTER (screen with hl) → 2-3 × `screen` "STEP 1/2/3", explaining what changes and why → `card` | Before/after with the how |
+| **pov** | 30-40s | `clip` "POV" + a specific moment → `clip` escalation → 2-3 × `screen` "here's the fix", each with a fact → `card` | Relatable pain, then a taught fix |
+| **proof** | 15-25s | `clip` contrarian/"stop" headline → `screen` tap+zoom proof → 1-2 × `screen` fact → `card` | A single striking claim. At most 1 in 5 posts |
+| **quiz** | 25-35s | `clip` question → `screen` options → `screen`/`clip` explain the answer with facts → `card` "comment your number" | Comments + teaching. Never invent a "right answer" claim |
+
+**Informative rule (owner, 27 Oct):** every Reel teaches at least 3 concrete, checkable facts or steps (see docs/algorithm.md). If the script has fewer, add beats; don't stretch the beats. A new visual every 2-4s.
 
 ## Rotation rules
 - The main Reel never uses the same preset as either of the previous 2 days (see docs/posted.md).
@@ -18,7 +20,7 @@ Instagram shows mostly-text Reels less: footage or real screens must fill the fr
 - The weekly review (ig-audit) ranks presets by views per account median, watch %, skip rate and shares+saves. Then it sets weights here.
 
 ## Weights (updated weekly by the review)
-proof 3 · pov 3 · stages 2 · quiz 2 · tips 1
+tips 4 · stages 3 · pov 3 · quiz 2 · proof 1
 
 ## Hooks
 Run ig-reel's hookscore.py and use only hooks ≥ 75. Trending hook shapes that score well:

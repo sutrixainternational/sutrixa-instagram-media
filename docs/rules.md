@@ -25,3 +25,5 @@
 - Numbers in hooks must be true or obviously the viewer's own situation. No invented stats ("loses 1 order a night") and no competitor prices.
 - First 2 seconds: problem visible in the Gemini clip AND stated in 8 words or fewer on screen. The audience leaves at 3-4s, so the payoff of the hook must land inside 2s.
 - Presets (27 Oct, owner: "not a fixed preset for every reel"): every Reel uses a trend preset from docs/presets.md via tools/render_reel3.py, rotated, with no preset repeated within 3 days (Trial Reels are refused by Meta, so A/B across days). The weekly review re-weights presets from the results.
+
+- Informative + algorithm (27 Oct): read docs/algorithm.md. Every Reel teaches ≥ 3 concrete facts, is 30-50s (proof preset 15-25s at most 1 in 5), and is built to be sent or saved. This overrides the 25 Oct 15-20s length rule.
