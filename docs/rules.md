@@ -24,3 +24,4 @@
 - Never a question or a poll as the hook (20 Oct poll: 35, 12 views). Never the brand name in the hook (25).
 - Numbers in hooks must be true or obviously the viewer's own situation. No invented stats ("loses 1 order a night") and no competitor prices.
 - First 2 seconds: problem visible in the Gemini clip AND stated in 8 words or fewer on screen. The audience leaves at 3-4s, so the payoff of the hook must land inside 2s.
+- Presets (27 Oct, owner: "not a fixed preset for every reel"): every Reel uses a trend preset from docs/presets.md via tools/render_reel3.py, rotated, with main vs Trial always on different presets. The weekly review re-weights presets from the results.

@@ -12,8 +12,8 @@ Runs in the cloud with the owner's laptop off. Read `docs/rules.md` and `docs/pr
 ## Steps
 1. `bash setup.sh`
 2. Pick today's clip from "1 - Gemini clips". Find it with Google_Drive search_files (parentId), then download_file_content. The result is saved to a tool-results file, so run `python3 tools/drive_pull.py <file> work/clip.mp4`. No new clip: reuse an older Gemini clip from "3 - Posted" (see rules). Never skip the day.
-3. Script it with the ig-reel skill: score the hook, one product, one problem. Then 2 steps on the real screen (`shots/`) with `hl` boxes on the exact UI element, a one-line outcome, and an end card. Every beat gets a `say` line. Run the ig-human pass on all text.
-4. Write `work/spec.json` (see `docs/example_spec.json`). Render with `python3 tools/render_reel2.py work/spec.json`. It refuses to render with no voice.
+3. Script it with the ig-reel skill: score the hook, one product, one problem. Then the preset's steps on the real screen (`shots/`) with `hl` boxes on the exact UI element, a one-line outcome, and an end card. Every beat gets a `say` line. Run the ig-human pass on all text.
+4. Pick a preset from docs/presets.md (rotation rules). Write `work/spec.json` with beat kinds clip/screen/split/card (see the docstring in tools/render_reel3.py and docs/example_spec_v3.json). Render with `python3 tools/render_reel3.py work/spec.json`. It refuses to render with no voice. render_reel2.py is the old fixed layout: don't use it.
 5. Check it: extract frames with ffmpeg, look at them, and confirm the logo, the voice and the facts.
 6. Caption: ig-caption skill, `python3 tools/caption.py cap.txt --keywords "..."`. It must be READY. Max 5 hashtags, one ask.
 7. Host: `git checkout --orphan v/DATE`, then `git rm -rf --cached .`, add only `reel.mp4`, commit, and push the branch.

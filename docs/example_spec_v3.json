@@ -1,0 +1,12 @@
+{"out": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/out3/A_proof.mp4", "preset": "proof", "accent": "#FFD400", "beat_bpm": 100, "loop": true,
+ "beats": [
+  {"kind": "clip", "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/gemini/sat_accountant.mp4", "vstart": 0.5,
+   "headline": "Stop paying your accountant overtime to type 9 hotel registers.",
+   "say": "Stop paying your accountant overtime to type nine hotel registers."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [18,133,384,252], "tap": true, "label": "IN RIZSTAY",
+   "say": "Every bill already sits in its register."},
+  {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [40,481,362,518], "tap": true, "label": "ONE TAP",
+   "say": "Tap export. Excel, ready for your C A."},
+  {"kind": "card", "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/gemini/sat_accountant.mp4", "vstart": 6, "headline": "Rizstay by Sutrixa",
+   "say": "Rizstay. Comment REGISTER and we'll show you."}
+ ]}

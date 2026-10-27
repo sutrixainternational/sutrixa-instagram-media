@@ -6,7 +6,7 @@ The skills live in `igpack/skills/<name>/SKILL.md`, and the synced account skill
 | step | skill | hard gate |
 |---|---|---|
 | 1 | **ig-reel**: write 5+ hooks from hooks.json formulas for the clip's problem | `python3 igpack/skills/ig-reel/hookscore.py hooks.txt`. Use the top hook. It must score **≥ 75 (STRONG)**, with no dealbreaker. Otherwise write more hooks. |
-| 2 | **ig-reel**: script + on-screen text | `python3 igpack/skills/ig-reel/beats.py script.txt --target 18 --wpm 170`. Hook ≤ 2s, no beat > 4s, total 15-20s (Trial cut 9-12s, `--target 10`). Changed 25 Oct, see rules.md. Loop the last line back to the hook where possible. |
+| 2 | **ig-reel**: script + on-screen text | `python3 igpack/skills/ig-reel/beats.py script.txt --target <preset length> --wpm 170`. Hook ≤ 2s, no beat > 4s, total within the preset range in docs/presets.md (25 Oct review: main 15-20s, Trial 9-12s). Loop the last line back to the hook where possible. |
 | 3 | **ig-human** on the script, the on-screen text and the caption | `python3 igpack/skills/ig-human/detect.py <file>` must come back clean. Fix with humanize.py, then re-check. |
 | 4 | **ig-caption** | `python3 igpack/skills/ig-caption/caption.py cap.txt --keywords "<2-3 search phrases>"` gives **READY**. |
 | 5 | Trial Reel cut: **ig-reel** again with a *different* formula (also ≥ 75) | same gates |
