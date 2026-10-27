@@ -10,7 +10,7 @@
   {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [188,137,268,170], "tap": true, "label": "2/3 SALE BILL",
    "say": "Two. The sale bill register. Every room and restaurant bill you raised."},
   {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [305,180,358,206], "tap": true, "label": "3/3 GST",
-   "say": "Three. The G S T register. C G S T plus S G S T for in-state guests, I G S T for out-of-state."},
+   "say": "Three. The G S T register. A room bill is C G S T plus S G S T, whatever state the guest is from."},
   {"kind": "screen", "image": "shots/rz_registers.jpg", "hl": [40,481,362,518], "tap": true, "label": "THEN",
    "say": "Discounts come off before tax. Then tap export, and each register is an Excel file."},
   {"kind": "card", "video": "work/clip.mp4", "vstart": 7, "headline": "Send this to your accountant",
