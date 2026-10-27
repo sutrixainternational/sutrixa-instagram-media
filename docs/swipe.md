@@ -87,3 +87,29 @@
 - hook score: 48.6  words: 8
 - hook: "Guests judge your hotel before they say hello."
 
+
+---
+
+## Live Instagram scan · 27 Oct 2026 (logged-in browser, read-only, Explore + Reels feed for business/SME topics)
+
+| account | likes | comments | shares | length | hook / format |
+|---|---|---|---|---|---|
+| canwebuildthis | 65.6K | 232 | 1.6K | 56s | "explain it like i'm five, **part 1**: what's an API?" One analogy (a waiter), no jargon, ends "which word should I explain next?" |
+| iamsarahsnow | 12K | 126 | – | 59s | personal how-to, extra tips continued in the caption |
+| brock11johnson | 5.6K | 122 | 111 | 47s | fast talking-head tips, "Follow for more" |
+| thethinkschool | 5.6K | 24 | – | 43s | "Are you also scared of running ads?" (named fear, then the reframe) |
+| muffo.ai | 3.1K | **3.5K** | – | 64s | "5 Claude plugins every AI creator should know" + comment keyword |
+| personalbrandlaunch | 2.7K | **1.3K** | – | 37s | "Comment 'Ava' for the full episode" |
+| nicolette.mcgannon | 2.5K | 16 | – | 74s | "**10/10** unethical sales tactics…" numbered series + "save this for later" |
+| davi.d_roberts | 1.2K | **1.3K** | 46 | 82s | "Comment 'SEO' and I'll DM you the 11-tactic playbook" |
+| vanturexmedia (Vadodara) | 636 | 141 | 22 | 51s | **Hinglish** caption, dental-clinic marketing: the closest match to Velocity |
+| Niche news accounts (restaurant.india 39.9K followers, hospitalitybiz) | median ~1.1K / ~93 views | | | 41-42s | panel/news clips: low engagement. **Do not copy** |
+
+### What this says
+1. **Winners run 37-82s (median about 51s).** Our 46s Reel sits at the bottom of the range. Teaching Reels can go to 45-60s when every 3s carries a new fact or visual.
+2. **Series beat one-offs.** "part 1", "10/10", "1/5" give a reason to follow ("part 2 tomorrow") and to binge the profile. The biggest share count (1.6K) was an ELI5 series.
+3. **Comment-keyword CTAs make comments outnumber likes** (3 of 10 Reels). That's the strongest comment signal we saw. It only works if every keyword gets a DM, so it is owner-gated (see rules.md).
+4. **One analogy explains a jargon word** (API = a waiter). The audience is non-technical owners: GST input credit, KOT, payroll TDS and an AI receptionist are all ELI5-able.
+5. **The ending asks for the next topic** ("which word next?"). This drives comments AND gives tomorrow's topic.
+6. **Hinglish captions work for Indian SMB audiences.** Use one Hinglish line in the caption, keeping the voice in English.
+7. Niche news/panel accounts don't win, so our competition for attention is the business-education creators, not hotel media.

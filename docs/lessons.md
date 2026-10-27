@@ -32,3 +32,7 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - Fixed the false claims in the captions of DefAkOrjWRo (14 Oct, "housekeeping auto-dispatched") and Dejs2WJjJT7 (16 Oct, "summarises every conversation").
 - The web can't pin, archive, set the category or add Highlights. The owner does those in the app.
 - TRY: measure whether profile visits turn into follows now that the profile is clearer (weekly review).
+
+- TRY (27 Oct live scan): numbered series (eli5 "PART N", countdown "#5→#1") with "part N+1 tomorrow" on the end card. Measure follows per reach vs one-off tips.
+- TRY (27 Oct): 45-60s length for series formats. Measure watched % vs the 46s tips Reel (51%).
+- TRY (27 Oct): one Hinglish line in the caption.

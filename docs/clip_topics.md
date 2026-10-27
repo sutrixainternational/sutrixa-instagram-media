@@ -1,5 +1,13 @@
 > 27 Oct: keep the Drive stock balanced to the docs/strategy.md calendar. The next clips should cover the next days' pillars (Mon HR4U, Tue Rizstay, Wed Voxa, Thu Rizstay, Fri Velocity, Sat Voxa, Sun HR4U), and the date in each clip's name should match its pillar day.
 
+## Series plan (27 Oct live scan; presets eli5 + countdown, see docs/presets.md)
+Gemini clips for series need an **analogy shot** as well as the problem shot.
+- **"GST, explained like you're 5"** (Rizstay, Tue/Thu): Part 1 input credit (analogy: a shop refunding the deposit on a bottle) · Part 2 CGST vs SGST (one bill split into two envelopes) · Part 3 why room rate above ₹7,500 changes the rate (a lift with floor buttons). Facts must be verified before scripting; no IGST-for-rooms claim.
+- **"Payroll, explained like you're 5"** (HR4U, Mon/Sun): PF, ESI and TDS on salary, each with one everyday analogy and checked facts.
+- **"Stop these 5 mistakes"** countdown: Rizstay billing (#1 = hand-added GST), Voxa missed calls (#1 = no call back within an hour), Velocity local marketing (#1 = an empty Google Business Profile). Only claims allowed by docs/products.md.
+- **"AI receptionist, explained like you're 5"** (Voxa, Wed/Sat): what it does on a missed call, in 12 Indian languages, from $49.
+Analogy clip prompts: everyday Indian scenes (chai stall, kirana counter, wedding envelope, lift buttons), realistic, 9:16, no text.
+
 # Gemini clip topics (rotate in order, skip ones already in Drive "3 - Posted")
 Updated by the weekly review, 25 Oct 2026. Evidence: 13 Reels, 740 lifetime views, 4 followers. That is too small to prove anything, so these are bets, not laws.
 

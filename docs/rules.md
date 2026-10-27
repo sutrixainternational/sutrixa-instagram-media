@@ -29,3 +29,12 @@
 - Informative + algorithm (27 Oct): read docs/algorithm.md. Every Reel teaches ≥ 3 concrete facts, is 30-50s (proof preset 15-25s at most 1 in 5), and is built to be sent or saved. This overrides the 25 Oct 15-20s length rule.
 
 - Company-wide (27 Oct, owner): Sutrixa sells Rizstay, Voxa, HR4U and Velocity, not only Rizstay. Follow the pillar shares and the weekly calendar in docs/strategy.md (Mon HR4U · Tue Rizstay · Wed Voxa · Thu Rizstay · Fri Velocity · Sat Voxa · Sun HR4U or the week's best). Each Reel belongs to a named series and ends with "Follow for one business fix a day."
+
+## Viral playbook (live Instagram scan, 27 Oct; see docs/swipe.md)
+- **Every Reel belongs to a numbered series** with a visible top label: "PART 3" (eli5), "#5 → #1" (countdown) or "1/3" (tips). The end card promises the next part and day ("Part 4 tomorrow"), which gives a reason to follow.
+- **Length 40-60s** for eli5/countdown/tips (the winners we saw ran 37-82s). A new visual or fact every 2-4s, no padding. Proof stays 15-25s.
+- **One everyday analogy per jargon word** (the ELI5 rule). No unexplained jargon anywhere in the voice.
+- **The mid-Reel send ask** sits at the strongest fact: "Send this to whoever does your billing". The end asks for a comment: "Which word should I explain next?" Comments become the next topics in docs/clip_topics.md.
+- **Caption:** line 1 is the payoff plus the series name. Add one short Hinglish line for Indian owners (e.g. "Bill galat toh GST galat."), then the facts as lines. The voice stays English.
+- **Comment-KEYWORD giveaways** ("Comment GST and I'll DM the checklist") are proven to multiply comments, but they are OFF until the owner confirms they will DM every keyword within a few hours. The system never sends DMs. When ON, ig-dm drafts the DM.
+- Don't model on hotel/restaurant news accounts (low engagement). Model on business-education creators.
