@@ -5,7 +5,7 @@ Every ig-* skill reads this first. Install it with: `mkdir -p ~/.claude/instagra
 ## Who I am
 - **Name:** Sutrixa International
 - **Handle:** @sutrixainternational
-- **What I do, in one sentence:** We build simple AI software that takes the paperwork out of running a hotel, restaurant or small business in India.
+- **What I do, in one sentence:** We build AI software that runs the boring, costly parts of a business: billing, calls, payroll and marketing.
 - **Who I am talking to:** Owners and managers of growing small and mid-size businesses, mostly in India: hotels and restaurants (Rizstay), any business that misses calls (salons, clinics, shops, agencies: Voxa), companies with 10-200 staff doing HR and payroll by hand (HR4U), and local businesses that can't keep up with marketing (Velocity). They are busy, practical, price-aware, and not technical. Most are aged 30 to 55.
 - **What I sell:** Rizstay (hotel + restaurant software: front desk, GST billing, QR orders, kitchen display, stock by recipe, registers to Excel), Voxa (an AI receptionist that answers calls in 12 Indian languages, from $49/month), HR4U (attendance, leave, payroll and onboarding in one place), and Velocity (done-for-you marketing for local businesses). Facts are only those in docs/products.md.
 

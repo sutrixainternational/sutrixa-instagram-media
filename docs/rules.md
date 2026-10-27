@@ -27,3 +27,5 @@
 - Presets (27 Oct, owner: "not a fixed preset for every reel"): every Reel uses a trend preset from docs/presets.md via tools/render_reel3.py, rotated, with no preset repeated within 3 days (Trial Reels are refused by Meta, so A/B across days). The weekly review re-weights presets from the results.
 
 - Informative + algorithm (27 Oct): read docs/algorithm.md. Every Reel teaches ≥ 3 concrete facts, is 30-50s (proof preset 15-25s at most 1 in 5), and is built to be sent or saved. This overrides the 25 Oct 15-20s length rule.
+
+- Company-wide (27 Oct, owner): Sutrixa sells Rizstay, Voxa, HR4U and Velocity, not only Rizstay. Follow the pillar shares and the weekly calendar in docs/strategy.md (Mon HR4U · Tue Rizstay · Wed Voxa · Thu Rizstay · Fri Velocity · Sat Voxa · Sun HR4U or the week's best). Each Reel belongs to a named series and ends with "Follow for one business fix a day."

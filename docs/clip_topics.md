@@ -1,3 +1,5 @@
+> 27 Oct: keep the Drive stock balanced to the docs/strategy.md calendar. The next clips should cover the next days' pillars (Mon HR4U, Tue Rizstay, Wed Voxa, Thu Rizstay, Fri Velocity, Sat Voxa, Sun HR4U), and the date in each clip's name should match its pillar day.
+
 # Gemini clip topics (rotate in order, skip ones already in Drive "3 - Posted")
 Updated by the weekly review, 25 Oct 2026. Evidence: 13 Reels, 740 lifetime views, 4 followers. That is too small to prove anything, so these are bets, not laws.
 
