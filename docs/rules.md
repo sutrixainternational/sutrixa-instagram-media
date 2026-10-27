@@ -36,5 +36,15 @@
 - **One everyday analogy per jargon word** (the ELI5 rule). No unexplained jargon anywhere in the voice.
 - **The mid-Reel send ask** sits at the strongest fact: "Send this to whoever does your billing". The end asks for a comment: "Which word should I explain next?" Comments become the next topics in docs/clip_topics.md.
 - **Caption:** line 1 is the payoff plus the series name. Add one short Hinglish line for Indian owners (e.g. "Bill galat toh GST galat."), then the facts as lines. The voice stays English.
-- **Comment-KEYWORD giveaways** ("Comment GST and I'll DM the checklist") are proven to multiply comments, but they are OFF until the owner confirms they will DM every keyword within a few hours. The system never sends DMs. When ON, ig-dm drafts the DM.
+- **Comment-KEYWORD giveaways: ON (owner, 27 Oct, "yes do it").** At most every other Reel (alternate with the send ask so the account doesn't look like a bait page). Rules:
+  1. One short keyword that matches the Reel, e.g. GST, PAYROLL, CALLS, LEADS. Say it in the voice ("Comment GST and I'll send you the checklist"), show it on the end card, and put it in caption line 2.
+  2. The freebie must exist BEFORE posting: a one-page checklist built only from facts in the Reel and docs/products.md. Render it as a 1080x1350 PNG (and PDF) with the logo, commit it to main at freebies/<KEYWORD>_<date>.png, and use its raw.githubusercontent.com link. Log it in docs/freebies.md (keyword, Reel, link).
+  3. The owner pack (ig-dm) gives the owner a copy-ready DM for that keyword: thanks + the link + one soft question ("Do you bill by hand or on software right now?"), plus 2 follow-ups for people who reply. The owner sends them from the app within a few hours. The system never sends DMs or replies.
+  4. Ask the commenter to follow ("Follow so the DM doesn't land in requests"): Instagram puts DMs from non-followed accounts in requests, and the ask also converts commenters to followers.
+  5. Never promise something the owner can't deliver (no "free demo call" unless the owner says so).
 - Don't model on hotel/restaurant news accounts (low engagement). Model on business-education creators.
+
+## Stay on trend (owner, 27 Oct: "always be updated what's trending")
+- Every day the laptop task scans Instagram (read-only, in the logged-in built-in browser) and appends to docs/trends.md: 5-10 Reels from Explore, the Reels feed and searches ("business tips", "GST", "restaurant business", "hotel business", "small business India", "AI tools"), with likes, comments, shares, length, hook text and format, plus 3 lines on "what fits Sutrixa".
+- The daily Reel run reads the latest docs/trends.md entry first. If a format has appeared 2+ days in a row with strong numbers and fits our brand, adapt it today (our facts, our footage, our voice; never copy anyone's video, audio or words). New formats get added to docs/presets.md as recipes.
+- Trending ≠ fits. Skip dances, memes about people, politics, and any trend that needs a face on camera (we are faceless), or claims we can't back.
