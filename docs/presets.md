@@ -14,7 +14,7 @@ Instagram shows mostly-text Reels less: footage or real screens must fill the fr
 
 ## Rotation rules
 - The main Reel never uses the same preset as either of the previous 2 days (see docs/posted.md).
-- The Trial Reel always uses a **different preset** from that day's main Reel, so every day is a format A/B test. Log both presets.
+- Trial Reels are refused by Meta for this app (code 10 / 2207081, 25-26 Oct), so do not render or post them. Instead, A/B test formats across days: no preset twice in 3 days, and every preset runs at least once a week. Log the preset in docs/posted.md.
 - The weekly review (ig-audit) ranks presets by views per account median, watch %, skip rate and shares+saves. Then it sets weights here.
 
 ## Weights (updated weekly by the review)
