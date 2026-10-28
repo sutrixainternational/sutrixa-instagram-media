@@ -30,6 +30,9 @@
 
 - Company-wide (27 Oct, owner): Sutrixa sells Rizstay, Voxa, HR4U and Velocity, not only Rizstay. Follow the pillar shares and the weekly calendar in docs/strategy.md (Mon HR4U · Tue Rizstay · Wed Voxa · Thu Rizstay · Fri Velocity · Sat Voxa · Sun HR4U or the week's best). Each Reel belongs to a named series and ends with "Follow for one business fix a day."
 
+- **Ask placement (PROVEN 28 Oct, lessons.md):** never rely on an end-only ask. 3 Reels in a row with an end-only "share this" got 0 shares. Every Reel puts its send/save ask mid-Reel at the strongest fact, then repeats or swaps it at the end.
+- **Read Reels at 24h** for post-mortems (1h numbers come from warm viewers and overstate retention).
+
 ## Viral playbook (live Instagram scan, 27 Oct; see docs/swipe.md)
 - **Every Reel belongs to a numbered series** with a visible top label: "PART 3" (eli5), "#5 → #1" (countdown) or "1/3" (tips). The end card promises the next part and day ("Part 4 tomorrow"), which gives a reason to follow.
 - **Length 40-60s** for eli5/countdown/tips (the winners we saw ran 37-82s). A new visual or fact every 2-4s, no padding. Proof stays 15-25s.

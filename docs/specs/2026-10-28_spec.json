@@ -1,0 +1,167 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "countdown",
+ "accent": "#FFD400",
+ "beat_bpm": 100,
+ "loop": true,
+ "voice": "af_heart",
+ "speed": 1.15,
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 0,
+   "label": "PART 1  ·  #5 → #1",
+   "headline": "Stop these 5 missed-call mistakes.",
+   "say": "Stop these 5 missed-call mistakes."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 1.8,
+   "label": "#1 COSTS THE MOST",
+   "say": "Number 1 hits every lunch rush."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 3.6,
+   "label": "#5",
+   "say": "Number 5. One language only."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_growth.jpg",
+   "hl": [
+    52,
+    318,
+    300,
+    342
+   ],
+   "tap": true,
+   "label": "#5 FIX",
+   "say": "Voxa answers your callers in 12 Indian languages, any hour."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 6.0,
+   "label": "#4",
+   "say": "Number 4. Closed? Calls go nowhere."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_hero.jpg",
+   "hl": [
+    12,
+    360,
+    280,
+    390
+   ],
+   "tap": true,
+   "label": "#4 FIX",
+   "say": "It picks up all night and books into your Google Calendar."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 7.6,
+   "label": "#3",
+   "say": "Number 3. Line's busy. Nobody calls back."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_growth.jpg",
+   "hl": [
+    52,
+    378,
+    250,
+    404
+   ],
+   "tap": true,
+   "label": "#3 FIX",
+   "say": "Auto callback on busy rings them back on the Growth plan."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 0.8,
+   "label": "#2",
+   "say": "Number 2. It costs a salary? Nope."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_launch.jpg",
+   "hl": [
+    50,
+    138,
+    142,
+    180
+   ],
+   "tap": true,
+   "label": "#2  ·  SAVE THIS",
+   "say": "Launch is 49 dollars a month for 200 minutes of calls."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 2.8,
+   "label": "SEND THIS",
+   "say": "Send this to a restaurant owner who keeps missing lunch calls."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 5.0,
+   "label": "#1",
+   "say": "Number 1. No reply at all."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    50,
+    100,
+    226,
+    126
+   ],
+   "tap": true,
+   "label": "#1 FIX",
+   "say": "Text back sends an SMS the moment you miss a call."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    50,
+    140,
+    330,
+    206
+   ],
+   "tap": false,
+   "label": "#1 FIX",
+   "say": "You reply first."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 6.5,
+   "headline": "Comment CALLS",
+   "say": "Comment CALLS. I'll DM all 5 fixes."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 8.0,
+   "headline": "Follow so my DM reaches you",
+   "say": "Follow, so my DM reaches you."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 4.0,
+   "headline": "Follow for one business fix a day. Part 2 Saturday.",
+   "say": "Part 2 of these mistakes is Saturday."
+  }
+ ]
+}

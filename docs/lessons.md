@@ -5,10 +5,14 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
-- PROVEN (25-27 Oct): informative Reels with real numbers hold viewers. Skip rate went 78% → 64% → 40% and watched % 28% → 51% when we moved to teaching specific facts (₹7,500 room-rate GST rule, CGST+SGST split).
+- PROVEN (25-28 Oct): **an ask placed only at the end earns nothing.** 25, 26 and 27 Oct all ended on "share this" and got 0 shares; average viewers leave at 8-16s. Copied to rules.md. Ask mid-Reel at the strongest fact.
+- TRY (28 Oct): **judge on 24h numbers, not 1h.** 27 Oct looked like 40% skip / 51% watched at 1h and settled at 66% / 34% at 24h once strangers saw it.
+- TRY (28 Oct): widen the audience inside the pillar. Hotel-only GST facts lose the general business audience Instagram auditions with. Test "any business that misses calls" today.
+- TRY (28 Oct): first comment-KEYWORD Reel (CALLS) with a checklist freebie and a numbered series label. Measure comments, follows and DMs vs 27 Oct.
+- PROVEN (25-28 Oct): informative Reels with real numbers hold viewers. 24h figures: avg watch 7.8s (25 Oct) → 9.0s (26 Oct) → 15.7s (27 Oct, ₹7,500 GST rule), the best of the last 10 Reels. (The 1h figure of 51% watched settled at 34%.)
 - PROVEN (24-27 Oct): vague brand or benefit lines lose people. "Front desk never slept" and "guests judge your hotel" got 10-17 views and 70-88% skip.
-- TRY (27 Oct): a 6-word-or-shorter hook with a number in it, with the problem moving in frame 0. The 7-word boxed hook still lost 40% early.
-- TRY (27 Oct): put the send/save ask mid-Reel at the strongest fact, not only at the end. Only about half the viewers reach the end.
+- APPLIED 28 Oct (was TRY 27 Oct): hook of 6 words or fewer with a number, problem moving in frame 0 ("Stop these 5 missed-call mistakes." over a ringing phone). At 24h the 27 Oct 7-word hook lost 66% before 3s.
+- APPLIED 28 Oct (was TRY 27 Oct): send ask mid-Reel at the strongest fact + SAVE THIS chip. Result due in the 29 Oct post-mortem.
 - TRY (27 Oct): stay on one niche (Rizstay/GST for hotels) for 3-4 days in a row, so Instagram learns the audience.
 - PROVEN (24 Oct): never post a still frame or a screenshot in place of video. Owner rule.
 - PROVEN (24 Oct): every Reel has a voice. Owner rule.
