@@ -1,3 +1,5 @@
+> 28 Oct (skills_ext/marketingskills/video/references/ai-video-prompting.md): write every Gemini prompt as subject + action + camera movement + style + lighting/mood + specs, 50-100 words. Always name the camera move (slow push-in, handheld follow, static close-up). Put the problem IN MOTION in the first second (phone ringing and vibrating, slip falling, queue forming). Indian setting and people, realistic, vertical 9:16, natural sound, no on-screen text, no logos.
+
 > 27 Oct: keep the Drive stock balanced to the docs/strategy.md calendar. The next clips should cover the next days' pillars (Mon HR4U, Tue Rizstay, Wed Voxa, Thu Rizstay, Fri Velocity, Sat Voxa, Sun HR4U), and the date in each clip's name should match its pillar day.
 
 ## Series plan (27 Oct live scan; presets eli5 + countdown, see docs/presets.md)

@@ -56,3 +56,10 @@
 - Every day has a 5-frame Story sequence rendered by tools/story.py (see skill_workflow step 6). Today's Voxa set: stories/2026-10-28_daily.json.
 - Highlights (set up once, then kept fresh): START · RIZSTAY · VOXA · HR4U · VELOCITY, from stories/highlights_v1.json, with covers from tools/story_cover.py. Add a FREEBIES highlight once the first keyword checklist exists, and a REELS-of-the-week story every Sunday.
 - Publishing: the Instagram API used here can't post Stories, and instagram.com on desktop has no Story upload. Stories are posted by the owner from the phone, or by the laptop task through Meta Business Suite (business.facebook.com) once the owner has logged into it in the built-in browser. Never type a login.
+
+## From the external skills (28 Oct, see docs/skills_ext.md)
+- Trend scan: for the 2 strongest Reels each day, write an edit-anatomy beat sheet (shot, cut rhythm, on-screen text, caption style, motion, overlays, sound, hook frame, pacing curve) and 3-5 signature moves in docs/trends.md. Copy the editing grammar only, never their script, footage, audio or bit.
+- Comments without saves are a red flag (claude-ig algorithm-2026). Keyword days must still carry a save line and a screenshot-worthy frame, so the freebie Reel also teaches.
+- Every Reel passes the screenshot test: one frame worth screenshotting.
+- Stories: 3-7 a day is the cadence for accounts under 10k (claude-ig). Never more than 7.
+- Captions and scripts: marketingskills/social "No AI tells": no "it's not X, it's Y", no "The result? ...", no broetry, no engagement bait ("Agree?"), no emoji bullets, no em dashes.
