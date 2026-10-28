@@ -24,4 +24,4 @@
   - archive https://www.instagram.com/p/DdKZkPoTKoP/ and https://www.instagram.com/p/DdKZgwSz_1J/ (11 Sep brand intros) and https://www.instagram.com/reel/DeejRRbCME8/ ("Your business runs 24/7"): all still on the grid;
   - Highlights: Rizstay · Voxa · HR4U · Velocity · About (none yet);
   - post a Story most days (the Reel repost with a poll) for the stories item.
-- Trend scan (Part A) was interrupted: the laptop disconnected mid-scan after 7 Reels-feed shortcodes were collected (De7_KJaBjUK, DfAPsorPFNS, Dejfo_Mx8y_, De_FRRSsTle, De-6ZgSI0tw, DerbBtfzj8p, DebmzrOsx6_). The next hourly run redoes Part A (no 2026-10-28 section in trends.md yet).
+- Trend scan (Part A) was interrupted at 12:54 (laptop disconnected); completed by the 13:55 run (see docs/trends.md 2026-10-28). No new preset (no new format with 2+ strong days).
