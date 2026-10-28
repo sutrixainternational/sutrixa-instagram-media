@@ -1,0 +1,156 @@
+{
+ "frames": [
+  {
+   "name": "h1_start_1",
+   "kicker": "START HERE",
+   "headline": "We build *AI software* for the boring, costly parts of a business.",
+   "bullets": [
+    "Billing and front desk",
+    "Phone calls",
+    "HR and payroll",
+    "Marketing"
+   ],
+   "foot": "sutrixa.com"
+  },
+  {
+   "name": "h1_start_2",
+   "kicker": "4 PRODUCTS",
+   "headline": "One team. *Four tools.*",
+   "bullets": [
+    "*Rizstay:* hotel + restaurant software",
+    "*Voxa:* AI receptionist that answers your calls",
+    "*HR4U:* attendance, leave and payroll",
+    "*Velocity:* your marketing, done for you"
+   ],
+   "foot": "Tap a highlight to see each"
+  },
+  {
+   "name": "h1_start_3",
+   "kicker": "WHO WE ARE",
+   "headline": "Sutrixa International",
+   "bullets": [
+    "HQ: 1065 Canadian Pl, Mississauga, Canada",
+    "Teams in Bengaluru and Kolkata",
+    "*$1.1M+* in projects delivered worldwide",
+    "Write to connect@sutrixa.com"
+   ],
+   "foot": "Book a demo: sutrixa.com/connect"
+  },
+  {
+   "name": "h2_rizstay_1",
+   "kicker": "RIZSTAY",
+   "headline": "Run your whole hotel from *one calm screen.*",
+   "image": "shots/rz_dashboard.jpg",
+   "foot": "Hotels + restaurants"
+  },
+  {
+   "name": "h2_rizstay_2",
+   "kicker": "RIZSTAY · BILLING",
+   "headline": "The bill does the *GST maths.*",
+   "bullets": [
+    "CGST + SGST worked out on every bill",
+    "Discounts applied before tax",
+    "Room + restaurant on *one bill* at checkout",
+    "Registers export to Excel for your CA"
+   ]
+  },
+  {
+   "name": "h2_rizstay_3",
+   "kicker": "RIZSTAY · KITCHEN",
+   "headline": "Orders go straight to the *kitchen screen.*",
+   "bullets": [
+    "Table and room orders become KOTs",
+    "New, then Preparing, then Ready",
+    "Stock drops by recipe as dishes sell"
+   ],
+   "foot": "No installs. Runs in the browser."
+  },
+  {
+   "name": "h3_voxa_1",
+   "kicker": "VOXA",
+   "headline": "Every missed call is a *booking you paid for* and never got.",
+   "image": "shots/vx_hero.jpg",
+   "foot": "voxa.sutrixa.com"
+  },
+  {
+   "name": "h3_voxa_2",
+   "kicker": "VOXA · WHAT IT DOES",
+   "headline": "An AI receptionist that *picks up 24/7.*",
+   "bullets": [
+    "Answers calls and books appointments",
+    "Speaks *12 Indian languages*",
+    "Callers can interrupt, like a real person",
+    "Missed a call? It texts them back"
+   ]
+  },
+  {
+   "name": "h3_voxa_3",
+   "kicker": "VOXA · PRICE",
+   "headline": "Starts at *$49 a month.*",
+   "bullets": [
+    "200 minutes, 1 agent",
+    "Growth: $199 for 1,000 minutes",
+    "Live in an afternoon"
+   ],
+   "foot": "voxa.sutrixa.com"
+  },
+  {
+   "name": "h4_hr4u_1",
+   "kicker": "HR4U",
+   "headline": "Attendance, leave and payroll. *One place.*",
+   "image": "shots/hr_hero.jpg",
+   "foot": "hr4u.sutrixa.com"
+  },
+  {
+   "name": "h4_hr4u_2",
+   "kicker": "HR4U · DAILY",
+   "headline": "No more *WhatsApp leave requests.*",
+   "bullets": [
+    "One-tap clock-in with a live timer",
+    "Leave balances update themselves",
+    "One queue for every approval",
+    "See who is clocked in right now"
+   ]
+  },
+  {
+   "name": "h4_hr4u_3",
+   "kicker": "HR4U · MONTH END",
+   "headline": "Payroll and payslips *without the spreadsheet.*",
+   "bullets": [
+    "Gross, deductions and net per person",
+    "Payslips your staff can open themselves",
+    "Contracts and IDs stay in *your own Google Drive*"
+   ],
+   "foot": "hr4u.sutrixa.com"
+  },
+  {
+   "name": "h5_velocity_1",
+   "kicker": "VELOCITY",
+   "headline": "You know your customers. *We'll do the posting.*",
+   "image": "shots/vl_hero.jpg",
+   "foot": "velocity.sutrixa.com"
+  },
+  {
+   "name": "h5_velocity_2",
+   "kicker": "VELOCITY · EACH WEEK",
+   "headline": "Your marketing, *done for you.*",
+   "bullets": [
+    "Posts written in your words every week",
+    "Pictures and short videos made for you",
+    "Comments answered, messages sent to you",
+    "A one-page website with a WhatsApp button"
+   ]
+  },
+  {
+   "name": "h5_velocity_3",
+   "kicker": "VELOCITY · YOU STAY IN CONTROL",
+   "headline": "Nothing goes out *until you approve it.*",
+   "bullets": [
+    "Shops, salons, clinics, cafes",
+    "Ready in 10 minutes on your phone",
+    "One button pauses everything"
+   ],
+   "foot": "velocity.sutrixa.com"
+  }
+ ]
+}

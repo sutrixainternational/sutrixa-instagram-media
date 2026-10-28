@@ -48,3 +48,8 @@
 - Every day the laptop task scans Instagram (read-only, in the logged-in built-in browser) and appends to docs/trends.md: 5-10 Reels from Explore, the Reels feed and searches ("business tips", "GST", "restaurant business", "hotel business", "small business India", "AI tools"), with likes, comments, shares, length, hook text and format, plus 3 lines on "what fits Sutrixa".
 - The daily Reel run reads the latest docs/trends.md entry first. If a format has appeared 2+ days in a row with strong numbers and fits our brand, adapt it today (our facts, our footage, our voice; never copy anyone's video, audio or words). New formats get added to docs/presets.md as recipes.
 - Trending ≠ fits. Skip dances, memes about people, politics, and any trend that needs a face on camera (we are faceless), or claims we can't back.
+
+## Stories and Highlights (owner, 28 Oct: "create highlights, post stories")
+- Every day has a 5-frame Story sequence rendered by tools/story.py (see skill_workflow step 6). Today's Voxa set: stories/2026-10-28_daily.json.
+- Highlights (set up once, then kept fresh): START · RIZSTAY · VOXA · HR4U · VELOCITY, from stories/highlights_v1.json, with covers from tools/story_cover.py. Add a FREEBIES highlight once the first keyword checklist exists, and a REELS-of-the-week story every Sunday.
+- Publishing: the Instagram API used here can't post Stories, and instagram.com on desktop has no Story upload. Stories are posted by the owner from the phone, or by the laptop task through Meta Business Suite (business.facebook.com) once the owner has logged into it in the built-in browser. Never type a login.

@@ -12,7 +12,7 @@ The skills live in `igpack/skills/<name>/SKILL.md`, and the synced account skill
 | 3 | **ig-human** on the script, the on-screen text and the caption | `python3 igpack/skills/ig-human/detect.py <file>` must come back clean. Fix with humanize.py, then re-check. |
 | 4 | **ig-caption** | `python3 igpack/skills/ig-caption/caption.py cap.txt --keywords "<2-3 search phrases>"` gives **READY**. |
 | 5 | Trial Reel cut: **ig-reel** again with a *different* formula (also ≥ 75) | same gates |
-| 6 | **ig-story**: today's 3-5 frame Story sequence for the Reel (sticker per frame) | Send it to the owner to post. Stories can't be published from here. |
+| 6 | **ig-story**: today's 5-frame Story sequence (open, 2 content, ask at frame 4, close) | Write stories/<date>_daily.json and render with `python3 tools/story.py stories/<date>_daily.json out/` (1080x1920, logo, safe zone). Push the PNGs to branch s/<date> and give the owner the raw links plus which sticker to add on each frame in the app (poll/question/quiz on frame 4, link sticker to sutrixa.com when useful). The ask must work without a sticker too ("reply to this story"): replies arrive as DMs. Stories can't be published through the Instagram API from here. |
 | 7 | **ig-reply**: sort the new comments on the last 3 posts and draft replies | Drafts go to the owner. Never post. |
 | 8 | **ig-dm**: if a comment or reply shows buying intent (keyword or lead) | Draft the first DM and two follow-ups for the owner to send. |
 | 9 | **ig-comment**: 10 comments for today's engagement round, on the accounts in docs/engage.md | Drafts go to the owner to post from the app. Never automated. |
