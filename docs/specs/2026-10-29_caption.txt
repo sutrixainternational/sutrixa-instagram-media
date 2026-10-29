@@ -1,0 +1,20 @@
+Missed GST input credit from FY 2025-26? Claim it by 30 November 2026.
+GST, explained like you're 5: Part 1, input credit.
+Share this with whoever files GST for your business.
+Jo GST pehle bhar diya, uska credit mat chhodo.
+
+Input tax credit is the GST you paid on purchases. You subtract it from the GST you collected on sales.
+Collected 1,800 on sales, paid 1,000 on supplies? You pay 800.
+
+3 rules:
+1. The supplier's bill has to show in your GSTR-2B.
+2. Pay the supplier within 180 days, or reverse the credit.
+3. Last date for last year's credit: 30 November, or your GSTR-9 date if you file earlier.
+
+The catch: a standalone restaurant billing 5% gets no input credit, and neither do hotel rooms up to Rs 7,500 a night.
+
+In Rizstay, every supplier bill sits in the purchase register with the tax split, and exports to Excel for your CA.
+
+Part 2 is Tuesday. Which GST word should I explain next?
+
+#gstindia #inputtaxcredit #gstr2b #smallbusinessindia #rizstay

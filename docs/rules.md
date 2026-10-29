@@ -31,6 +31,7 @@
 - Company-wide (27 Oct, owner): Sutrixa sells Rizstay, Voxa, HR4U and Velocity, not only Rizstay. Follow the pillar shares and the weekly calendar in docs/strategy.md (Mon HR4U · Tue Rizstay · Wed Voxa · Thu Rizstay · Fri Velocity · Sat Voxa · Sun HR4U or the week's best). Each Reel belongs to a named series and ends with "Follow for one business fix a day."
 
 - **Ask placement (PROVEN 28 Oct, lessons.md):** never rely on an end-only ask. 3 Reels in a row with an end-only "share this" got 0 shares. Every Reel puts its send/save ask mid-Reel at the strongest fact, then repeats or swaps it at the end.
+- **Teach with numbers the viewer doesn't already know (PROVEN 29 Oct, lessons.md):** GST/tax Reels hold ~2x longer than Voxa missed-call Reels (13.6-15.7s vs 7.6-8.8s). Every Reel's strongest fact is a ₹ figure, a date, a rate or a rule, never a USD price or a feature claim.
 - **Read Reels at 24h** for post-mortems (1h numbers come from warm viewers and overstate retention).
 
 ## Viral playbook (live Instagram scan, 27 Oct; see docs/swipe.md)

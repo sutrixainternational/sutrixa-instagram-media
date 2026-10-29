@@ -70,5 +70,55 @@ Account median of the last 10 (views): about 22. Followers: 4 (no change).
 ---
 
 ## 2026-10-28 · Voxa · countdown Part 1 · "Stop these 5 missed-call mistakes." (85.8) · 48.6s · DfClwW8D-Tw
-Posted 13:58 UTC (7:28 PM IST). First CALLS keyword Reel. Numbers go here in the 29 Oct run (24h, not 1h).
-To check: did the mid-Reel send ask produce the first share? Did the 5-word hook with a number cut skip under 60%? How many CALLS comments, and how many became follows? Followers at post time: 23.
+Posted 13:58 UTC (7:28 PM IST). First CALLS keyword Reel. Read 29 Oct ~13:40 UTC (about 23.7h after posting).
+
+| metric | 24h | account median / benchmark |
+|---|---|---|
+| views | **45** | median of last 10 Reels = 58 → **0.78x** |
+| avg watch | **8.4s (17.5%)** | 27 Oct: 13.6s (30%) at 48h; benchmark 50% for 30-50s |
+| skip rate | **64.1%** | 27 Oct 66.2%; benchmark < 40% |
+| likes / comments / shares / saves | **2 / 0 / 1 / 0** | shares/reach ~2.2% (1 of 45); saves 0% vs 3.8% |
+| CALLS keyword comments | **0** (so no DMs owed) | |
+| followers | **27** (+4 since post time, 23) | can't be tied to one Reel (Stories, profile) |
+
+27 Oct (DfAApRvjGNV) at ~48h: 80 views (1.4x), 13.6s avg (30%), skip 66.2%, 2 likes, **1 share**, 0 saves. Still the best hold on the account.
+
+**Were the 28 Oct changes applied, and did they help?**
+1. Mid-Reel send ask at the strongest fact: applied ✔. 1 share. Weak evidence: 27 Oct also picked up 1 share between 24h and 48h without a mid ask. Keep it (rule), not proven to move sends yet.
+2. ≤6-word hook with a number, problem moving at frame 0: applied ✔. Skip 64.1% vs 65.9%: no real change. A number alone doesn't stop the scroll.
+3. List format 40-55s: applied ✔ (48.6s). Watched 17.5%, the worst of the informative Reels. Didn't help on this topic.
+4. SAVE THIS chip: applied ✔. 0 saves. Didn't help.
+5. CALLS keyword + freebie: applied ✔. 0 comments out of 45 viewers.
+
+**What went right**
+- First Voxa Reel with a share. Skip 64% is the lowest at 24h for the account's informative Reels.
+- Freebie, keyword and owner DM pack were all ready, so the process works when reach arrives.
+
+**What went wrong (with reasons)**
+- **Topic:** Voxa Reels hold half as long as GST Reels. Avg watch: Voxa 7.6s (25 Oct), 8.8s (26 Oct), 8.4s (28 Oct) vs GST 13.6s (27 Oct). Three Voxa Reels in a row agree. Missed calls are a feeling our viewers already know; GST numbers are something they don't know and want.
+- **Facts:** the strongest number was a USD price ($49 for 200 min). For Indian owners a dollar price is a reason to leave, not a fact to keep. Fixes #5-#3 were feature claims, not checkable how-to.
+- **First frame / hook:** "Stop these 5 missed-call mistakes." has no stakes (no ₹, no date, no "you lose X"). 64% still left before 3s.
+- **Screens:** Voxa beats used website marketing pages, not a product screen doing the thing. Less to look at, nothing to screenshot.
+- **Keyword:** a comment-for-freebie ask needs reach. With 45 viewers, 0 comments is the expected result, not a failure of the keyword.
+- **Length / pacing:** fine (48.6s, max beat 3.95s). **Posting time:** 19:28 IST, fine. **Trend fit:** countdown + keyword matched the scans, but the trend can't rescue a weak topic.
+
+**Change in the next Reel (29 Oct) — applied, see docs/posted.md**
+1. Back to the topic that holds: Rizstay pillar with **GST facts any GST-registered business can use** (input tax credit), not hotel-only. ✔
+2. Hook with real stakes, a date and a loss: "Stop losing GST input credit. Deadline: 30 November." (94.8, the real s.16(4) deadline for FY 2025-26). ✔
+3. ₹ numbers on a full-screen card for the screenshot test ("₹1,800 − ₹1,000 = ₹800 to pay") with SAVE THIS on it, in the first 25s. ✔
+4. Mid-Reel send ask right after the deadline fact ("Send this to whoever files your GST"). ✔
+5. ELI5 series Part 1 with one analogy (bottle deposit) and a comment ask that needs no DM ("Which GST word next?"). ✔
+6. No USD prices, no hotel-only framing up front. ✔
+
+**Reach actions**
+- Owner (first hour): send today's Reel to 3-5 people who file GST: your CA, a supplier, 2-3 business-owner friends. The 30 Nov deadline is a real reason to send it.
+- Owner: Story repost of today's Reel with the "ME or CA?" question (d4 frame).
+- Owner: reply to every comment in the first hour; if someone comments a GST word, that's Part 2's topic.
+- System: Rizstay/GST stays the lead pillar for teaching facts; Voxa Reels switch to numbers in ₹ or minutes, and real screens only.
+- Owner, optional: a ₹300-500 boost of the 27 Oct GST Reel (best hold, 80 views) to Indian business owners. Not run without your say-so.
+
+---
+
+## 2026-10-29 · Rizstay · eli5 Part 1 · "Stop losing GST input credit. Deadline: 30 November." (94.8) · 59.5s · DfFLD8akbLU
+Posted 14:01 UTC (7:31 PM IST). Reused clip (24 Oct accountant, new segment/angle/script). Send/save day. Numbers go here in the 30 Oct run (24h).
+To check: does a GST topic + money/date hook bring skip under 60% and avg watch back over 13s? Any saves on the ₹ math card? Any comments with a GST word? Followers at post time: 27.

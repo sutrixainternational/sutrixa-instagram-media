@@ -1,0 +1,177 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "eli5",
+ "accent": "#FFD400",
+ "beat_bpm": 100,
+ "loop": true,
+ "voice": "af_heart",
+ "speed": 1.18,
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 0,
+   "say": "Stop losing G S T input credit.",
+   "label": "PART 1 · GST LIKE YOU'RE 5",
+   "headline": "Stop losing GST input credit. Deadline: 30 November."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 1.5,
+   "say": "Deadline? 30 November.",
+   "label": "ANY GST BUSINESS"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 3.0,
+   "say": "Think of the deposit you pay on a cold drink bottle,",
+   "label": "LIKE YOU'RE 5"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 4.2,
+   "say": "then you return it and the shopkeeper hands it back.",
+   "label": "THE DEPOSIT"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 5.6,
+   "say": "That's input credit.",
+   "label": "INPUT CREDIT"
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 6.5,
+   "headline": "₹1,800 GST collected on sales",
+   "say": "You collect 1,800 G S T on sales.",
+   "label": "EXAMPLE"
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 7.5,
+   "headline": "₹1,800 − ₹1,000 = ₹800 to pay",
+   "say": "You paid 1,000 on supplies. You pay just 800.",
+   "label": "SAVE THIS"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 8.4,
+   "say": "Your supplier has to file that bill on time,",
+   "label": "RULE 1"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 2.2,
+   "say": "or it won't reach your G S T R 2B. Then no claim.",
+   "label": "RULE 1 · GSTR-2B"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 3.6,
+   "say": "Pay suppliers within 180 days.",
+   "label": "RULE 2 · 180 DAYS"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 5.0,
+   "say": "Paid late? You reverse it.",
+   "label": "RULE 2"
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 6.0,
+   "headline": "Last date: 30 Nov 2026",
+   "say": "Claim missed credit from last year by 30 November,",
+   "label": "FY 2025-26"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 7.0,
+   "say": "or the day you file your annual return, if earlier.",
+   "label": "OR GSTR-9, IF EARLIER"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 0.6,
+   "say": "Send this to whoever files your G S T.",
+   "label": "SEND THIS"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 8.0,
+   "say": "Here's the catch. Restaurants billing 5 percent get none.",
+   "label": "THE CATCH"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 1.0,
+   "say": "Hotel rooms up to 7,500 a night, too.",
+   "label": "THE CATCH"
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_registers.jpg",
+   "hl": [
+    22,
+    137,
+    112,
+    170
+   ],
+   "tap": true,
+   "say": "In Rizstay, supplier bills land in the purchase register."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_registers.jpg",
+   "hl": [
+    36,
+    293,
+    300,
+    320
+   ],
+   "tap": true,
+   "say": "The tax split's done."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_registers.jpg",
+   "hl": [
+    40,
+    481,
+    362,
+    518
+   ],
+   "tap": true,
+   "say": "One tap exports it to Excel for your C A."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 4.0,
+   "headline": "Which GST word next? Comment it.",
+   "say": "Which G S T word next? Comment it."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 9.0,
+   "headline": "Part 2 Tuesday. Follow for one business fix a day.",
+   "say": "Part 2 is Tuesday. Follow, and stop losing input credit."
+  }
+ ]
+}
