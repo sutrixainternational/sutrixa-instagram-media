@@ -72,3 +72,53 @@ Signature moves:
 
 - Fits Sutrixa: (1) the aiwith.om grammar (persistent diagram + numbered cards + climbing counter) is fully faceless and maps onto render_reel3 `screen` beats over one background: e.g. Velocity "5 places your customers look" with a counter, or Rizstay "5 registers" with ₹ saved climbing; (2) keyword giveaways lead comments for the 3rd day running (7,405 / 2,451 comments), still owner-gated (presets.md); (3) Hinglish numbered listicles had strong shares for the 2nd day (ganesh.debnath 28 Oct, aiwith.om today), which backs the countdown preset and one Hinglish line. Seasonal "November ideas/dates" carousels are rising (2 accounts): a GST "November deadlines" carousel would fit. No new preset: the strong format is countdown/listicle, which already exists.
 - Use today (Fri 30 Oct, Velocity): **tips** preset (countdown ran 28 Oct, so it's out by the 2-day rotation rule) with 5 numbered beats in the aiwith.om grammar, hook "Stop posting everywhere. Put your shop in these 5 places first." (hookscore 93.8), items only from products.md Velocity (Google listing, Instagram, Facebook, one-page website with WhatsApp button, first emails to nearby businesses), a numbered card ("1/5"…"5/5") + progress chip on every beat, one Hinglish line, send ask mid-Reel ("send this to a shop owner").
+
+## 2026-10-30
+Sources (laptop browser pane, read-only, ~20 page loads, no rate limit or challenge; the pane was hidden, so the Down key and repeated "next Reel" clicks stalled after 1-2 steps and screenshots often timed out). Reels feed loaded twice (16 Reels read from the feed DOM with likes / comments / shares), 3 opened at /p/ for date + duration; Explore (3 tiles, all older); keyword search "restaurant business" (3 old posts, 2023-2026: web keyword search broken for the 3rd day). Feed rows without an opened date are from the current feed; agentmorphy (7 Oct) dropped as older than 14 days.
+
+| account | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| simulateitnow (29 Oct) | 92K | 1,680 | 7,686 | 38s | "Conformity is a shift in public judgment toward an answer a person can already see is wrong" | Curiosity Gap | animated 3D simulation explainer, faceless, live % bars, English |
+| canwebuildthis | 65.6K | 504 | 1,640 | 47s | "one asks four questions. one asks none. pick your assistant." | Identity Trigger | comparison skit (skip: meme/skit) |
+| saadsells.value | 50K | 237 | 431 | 47s | "Starting small is an excuse" | Correction | talking head motivation (skip: face-only) |
+| cnbctv18india | 33.3K | 245 | 1,170 | 145s | "Why Anthropic invited a Hindu monk to discuss AI" | Curiosity Gap | news explainer, India |
+| unfiltered.sanika (22 Oct) | 12K | 72 | 310 | 33s | podcast clip on closing deals | Bold Claim | podcast clip (skip: not ours to clip) |
+| woke_engineer | 2,738 | 6,496 | 123 | 32s | "This AI agent finds customers and handles your sales outreach for you!" | Bold Claim | AI tool demo + keyword giveaway (comments 2.4x likes) |
+| sharransrivatsaa | 2,747 | 40 | 119 | 47s | "There are 3 parts to a compounding machine" | Curiosity Gap | numbered framework, talking head + overlays |
+| system.simplified | 1,955 | 128 | 109 | 112s | "Micro Saas 01" | Curiosity Gap | numbered series ("01"), faceless explainer |
+| daniellexlynch | 1,997 | 14 | 48 | 57s | "the biggest mistake i see is reps using regurgitated closes" | Correction | sales tips, talking head |
+| vanturexmedia (25 Oct) | 1,495 | 35 | 40 | 35s | "Agar hum aapke salon ki marketing handle karte…" | Identity Trigger + Bold Claim | 3 strategies for a salon, faceless 3D/motion cards, Hinglish, comment-your-challenge CTA |
+| developerlonely | 1,287 | 4 | 44 | 57s | "Asked Claude to explain an API like I'm five" | Curiosity Gap | ELI5 screen recording |
+| swiperightai | 1,183 | 74 | 24 | 46s | "How to create professional videos using Claude Opus 5.5" | Curiosity Gap | AI tool tutorial, screen |
+Skipped: ads (aivideobootcamp, worlddesigncouncil), kyleycheever (cold email, face-only), engineerchirag carousel (19 Oct, keyword "Build", no counts shown).
+
+### Beat sheet 1: simulateitnow "Asch conformity 3D" (38s, faceless simulation; 7.7K shares on 92K likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-2s | one persistent 3D scene: a green crowd of tiny agents, a red group, a lone dark figure; title pill "ASCH CONFORMITY 3D" top centre | 2 stat bars at bottom, 12% vs 88% | one subtitle line under the bars, white box, small | crowd already moving at frame 0 | original audio / VO |
+| build | 2-15s | red group grows, agents switch sides; bars move live (53% / 47%) | speech-bubble callout "NO, IT'S A…" over one agent | same line | slow camera push and pan toward the red group | same |
+| turn | 15-30s | camera close on the lone figure vs the group | bars swing (6% / 94%) | line explains the finding in one sentence | push-in, slight orbit | same |
+| end | 30-38s | wide shot, scene settles, loops to frame 1 | final % | line | pull back | same |
+Signature moves:
+1. **One persistent scene for the whole Reel**: nothing cuts away; the change happens inside the frame.
+2. **Live stat bars** at the bottom that move with the story (12% → 53% → 94%). A number the viewer watches change.
+3. **Speech-bubble callouts** pinned to one element in the scene.
+4. **A small title pill** (topic + "3D") at top, the same on every Reel of the series.
+5. **Slow camera push/pan** instead of cuts; the caption sits in a fixed white box.
+
+### Beat sheet 2: vanturexmedia "salon marketing" (35s, faceless motion, Hinglish)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-2s | dark backdrop, isometric 3D salon shopfront centred, huge ghost word "SALON" behind it, handle tag top-left, chip top-right | shop sign "SALON" | none on frame 1 | shopfront floats, slight rotate | original audio |
+| strategy 1 | ~6-12s | flips to a light canvas, headline "Before / after" (first word bold black, second grey), small dark pill tag under it, ghost word behind | "Before / after" | 2-word headline + pill | headline slides in | same |
+| 2-3 | 12-30s | same light template per strategy (Local Meta Ads, Google Reviews) | strategy name | same | swap per strategy | same |
+| CTA | 30-35s | "comment your biggest marketing challenge" | | | | |
+(Only 3 frames captured: the pane paused the video while hidden.)
+Signature moves:
+1. **Ghost background word**: the topic word huge and faint behind the subject.
+2. **Two-tone headline**: one word bold, the next in grey ("Before / after").
+3. **One template per item**: same canvas, only the headline and pill change.
+4. Hinglish "Agar hum aapke <shop> ki marketing karte…" Identity Trigger names the exact shop type.
+
+- Fits Sutrixa: (1) the persistent-scene + live-number grammar won the day by far (7.7K shares) and matches yesterday's aiwith.om counter: 2nd day for "one canvas, a number that climbs". It maps onto render_reel3 `screen` beats over one background with a stat chip (e.g. Voxa "calls answered 6 → 94%" or Rizstay "₹ input credit claimed"), only with numbers from products.md or clearly labelled examples; (2) keyword giveaways lead comments for the 4th day running (woke_engineer 6,496 comments), still owner-gated; (3) Hinglish shop-specific hooks for local marketing (vanturexmedia, salon) fit Velocity directly. Numbered series ("01") again (system.simplified). No new preset: the strong format is a visual grammar layered on the existing tips/countdown presets, not a new structure; re-check "persistent scene + live counter" tomorrow for a preset.
+- Use today (Fri 30 Oct, Velocity): keep the planned **tips** preset and hook ("Stop posting everywhere. Put your shop in these 5 places first.", hookscore 93.8), and add two moves: a progress chip "places done: 1/5 → 5/5" that stays in the same corner all Reel, and a two-tone headline per item (place name bold, "for your shop" grey) with a faint ghost word behind it.

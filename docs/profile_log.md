@@ -36,3 +36,15 @@
   - archive https://www.instagram.com/p/DdKZkPoTKoP/ and https://www.instagram.com/p/DdKZgwSz_1J/ (11 Sep brand intros) and https://www.instagram.com/reel/DeejRRbCME8/ ("Your business runs 24/7"): post count is still 27, so they're still up (now below the first 12);
   - post a Story most days (Reel repost + poll); Highlights START · RIZSTAY · VOXA · HR4U · VELOCITY need stories first.
 - Trend scan done in the same run (docs/trends.md 2026-10-29). No new preset.
+
+## 2026-10-30
+- Daily run ~13:55 IST (laptop browser pane, read-only for the profile: nothing edited). Score **55/100** (unchanged): name 10/12 · bio line 1 4/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 8/10 · stories 2/6.
+- Live: 27 posts, 28 followers, 4 following. Bio is still the owner's "Enterprise AI || SAAS" version from 29 Oct (no owner reply yet on keeping it vs the HQ-only rule). No bio change: the window runs to 1 Nov and needs the owner's OK.
+- Latest post is still DfFLD8akbLU (checked yesterday, no wrong claims). Today's Velocity Reel posts at 7:30 PM.
+- Story archive still empty: no Highlights possible from the web.
+- App-only to-dos still open (owner, open since 27 Oct, 4 days):
+  - pin https://www.instagram.com/reel/DfFLD8akbLU/ (GST input credit, live until 30 Nov) and https://www.instagram.com/reel/DfAApRvjGNV/ (best 24h hold); nothing is pinned;
+  - archive https://www.instagram.com/p/DdKZkPoTKoP/ and https://www.instagram.com/p/DdKZgwSz_1J/ (11 Sep brand intros) and https://www.instagram.com/reel/DeejRRbCME8/ ("Your business runs 24/7"): post count still 27;
+  - post a Story most days (Reel repost + poll) so Highlights START · RIZSTAY · VOXA · HR4U · VELOCITY can be made;
+  - confirm the bio: keep "Enterprise AI || SAAS" + all 3 cities, or go back to the HQ-only line with a who-it's-for first line.
+- Trend scan done in the same run (docs/trends.md 2026-10-30). No new preset.
