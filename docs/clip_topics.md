@@ -1,3 +1,13 @@
+> 30 Oct (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
+
+## Dialogue clips queue (make in this order)
+Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
+1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.
+2. dlg_ep2_kaka_voxa - tea stall, Kaka sipping chai says calmly: "Beta, phone tu mat utha. Ek AI receptionist rakh, jo har call uthaye, chaubees ghante." Bablu: "Hindi mein bhi baat karega?" Kaka smiles: "Barah bhashaon mein."
+3. dlg_ep2_happy - evening, Bablu relaxed, phone rings once and stops, he smiles at the camera and says: "Ab koi call miss nahi hoti." Slow push-in.
+4. dlg_moment_month_end (moment Reel, like DbzTILTNcyZ) - real (not cartoon) Indian hotel owner at night with registers says softly to himself: "Har mahine yahi... CA ka phone, aur bill ka hisaab." Warm lamp, realistic.
+5. dlg_moment_salon - real Indian salon owner mid-haircut, phone buzzing in her apron, she sighs: "Ek haath mein kainchi, ek mein phone... kaise sambhalun?"
+
 > 28 Oct (skills_ext/marketingskills/video/references/ai-video-prompting.md): write every Gemini prompt as subject + action + camera movement + style + lighting/mood + specs, 50-100 words. Always name the camera move (slow push-in, handheld follow, static close-up). Put the problem IN MOTION in the first second (phone ringing and vibrating, slip falling, queue forming). Indian setting and people, realistic, vertical 9:16, natural sound, no on-screen text, no logos.
 
 > 27 Oct: keep the Drive stock balanced to the docs/strategy.md calendar. The next clips should cover the next days' pillars (Mon HR4U, Tue Rizstay, Wed Voxa, Thu Rizstay, Fri Velocity, Sat Voxa, Sun HR4U), and the date in each clip's name should match its pillar day.
