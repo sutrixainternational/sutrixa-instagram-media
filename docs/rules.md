@@ -1,3 +1,5 @@
+> **30 Oct 2026 ONLY (owner approved):** the main session publishes the story Reel "Bablu ka Hotel, EP 1" (Rizstay, Hinglish, 85s, keyword LEAK) at about 7:30 PM IST. Today's 6:47 PM run must NOT render or post another Reel. Do the post-mortem, write the owner pack (LEAK keyword DM with freebies/LEAK_2026-10-30.png, Story frames, replies, comments) and log nothing new in posted.md (the main session logs it).
+
 # Standing content rules (@sutrixainternational)
 
 > **OWNER RULE (30 Oct 2026): NO PRODUCT PRICING anywhere** (Reels, voiceover, on-screen text, captions, Stories, highlights, carousels, freebies, comment/DM drafts). No prices, plan costs, per-minute rates, credits or discounts. Price questions get: "Prices depend on your setup. DM us or book a demo at sutrixa.com/connect." Tax figures used to teach (e.g. GST slabs, ₹ worked examples) are fine; they are not product prices. Hard gate before posting. Freebies are rendered with tools/freebie.py, which refuses any spec containing a price.
