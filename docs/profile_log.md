@@ -48,3 +48,7 @@
   - post a Story most days (Reel repost + poll) so Highlights START · RIZSTAY · VOXA · HR4U · VELOCITY can be made;
   - confirm the bio: keep "Enterprise AI || SAAS" + all 3 cities, or go back to the HQ-only line with a who-it's-for first line.
 - Trend scan done in the same run (docs/trends.md 2026-10-30). No new preset.
+
+### 2026-10-30 15:40 IST (owner rule: no product pricing; owner said "yes" to editing captions)
+- Removed Voxa prices from 4 live captions: DfClwW8D-Tw (28 Oct: "$49 a month for 200 minutes" and "Growth plan" lines rewritten), De9bOrjDFEk (26 Oct), De63z8XEePe (25 Oct), Dejs2WJjJT7 (16 Oct). All 27 posts re-checked: no prices left in any caption.
+- The videos can't be edited. DfClwW8D-Tw says "$49" in its voiceover and on screen; older Voxa Reels may show it on screen too. Archiving them is app-only and the owner's call.
