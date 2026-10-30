@@ -1,5 +1,6 @@
 # Sutrixa product fact sheet (verified from sites, 24 Oct 2026; company facts re-checked on sutrixa.com 27 Oct)
 Only claims listed here may appear in posts. Anything else = ask the owner.
+**OWNER RULE (30 Oct 2026): never mention product pricing (any price, plan cost, per-minute rate, free credit, discount or "from $X") in any Reel, post, caption, Story, highlight, carousel, freebie, comment or DM draft. If a viewer asks the price, the reply is "Prices depend on your setup. DM us or book a demo at sutrixa.com/connect".**
 
 ## Sutrixa International (sutrixa-website.vercel.app)
 - "Building the Intelligence Layer" / "Fuelling For Future Generations"
@@ -34,9 +35,8 @@ Only claims listed here may appear in posts. Anything else = ask the owner.
 - Live booking: syncs calendars & CRMs. Integrations: Google Calendar, Outlook, Calendly, HubSpot, Salesforce, Zoho, Zapier, webhooks
 - Missed-call text-back (auto SMS); auto-callback on busy (Growth+); voice cloning (Scale/Elite)
 - Setup: sign up + describe business -> train on FAQs/catalog/brand voice -> connect number/CRM/calendar -> live
-- Pricing USD/month: Launch $49 (200 min, 1 agent) | Growth $199 (1,000 min, 3 agents) | Scale $499 (3,000 min, 10) | Elite $1,499 (12,000 min, unlimited). PAYG $0.14/min. Overage $0.12-$0.06/min
+- Pricing: exists on voxa.sutrixa.com but is OFF-LIMITS in all content (owner rule, 30 Oct). Never quote it.
 - Security claims: SOC 2 Type II core pipelines, HIPAA-eligible, zero data retention for healthcare, GDPR/PDPL/PIPEDA aligned, data residency EU/UAE/CA/AU/NZ/US
-- Referral: $5 credit per business referred
 - Use case named: healthcare. Phone +1 (970) 645-5160
 - NOT on site: customer names, measured stats
 - WEEK 1 ERROR: "summarises every conversation" is NOT a site claim
@@ -52,7 +52,7 @@ Only claims listed here may appear in posts. Anything else = ask the owner.
 - 3 steps: show us your business (photos/site or answer questions) -> approve/change/skip first week on phone -> Velocity posts & learns
 - Control: nothing goes out until owner approves (unless they allow auto); never sees passwords; accounts stay owner's; only real facts, no made-up offers/prices; unsubscribes honoured; one button pauses everything
 - "Ready in ten minutes, on your phone." Channels: Instagram, Facebook, Google listing; helps create them if missing
-- Pricing: not listed ("USD worldwide, or INR + GST in India")
+- Pricing: OFF-LIMITS in all content (owner rule, 30 Oct)
 - WEEK 1 ERROR: week-1 Velocity reel framed it as a B2B sales pipeline/CRM tool; site positions it as done-for-you marketing for small local shops
 
 ## Sutrixa HR4U (hr4u.sutrixa.com) - HR & payroll OS

@@ -6,7 +6,7 @@ Sutrixa = **AI software that runs the boring, costly parts of a business.** One 
 | pillar | product | the pain we teach about | share of posts |
 |---|---|---|---|
 | Hotel & restaurant ops | Rizstay | GST billing, KOTs, registers, stock, month end | 35% |
-| Never miss a customer | Voxa | missed calls, after-hours, Indian languages, pricing ($49) | 25% |
+| Never miss a customer | Voxa | missed calls, after-hours, Indian languages, setup in an afternoon | 25% |
 | HR & payroll without Excel | HR4U | attendance, leave, payroll month end, onboarding, docs | 20% |
 | Marketing on autopilot | Velocity | posting when you're too busy, getting local customers | 20% |
 

@@ -3,7 +3,7 @@ Rewritten by the weekly review (25 Oct) from the audit in docs/growth.md. Replac
 The daily cloud run posts one main Reel (15-20s) and one Trial Reel (9-12s, different formula) every day at 6:47 PM IST, taking clips in order from docs/clip_topics.md. Rizstay gets 2 of every 5 days; Velocity stays off until the owner confirms it is live.
 
 MON 26  REEL   TEACH    Rizstay  #2  "Stop adding room and restaurant GST by hand at 11 PM."    (rizstay_gst_bill)
-TUE 27  REEL   OFFER    Voxa         missed call in lunch rush, from $49/month                (voxa_lunch_rush_missed_call)
+TUE 27  REEL   OFFER    Voxa         missed call in lunch rush                                (voxa_lunch_rush_missed_call)
         CAROUSEL (owner posts, 8:30am) "Stop adding GST by hand." branch c/2026-10-25
 WED 28  REEL   TEACH    HR4U         month-end payroll out of Excel                           (hr4u_payroll_excel, reuse new angle)
 THU 29  REEL   TEACH    Rizstay  #2  "Stop writing KOTs by hand. 1 lost slip is 1 angry table." (rizstay_kot_lost_slip)

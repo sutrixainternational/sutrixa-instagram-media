@@ -1,4 +1,6 @@
 # Standing content rules (@sutrixainternational)
+
+> **OWNER RULE (30 Oct 2026): NO PRODUCT PRICING anywhere** (Reels, voiceover, on-screen text, captions, Stories, highlights, carousels, freebies, comment/DM drafts). No prices, plan costs, per-minute rates, credits or discounts. Price questions get: "Prices depend on your setup. DM us or book a demo at sutrixa.com/connect." Tax figures used to teach (e.g. GST slabs, ₹ worked examples) are fine; they are not product prices. Hard gate before posting. Freebies are rendered with tools/freebie.py, which refuses any spec containing a price.
 - Every Reel opens with REAL moving Gemini video (Veo, 9:16) with its audio. Never stand in a screenshot, still frame or placeholder, not even in a preview sent to the owner.
 - If no new Gemini clip is in Drive, never skip the day (owner rule, 24 Oct): reuse the least-recently-used real Gemini clip from "3 - Posted" (not used in the last 3 days) with a new angle and segment. Never use stills.
 - Reels must explain, not list: problem (Gemini clip) -> what the product does -> numbered steps on the real product screen with the exact UI element highlighted -> one-line outcome -> logo end card. 15-20s (see Length below).

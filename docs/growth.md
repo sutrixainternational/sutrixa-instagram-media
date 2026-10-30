@@ -65,7 +65,7 @@ Fixes, in order (the owner makes all of them in the app):
 3. Link: one door, https://restaurant.rizstay.com
 4. Pin three: the 24 Oct GST Reel (best so far), the GST carousel once posted (explains the offer), and a proof post when the owner has one.
 5. Two live captions make claims that products.md marks as errors: 14 Oct Rizstay (DefAkOrjWRo, "Housekeeping auto-dispatched") and 16 Oct Voxa (Dejs2WJjJT7, "summarises every..."). Edit those captions or archive the posts. Also consider archiving the 3 brand intros so the top of the grid is product Reels.
-6. Highlights: Rizstay, Voxa pricing, How it works, About.
+6. Highlights: Rizstay, Voxa, How it works, About.
 
 ### ig-carousel
 "Stop adding GST by hand." 9 slides, 1080x1350, Rizstay facts only, the real Purchase register screen with Export Excel boxed. Branch c/2026-10-25 (slides + caption.txt). Caption lint READY; ig-human 80 (slides) and 76 (caption).

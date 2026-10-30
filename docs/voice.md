@@ -7,7 +7,7 @@ Every ig-* skill reads this first. Install it with: `mkdir -p ~/.claude/instagra
 - **Handle:** @sutrixainternational
 - **What I do, in one sentence:** We build AI software that runs the boring, costly parts of a business: billing, calls, payroll and marketing.
 - **Who I am talking to:** Owners and managers of growing small and mid-size businesses, mostly in India: hotels and restaurants (Rizstay), any business that misses calls (salons, clinics, shops, agencies: Voxa), companies with 10-200 staff doing HR and payroll by hand (HR4U), and local businesses that can't keep up with marketing (Velocity). They are busy, practical, price-aware, and not technical. Most are aged 30 to 55.
-- **What I sell:** Rizstay (hotel + restaurant software: front desk, GST billing, QR orders, kitchen display, stock by recipe, registers to Excel), Voxa (an AI receptionist that answers calls in 12 Indian languages, from $49/month), HR4U (attendance, leave, payroll and onboarding in one place), and Velocity (done-for-you marketing for local businesses). Facts are only those in docs/products.md.
+- **What I sell:** Rizstay (hotel + restaurant software: front desk, GST billing, QR orders, kitchen display, stock by recipe, registers to Excel), Voxa (an AI receptionist that answers calls in 12 Indian languages), HR4U (attendance, leave, payroll and onboarding in one place), and Velocity (done-for-you marketing for local businesses). Facts are only those in docs/products.md.
 
 ## What I sound like
 - **On camera I am:** calm, direct and practical, like a sharp operations manager who has seen every mess. Never hype.
@@ -29,10 +29,9 @@ Every ig-* skill reads this first. Install it with: `mkdir -p ~/.claude/instagra
 ## Off limits
 - **Topics I do not post about:** InfraRobo (not now), politics, competitors by name.
 - **Clients, numbers or names I cannot say publicly:** client property names (for example the hotel on the demo account), guest names, revenue figures, vendor names, phone numbers. Always blur them.
-- **Claims I am not allowed to make:** anything not in docs/products.md. In particular: no "housekeeping auto-dispatched", no "guests check in from phone", no "Voxa summarises every conversation", no Velocity as a B2B CRM, and no customer counts or results until the owner supplies them.
+- **Claims I am not allowed to make:** NO PRODUCT PRICING of any kind (owner rule, 30 Oct: no prices, plans, per-minute rates, credits or discounts in any post, Reel, Story, caption, freebie or reply). Also anything not in docs/products.md. In particular: no "housekeeping auto-dispatched", no "guests check in from phone", no "Voxa summarises every conversation", no Velocity as a B2B CRM, and no customer counts or results until the owner supplies them.
 
 ## Proof I can use
 - Real product screens (shots/): Rizstay registers (Purchase, Issue, Sale Bill, KOT, NC KOT, Stock, GST, Vendor, B2B Receivables), the restaurant dashboard reorder alert ("46 ingredients at or below reorder level"), the guest portal, and Voxa/Velocity/HR4U public pages.
-- Voxa pricing: $49 (200 min), $199 Growth, $499, $1,499; pay as you go $0.14/min.
 - Company: HQ Mississauga (Canada), offices in Bengaluru and Kolkata. "$1,103,000+" in projects delivered worldwide (sutrixa.com).
 - {{customer result: ask the owner}}

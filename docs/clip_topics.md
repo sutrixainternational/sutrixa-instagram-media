@@ -7,7 +7,7 @@ Gemini clips for series need an **analogy shot** as well as the problem shot.
 - **"GST, explained like you're 5"** (Rizstay, Tue/Thu): Part 1 input credit (analogy: a shop refunding the deposit on a bottle) · Part 2 CGST vs SGST (one bill split into two envelopes) · Part 3 why room rate above ₹7,500 changes the rate (a lift with floor buttons). Facts must be verified before scripting; no IGST-for-rooms claim.
 - **"Payroll, explained like you're 5"** (HR4U, Mon/Sun): PF, ESI and TDS on salary, each with one everyday analogy and checked facts.
 - **"Stop these 5 mistakes"** countdown: Rizstay billing (#1 = hand-added GST), Voxa missed calls (#1 = no call back within an hour), Velocity local marketing (#1 = an empty Google Business Profile). Only claims allowed by docs/products.md.
-- **"AI receptionist, explained like you're 5"** (Voxa, Wed/Sat): what it does on a missed call, in 12 Indian languages, from $49.
+- **"AI receptionist, explained like you're 5"** (Voxa, Wed/Sat): what it does on a missed call, in 12 Indian languages. No pricing (owner rule).
 Analogy clip prompts: everyday Indian scenes (chai stall, kirana counter, wedding envelope, lift buttons), realistic, 9:16, no text.
 
 # Gemini clip topics (rotate in order, skip ones already in Drive "3 - Posted")
@@ -20,7 +20,7 @@ The only Reel that earned a share (24 Oct, "Your hotel's accountant. 11 PM. Agai
 1. rizstay_gst_bill - hotel guest at checkout waiting while the clerk adds room and restaurant bills on a calculator. Hook: "Stop adding room and restaurant GST by hand at 11 PM." (80, #2)
 2. rizstay_kot_lost_slip (NEW) - busy restaurant, a handwritten order slip falls behind the counter, a table waves angrily. Hook: "Stop writing KOTs by hand. 1 lost slip is 1 angry table." (95, #2)
 3. rizstay_ca_month_end (NEW) - hotel owner at night, phone lights up with the accountant's name, a pile of paper registers. Hook: "Stop splitting CGST and SGST yourself. Your bill can do it." (81, #2)
-4. voxa_lunch_rush_missed_call (NEW) - restaurant owner carrying plates, phone ringing unanswered on the counter. Voxa facts only: answers calls, missed-call text-back, 12 Indic languages, from $49.
+4. voxa_lunch_rush_missed_call (NEW) - restaurant owner carrying plates, phone ringing unanswered on the counter. Voxa facts only: answers calls, missed-call text-back, 12 Indic languages. No pricing (owner rule).
 5. rizstay_small_hotel_big_system (NEW) - owner of a small guest house staring at a cluttered, confusing screen. Hook: "Your 20-room hotel doesn't need an enterprise system." (78, #20 Permission)
 6. rizstay_stock_runout - cook opening an empty spice container mid-service. Pair with the real dashboard line "46 ingredients at or below reorder level".
 7. rizstay_frontdesk - check-in rush, receptionist flipping a paper register while guests wait.
