@@ -68,3 +68,10 @@
 - Every Reel passes the screenshot test: one frame worth screenshotting.
 - Stories: 3-7 a day is the cadence for accounts under 10k (claude-ig). Never more than 7.
 - Captions and scripts: marketingskills/social "No AI tells": no "it's not X, it's Y", no "The result? ...", no broetry, no engagement bait ("Agree?"), no emoji bullets, no em dashes.
+
+## Human voice (owner, 30 Oct: "voiceover is very humanly" on DbzTILTNcyZ)
+- That Reel (8 Aug, 9.4s) got avg watch 34.9s = **387% watched** (people replayed it ~4x), the best retention the account has ever had. Its voice is not TTS: it is **Veo's own generated dialogue/audio inside the Gemini clip**.
+- From now on, prefer **Veo native voice**: write the spoken line INTO the Gemini video prompt (`He says in Hindi, with a natural warm voice: "..."`), keep each line under ~7 seconds so it fits one 8s clip, and keep the clip's own audio at full volume in the render (no Kokoro over it).
+- Story Reels: characters speak their own lines in Veo clips (one clip per key line, Hinglish). Kokoro narration only fills gaps (product screens, the end card) and should be minimal. Never mix two different voices for the same character.
+- Short "moment" Reels like DbzTILTNcyZ (one relatable 8-10s scene with dialogue + a one-line caption) are a valid format again: they loop, and replays count. Add the logo, keep captions of the dialogue, no screen beats needed.
+- Gemini video quota is limited per day: the hourly clip task should spend it on dialogue clips first.
