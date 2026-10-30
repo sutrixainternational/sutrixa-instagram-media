@@ -308,7 +308,7 @@ def render(spec):
                         dd.rounded_rectangle([40, yy, 40 + tw + 48, yy + 78], 20, fill=col + (255,))
                         dd.text((64, yy + 12), lab, font=f, fill=(255, 255, 255, 255))
             else:  # card
-                base = vframe(vd, fr, i) if vd else Image.new("RGB", (W, H), (8, 14, 34))
+                base = vframe(vd, fr, i) if vd else (cover(shot, W, H) if shot else Image.new("RGB", (W, H), (8, 14, 34)))
                 img = base.filter(ImageFilter.GaussianBlur(18)).convert("RGBA")
                 img.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, 110)))
             if b.get("label") and kind != "split":

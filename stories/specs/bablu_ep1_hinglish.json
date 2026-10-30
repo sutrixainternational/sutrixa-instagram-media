@@ -1,0 +1,135 @@
+{
+ "out": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/bablu_ep1_hinglish.mp4",
+ "preset": "story",
+ "accent": "#FFD400",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "voice": "hm_omega",
+ "speed": 1.0,
+ "lang": "hi",
+ "beats": [
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s01_desk.jpg",
+   "move": "in",
+   "label": "BABLU KA HOTEL · EP 1",
+   "headline": "16 ghante kaam. Phir bhi paisa gayab?",
+   "say": "Bablu roz 16 ghante hotel mein kaam karta tha. Phir bhi mahine ke end mein paisa gayab.",
+   "tts": "बबलू रोज़ सोलह घंटे होटल में काम करता था। फिर भी महीने के एंड में पैसा ग़ायब।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s02_rush.jpg",
+   "move": "left",
+   "say": "Subah check-in, dopahar kitchen, raat ko billing. Har kaam khud.",
+   "tts": "सुबह चेक-इन, दोपहर किचन, रात को बिलिंग। हर काम ख़ुद।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s03_monthend.jpg",
+   "move": "in",
+   "say": "Aur mahine ke aakhir mein CA ka phone. Bills galat, registers adhoore.",
+   "tts": "और महीने के आख़िर में सी ए का फ़ोन। बिल्स ग़लत, रजिस्टर्स अधूरे।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s04_street.jpg",
+   "move": "right",
+   "say": "Ek subah, saamne chai waale Kaka ne awaaz di.",
+   "tts": "एक सुबह, सामने चाय वाले काका ने आवाज़ दी।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s05_bench.jpg",
+   "move": "up",
+   "label": "KAKA KI SEEKH",
+   "say": "Beta, tera hotel guest nahi kho raha. Paisa teen jagah se leak ho raha hai.",
+   "tts": "बेटा, तेरा होटल गेस्ट नहीं खो रहा। पैसा तीन जगह से लीक हो रहा है।"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_registers.jpg",
+   "hl": [
+    308,
+    176,
+    352,
+    204
+   ],
+   "tap": true,
+   "label": "LEAK 1 · HAATH KA BILL",
+   "say": "Pehla leak: haath se bill. Room 7,500 tak toh 5% GST, usse upar 18%. Ek galti, aur CA ka phone.",
+   "tts": "पहला लीक: हाथ से बिल। रूम साढ़े सात हज़ार तक तो पाँच परसेंट जी एस टी, उससे ऊपर अठारह परसेंट। एक ग़लती, और सी ए का फ़ोन।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s06_kitchen.jpg",
+   "move": "in",
+   "label": "LEAK 2 · KITCHEN KI PARCHI",
+   "say": "Doosra leak: kitchen ki parchi. Ek parchi giri, ek table naraaz.",
+   "tts": "दूसरा लीक: किचन की पर्ची। एक पर्ची गिरी, एक टेबल नाराज़।"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_registers.jpg",
+   "hl": [
+    38,
+    176,
+    218,
+    204
+   ],
+   "tap": true,
+   "say": "Order seedha kitchen screen pe jaaye, toh parchi girne ka sawaal hi nahi.",
+   "tts": "ऑर्डर सीधा किचन स्क्रीन पे जाए, तो पर्ची गिरने का सवाल ही नहीं।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s07_store.jpg",
+   "move": "left",
+   "label": "LEAK 3 · STORE ROOM",
+   "say": "Teesra leak: store room. Stock kahan gaya, kisi ko nahi pata.",
+   "tts": "तीसरा लीक: स्टोर रूम। स्टॉक कहाँ गया, किसी को नहीं पता।"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_restaurant.jpg",
+   "hl": [
+    14,
+    163,
+    382,
+    262
+   ],
+   "tap": true,
+   "say": "Dish bikte hi recipe ke hisaab se stock kam ho, aur khatam hone se pehle alert aaye.",
+   "tts": "डिश बिकते ही रेसिपी के हिसाब से स्टॉक कम हो, और ख़त्म होने से पहले अलर्ट आए।"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_dashboard.jpg",
+   "label": "RIZSTAY",
+   "say": "Bablu ne teeno leak ek screen pe band kiye. Rizstay: front desk, kitchen aur billing, sab ek jagah.",
+   "tts": "बबलू ने तीनों लीक एक स्क्रीन पे बंद किए। रिज़स्टे: फ़्रंट डेस्क, किचन और बिलिंग, सब एक जगह।"
+  },
+  {
+   "kind": "scene",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s08_happy.jpg",
+   "move": "out",
+   "say": "Ab Bablu raat 8 baje ghar jaata hai.",
+   "tts": "अब बबलू रात आठ बजे घर जाता है।"
+  },
+  {
+   "kind": "card",
+   "headline": "Thaka owner: aur kitne ghante? Smart owner: paisa kahan leak ho raha hai?",
+   "say": "Thaka hua owner poochta hai, aur kitne ghante? Smart owner poochta hai, paisa kahan leak ho raha hai?",
+   "tts": "थका हुआ ओनर पूछता है, और कितने घंटे? स्मार्ट ओनर पूछता है, पैसा कहाँ लीक हो रहा है?",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s05_bench.jpg"
+  },
+  {
+   "kind": "card",
+   "headline": "Share karo us owner ko jo 16 ghante kaam karta hai. EP 2: Bablu ka phone",
+   "say": "Ye video us owner ko bhejo jo 16 ghante kaam karta hai. Episode 2 mein: Bablu ka phone kabhi nahi uthta. Follow karo.",
+   "tts": "ये वीडियो उस ओनर को भेजो जो सोलह घंटे काम करता है। एपिसोड दो में: बबलू का फ़ोन कभी नहीं उठता। फ़ॉलो करो।",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s08_happy.jpg"
+  }
+ ]
+}
