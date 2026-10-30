@@ -172,5 +172,5 @@ Pattern across all 12 Reels: **0 comments and 0 saves on every one.** 1 share ea
 
 ---
 
-## 2026-10-30 · Rizstay · story EP1 · "Bablu ka Hotel" (Hinglish, ~85s, keyword LEAK) · posted by the main session
+## 2026-10-30 · Rizstay · story EP1 · "Bablu ka Hotel" (Hinglish, 47s, keyword LEAK) · DfHupKPiiip · posted by the main session 13:51 UTC
 Numbers go here in the 31 Oct run (24h). To check: does a Hinglish character story hold past 10s (avg watch) and cut skip under 70%? Any LEAK comments (owed DMs)? Followers at post time: 28.
