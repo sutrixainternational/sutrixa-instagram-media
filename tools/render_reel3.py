@@ -265,10 +265,20 @@ def render(spec):
     for bi, b in enumerate(beats):
         if not b.get("say"):
             raise SystemExit(f"REFUSING: beat {bi} has no 'say' line (every beat is voiced)")
-        vp = os.path.join(work, f"vo{bi}.wav"); L = tts(b.get("tts", b["say"]), voice, speed, vp, spec.get("lang", "en-us"))
-        b["_vo"], b["_vl"] = vp, L
-        b["dur"] = max(b.get("dur", 0), round(L + 0.45, 2))
-        b["_wt"] = word_times(b["say"], L + 0.25)
+        if b.get("clip_voice") or b.get("audio_src"):
+            # human voice already inside the Veo clip (or another clip's audio): no TTS
+            vp = os.path.join(work, f"vo{bi}.wav")
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-t", "0.1", "-i", "anullsrc=channel_layout=mono:sample_rate=24000", vp], check=True)
+            L = float(b.get("dur", 8.0))
+            b["_vo"], b["_vl"] = vp, L
+            b["dur"] = L
+            ws, we = b.get("speech", [0.3, L - 0.3])
+            b["_wt"] = word_times(b["say"], we, start=ws)
+        else:
+            vp = os.path.join(work, f"vo{bi}.wav"); L = tts(b.get("tts", b["say"]), voice, speed, vp, spec.get("lang", "en-us"))
+            b["_vo"], b["_vl"] = vp, L
+            b["dur"] = max(b.get("dur", 0), round(L + 0.45, 2))
+            b["_wt"] = word_times(b["say"], L + 0.25)
     fdir = os.path.join(work, "f"); os.makedirs(fdir)
     n = 0; t_global = 0.0; taps = []
     first_frame = None
@@ -334,9 +344,12 @@ def render(spec):
     for bi, b in enumerate(beats):
         base = os.path.join(work, f"b{bi}.wav"); seg = os.path.join(work, f"s{bi}.wav")
         ok = False
-        if b.get("video"):
-            r = subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(b.get("vstart", 0)), "-t", str(b["dur"]), "-i", b["video"],
-                                "-vn", "-af", f"apad,atrim=0:{b['dur']},volume=0.28", "-ar", "44100", "-ac", "2", base])
+        asrc = b.get("audio_src") or (b.get("video") if b.get("video") else None)
+        if asrc:
+            vol = 1.0 if (b.get("clip_voice") or b.get("audio_src")) else 0.28
+            ast = b.get("astart", b.get("vstart", 0))
+            r = subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(ast), "-t", str(b["dur"]), "-i", asrc,
+                                "-vn", "-af", f"apad,atrim=0:{b['dur']},volume={vol}", "-ar", "44100", "-ac", "2", base])
             ok = r.returncode == 0 and os.path.exists(base) and os.path.getsize(base) > 1000
         if not ok:
             subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-t", str(b["dur"]), "-i",
