@@ -17,7 +17,7 @@ spec:
 }
 Every beat needs "say" (the renderer refuses a Reel with no voice). dur = voice length + pad unless "dur" is given and longer.
 """
-import json, subprocess, sys, os, shutil, math, tempfile, re
+import json, math, subprocess, sys, os, shutil, math, tempfile, re
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 W, H, FPS = 1080, 1920, 30
@@ -226,14 +226,29 @@ def screen_frame(shot, t, dur, hl, tap, accent):
     return img
 
 
+def scene_frame(img, t, dur, move="in"):
+    """Illustrated story scene: slow Ken Burns move (in/out/left/right/up) with a tiny handheld drift."""
+    base = cover(img, int(W * 1.18), int(H * 1.18))
+    p = ease(t / max(dur, 0.1)) if dur else 0
+    z = {"in": 1.0 + 0.12 * p, "out": 1.12 - 0.12 * p}.get(move, 1.08)
+    cw, ch = W * 1.18 / z, H * 1.18 / z
+    cx, cy = base.width / 2, base.height / 2
+    if move == "left": cx += (0.5 - p) * (base.width - cw) * 0.9
+    if move == "right": cx -= (0.5 - p) * (base.width - cw) * 0.9
+    if move == "up": cy += (0.5 - p) * (base.height - ch) * 0.9
+    cx += 6 * math.sin(t * 1.3); cy += 5 * math.cos(t * 1.1)
+    x0 = min(max(cx - cw / 2, 0), base.width - cw); y0 = min(max(cy - ch / 2, 0), base.height - ch)
+    return base.crop((int(x0), int(y0), int(x0 + cw), int(y0 + ch))).resize((W, H), Image.LANCZOS)
+
+
 def tts_factory():
     k = {}
-    def tts(text, voice, speed, out):
+    def tts(text, voice, speed, out, lang="en-us"):
         import soundfile as sf
         if "m" not in k:
             from kokoro_onnx import Kokoro
             k["m"] = Kokoro(os.path.join(HERE, "tts", "kokoro-v1.0.onnx"), os.path.join(HERE, "tts", "voices-v1.0.bin"))
-        smp, sr = k["m"].create(text, voice=voice, speed=speed, lang="en-us")
+        smp, sr = k["m"].create(text, voice=voice, speed=speed, lang=lang)
         sf.write(out, smp, sr)
         return len(smp) / sr
     return tts
@@ -250,7 +265,7 @@ def render(spec):
     for bi, b in enumerate(beats):
         if not b.get("say"):
             raise SystemExit(f"REFUSING: beat {bi} has no 'say' line (every beat is voiced)")
-        vp = os.path.join(work, f"vo{bi}.wav"); L = tts(b["say"], voice, speed, vp)
+        vp = os.path.join(work, f"vo{bi}.wav"); L = tts(b.get("tts", b["say"]), voice, speed, vp, spec.get("lang", "en-us"))
         b["_vo"], b["_vl"] = vp, L
         b["dur"] = max(b.get("dur", 0), round(L + 0.45, 2))
         b["_wt"] = word_times(b["say"], L + 0.25)
@@ -276,6 +291,9 @@ def render(spec):
                 img.alpha_composite(SCRIM)
             elif kind == "screen":
                 img = screen_frame(shot, t, dur, b.get("hl"), b.get("tap"), accent)
+                img.alpha_composite(SCRIM)
+            elif kind == "scene":
+                img = scene_frame(shot, t, dur, b.get("move", "in")).convert("RGBA")
                 img.alpha_composite(SCRIM)
             elif kind == "split":
                 top = vframe(vd, fr, i).convert("RGBA")
@@ -339,8 +357,12 @@ def render(spec):
     hat = f"0.06*(random(0)*2-1)*exp(-mod(t+{p/2},{p})*60)"
     clicks = "+".join(f"0.5*sin(2*PI*2400*(t-{tc:.3f}))*exp(-abs(t-{tc:.3f})*90)*between(t,{tc:.3f},{tc+0.08:.3f})" for tc in taps) or "0"
     bed = os.path.join(work, "bed.wav")
+    if spec.get("bed") == "pad":  # gentle story bed: soft chord with slow swell, no kick
+        expr = "0.05*(sin(2*PI*110*t)+0.7*sin(2*PI*164.8*t)+0.6*sin(2*PI*220*t)+0.4*sin(2*PI*277.2*t))*(0.75+0.25*sin(2*PI*0.12*t))"
+    else:
+        expr = f"0.35*({kick}+{hat})+{clicks}"
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "lavfi", "-t", f"{total:.3f}", "-i",
-                    f"aevalsrc='0.35*({kick}+{hat})+{clicks}':s=44100:c=stereo", "-af",
+                    f"aevalsrc='{expr}':s=44100:c=stereo", "-af",
                     f"afade=t=in:d=0.3,afade=t=out:st={max(total-0.6,0):.2f}:d=0.6", bed], check=True)
     mix = os.path.join(work, "mix.wav")
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", voice_track, "-i", bed, "-filter_complex",
