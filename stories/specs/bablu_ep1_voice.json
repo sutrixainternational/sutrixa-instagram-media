@@ -1,0 +1,152 @@
+{
+ "out": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/bablu_ep1_voice.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_desk_dialogue.mp4",
+   "vstart": 10,
+   "dur": 7,
+   "clip_voice": true,
+   "speech": [
+    0.3,
+    6.3
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 1",
+   "headline": "16 ghante kaam. Paisa kahan gaya?",
+   "say": "Solah ghante kaam... phir bhi paisa kahan gaya?"
+  },
+  {
+   "kind": "clip",
+   "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_bench_dialogue.mp4",
+   "vstart": 0,
+   "dur": 9.6,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    8.2
+   ],
+   "punch": false,
+   "say": "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?"
+  },
+  {
+   "kind": "clip",
+   "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_all30.mp4",
+   "vstart": 20,
+   "dur": 9.0,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    8.1
+   ],
+   "punch": false,
+   "label": "3 LEAKS",
+   "say": "Ek, haath ke bill. Do, kitchen ki parchiyan. Teen, store ka maal, jiska koi hisaab nahi."
+  },
+  {
+   "kind": "clip",
+   "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d4.mp4",
+   "vstart": 0,
+   "dur": 3.0,
+   "clip_voice": true,
+   "speech": [
+    0.1,
+    2.8
+   ],
+   "punch": false,
+   "label": "KAKA KA FIX",
+   "say": "Sab ek screen pe daal."
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_registers.jpg",
+   "hl": [
+    308,
+    176,
+    352,
+    204
+   ],
+   "tap": true,
+   "audio_src": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d4.mp4",
+   "astart": 3.0,
+   "dur": 2.0,
+   "speech": [
+    0.2,
+    1.9
+   ],
+   "label": "LEAK 1 · GST BILL",
+   "say": "Bill khud GST lagaye,"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_registers.jpg",
+   "hl": [
+    38,
+    176,
+    218,
+    204
+   ],
+   "tap": true,
+   "audio_src": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d4.mp4",
+   "astart": 5.0,
+   "dur": 2.0,
+   "speech": [
+    0.1,
+    1.7
+   ],
+   "label": "LEAK 2 · KITCHEN ORDER",
+   "say": "order seedha kitchen jaaye,"
+  },
+  {
+   "kind": "screen",
+   "image": "/home/claude/sutrixa-instagram-media/shots/rz_restaurant.jpg",
+   "hl": [
+    14,
+    163,
+    382,
+    262
+   ],
+   "tap": true,
+   "audio_src": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d4.mp4",
+   "astart": 7.0,
+   "dur": 3.0,
+   "speech": [
+    0.2,
+    1.6
+   ],
+   "label": "LEAK 3 · STOCK",
+   "say": "aur stock khud ghate."
+  },
+  {
+   "kind": "clip",
+   "video": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d5.mp4",
+   "vstart": 0,
+   "dur": 8.5,
+   "clip_voice": true,
+   "speech": [
+    1.9,
+    7.1
+   ],
+   "punch": false,
+   "label": "RIZSTAY",
+   "say": "Kaka, aaj aath baje ghar! Shabaash, beta!"
+  },
+  {
+   "kind": "card",
+   "image": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/s08_happy.jpg",
+   "audio_src": "/tmp/claude-0/-home-claude/ddfaf050-583f-52d2-a98b-246e4fd53552/scratchpad/story/v_d5.mp4",
+   "astart": 7.5,
+   "dur": 3.5,
+   "speech": [
+    0,
+    0.1
+   ],
+   "headline": "Comment LEAK: free 3-leak checklist. Share karo us owner ko jo 16 ghante kaam karta hai.",
+   "say": " "
+  }
+ ]
+}
