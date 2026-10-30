@@ -5,10 +5,16 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- TRY (30 Oct): **a high hookscore is not a held hook.** 94.8 hook (29 Oct) had the worst skip in 10 days (80.9%): 9 words + jargon ("input credit"). hookscore rewards stakes words, not clarity. Add a no-jargon, ≤ 6-word check on top of the score.
+- TRY (30 Oct): **never open on a reused clip.** 29 Oct opened on the 24 Oct accountant clip (that Reel had 69% skip; followers saw it 5 days earlier) and lost 81% in 3s.
+- TRY (30 Oct): **60s teaching Reels waste the back half.** Avg watch has been 6-14s on every Reel; 59.5s gave 10.7% watched. Go 30-40s until avg watch passes 10s, with the ask inside 8s.
+- TRY (30 Oct): human Veo voice beats Kokoro for retention (DbzTILTNcyZ 387%, 16 Oct 65% watched vs Kokoro Reels 11-30%). Test it on 31 Oct.
+- WEAK → near DROPPED (27-29 Oct): ₹ math card / SAVE THIS chip earns saves. 0 saves on 3 tries; the card sits after the point most viewers leave.
+- CHECKED 30 Oct: GST width (any GST business) didn't widen reach (0.99x median). Topic width is not the bottleneck; the first 3 seconds are.
 - PROVEN (25-29 Oct): **GST/tax-number Reels hold about 2x longer than Voxa missed-call Reels.** Avg watch at 24-48h: GST 13.6-15.7s (24 Oct had GST too: 4.6s, but that was before the informative format) vs Voxa 7.6s, 8.8s, 8.4s (3 in a row). Copied to rules.md. Lead teaching with numbers the viewer doesn't already know.
 - TRY (29 Oct): **no USD prices as a teaching fact for Indian viewers.** $49/200 min was the 28 Oct "strongest fact" and the Reel held 17.5%.
 - TRY (29 Oct): a keyword ask can't work below ~100 views (CALLS: 0 comments from 45 viewers). Keep alternating per the owner rule, but judge keywords only once a Reel gets 100+ views.
-- TRY (29 Oct): hook with a real deadline + a loss ("Stop losing GST input credit. Deadline: 30 November.", 94.8). Measure skip vs 64-66%.
+- DROPPED (30 Oct): hook with a real deadline + a loss alone cuts skip. 29 Oct (94.8) went to 80.9% skip vs 64-68%. Stakes in a long jargon line don't stop the scroll.
 - DROPPED-ish / WEAK (28 Oct): "a number in a ≤6-word hook cuts skip." 66% → 64%, no real change. Stakes matter more than a digit.
 - WEAK (28 Oct): a SAVE THIS chip alone gets no saves (0 on 27 and 28 Oct). Today it sits on a full-screen ₹ math card.
 - PROVEN (25-28 Oct): **an ask placed only at the end earns nothing.** 25, 26 and 27 Oct all ended on "share this" and got 0 shares; average viewers leave at 8-16s. Copied to rules.md. Ask mid-Reel at the strongest fact.

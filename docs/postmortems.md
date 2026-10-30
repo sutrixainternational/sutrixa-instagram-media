@@ -120,5 +120,57 @@ Posted 13:58 UTC (7:28 PM IST). First CALLS keyword Reel. Read 29 Oct ~13:40 UTC
 ---
 
 ## 2026-10-29 · Rizstay · eli5 Part 1 · "Stop losing GST input credit. Deadline: 30 November." (94.8) · 59.5s · DfFLD8akbLU
-Posted 14:01 UTC (7:31 PM IST). Reused clip (24 Oct accountant, new segment/angle/script). Send/save day. Numbers go here in the 30 Oct run (24h).
-To check: does a GST topic + money/date hook bring skip under 60% and avg watch back over 13s? Any saves on the ₹ math card? Any comments with a GST word? Followers at post time: 27.
+Posted 14:01 UTC (7:31 PM IST). Reused clip (24 Oct accountant, new segment/angle/script). Send/save day. Read 30 Oct ~13:25 UTC (about 23.4h after posting).
+
+| metric | 24h | account median / benchmark |
+|---|---|---|
+| views | **67** | median of last 10 Reels = 67.5 → **0.99x** |
+| avg watch | **6.3s (10.7%)** | 27 Oct 13.6s (30%), 28 Oct 8.1s (17%); benchmark 50% for 30-50s |
+| skip rate | **80.9%** | worst since 17-19 Oct (81-93%); 27/28 Oct were 68-69%; benchmark < 40% |
+| likes / comments / shares / saves | **1 / 0 / 1 / 0** | shares/reach ~1.5% (1 of 67); saves 0% vs 3.8% |
+| keyword comments | n/a (send day); 0 "GST word" comments | |
+| followers | **28** (+1 since post time, 27) | |
+
+28 Oct (DfClwW8D-Tw) at ~48h: 55 views (0.81x), 8.1s avg (16.9%), skip 68.2%, 2 likes, 1 share, 0 saves, 0 CALLS comments.
+27 Oct (DfAApRvjGNV) at ~72h: 92 views (1.36x), 13.6s (29.5%), skip 68.6%, 1 share. Still the best informative Reel.
+Pattern across all 12 Reels: **0 comments and 0 saves on every one.** 1 share each on 24, 25, 27, 28, 29 Oct.
+
+**Were the 29 Oct changes applied, and did they help?**
+1. GST topic any GST business can use: applied ✔. Views 0.99x, no wider reach. Didn't help.
+2. Money + date hook (94.8): applied ✔. Skip went UP 68% → 81%. A high hookscore did not hold strangers: the line was 9 words of jargon. Didn't help.
+3. ₹ math card + SAVE THIS in first 25s: applied ✔. 0 saves; avg viewer left at 6.3s, before the card. Couldn't help (nobody reached it).
+4. Mid send ask after the deadline: applied ✔. 1 share. Same as every Reel since 24 Oct; no lift.
+5. ELI5 analogy + comment-next-word: applied ✔. 0 comments.
+6. No USD / hotel-only opener: applied ✔. Neutral.
+
+**What went right**
+- Views on median despite the worst hold, so the account's baseline audition (~55-100) is stable.
+- 1 share again: someone sends every Reel. That person is likely a warm contact.
+
+**What went wrong (with reasons)**
+- **Hook text:** 9 words on screen ("Stop losing GST input credit. Deadline: 30 November."), over the 8-word rule, and "input credit" is jargon the viewer doesn't know yet. hookscore rewards stakes words; it doesn't penalise jargon. 81% left before 3s.
+- **First frame:** a reused clip (24 Oct accountant) whose own Reel had 69% skip, a calm desk shot with no motion of a problem. Followers had seen the same footage 5 days earlier.
+- **Voice:** Kokoro reading "G S T" letter by letter at 1.18x; the analogy only started at ~4s, after most viewers had gone. The account's best retention ever (DbzTILTNcyZ, 387%) and the 16 Oct Reel (65% watched, 24s) were short and voiced by Veo itself.
+- **Length:** 59.5s. With 6.3s average watch, every second past ~20s is watched by almost nobody and drags watched % to 10.7%.
+- **Ask:** mid send ask at ~20s and ₹ card at ~25s were past where 80% had left. Nobody heard them.
+- **Topic / trend fit:** fine on paper (ELI5 series is trending) but the series label "PART 1 · GST LIKE YOU'RE 5" was a second line of text competing with the headline at frame 0.
+- **Facts:** correct (s.16(2)(aa), 180 days, s.16(4) 30 Nov). **Posting time:** 19:31 IST, fine.
+
+**Change in the next Reel (31 Oct, Voxa, send/save day; Bablu EP1 on 30 Oct was built by the main session before this entry)**
+1. **First 2 seconds = a person speaking.** Open on a fresh Veo clip with its own spoken line (rules.md "Human voice"), not Kokoro. If no dialogue clip exists, the opening Kokoro line is ≤ 6 words.
+2. **On-screen hook ≤ 6 words, zero jargon,** one line only (no second label competing at frame 0; put PART N small at the top after 1.5s). Score it, and also reject any hook whose key noun the viewer must already know.
+3. **Never open on a reused clip.** Reused clips go in the middle only; frame 0 is always footage the account hasn't posted.
+4. **Length 30-40s** for teaching Reels until avg watch passes 10s again; the analogy or strongest fact lands by 5s.
+5. **The ask by 8s:** a SAVE/SEND line in the first 8s (where viewers still are) and again at the end. Nothing important after 25s.
+
+**Reach actions**
+- Owner (first hour of every Reel): send it to 5 named people (CA, a supplier, 3 owner friends). It's the only lever that has produced a share every day.
+- Owner: one comment-reply from the account on each new Reel within 10 min ("Which leak hits you most? 1, 2 or 3?") to seed the comment section; all 12 Reels have 0 comments, so strangers see an empty thread.
+- Owner: Story repost of each Reel with a poll sticker (Story viewers are warm, they watch longer).
+- System: shorter Reels, human Veo voice first, fresh clip at frame 0; judge on 24h.
+- Owner, optional: ₹300-500 boost of DfAApRvjGNV (best hold) to Indian business owners. Not run without your say-so.
+
+---
+
+## 2026-10-30 · Rizstay · story EP1 · "Bablu ka Hotel" (Hinglish, ~85s, keyword LEAK) · posted by the main session
+Numbers go here in the 31 Oct run (24h). To check: does a Hinglish character story hold past 10s (avg watch) and cut skip under 70%? Any LEAK comments (owed DMs)? Followers at post time: 28.
