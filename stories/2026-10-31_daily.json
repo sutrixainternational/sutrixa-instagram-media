@@ -1,0 +1,51 @@
+{
+"frames": [
+{
+"name": "d1_open",
+"kicker": "SATURDAY · MISSED-CALL MATH",
+"headline": "How many calls did you miss today? *Count them before you sleep.*",
+"size": 96
+},
+{
+"name": "d2_math",
+"kicker": "DO THE MATH",
+"headline": "3 missed calls × your average bill = *what walked away today.*",
+"bullets": [
+"Example: 3 × Rs 500 = Rs 1,500 in one day",
+"Your bill. Not ours."
+],
+"size": 84
+},
+{
+"name": "d3_fix",
+"kicker": "WHAT VOXA DOES",
+"headline": "Every call answered, *24/7.*",
+"bullets": [
+"Speaks *12 Indian languages*",
+"Books into Google Calendar, Outlook or Calendly",
+"Missed one anyway? It texts the caller back the moment it happens, so they hear from you first"
+],
+"foot": "voxa.sutrixa.com"
+},
+{
+"name": "d4_ask",
+"kicker": "QUICK QUESTION",
+"headline": "When do you miss the most calls? *Lunch, evening or after closing?*",
+"bullets": [
+"Reply with one word",
+"I'll answer every reply myself"
+],
+"size": 90
+},
+{
+"name": "d5_close",
+"kicker": "NEW REEL · 7:30 PM",
+"headline": "5 times calls go unanswered, *and the fix for each.*",
+"bullets": [
+"Missed-call math, Part 2",
+"Part 3 is on Wednesday, so follow now and it'll show up in your feed"
+],
+"foot": "@sutrixainternational"
+}
+]
+}

@@ -5,6 +5,9 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- TRY (31 Oct): **keep 2+ unused Gemini clips in "1 - Gemini clips" at all times.** 31 Oct found the folder holding only EP1 clips already used, so two post-mortem changes (fresh footage at frame 0, Veo voice in the first 2s) couldn't be applied. The clip task must refill, dialogue first.
+- TRY (31 Oct): **the run depends on one connector.** With vidIQ disconnected there are no insights and no publishing. Fallback that works: render + host on v/DATE + send the MP4 and caption to the owner to post by hand.
+- CHECK (31 Oct, untested): one-line ≤6-word ₹ hook with no label at frame 0, save/send ask at 6.9s. Judge at 24h in the 1 Nov run if the owner posted it.
 - TRY (30 Oct): **a high hookscore is not a held hook.** 94.8 hook (29 Oct) had the worst skip in 10 days (80.9%): 9 words + jargon ("input credit"). hookscore rewards stakes words, not clarity. Add a no-jargon, ≤ 6-word check on top of the score.
 - TRY (30 Oct): **never open on a reused clip.** 29 Oct opened on the 24 Oct accountant clip (that Reel had 69% skip; followers saw it 5 days earlier) and lost 81% in 3s.
 - TRY (30 Oct): **60s teaching Reels waste the back half.** Avg watch has been 6-14s on every Reel; 59.5s gave 10.7% watched. Go 30-40s until avg watch passes 10s, with the ask inside 8s.

@@ -1,0 +1,162 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "countdown",
+ "accent": "#FFD400",
+ "beat_bpm": 100,
+ "loop": true,
+ "voice": "af_heart",
+ "speed": 1.15,
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 10.0,
+   "say": "Stop losing ₹500 per missed call.",
+   "tts": "Stop losing five hundred rupees per missed call.",
+   "headline": "Stop losing ₹500 per missed call."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 12.5,
+   "headline": "10 missed calls × ₹500 = ₹5,000 a week",
+   "say": "Ten calls, ₹500 each? That's ₹5,000 a week.",
+   "label": "MISSED-CALL MATH · PART 2",
+   "tts": "Ten calls, five hundred rupees each? That's five thousand a week."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 15.0,
+   "say": "Save this. Send it to that owner.",
+   "label": "SAVE THIS · SEND THIS"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 0.5,
+   "say": "Number 5. Lunch rush, hands full.",
+   "label": "#5",
+   "tts": "Number five. Lunch rush, hands full."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    50,
+    100,
+    226,
+    126
+   ],
+   "tap": true,
+   "label": "#5 FIX",
+   "say": "Text-back sends the caller an SMS the moment you miss it,"
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    50,
+    140,
+    330,
+    206
+   ],
+   "tap": false,
+   "label": "#5 FIX",
+   "say": "so they hear from you before they call the next place."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 3.0,
+   "say": "Number 4. After closing time.",
+   "label": "#4",
+   "tts": "Number four. After closing time."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_hero.jpg",
+   "hl": [
+    12,
+    355,
+    330,
+    388
+   ],
+   "tap": true,
+   "label": "#4 FIX",
+   "say": "Voxa answers 24/7, every day.",
+   "tts": "Voxa answers twenty four seven, every day."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 5.5,
+   "say": "Number 3. Caller wants Tamil.",
+   "label": "#3",
+   "tts": "Number three. Caller wants Tamil."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 7.5,
+   "headline": "12 Indian languages",
+   "say": "It speaks 12 Indian languages.",
+   "label": "#3 FIX",
+   "tts": "It speaks twelve Indian languages."
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 11.5,
+   "say": "Number 2. They want a booking.",
+   "label": "#2",
+   "tts": "Number two. They want a booking."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 13.5,
+   "headline": "Books into Google Calendar, Outlook or Calendly",
+   "say": "It books them in, live.",
+   "label": "#2 FIX"
+  },
+  {
+   "kind": "clip",
+   "video": "work/clip.mp4",
+   "vstart": 17.0,
+   "say": "Number 1. Nobody counts them.",
+   "label": "#1",
+   "tts": "Number one. Nobody counts them."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 18.0,
+   "headline": "Count this week's missed calls × your average bill",
+   "say": "So tonight, count every missed call from this week",
+   "label": "#1 FIX"
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 19.0,
+   "label": "#1 FIX",
+   "headline": "Missed calls × average bill = what you lose",
+   "say": "and multiply by your average bill to see what you're losing."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 2.0,
+   "headline": "Send this to an owner who misses calls",
+   "say": "Send this to one owner."
+  },
+  {
+   "kind": "card",
+   "video": "work/clip.mp4",
+   "vstart": 9.0,
+   "headline": "Follow for one business fix a day. Part 3 Wednesday.",
+   "say": "Follow for one business fix a day. Stop losing calls."
+  }
+ ]
+}

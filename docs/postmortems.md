@@ -173,4 +173,53 @@ Pattern across all 12 Reels: **0 comments and 0 saves on every one.** 1 share ea
 ---
 
 ## 2026-10-30 · Rizstay · story EP1 · "Bablu ka Hotel" (Hinglish, 47s, keyword LEAK) · DfHupKPiiip · posted by the main session 13:51 UTC
-Numbers go here in the 31 Oct run (24h). To check: does a Hinglish character story hold past 10s (avg watch) and cut skip under 70%? Any LEAK comments (owed DMs)? Followers at post time: 28.
+**24h numbers: NOT PULLED.** The 31 Oct run had no vidIQ connector (it needs to be reconnected), so vidiq_instagram_owner_insights was unavailable. The 1 Nov run must fill this table at ~48h. Followers at post time: 28.
+
+| metric | 24h | account median / benchmark |
+|---|---|---|
+| views | pending (vidIQ disconnected) | median of last 10 = 67.5 |
+| avg watch / watched % | pending | 29 Oct 6.3s (10.7%) |
+| skip rate | pending | 29 Oct 80.9% |
+| likes / comments / LEAK comments / shares / saves | pending | |
+| followers | pending | 28 at post time |
+
+**Were the 29 Oct-entry changes applied in EP1?** (EP1 was built by the main session before that entry existed, so this is a fit check, not a test.)
+1. Person speaking in the first 2s: ✔ (Veo Bablu dialogue, Hindi).
+2. On-screen hook ≤ 6 words, no jargon: ✔ "16 ghante kaam. Paisa kahan gaya?" (6 words, no jargon) with the series label on top at frame 0 ✘ (second line competing).
+3. Fresh footage at frame 0: ✔ (new Veo clip).
+4. Length 30-40s: ✘ 47.6s.
+5. Ask by 8s: ✘ LEAK + share only on the end card (~44s). Same end-only pattern that is PROVEN to fail.
+
+**What went right (from the build, numbers pending)**
+- First human-voiced story Reel: Veo dialogue, Hinglish, recurring characters. Tests the 30 Oct TRY lesson directly.
+- 3 concrete facts (Rs 7,500 room slab 5%/18%, orders to kitchen screen, stock by recipe + reorder alert) on real Rizstay screens.
+
+**What went wrong (expected, with reasons)**
+- **Ask:** keyword and share sit only on the last card; the average viewer has left by 6-14s on every Reel so far. Expect few or no LEAK comments for that reason, not because of the keyword.
+- **Length:** 47.6s vs the 30-40s change; slow scene beats (7-9.6s clips) are over the 4s beat rule.
+- **Two lines at frame 0:** "BABLU KA HOTEL · EP 1" label + headline.
+- **Posting time:** ~7:52 PM IST, 20 min late; fine for the window.
+
+**Change in the next Reel (1 Nov, Sun: HR4U or the week's best)**
+1. Fill in the 30 Oct and 31 Oct numbers first (vidIQ must be reconnected).
+2. Keep the 31 Oct rules: one line at frame 0, ask by 8s, no beat > 4s.
+3. If EP1 held better than 29 Oct (avg watch > 10s), schedule EP2 (Voxa) with the dialogue clips in docs/clip_topics.md; if not, keep the narrator format.
+4. Fresh Gemini footage at frame 0: the "1 - Gemini clips" folder is now empty, so the owner/laptop clip task must add clips (dialogue first).
+
+**Reach actions**
+- Owner: reconnect vidIQ in claude.ai connector settings (blocks insights AND auto-posting).
+- Owner: DM anyone who commented LEAK (freebie: freebies/LEAK_2026-10-30.png). I couldn't read comments this run.
+- System: 1 Nov run pulls 48h numbers for 30 + 31 Oct.
+
+---
+
+## 2026-10-31 · Voxa · countdown "Missed-call math" Part 2 · "Stop losing ₹500 per missed call." (85.8) · 45.8s · NOT AUTO-POSTED
+vidIQ connector disconnected, so the system could not publish. Rendered, hosted at https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/v/2026-10-31/reel.mp4 and sent to the owner to post by hand at ~7:30 PM IST. Reused clip (USED_2026-10-25+31_voxa_restaurant_missed_calls; folder 1 had only EP1 clips). Numbers go here in the 1 Nov run, if the owner posted it.
+
+**29 Oct-entry changes, applied today?**
+1. Person speaking in first 2s: ✘ no Veo dialogue clip in Drive; fallback used (opening Kokoro line is the 6-word hook).
+2. Hook ≤ 6 words, zero jargon, one line at frame 0: ✔ (no label on beat 1; series label from beat 2 at ~3s).
+3. Never open on a reused clip: ✘ impossible today: no unused Gemini clip existed. Used a segment of the 25 Oct clip followers saw 6 days ago (the manager at the counter, 10s in), not the 25 Oct opening.
+4. Length 30-40s: partly: 45.8s (the owner's daily gate is 40-60s for countdown; 40 is the overlap, voice ran long). Strongest fact (₹ math) lands at 2.9s ✔.
+5. Ask by 8s: ✔ SAVE THIS · SEND THIS at 6.9s, send again at 40s; nothing new after ~37s.
+
