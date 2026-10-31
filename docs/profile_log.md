@@ -52,3 +52,5 @@
 ### 2026-10-30 15:40 IST (owner rule: no product pricing; owner said "yes" to editing captions)
 - Removed Voxa prices from 4 live captions: DfClwW8D-Tw (28 Oct: "$49 a month for 200 minutes" and "Growth plan" lines rewritten), De9bOrjDFEk (26 Oct), De63z8XEePe (25 Oct), Dejs2WJjJT7 (16 Oct). All 27 posts re-checked: no prices left in any caption.
 - The videos can't be edited. DfClwW8D-Tw says "$49" in its voiceover and on screen; older Voxa Reels may show it on screen too. Archiving them is app-only and the owner's call.
+
+<!-- 2026-10-31 18:55 IST: daily run blocked, the built-in browser pane is LOGGED OUT of Instagram (profile shows the public "Log in" view). Owner notified to log in. Not a daily entry: Part A + B for 31 Oct are still due. Later runs: re-check login and do the full run once logged in; do not re-notify about the logout before 2026-11-01 18:55 IST. -->
