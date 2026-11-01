@@ -1,0 +1,124 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "voice": "hm_omega",
+ "lang": "hi",
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/phone_rush.mp4",
+   "vstart": 2.9,
+   "dur": 4.6,
+   "clip_voice": true,
+   "speech": [
+    0.75,
+    4.35
+   ],
+   "punch": false,
+   "headline": "Stop losing ₹500 per missed call.",
+   "say": "Phone uthaun ya plate rakhun?! Har missed call ek booking thi."
+  },
+  {
+   "kind": "clip",
+   "video": "work/kaka_voxa.mp4",
+   "vstart": 0,
+   "dur": 2.3,
+   "clip_voice": true,
+   "speech": [
+    0.05,
+    2.0
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 2",
+   "headline": "Send this to the owner you know who never picks up at lunch.",
+   "say": "Beta, phone tu mat utha."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_hero.jpg",
+   "hl": [
+    20,
+    232,
+    364,
+    450
+   ],
+   "tap": true,
+   "audio_src": "work/kaka_voxa.mp4",
+   "astart": 2.3,
+   "dur": 3.85,
+   "speech": [
+    0.15,
+    3.65
+   ],
+   "label": "1 · AI RECEPTIONIST, 24/7",
+   "say": "Ek AI receptionist rakh, jo har call uthaye, chaubees ghante."
+  },
+  {
+   "kind": "clip",
+   "video": "work/kaka_voxa.mp4",
+   "vstart": 6.15,
+   "dur": 3.85,
+   "clip_voice": true,
+   "speech": [
+    0.45,
+    3.35
+   ],
+   "punch": false,
+   "label": "2 · 12 INDIAN LANGUAGES",
+   "say": "Hindi mein bhi baat karega? Barah bhashaon mein."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    26,
+    8,
+    376,
+    236
+   ],
+   "tap": true,
+   "audio_src": "work/phone_rush.mp4",
+   "astart": 7.6,
+   "dur": 3.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "label": "3 · MISSED CALL? AUTO SMS",
+   "say": " "
+  },
+  {
+   "kind": "card",
+   "video": "work/phone_rush.mp4",
+   "vstart": 0.2,
+   "dur": 3.4,
+   "speech": [
+    0,
+    0.1
+   ],
+   "label": "SAVE THIS",
+   "headline": "10 missed calls × ₹500 = ₹5,000 gone. Weekly.",
+   "say": " ",
+   "audio_src": "work/phone_rush.mp4",
+   "astart": 0.2
+  },
+  {
+   "kind": "card",
+   "video": "work/kaka_voxa.mp4",
+   "vstart": 5.8,
+   "dur": 4.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "label": "EP 3: BABLU KA STAFF REGISTER",
+   "headline": "Comment PHONE and I'll DM you my free 4-step fix. Follow for EP 3.",
+   "say": " ",
+   "audio_src": "work/kaka_voxa.mp4",
+   "astart": 9.5
+  }
+ ]
+}
