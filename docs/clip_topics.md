@@ -5,6 +5,8 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > 30 Oct (still binding) (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
 
+> **1 Nov status:** in Drive "1 - Gemini clips": `2026-11-01_dlg_ep2_phone_rush.mp4` (clip 1) and `2026-11-01_dlg_ep2_kaka_voxa.mp4` (clip 2), both 10s with the voice built in, use the full clip. Clip 3 (happy) failed, and then Google showed a "unusual traffic" robot check on Gemini (12:54 UTC). Never try to solve it; the owner clears it. For EP2 tonight: build it from clips 1+2 + Voxa screens. For the payoff, use the last 3s of the kaka_voxa clip or a Bablu `scene` image with an `hm_omega` TTS line "Ab koi call miss nahi hoti." Make clip 3 on the next clip run.
+
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
 1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.
