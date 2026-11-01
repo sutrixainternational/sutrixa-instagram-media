@@ -1,3 +1,83 @@
+# Swipe file (ig-viral), weekly review 1 Nov 2026
+
+## Read this first
+- Source: the laptop's read-only Instagram scans of 28-30 Oct (docs/trends.md), 11 niche-relevant Reels from the last 14 days. Raw rows: docs/swipe_niche_2026-11-01.tsv.
+- **The "views" column is LIKES.** Instagram web hides view counts, and no account medians were captured, so swipe.py cannot compute an outlier multiple for any row. The ranking below is by likes only. Treat it as format evidence, not proof of what beat its own account.
+- All 11 hooks are unclassified against hooks.json, and the highest-liked hooks score lowest on hookscore (median 33 top vs 51 bottom). Same lesson as our own 29 Oct Reel: hookscore catches bad hooks, it does not pick winners.
+
+## What to adapt (adapt, don't copy)
+| their move | our version | hookscore |
+|---|---|---|
+| canvas + climbing counter (aiwith.om, simulateitnow) | new **counter** preset: "Stop losing staff hours to 5 paper registers." chip "registers on 1 screen 1/5 → 5/5" | 85.8 |
+| money-loss story in Hinglish (ganesh.debnath__) | "Stop losing ₹500 on every missed call." chip "calls answered 0 → 5" | 85.8 |
+| deadline listicle (cadeveshthakur.official) | carousel "Your GST credit expires 30 Nov." (branch c/2026-11-01) | 51.2 (carousel cover, not a Reel gate) |
+| numbered explainer series (fewshot.studio, system.simplified) | keep eli5 Part N, but ≤ 6-word no-jargon line at frame 0 | |
+| KOT lost slip | "Stop writing KOTs by hand. 1 lost slip, 1 angry table." | 94.8 |
+
+---
+# Swipe file
+
+11 reels across 11 accounts. Ranked by multiple over follower count.
+
+## ?  unclassified  (@simulateitnow)
+- views: 92,000  baseline: 0
+- hook score: 32.8  words: 17
+- hook: "Conformity is a shift in public judgment toward an answer a person can already see is wrong"
+
+## ?  unclassified  (@fewshot.studio)
+- views: 61,000  baseline: 0
+- hook score: 30.0  words: 9
+- hook: "Maps ko jam ka pata kaise chala, tumse pehle?"
+
+## ?  unclassified  (@nick_saraev)
+- views: 5,342  baseline: 0
+- hook score: 56.0  words: 9
+- hook: "Comment SOUND to get these 3 free AI tools"
+
+## ?  unclassified  (@ca.kushalgarg)
+- views: 4,200  baseline: 0
+- hook score: 50.0  words: 6
+- hook: "GST Registration Rejected? Know your rights"
+
+## ?  unclassified  (@aiwith.om)
+- views: 3,082  baseline: 0
+- hook score: 36.4  words: 13
+- hook: "App launch kiya… koi use nahi kar raha? Har jagah post mat karo"
+
+## ?  unclassified  (@sharransrivatsaa)
+- views: 2,747  baseline: 0
+- hook score: 44.0  words: 8
+- hook: "There are 3 parts to a compounding machine"
+
+## ?  unclassified  (@woke_engineer)
+- views: 2,738  baseline: 0
+- hook score: 36.4  words: 12
+- hook: "This AI agent finds customers and handles your sales outreach for you!"
+
+## ?  unclassified  (@system.simplified)
+- views: 1,955  baseline: 0
+- hook score: 45.8  words: 3
+- hook: "Micro Saas 01"
+
+## ?  unclassified  (@vanturexmedia)
+- views: 1,495  baseline: 0
+- hook score: 30.0  words: 8
+- hook: "Agar hum aapke salon ki marketing handle karte"
+
+## ?  unclassified  (@cadeveshthakur.official)
+- views: 1,026  baseline: 0
+- hook score: 61.2  words: 12
+- hook: "GSTR-9 FY 2025-26: 20 points in 60 seconds. Once filed, NO revision"
+
+## ?  unclassified  (@ganesh.debnath__)
+- views: 626  baseline: 0
+- hook score: 50.6  words: 13
+- hook: "₹40,000 ka video ad… aur log 3 second mein scroll kar gaye"
+
+
+
+---
+# Previous swipe (25 Oct)
 # Swipe file (ig-viral), 25 Oct 2026
 
 ## Read this first: what this file is and is not

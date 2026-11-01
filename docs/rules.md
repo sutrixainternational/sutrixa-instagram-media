@@ -21,6 +21,15 @@
 - Caption: put the search phrase in a normal sentence in the first two lines. Use one ask, rotating between "save this", "send this to a hotel owner" and "comment DEMO". Use DEMO only if the owner has agreed to handle DMs.
 - (SUSPENDED 27 Oct: Meta refuses Trial Reels for this app, code 10/2207081.) Daily Trial Reel: after the main Reel is posted, render a second cut from the same clip, with a different hook formula from ig-reel and a different product step order. Publish it as a Trial Reel with trialParams {graduationStrategy: "SS_PERFORMANCE"}. Instagram shows it to non-followers first, and auto-shares it to followers if it performs. Log both posts.
 
+## Hook guidance (weekly review, 1 Nov). Overrides the 25 Oct block below where they differ
+- **Two gates, both required:** hookscore.py ≥ 75 AND the on-screen line is ≤ 6 words with no word the viewer must already know (no "input credit", "ITC", "KOT", "GSTR-2B" at frame 0; explain them later). Evidence: 29 Oct scored 94.8 and had the worst skip in 10 days (80.9%). Niche check this week: the most-liked niche hooks scored lowest on hookscore (median 33 vs 51, docs/swipe.md). The score is a floor, not a predictor.
+- **One line at frame 0.** No series label, no second text line until ~1.5s.
+- **Frame 0 is fresh footage with the problem moving.** Never open on a reused clip. Never a calm desk shot.
+- **Say a ₹ figure or the viewer's own maths inside 3s** ("Stop losing ₹500 on every missed call." 85.8). Stakes in plain words beat a date plus jargon.
+- **Ask by 8s** (save or send), then again at the end. Nothing important after 25s while average watch is 6-14s.
+- **A person speaking in the first 2s** when a Veo dialogue clip exists (bet, not yet measured: EP1 numbers are pending).
+- Hooks ready for next week: "Stop writing KOTs by hand. 1 lost slip, 1 angry table." 94.8 (frame-0 cut: "1 lost slip. 1 angry table.") · "Stop losing ₹800 of GST every month." 85.8 · "Stop losing staff hours to 5 paper registers." 85.8 · "Stop missing calls. Watch this number climb." 80.2 (counter preset).
+
 ## Hook guidance (weekly review, 25 Oct)
 - The gate is real: hookscore.py >= 75 on the line that is actually on screen at frame 0. The 24 Oct hook ("Your hotel's accountant. 11 PM. Again.") scores 54.8, so it went out under the gate. Log the score in docs/posted.md for every post.
 - What scored >= 75 this week: #2 Negative Command with a concrete object ("Stop writing KOTs by hand. 1 lost slip is 1 angry table." 95; "Stop splitting CGST and SGST yourself. Your bill can do it." 81; "Stop adding room and restaurant GST by hand at 11 PM." 80) and #20 Permission ("Your 20-room hotel doesn't need an enterprise system." 78).

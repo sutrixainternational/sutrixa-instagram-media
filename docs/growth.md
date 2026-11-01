@@ -72,3 +72,40 @@ Fixes, in order (the owner makes all of them in the app):
 
 ### ig-repurpose
 Skipped: the owner has not shared a long asset.
+
+## Week ending 1 Nov 2026 (second weekly review)
+
+### Run status
+- **No new numbers this week.** The vidIQ connector needs to be reconnected, so vidiq_instagram_owner_insights could not run (it also blocks auto-posting since 31 Oct). Every figure below is the latest one already logged in docs/postmortems.md (reads of 28-30 Oct). Nothing is estimated or rounded up.
+- Agent Reach was not installed (the install was blocked in this session). Research used WebSearch/WebFetch plus the laptop's live scans of 28-30 Oct.
+
+### Numbers
+- Followers: **28** at the last read (30 Oct, 13:51 UTC). Last week: **4**. Change: **+24** (+19 of them landed 27 Oct with the profile rewrite and the first Stories).
+- Gap to target: **99,972** followers in 23 days, about **4,347 a day**. The account is gaining about 3-4 a day. The target will not be met by 24 Nov. The honest next marks: first Reel past 1,000 views, first 100 followers.
+- 30 Oct (Bablu EP1, DfHupKPiiip) and 31 Oct (Missed-call math Part 2, hosted, sent to the owner to post by hand): no numbers yet.
+
+| date | preset | product | hook (on screen) | len | views | x median | avg watch | watched | skip | shares | saves | read at |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 27 Oct | tips | Rizstay | Stop adding GST by hand at 11 PM. (80.2) | 46s | 92 | 1.36x | 13.6s | 29.5% | 68.6% | 1 | 0 | 72h |
+| 29 Oct | eli5 | Rizstay | Stop losing GST input credit. Deadline: 30 November. (94.8) | 59.5s | 67 | 0.99x | 6.3s | 10.7% | 80.9% | 1 | 0 | 24h |
+| 28 Oct | countdown | Voxa | Stop these 5 missed-call mistakes. (85.8) | 48.6s | 55 | 0.81x | 8.1s | 16.9% | 68.2% | 1 | 0 | 48h |
+| 30 Oct | story | Rizstay | 16 ghante kaam. Paisa kahan gaya? | 47.6s | pending | | | | | | | |
+| 31 Oct | countdown | Voxa | Stop losing ₹500 per missed call. (85.8) | 45.8s | not posted by the system | | | | | | | |
+Median of the last 10 Reels: 67.5 views. 0 comments and 0 saves on every Reel so far.
+
+### ig-audit (n = 3 measured Reels this week; low confidence)
+- **Best: 27 Oct tips "Stop adding GST by hand at 11 PM."** 1.36x median and the best hold on the account (13.6s). Why: a plain hook with no jargon, real ₹ rules (₹7,500 room slab, 5% vs 18%), on real Rizstay screens.
+- **Worst: 29 Oct eli5 "Stop losing GST input credit…"** 80.9% skip, 6.3s average. Why: 9 words of jargon at frame 0 plus a series label, a reused calm clip, Kokoro spelling "G S T", 59.5s long. The highest hookscore of the week did the worst.
+- By preset: tips > eli5 ≈ countdown on views; tips > countdown > eli5 on hold. By product: Rizstay GST holds ~2x Voxa (PROVEN). By hook score: no link to results (94.8 worst, 80.2 best). By length: 46s held best, 59.5s worst. By clip: the only reused clip had the worst skip.
+- Every Reel still loses 64-81% in 3 seconds. That is the bottleneck, not topic width.
+
+### Decisions
+- **Weights** (docs/presets.md): tips 4 · counter 3 · countdown 2 · eli5 2 · story 2 · stages 2 · pov 2 · proof 2 · quiz 1. Was eli5 4 · countdown 4 · tips 3 · stages 2 · pov 2 · quiz 1 · proof 1.
+- **New preset: counter** (persistent background + a stat chip that climbs each beat). Seen 2 days running in the live scans (aiwith.om 29 Oct, simulateitnow 30 Oct: 7,686 shares). Built from screen beats.
+- **Hooks** (docs/rules.md): two gates (hookscore ≥ 75 AND ≤ 6 words, no jargon at frame 0), one line at frame 0, ₹ or own-maths inside 3s, ask by 8s.
+- **Clip topics** (docs/clip_topics.md): a 7-clip queue for 2-8 Nov matched to pillar days, dialogue clips first, folder must never be empty again.
+- **Engage** (docs/engage.md): 10 accounts, each marked with how it was verified; 2 GST creators and 2 faceless peers swapped in.
+- **Swipe** (docs/swipe.md): 11 niche Reels from the live scans. Likes only, no medians, so no outlier multiples.
+- **Profile**: 55/100 carried from 30 Oct (not re-verified). Fixes in docs/profile_log.md.
+- **Carousel**: "Your GST credit expires 30 Nov." 9 slides on branch c/2026-11-01 (caption READY, ig-human 90.4 slides / 82.7 caption).
+- **ig-repurpose**: skipped, the owner hasn't shared a long asset.

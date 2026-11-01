@@ -1,4 +1,9 @@
-> 30 Oct (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
+# Gemini clip topics. Rewritten by the weekly review, 1 Nov 2026
+Evidence this week (24-29 Oct reads; vidIQ disconnected for 30-31 Oct): GST/tax-number Reels hold ~2x longer than Voxa missed-call Reels (13.6-15.7s vs 7.6-8.8s avg watch). Every Reel loses 64-81% in the first 3 seconds. The two things that move the first 3s are a fresh clip with the problem in motion and, as a bet, a human Veo voice. Folder "1 - Gemini clips" was EMPTY on 31 Oct: **keep at least 2 unused clips in it**, dialogue first.
+
+Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian setting, natural sound, no text, no logos. The problem moves in the first second. Prompt shape: subject + action + camera move + style + light + specs, 50-100 words.
+
+> 30 Oct (still binding) (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
 
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
@@ -7,6 +12,27 @@ Characters (3D animated feature-film style, keep identical every time): BABLU: c
 3. dlg_ep2_happy - evening, Bablu relaxed, phone rings once and stops, he smiles at the camera and says: "Ab koi call miss nahi hoti." Slow push-in.
 4. dlg_moment_month_end (moment Reel, like DbzTILTNcyZ) - real (not cartoon) Indian hotel owner at night with registers says softly to himself: "Har mahine yahi... CA ka phone, aur bill ka hisaab." Warm lamp, realistic.
 5. dlg_moment_salon - real Indian salon owner mid-haircut, phone buzzing in her apron, she sighs: "Ek haath mein kainchi, ek mein phone... kaise sambhalun?"
+
+
+## Next week (2-8 Nov), in order. Match the pillar day (docs/strategy.md)
+| # | file name | day / preset | scene (frame 0 = problem moving) | hook (hookscore) |
+|---|---|---|---|---|
+| 1 | 2026-11-02_dlg_hr4u_leave_whatsapp | Mon HR4U · tips | office manager's phone buzzing nonstop with WhatsApp leave messages, she says in Hindi, tired: "Aaj phir teen log chhutti pe... kisne bataya tha?" handheld push-in | write ≥ 75 on the day |
+| 2 | 2026-11-03_rizstay_cgst_sgst_envelopes | Tue Rizstay · eli5 Part 2 (CGST vs SGST, series plan below) | clerk tearing one bill total into two envelopes at a hotel counter while a guest taps the desk, static close-up then push-in; plus an analogy shot of a wedding envelope split in two | "Stop splitting CGST and SGST yourself. Your bill can do it." (81, 25 Oct; 10 words, so put a ≤ 6-word cut of it on screen and score it on the day) |
+| 3 | 2026-11-04_dlg_ep2_phone_rush | Wed Voxa · story EP2 or countdown Part 3 | dialogue clip 1 above (Bablu, plates, ringing phone) | "Stop losing ₹500 on every missed call." (85.8) |
+| 4 | 2026-11-05_rizstay_kot_lost_slip | Thu Rizstay · **counter** | handwritten KOT slip sliding off the pass behind the counter, a table waving, static close-up then tilt | "Stop writing KOTs by hand. 1 lost slip, 1 angry table." (94.8) |
+| 5 | 2026-11-06_velocity_empty_google_listing | Fri Velocity · proof | shop owner showing a phone with an empty map listing to a customer who shrugs and walks off, handheld | write ≥ 75 on the day; Velocity facts only as in products.md |
+| 6 | 2026-11-07_dlg_moment_salon | Sat Voxa · moment (8-10s) | dialogue clip 5 above (salon owner, scissors + phone) | the spoken line is the hook |
+| 7 | 2026-11-08_rizstay_registers_pile | Sun best-of · counter | five paper registers stacked on a front desk, one slides and falls, receptionist sighs, slow push-in | "Stop losing staff hours to 5 paper registers." (85.8) |
+
+## Keep making (proven lane)
+- Rizstay GST numbers any GST business can use (input credit, CGST/SGST split, ₹7,500 room slab). Facts checked every time (no IGST-for-rooms).
+- Analogy shots for eli5: chai stall, kirana counter, wedding envelope, lift buttons.
+
+## Dropped (losers, do not make again)
+- Calm desk/accountant shots with no motion at frame 0 (24 Oct clip reused 29 Oct: 80.9% skip).
+- Brand intros, polls, generic "AI automation" lists, vague hotel-experience lines, Velocity "sales target" framing (25 Oct review: 10-17 views, 70-92% skip).
+- Voxa website marketing pages as the main visual (28 Oct: nothing to screenshot). Use the real text-back screen or a Bablu scene.
 
 > 28 Oct (skills_ext/marketingskills/video/references/ai-video-prompting.md): write every Gemini prompt as subject + action + camera movement + style + lighting/mood + specs, 50-100 words. Always name the camera move (slow push-in, handheld follow, static close-up). Put the problem IN MOTION in the first second (phone ringing and vibrating, slip falling, queue forming). Indian setting and people, realistic, vertical 9:16, natural sound, no on-screen text, no logos.
 
@@ -20,32 +46,3 @@ Gemini clips for series need an **analogy shot** as well as the problem shot.
 - **"AI receptionist, explained like you're 5"** (Voxa, Wed/Sat): what it does on a missed call, in 12 Indian languages. No pricing (owner rule).
 Analogy clip prompts: everyday Indian scenes (chai stall, kirana counter, wedding envelope, lift buttons), realistic, 9:16, no text.
 
-# Gemini clip topics (rotate in order, skip ones already in Drive "3 - Posted")
-Updated by the weekly review, 25 Oct 2026. Evidence: 13 Reels, 740 lifetime views, 4 followers. That is too small to prove anything, so these are bets, not laws.
-
-Each clip: vertical 9:16, realistic, ~8-12s, no text, no logos, natural sound. One relatable problem the product fixes, and the problem must be visible in the first second (the average viewer leaves at about 4s).
-
-## Double down (closest thing to a winner we have)
-The only Reel that earned a share (24 Oct, "Your hotel's accountant. 11 PM. Again.") was Rizstay + GST + a named time. Concrete Rizstay billing pain is the lane.
-1. rizstay_gst_bill - hotel guest at checkout waiting while the clerk adds room and restaurant bills on a calculator. Hook: "Stop adding room and restaurant GST by hand at 11 PM." (80, #2)
-2. rizstay_kot_lost_slip (NEW) - busy restaurant, a handwritten order slip falls behind the counter, a table waves angrily. Hook: "Stop writing KOTs by hand. 1 lost slip is 1 angry table." (95, #2)
-3. rizstay_ca_month_end (NEW) - hotel owner at night, phone lights up with the accountant's name, a pile of paper registers. Hook: "Stop splitting CGST and SGST yourself. Your bill can do it." (81, #2)
-4. voxa_lunch_rush_missed_call (NEW) - restaurant owner carrying plates, phone ringing unanswered on the counter. Voxa facts only: answers calls, missed-call text-back, 12 Indic languages. No pricing (owner rule).
-5. rizstay_small_hotel_big_system (NEW) - owner of a small guest house staring at a cluttered, confusing screen. Hook: "Your 20-room hotel doesn't need an enterprise system." (78, #20 Permission)
-6. rizstay_stock_runout - cook opening an empty spice container mid-service. Pair with the real dashboard line "46 ingredients at or below reorder level".
-7. rizstay_frontdesk - check-in rush, receptionist flipping a paper register while guests wait.
-8. voxa_clinic_after_hours - small clinic reception closed at night, phone ringing in the dark.
-9. hr4u_payroll_excel - HR manager at month end, messy spreadsheet, attendance printouts. (made 24 Oct)
-10. hr4u_leave_whatsapp - office manager scrolling endless WhatsApp leave requests on a phone, sighing.
-
-Product rotation still wins over list order: Rizstay at most 2 of any 5 days. docs/plan.md has this week's order.
-
-## Dropped (losers, do not make again)
-- Brand intros ("Introducing Sutrixa", "Your business runs 24/7", "intelligence layer"): 11, 14 and 17 views, bottom third.
-- Polls and "which one would you pick" Reels (20 Oct): 12 views, 0 answers.
-- Generic "AI automation" listicles with no product on screen (17 Oct): 61 views, 92% skip.
-- Vague hotel-experience lines ("Guests judge your hotel before they say hello"): 10 views, the worst Reel.
-- Velocity "sales target" framing (18 Oct): 74 views but 88% skipped and 1.9s average watch, the worst hold. Velocity stays off until the owner confirms it is live.
-- velocity_shop_owner_social, voxa_hindi_caller, voxa_salon_missed_calls, rizstay_kitchen_orders: parked (replaced by sharper versions above).
-
-Then repeat with fresh settings (different city, time of day, people).

@@ -54,3 +54,14 @@
 - The videos can't be edited. DfClwW8D-Tw says "$49" in its voiceover and on screen; older Voxa Reels may show it on screen too. Archiving them is app-only and the owner's call.
 
 <!-- 2026-10-31 18:55 IST: daily run blocked, the built-in browser pane is LOGGED OUT of Instagram (profile shows the public "Log in" view). Owner notified to log in. Not a daily entry: Part A + B for 31 Oct are still due. Later runs: re-check login and do the full run once logged in; do not re-notify about the logout before 2026-11-01 18:55 IST. -->
+
+## 2026-11-01 (weekly review, cloud, read-only)
+- No live view this run: the cloud can't open instagram.com and the laptop pane was logged out on 31 Oct. Score carried from the last live read (30 Oct): **55/100** (name 10/12 · bio line 1 4/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 8/10 · stories 2/6). Not re-verified, so treat as stale.
+- Copy-ready fixes for the owner, in order of points lost:
+  1. Pinned three (0/10, 4 taps): pin https://www.instagram.com/reel/DfFLD8akbLU/ (GST credit, live until 30 Nov), https://www.instagram.com/reel/DfAApRvjGNV/ (best hold), and this week's GST credit carousel once posted (branch c/2026-11-01).
+  2. Bio line 1 (4/12): says "Enterprise AI || SAAS", not who it's for. Option (146 chars), only with the owner's OK:
+     `Hotels, restaurants & shops in India:` / `AI for GST billing, calls, payroll & marketing.` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ projects delivered ↓`. Keep the cities line instead of the last line if the owner prefers.
+  3. Highlights (0/8) and stories (2/6): post the rendered Story frames (branches s/2026-10-28 to s/2026-10-31) from the phone, then make START · RIZSTAY · VOXA · HR4U · FREEBIES.
+  4. Grid: archive the 11 Sep brand intros (DdKZkPoTKoP, DdKZgwSz_1J) and DeejRRbCME8.
+  5. Name field: no change before 10 Nov (14-day window).
+- Projected if 1-3 are done: about 77/100 (pinned +8, bio line 1 +6, highlights +5, stories +3). Not verified.
