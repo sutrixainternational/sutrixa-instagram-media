@@ -5,7 +5,7 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > 30 Oct (still binding) (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
 
-> **1 Nov status:** all 3 EP2 clips are in Drive "1 - Gemini clips" (10s each, voice built in, use the full clip): `2026-11-01_dlg_ep2_phone_rush.mp4`, `2026-11-01_dlg_ep2_kaka_voxa.mp4`, `2026-11-01_dlg_ep2_happy.mp4`. Next to make: clips 4-5 below. If Google shows an "unusual traffic" robot check, never try to solve it: stop and retry later (on 1 Nov it cleared by itself within about 20 min).
+> **1 Nov status (after the 7:30 PM run):** EP2 posted at 14:00 UTC (DfM5OWDFD4v) with clips 1+2 (moved to "3 - Posted" as USED_2026-11-01_*). Clip 3 `2026-11-01_dlg_ep2_happy.mp4` landed in Drive after EP2 was rendered, so it is still UNUSED in "1 - Gemini clips": use it next as a short moment Reel/EP2 payoff opener ("Ab koi call miss nahi hoti."). Next to make: clips 4-5 below, then EP3 (HR4U staff register). If Google shows an "unusual traffic" robot check, never try to solve it: stop and retry later.
 
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.

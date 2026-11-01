@@ -5,6 +5,8 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- TRY (1 Nov): **human-voice story vs narrator.** EP1 (Veo dialogue) got the most views of the last 10 (127, 1.56x median) and skip 68.1% (narrator median ~69.5%), but avg watch 5.8s (narrator median ~7.7s) and 12.4% watched at 47.6s. Read: a talking character wins the impression and the first second, then a slow scene loses people at ~6s. Keep the voice, put the stake on screen at frame 0, cut to ~25s. EP2 (1 Nov, 25.4s) tests it; need 2+ story Reels before PROVEN.
+- CHECKED (1 Nov): the 31 Oct hand-post fallback did not get posted. A Reel that needs the owner to post is a skipped day; auto-publish whenever vidIQ is up.
 - TRY (31 Oct): **keep 2+ unused Gemini clips in "1 - Gemini clips" at all times.** 31 Oct found the folder holding only EP1 clips already used, so two post-mortem changes (fresh footage at frame 0, Veo voice in the first 2s) couldn't be applied. The clip task must refill, dialogue first.
 - TRY (31 Oct): **the run depends on one connector.** With vidIQ disconnected there are no insights and no publishing. Fallback that works: render + host on v/DATE + send the MP4 and caption to the owner to post by hand.
 - CHECK (31 Oct, untested): one-line ≤6-word ₹ hook with no label at frame 0, save/send ask at 6.9s. Judge at 24h in the 1 Nov run if the owner posted it.

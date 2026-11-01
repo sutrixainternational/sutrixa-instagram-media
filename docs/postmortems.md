@@ -173,7 +173,7 @@ Pattern across all 12 Reels: **0 comments and 0 saves on every one.** 1 share ea
 ---
 
 ## 2026-10-30 · Rizstay · story EP1 · "Bablu ka Hotel" (Hinglish, 47s, keyword LEAK) · DfHupKPiiip · posted by the main session 13:51 UTC
-**24h numbers: NOT PULLED.** The 31 Oct run had no vidIQ connector (it needs to be reconnected), so vidiq_instagram_owner_insights was unavailable. The 1 Nov run must fill this table at ~48h. Followers at post time: 28.
+**~48h numbers (pulled 1 Nov 13:20 UTC, vidIQ reconnected):** 127 views (**1.56x** the last-10 median of 81.5, best of the last 10), avg watch 5.8s = 12.4% of 47s, skip 68.1%, 2 likes, 0 comments (0 LEAK), 1 share, 0 saves. Followers 28 → 30 (+2). (The 24h read in the 31 Oct run was impossible: vidIQ disconnected.)
 
 | metric | 24h | account median / benchmark |
 |---|---|---|
@@ -223,3 +223,41 @@ vidIQ connector disconnected, so the system could not publish. Rendered, hosted 
 4. Length 30-40s: partly: 45.8s (the owner's daily gate is 40-60s for countdown; 40 is the overlap, voice ran long). Strongest fact (₹ math) lands at 2.9s ✔.
 5. Ask by 8s: ✔ SAVE THIS · SEND THIS at 6.9s, send again at 40s; nothing new after ~37s.
 
+
+**31 Oct update (1 Nov run):** the hand-post fallback did not happen: no 31 Oct Reel exists in owner insights, so the last published Reel is still EP1 (30 Oct). Nothing to measure for 31 Oct; the MP4 stays on v/2026-10-31 and the topic (Missed-call math Part 2) is folded into today's EP2 (Voxa).
+
+---
+
+## 2026-11-01 run · post-mortem of the previous Reel: Bablu ka Hotel EP1 (DfHupKPiiip, 30 Oct, human voice, 47.6s, LEAK)
+| metric | ~48h | last-10 median / benchmark |
+|---|---|---|
+| views | **127** | 81.5 (1.56x, best of last 10) |
+| avg watch / watched % | 5.8s / 12.4% | narrator Reels 24-29 Oct: 4.8-13.1s, median ~7.7s |
+| skip rate | 68.1% | narrator 24-29 Oct: 67.4-76.8%, median ~69.5% |
+| likes / comments / LEAK / shares / saves | 2 / 0 / 0 / 1 / 0 | 0-2 / 0 / - / 0-1 / 0 |
+| followers | 30 (+2 since post) | 28 at post |
+
+Other 24h+ re-reads this pull: 29 Oct eli5 77 views, 5.8s, 9.9%, skip 76.8% (was 80.9% at 24h) · 28 Oct countdown 60 views, 8.1s, 16.9%, skip 68.8% · 27 Oct tips 95 views, 13.1s, 28.5%, skip 69.9%.
+
+**What went right (with reasons)**
+- Most reach of any Reel in 10: a talking cartoon character in frame 0 is a pattern interrupt in a feed of stock-footage explainers; Instagram pushed it to ~1.5x more people.
+- Skip 68.1% is at the good end of the range, a bit better than the narrator median, despite a 2-line frame 0.
+- +2 followers in 48h (story + "EP 2" promise gives a reason to follow).
+
+**What went wrong (with reasons)**
+- Avg watch 5.8s: viewers still leave at ~6s. The first 7s was one long slow dialogue beat (16 hours of work) with no stakes number; the "leak" reveal came at ~8s, after most people had left.
+- 0 LEAK comments, 0 saves: keyword and share ask only on the last card at ~44s; ~nobody got there (PROVEN end-only ask failure, again).
+- 47.6s is too long for a 5.8s average watch: 12.4% watched.
+
+**Change in the next Reel (applied today, 1 Nov EP2)**
+1. Keep the human Veo voice and the characters (it won reach). ✔
+2. Character speaks inside 1s; ₹ stake on screen at frame 0 ("Stop losing ₹500 per missed call.", 85.8). ✔ speech at 0.75s
+3. One line at frame 0, series label from beat 2. ✔
+4. Send ask by 5s (beat 2 headline), keyword on the end card AND in caption line 2. ✔ (4.6s)
+5. Cut length to ~25s, 3 facts by 15s. ✔ 25.4s
+6. No beat > 4s: ✘ partly (dialogue beat 1 is 4.6s and the end card 4.2s, because the spoken lines can't be cut mid-sentence).
+
+**Reach actions**
+- Owner: send EP2 to 5 people in the first hour (CA, supplier, 3 owner friends); the only lever that has produced shares.
+- Owner: seed the comment thread from the account within 10 min ("Lunch rush mein phone kaun uthata hai? 1) main 2) staff 3) koi nahi").
+- Owner: Story frames below (poll on frame 4), repost the Reel to Story.

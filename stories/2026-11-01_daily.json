@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "SUNDAY · BABLU KA HOTEL", "headline": "Plates in both hands. Phone ringing. *What do you pick?*", "size": 96},
+{"name": "d2_math", "kicker": "DO THE MATH", "headline": "Missed calls this week × your average bill = *what walked out.*", "bullets": ["Example: 10 × ₹500 = ₹5,000 a week", "Your numbers. Not ours."], "size": 84},
+{"name": "d3_fix", "kicker": "KAKA'S FIX", "headline": "An AI receptionist that picks up *every call, 24/7.*", "bullets": ["Talks in *12 Indian languages*, Hindi too", "Missed one anyway? The caller gets an SMS right away"], "foot": "voxa.sutrixa.com"},
+{"name": "d4_ask", "kicker": "QUICK QUESTION", "headline": "Who picks up your phone at lunch rush? *You, staff, or nobody?*", "bullets": ["Reply with one word", "I read every reply"], "size": 90},
+{"name": "d5_close", "kicker": "NEW REEL · EP 2", "headline": "Bablu ka Hotel, Episode 2 is out. *Comment PHONE for the free fix.*", "bullets": ["EP 3: Bablu's staff register", "Follow so you don't miss it"], "foot": "@sutrixainternational"}
+]
+}
