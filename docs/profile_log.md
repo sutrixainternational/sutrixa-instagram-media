@@ -58,6 +58,7 @@
 <!-- 2026-11-01 12:50 IST: daily run blocked again, built-in browser pane still LOGGED OUT of Instagram (public view shows "Log In"; 30 followers, 4 following, bio unchanged "Enterprise AI || SAAS"). Part A (trends) and Part B (profile) for 31 Oct + 1 Nov are still due as one combined run (Sunday deeper pass included). Not re-notified (owner told on 31 Oct; next reminder allowed after 2026-11-01 18:55 IST). -->
 <!-- 2026-11-01 16:15 IST: re-checked, pane still LOGGED OUT (public view, 30 followers, bio unchanged). Parts A+B still due. Not re-notified before 18:55 IST. -->
 <!-- 2026-11-01 16:55 IST: re-checked, pane still LOGGED OUT (public view, 30 followers, bio unchanged). Parts A+B still due. Not re-notified before 18:55 IST. -->
+<!-- 2026-11-01 18:39 IST: re-checked, pane still LOGGED OUT (public view shows "Log In"; 30 followers, 4 following, bio unchanged). Parts A+B still due. Not re-notified (window opens 18:55 IST; the next hourly run should send one reminder). -->
 
 ## 2026-11-01 (weekly review, cloud, read-only)
 - No live view this run: the cloud can't open instagram.com and the laptop pane was logged out on 31 Oct. Score carried from the last live read (30 Oct): **55/100** (name 10/12 · bio line 1 4/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 8/10 · stories 2/6). Not re-verified, so treat as stale.
