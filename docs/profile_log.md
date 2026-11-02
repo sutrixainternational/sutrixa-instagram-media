@@ -71,3 +71,5 @@
   4. Grid: archive the 11 Sep brand intros (DdKZkPoTKoP, DdKZgwSz_1J) and DeejRRbCME8.
   5. Name field: no change before 10 Nov (14-day window).
 - Projected if 1-3 are done: about 77/100 (pinned +8, bio line 1 +6, highlights +5, stories +3). Not verified.
+
+<!-- 2026-11-02 13:00 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (public view shows "Log In"; 30 followers, 4 following, bio unchanged "Enterprise AI || SAAS"). Parts A+B for 31 Oct, 1 Nov and 2 Nov still due as one combined run (Sunday deeper pass included). Not re-notified (next reminder no earlier than 2026-11-02 18:55 IST). -->
