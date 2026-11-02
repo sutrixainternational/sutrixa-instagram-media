@@ -73,3 +73,4 @@
 - Projected if 1-3 are done: about 77/100 (pinned +8, bio line 1 +6, highlights +5, stories +3). Not verified.
 
 <!-- 2026-11-02 13:00 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (public view shows "Log In"; 30 followers, 4 following, bio unchanged "Enterprise AI || SAAS"). Parts A+B for 31 Oct, 1 Nov and 2 Nov still due as one combined run (Sunday deeper pass included). Not re-notified (next reminder no earlier than 2026-11-02 18:55 IST). -->
+<!-- 2026-11-02 14:00 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (public view shows "Log In"; 30 followers, 4 following, 29 posts, bio unchanged; the bio's location line still lists Mississauga + Bengaluru + Kolkata, which breaks the 28 Oct HQ-only rule, so fix it on the first logged-in run). Parts A+B for 31 Oct, 1 Nov and 2 Nov still due as one combined run (Sunday deeper pass included). Not re-notified (next reminder no earlier than 2026-11-02 18:55 IST). -->
