@@ -261,3 +261,40 @@ Other 24h+ re-reads this pull: 29 Oct eli5 77 views, 5.8s, 9.9%, skip 76.8% (was
 - Owner: send EP2 to 5 people in the first hour (CA, supplier, 3 owner friends); the only lever that has produced shares.
 - Owner: seed the comment thread from the account within 10 min ("Lunch rush mein phone kaun uthata hai? 1) main 2) staff 3) koi nahi").
 - Owner: Story frames below (poll on frame 4), repost the Reel to Story.
+
+**1 Nov EP1 update (2 Nov run, ~72h):** 129 views, 6.1s avg, 13.0% watched, skip 67.8%, 2 likes, 0 comments, 1 share, 0 saves.
+
+---
+
+## 2026-11-02 run · post-mortem of the previous Reel: Bablu ka Hotel EP2 "Bablu ka phone" (DfM5OWDFD4v, 1 Nov, Voxa, human voice, 25.4s, PHONE)
+| metric | ~24h | last-10 median / benchmark |
+|---|---|---|
+| views | **144** | 86.5 (**1.66x**, best of last 10) |
+| avg watch / watched % | 6.8s / **27.0%** | narrator Reels 24-29 Oct median ~7.7s; EP1 6.1s / 13.0% |
+| skip rate | **53.5%** (best the account has had) | narrator median ~69.3%; EP1 67.8% |
+| likes / comments / PHONE / shares / saves | 2 / 0 / 0 / 1 / 0 | 0-2 / 0 / - / 0-1 / 0 |
+| followers | 30 (+0 since post) | 30 at post |
+
+**What went right (with reasons)**
+- Skip fell 14 points vs EP1 (67.8% → 53.5%). Differences: speech at 0.75s instead of a slow 7s scene, one ≤6-word ₹ line at frame 0, no label at frame 0. A talking character + a plain money line holds the first 3 seconds better than anything we've posted.
+- Reach went up again (144, 1.66x): the 2 story Reels are now #1 and #2 for views in the last 10.
+- 27% watched at 25s: halving the length doubled the watched % for almost the same avg watch.
+
+**What went wrong (with reasons)**
+- 0 PHONE comments, 0 saves, 1 share: at ~144 viewers (mostly strangers) a keyword ask still converts nobody; 4 keyword Reels so far have 0 keyword comments in total.
+- +0 followers: the payoff (happy clip) was missing, so the episode ended on a card, not a scene; nothing new gave a reason to follow.
+- Avg watch is stuck at ~6-7s: viewers leave right after the first dialogue line. Facts after 7s were text-only.
+
+**Change in the next Reel (applied today, 2 Nov)**
+1. Keep the talking character with speech in the first ~1s. ✔ (Bablu's line starts at 1.1s; the phone rings and stops at frame 0)
+2. One ≤6-word line at frame 0, no label, hookscore ≥75. ✔ "Your phone rang. Nobody picked up." 77.8
+3. Shorter: 15-20s so the whole Reel fits closer to the 6-7s average and replays count. ✔ 20.1s
+4. Send/save, not keyword (keyword earned 0 in 4 tries). ✔ send ask at 7.7s, save on the end card
+5. New facts, not yesterday's repeated. ✔ calendar booking (Google Calendar/Outlook/Calendly), barge-in, text-back
+6. Close the open loop from EP2 (the payoff clip) and tease EP3. ✔
+7. Not applied: HR4U on Monday (no HR4U clip in Drive; the only unused clip was the Voxa payoff). Not applied: voice over the fact beats (no more dialogue lines available; Kokoro is barred when a dialogue clip exists), so the facts are on-screen text with the clip's room sound.
+
+**Reach actions**
+- Owner: send today's Reel to 3-5 owners/managers in the first hour (the only lever that has produced shares).
+- Owner: Story reply sticker on frame 4 ("How do your staff ask for leave?") feeds EP3.
+- Laptop clip task: make the EP3 HR4U dialogue clips (leave on WhatsApp) plus 2 spare dialogue clips; the folder is empty again after today.

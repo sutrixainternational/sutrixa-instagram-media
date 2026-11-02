@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "MONDAY · BABLU KA HOTEL", "headline": "Bablu's phone rang at lunch. *This time somebody picked up.*", "size": 92},
+{"name": "d2_book", "kicker": "WHAT IT DOES", "headline": "It answers 24/7 and *books the slot into your calendar.*", "bullets": ["Google Calendar, Outlook or Calendly", "Callers can cut in mid-sentence, like with a person"], "size": 84},
+{"name": "d3_sms", "kicker": "MISSED ONE ANYWAY?", "headline": "The caller gets an *SMS right away.*", "bullets": ["No booking walks off silently", "12 Indian languages, Hindi too"], "foot": "voxa.sutrixa.com"},
+{"name": "d4_ask", "kicker": "QUICK QUESTION", "headline": "How do your staff ask for leave? *WhatsApp, register, or verbally?*", "bullets": ["Reply with one word", "EP 3 is built from your answers"], "size": 88},
+{"name": "d5_close", "kicker": "NEW REEL · EP 2 ENDING", "headline": "Ab koi call miss nahi hoti. *Watch Bablu's ending.*", "bullets": ["EP 3: who's on leave today?", "Follow so you don't miss it"], "foot": "@sutrixainternational"}
+]
+}

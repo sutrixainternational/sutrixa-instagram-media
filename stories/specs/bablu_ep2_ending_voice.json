@@ -1,0 +1,112 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "proof",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "voice": "hm_omega",
+ "lang": "hi",
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/happy.mp4",
+   "vstart": 2.9,
+   "dur": 4.7,
+   "clip_voice": true,
+   "speech": [
+    1.1,
+    4.35
+   ],
+   "punch": false,
+   "headline": "Your phone rang. Nobody picked up.",
+   "say": "Ab koi call miss nahi hoti."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_hero.jpg",
+   "hl": [
+    20,
+    232,
+    364,
+    450
+   ],
+   "tap": true,
+   "audio_src": "work/happy.mp4",
+   "astart": 7.6,
+   "dur": 3.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "label": "1 · ANSWERS + BOOKS, 24/7",
+   "headline": "It picks up and books the slot into your Google Calendar, Outlook or Calendly.",
+   "say": " "
+  },
+  {
+   "kind": "card",
+   "video": "work/happy.mp4",
+   "vstart": 6.6,
+   "dur": 3.0,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/happy.mp4",
+   "astart": 6.6,
+   "label": "BABLU KA HOTEL · EP 2 ENDING",
+   "headline": "Send this to an owner who can't pick up at lunch.",
+   "say": " "
+  },
+  {
+   "kind": "card",
+   "video": "work/happy.mp4",
+   "vstart": 0.0,
+   "dur": 3.0,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/happy.mp4",
+   "astart": 0.0,
+   "label": "2 · CALLERS CAN INTERRUPT",
+   "headline": "Callers can cut in mid-sentence. Like they would with you.",
+   "say": " "
+  },
+  {
+   "kind": "screen",
+   "image": "shots/vx_textback.jpg",
+   "hl": [
+    26,
+    8,
+    376,
+    236
+   ],
+   "tap": true,
+   "audio_src": "work/happy.mp4",
+   "astart": 8.3,
+   "dur": 3.0,
+   "speech": [
+    0,
+    0.1
+   ],
+   "label": "3 · MISSED ONE? AUTO SMS",
+   "headline": "Can't answer? Your caller gets an SMS right away.",
+   "say": " "
+  },
+  {
+   "kind": "card",
+   "video": "work/happy.mp4",
+   "vstart": 7.0,
+   "dur": 3.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/happy.mp4",
+   "astart": 7.0,
+   "label": "EP 3: BABLU KA STAFF REGISTER",
+   "headline": "Save this. In EP 3 you'll see why nobody knows who's on leave.",
+   "say": " "
+  }
+ ]
+}

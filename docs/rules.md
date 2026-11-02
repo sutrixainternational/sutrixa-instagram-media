@@ -84,3 +84,5 @@
 - Story Reels: characters speak their own lines in Veo clips (one clip per key line, Hinglish). Kokoro narration only fills gaps (product screens, the end card) and should be minimal. Never mix two different voices for the same character.
 - Short "moment" Reels like DbzTILTNcyZ (one relatable 8-10s scene with dialogue + a one-line caption) are a valid format again: they loop, and replays count. Add the logo, keep captions of the dialogue, no screen beats needed.
 - Gemini video quota is limited per day: the hourly clip task should spend it on dialogue clips first.
+
+- **PROVEN (2 Nov, lessons.md): talking character first.** Two human-voice story Reels (EP1, EP2) got the 2 highest view counts of the last 10 and EP2 the lowest skip ever (53.5%). Default every Reel to a Veo dialogue clip with speech inside ~1s, one ≤6-word line at frame 0, 15-25s. Narrator/Kokoro only when no dialogue clip exists.

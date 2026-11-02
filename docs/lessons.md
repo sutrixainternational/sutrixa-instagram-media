@@ -5,6 +5,9 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- **PROVEN-ish (2 Nov, 2 story Reels): human-voice story Reels beat narrator Reels on reach and skip.** EP1 129 views / skip 67.8%, EP2 144 views / skip 53.5% vs narrator median ~81 views / ~69% skip (last 10). Avg watch is similar (6.1-6.8s vs narrator ~7.7s), so the voice wins the first 3 seconds, not the middle. EP2's short, fast version (speech at 0.75s, 25s) gave 27% watched vs EP1 13%. Copied to rules.md: default to a talking character in the first second, ≤25s.
+- TRY (2 Nov): **keyword giveaways don't work at our size.** CALLS, LEAK, PHONE: 0 keyword comments from 60-144 viewers each. Keep the owner's alternation but expect nothing until a Reel passes ~500 views; judge send/save days separately.
+- TRY (2 Nov): a 20s moment Reel (EP2 ending) with one dialogue line + 3 text facts. Compare skip and watched % with EP2 at 24h.
 - TRY (1 Nov): **human-voice story vs narrator.** EP1 (Veo dialogue) got the most views of the last 10 (127, 1.56x median) and skip 68.1% (narrator median ~69.5%), but avg watch 5.8s (narrator median ~7.7s) and 12.4% watched at 47.6s. Read: a talking character wins the impression and the first second, then a slow scene loses people at ~6s. Keep the voice, put the stake on screen at frame 0, cut to ~25s. EP2 (1 Nov, 25.4s) tests it; need 2+ story Reels before PROVEN.
 - CHECKED (1 Nov): the 31 Oct hand-post fallback did not get posted. A Reel that needs the owner to post is a skipped day; auto-publish whenever vidIQ is up.
 - TRY (31 Oct): **keep 2+ unused Gemini clips in "1 - Gemini clips" at all times.** 31 Oct found the folder holding only EP1 clips already used, so two post-mortem changes (fresh footage at frame 0, Veo voice in the first 2s) couldn't be applied. The clip task must refill, dialogue first.

@@ -7,6 +7,8 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > **1 Nov status (after the 7:30 PM run):** EP2 posted at 14:00 UTC (DfM5OWDFD4v) with clips 1+2 (moved to "3 - Posted" as USED_2026-11-01_*). Clip 3 `2026-11-01_dlg_ep2_happy.mp4` landed in Drive after EP2 was rendered, so it is still UNUSED in "1 - Gemini clips": use it next as a short moment Reel/EP2 payoff opener ("Ab koi call miss nahi hoti."). Next to make: clips 4-5 below, then EP3 (HR4U staff register). If Google shows an "unusual traffic" robot check, never try to solve it: stop and retry later.
 
+> **2 Nov status:** the EP2 happy clip was used for the 2 Nov moment Reel (DfPfKsHkjay) and moved to "3 - Posted". Folder "1 - Gemini clips" now has NO unused video. Make next, in order: EP3 HR4U dialogue clips (Bablu reading staff leave messages on WhatsApp: "Aaj kaun chhutti pe hai? Kisi ko pata nahi!"; Kaka: "Beta, chhutti ek jagah maang, ek jagah approve kar."), then clips 4-5 below.
+
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
 1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.
