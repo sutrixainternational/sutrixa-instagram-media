@@ -1,0 +1,202 @@
+{
+ "posts": [
+  {
+   "date": "2026-10-24",
+   "url": "https://www.instagram.com/reel/De4Cq8ugGky/",
+   "story": "Rizstay: hotel accountant working at 11 PM on bills",
+   "hook": "Your hotel's accountant. 11 PM. Again.",
+   "clips_src": [
+    "2026-10-24_rizstay_accountant"
+   ],
+   "facts": [
+    "rz_one_bill_checkout"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-25",
+   "url": "https://www.instagram.com/reel/De63z8XEePe/",
+   "story": "Voxa: restaurant phone ringing at 8 PM, missed calls",
+   "hook": "Stop letting your phone ring at 8 PM.",
+   "clips_src": [
+    "2026-10-25_voxa_restaurant_missed_calls"
+   ],
+   "facts": [
+    "vx_247",
+    "vx_textback"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-26",
+   "url": "https://www.instagram.com/reel/De9bOrjDFEk/",
+   "story": "Voxa: salon owner drops scissors to answer calls",
+   "hook": "Stop dropping your scissors for 1 more call.",
+   "clips_src": [
+    "2026-10-26_voxa_salon_missed_calls"
+   ],
+   "facts": [
+    "vx_247",
+    "vx_textback",
+    "vx_calendar"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-27",
+   "url": "https://www.instagram.com/reel/DfAApRvjGNV/",
+   "story": "Rizstay tips: GST on hotel rooms, 7500 slab, CGST SGST split",
+   "hook": "Stop adding GST by hand at 11 PM.",
+   "clips_src": [
+    "2026-10-27_rizstay_gst_bill"
+   ],
+   "facts": [
+    "gst_room_7500_slab",
+    "gst_cgst_sgst_split_place_of_supply",
+    "gst_discount_before_tax",
+    "rz_folio_one_bill",
+    "rz_gst_register_excel"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-28",
+   "url": "https://www.instagram.com/reel/DfClwW8D-Tw/",
+   "story": "Voxa countdown: 5 missed-call mistakes part 1",
+   "hook": "Stop these 5 missed-call mistakes.",
+   "clips_src": [
+    "2026-10-28_voxa_lunch_rush_missed_call"
+   ],
+   "facts": [
+    "vx_12_languages",
+    "vx_247",
+    "vx_calendar",
+    "vx_textback"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-29",
+   "url": "https://www.instagram.com/reel/DfFLD8akbLU/",
+   "story": "Rizstay ELI5: GST input tax credit explained, 30 November deadline",
+   "hook": "Stop losing GST input credit. Deadline: 30 November.",
+   "clips_src": [
+    "2026-10-24_rizstay_accountant"
+   ],
+   "facts": [
+    "gst_itc_basics",
+    "gst_itc_gstr2b",
+    "gst_itc_180_days",
+    "gst_itc_30_nov_deadline",
+    "gst_no_itc_5pct",
+    "rz_purchase_register"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-10-30",
+   "url": "https://www.instagram.com/reel/DfHupKPiiip/",
+   "story": "Bablu ka Hotel EP1: Bablu works 16 hours, Kaka says money leaks from three places",
+   "hook": "16 ghante kaam. Paisa kahan gaya?",
+   "clips_src": [
+    "bablu_ep1_dlg1",
+    "bablu_ep1_teastall",
+    "bablu_ep1_desk",
+    "bablu_ep1_bench",
+    "bablu_ep1_happy_ending"
+   ],
+   "facts": [
+    "gst_room_7500_slab",
+    "rz_kot_kitchen_screen",
+    "rz_stock_recipe_reorder"
+   ],
+   "lines": [
+    "Solah ghante kaam... phir bhi paisa kahan gaya?",
+    "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?",
+    "Ek, haath ke bill. Do, kitchen ki parchiyan. Teen, store ka maal, jiska koi hisaab nahi.",
+    "Sab ek screen pe daal.",
+    "Bill khud GST lagaye,",
+    "order seedha kitchen jaaye,",
+    "aur stock khud ghate.",
+    "Kaka, aaj aath baje ghar! Shabaash, beta!"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "url": "(posted by hand)",
+   "story": "Voxa countdown part 2: rupees lost per missed call",
+   "hook": "Stop losing ₹500 per missed call.",
+   "clips_src": [
+    "2026-10-25_voxa_restaurant_missed_calls"
+   ],
+   "facts": [
+    "vx_missed_call_math",
+    "vx_textback",
+    "vx_247",
+    "vx_12_languages",
+    "vx_calendar"
+   ],
+   "lines": []
+  },
+  {
+   "date": "2026-11-01",
+   "url": "https://www.instagram.com/reel/DfM5OWDFD4v/",
+   "story": "Bablu ka Hotel EP2: lunch rush phone, Kaka suggests AI receptionist",
+   "hook": "Stop losing ₹500 per missed call.",
+   "clips_src": [
+    "2026-11-01_dlg_ep2_phone_rush",
+    "2026-11-01_dlg_ep2_kaka_voxa"
+   ],
+   "facts": [
+    "vx_247",
+    "vx_12_languages",
+    "vx_textback",
+    "vx_missed_call_math"
+   ],
+   "lines": [
+    "Phone uthaun ya plate rakhun?! Har missed call ek booking thi.",
+    "Beta, phone tu mat utha.",
+    "Ek AI receptionist rakh, jo har call uthaye, chaubees ghante.",
+    "Hindi mein bhi baat karega? Barah bhashaon mein."
+   ]
+  },
+  {
+   "date": "2026-11-02",
+   "url": "https://www.instagram.com/reel/DfPfKsHkjay/",
+   "story": "Bablu ka Hotel EP2 ending: no call is missed now",
+   "hook": "Your phone rang. Nobody picked up.",
+   "clips_src": [
+    "2026-11-01_dlg_ep2_happy"
+   ],
+   "facts": [
+    "vx_247",
+    "vx_calendar",
+    "vx_barge_in",
+    "vx_textback"
+   ],
+   "lines": [
+    "Ab koi call miss nahi hoti."
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "url": "https://www.instagram.com/reel/DfUki2olOVU/",
+   "story": "Bablu ka Hotel GST special: room GST leaks (REPEATED EP1 clips and 27 Oct facts)",
+   "hook": "Stop charging 18% on ₹7,000 rooms.",
+   "clips_src": [
+    "bablu_ep1_dlg1",
+    "bablu_ep1_teastall",
+    "bablu_ep1_happy_ending"
+   ],
+   "facts": [
+    "gst_room_7500_slab",
+    "gst_cgst_sgst_split_place_of_supply",
+    "rz_gst_register_excel"
+   ],
+   "lines": [
+    "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?",
+    "Kaka, aaj aath baje ghar! Shabaash, beta!"
+   ]
+  }
+ ]
+}

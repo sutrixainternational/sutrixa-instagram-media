@@ -37,3 +37,4 @@ The skills live in `igpack/skills/<name>/SKILL.md`, and the synced account skill
 - Never invent proof, numbers or customer results (voice.md, "Proof I can use").
 - Never automate comments, DMs or follows on other accounts.
 - Never feature InfraRobo.
+- Never repeat posted content (owner rule 4 Nov): no reused clips, spoken lines, hooks, story angles, or facts taught in the last 21 days. `tools/no_repeat.py check` must pass (the renderer runs it), and `record` runs after every post.

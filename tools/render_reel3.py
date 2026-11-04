@@ -389,4 +389,12 @@ def render(spec):
 
 
 if __name__ == "__main__":
-    render(json.load(open(sys.argv[1])))
+    _spec = json.load(open(sys.argv[1]))
+    # Owner rule 4 Nov 2026: never post repeated content. Refuse before rendering.
+    if "--allow-repeat-for-test" not in sys.argv:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import no_repeat
+        _errs = no_repeat.check(_spec)
+        if _errs:
+            sys.exit("REFUSED (no_repeat): " + "; ".join(_errs))
+    render(_spec)
