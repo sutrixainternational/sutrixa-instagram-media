@@ -9,6 +9,8 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > **2 Nov status:** the EP2 happy clip was used for the 2 Nov moment Reel (DfPfKsHkjay) and moved to "3 - Posted". Folder "1 - Gemini clips" now has NO unused video. Make next, in order: EP3 HR4U dialogue clips (Bablu reading staff leave messages on WhatsApp: "Aaj kaun chhutti pe hai? Kisi ko pata nahi!"; Kaka: "Beta, chhutti ek jagah maang, ek jagah approve kar."), then clips 4-5 below.
 
+> **4 Nov status:** folder "1 - Gemini clips" still has NO unused video (empty since 2 Nov). 4 Nov reused the EP1 Kaka bench clip, tea-stall sound and EP1 happy ending for a GST special. Make next, in order: EP3 HR4U dialogue clips (leave on WhatsApp), then 2 GST dialogue clips where Kaka says ONE fact each ("Saat hazaar ka kamra? Paanch percent, beta." / "Delhi ka guest ho ya Pune ka, CGST aur SGST hi lagega."), so the middle beats have a voice too.
+
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
 1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.

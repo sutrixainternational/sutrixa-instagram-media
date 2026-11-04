@@ -298,3 +298,43 @@ Other 24h+ re-reads this pull: 29 Oct eli5 77 views, 5.8s, 9.9%, skip 76.8% (was
 - Owner: send today's Reel to 3-5 owners/managers in the first hour (the only lever that has produced shares).
 - Owner: Story reply sticker on frame 4 ("How do your staff ask for leave?") feeds EP3.
 - Laptop clip task: make the EP3 HR4U dialogue clips (leave on WhatsApp) plus 2 spare dialogue clips; the folder is empty again after today.
+
+**2 Nov EP2 update (4 Nov run, ~72h):** 204 views (2.07x the last-10 median of 98.5), 6.1s avg, 24.6% watched, skip 60.9% (was 53.5% at 24h), 2 likes, 0 comments, 0 PHONE, 2 shares, 0 saves.
+
+---
+
+## 2026-11-04 run · post-mortem of the previous Reel: EP2 ending moment Reel (DfPfKsHkjay, 2 Nov, Voxa, human voice, 20.1s, send/save)
+**No Reel was posted on 3 Nov** (no run/commit that day apart from the laptop profile checks). So the previous Reel is 2 Nov, read at ~47h.
+| metric | ~47h | last-10 median / benchmark |
+|---|---|---|
+| views | 101 | 98.5 (1.03x) · EP2 204 · EP1 178 |
+| avg watch / watched % | **3.8s** / 19.2% | EP2 6.1s / 24.6%; narrator median ~7.3s |
+| skip rate | **74.1%** | EP2 60.9%; narrator 68-78% |
+| likes / comments / shares / saves | 3 / 0 / 2 / 0 | 0-3 / 0 / 0-2 / 0 |
+| followers | 31 (+1 since 2 Nov) | 30 |
+Other re-reads: EP1 178 views, 6.5s, 13.7%, skip 70.3%, 2 shares · 29 Oct eli5 80 views, 5.7s, 77.6% · 27 Oct tips 96 views, 12.9s, 28.1%.
+
+**What went right (with reasons)**
+- 2 shares on 101 views (2.0 per 100 views, best rate so far) with a mid-Reel send ask at 7.7s: send asks on a short Reel do get used.
+- Still at median reach without any fresh clip: the Bablu character is recognisable to people who saw EP1/EP2.
+
+**What went wrong (with reasons)**
+- Worst avg watch in 10 (3.8s) and skip back up to 74.1%. Frame 0 was a calm, happy Bablu (the payoff scene) under an English text hook: no problem moving, and the spoken line was a resolution ("Ab koi call miss nahi hoti"), not a problem. Strangers had no reason to stay.
+- After the line ended at ~4.4s the rest was silent text cards: no voice on the fact beats, so the people left as soon as the voice stopped.
+- 0 saves again: nothing worth screenshotting (no ₹ number on screen).
+- 3 Nov missed entirely: one fewer post in a growth month.
+
+**Change in the next Reel (applied today, 4 Nov)**
+1. Open on a dialogue clip whose spoken line is the PROBLEM ("paisa teen jagah se leak ho raha hai"), speech from 0.2s, never a payoff clip at frame 0. ✔ (Kaka bench clip, vstart 1.3)
+2. ≤6-word ₹/number hook at frame 0, hookscore ≥75. ✔ "Stop charging 18% on ₹7,000 rooms." 83.2
+3. An open loop the facts answer ("Teen jagah se, Kaka?" → Leak 1/2/3) so there is a reason to stay past the line. ✔
+4. A screenshot frame with ₹ numbers + SAVE THIS. ✔ "₹4,000 room → ₹200 GST = ₹100 CGST + ₹100 SGST"
+5. Send ask by 8s. ✔ "SEND THIS TO YOUR FRONT DESK" at 7.0s
+6. GST topic (holds ~2x longer than missed-call Reels, PROVEN 29 Oct). ✔
+7. Voice back at the end (Bablu's payoff line), not silent cards only. ✔ partly: the middle 13.8s are still text over room sound (no more dialogue lines exist; Kokoro is barred when a dialogue clip exists).
+8. Not applied: fresh footage (folder empty; EP1 clips reused 5 days later with new segments and a new topic).
+
+**Reach actions**
+- Owner: send today's Reel to 3-5 hotel owners/front-desk managers in the first hour (2 shares/100 views came from send asks).
+- Owner: reply to every GST comment within the hour with the DM below; pin a seed comment ("Aapke hotel ka room rate ₹7,500 se upar hai ya neeche?").
+- Laptop clip task: the folder has been empty since 2 Nov. Make EP3 HR4U dialogue clips + 2 GST dialogue clips (Kaka explaining a line) before Friday.

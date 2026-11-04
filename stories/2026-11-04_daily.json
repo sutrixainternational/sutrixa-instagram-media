@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "WEDNESDAY · BABLU KA HOTEL", "headline": "A ₹7,000 room is *5% GST, not 18%.*", "size": 96},
+{"name": "d2_slab", "kicker": "THE ₹7,500 LINE", "headline": "Up to ₹7,500 a night: *5%.* Above it: *18%.*", "bullets": ["No input credit at 5%", "18% comes with input credit"], "size": 88},
+{"name": "d3_split", "kicker": "GUEST FROM DELHI?", "headline": "Still *2.5% CGST + 2.5% SGST.*", "bullets": ["Your hotel's state decides, not the guest's", "₹4,000 room = ₹100 + ₹100 GST"], "image": "shots/rz_registers.jpg"},
+{"name": "d4_ask", "kicker": "QUICK QUESTION", "headline": "Who adds GST on your bills? *You, staff, or software?*", "bullets": ["Reply with one word", "I'll send the room-GST cheat sheet"], "size": 88},
+{"name": "d5_close", "kicker": "NEW REEL · GST SPECIAL", "headline": "Kaka found 3 leaks. *Comment GST on the Reel.*", "bullets": ["Free cheat sheet in your DMs", "EP 3 next: who's on leave today?"], "foot": "@sutrixainternational"}
+]
+}

@@ -60,3 +60,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - TRY (27 Oct live scan): numbered series (eli5 "PART N", countdown "#5→#1") with "part N+1 tomorrow" on the end card. Measure follows per reach vs one-off tips.
 - TRY (27 Oct): 45-60s length for series formats. Measure watched % vs the 46s tips Reel (51%).
 - TRY (27 Oct): one Hinglish line in the caption.
+
+## Human voice vs narrator (4 Nov run, owner insights)
+- Human-voice story Reels (EP1 178, EP2 204, EP2-ending 101 views): mean 161 views vs narrator Reels 24-29 Oct median 88 (1.8x). Skip: 60.9-74.1% vs 68-78%. Shares: 2 each vs 0-1. PROVEN again for reach.
+- TRY (4 Nov): a payoff/happy clip at frame 0 loses people (2 Nov: 3.8s avg, 74.1% skip). Frame 0 must be the problem line, never the resolution.
+- TRY (4 Nov): text-only middle beats after the voice stops lose viewers; get more dialogue lines per Reel (one Gemini clip per fact).
+- CHECKED (4 Nov): keyword comments still 0 across 4 keyword Reels; send asks earn 2 shares on 101 views. Keep alternating (owner rule) but put the send ask by 8s on keyword days too.
