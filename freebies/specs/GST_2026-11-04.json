@@ -1,0 +1,10 @@
+{"title": "Room GST", "title2": "cheat sheet for Indian hotels",
+ "items": [
+  ["1", "Room up to ₹7,500 a night: 5% GST.", "No input credit at 5%. Above ₹7,500 a night: 18%, with input credit."],
+  ["2", "5% = 2.5% CGST + 2.5% SGST.", "Even for a guest from another state: the hotel's state is the place of supply, so no IGST on the room."],
+  ["3", "Worked example: ₹4,000 room.", "GST ₹200 = ₹100 CGST + ₹100 SGST. Bill total ₹4,200."],
+  ["4", "Discount on the bill? Take it off first.", "A discount shown on the bill comes off before GST is worked out."],
+  ["5", "Keep one GST register.", "Every bill with its tax split, ready to export for your CA."]
+ ],
+ "footer": "Rizstay puts room + restaurant on one bill and works out CGST + SGST on it. GST register exports to Excel.",
+ "links": "restaurant.rizstay.com  ·  Book a demo: sutrixa.com/connect"}

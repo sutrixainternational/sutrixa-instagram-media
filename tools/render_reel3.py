@@ -324,7 +324,7 @@ def render(spec):
             if b.get("label") and kind != "split":
                 chip(img, b["label"], accent, alpha=1.0 if bi == 0 else ease(t / 0.2))
             if b.get("headline"):
-                hy = 820 if kind == "card" else 340
+                hy = b.get("hy", 820 if kind == "card" else 340)
                 headline(img, b["headline"], hy, size=96 if kind == "card" else 80,
                          alpha=1.0 if bi == 0 else ease(t / 0.2), box=(kind != "card"))
             kinetic(img, b["_wt"], t, accent, y=1420 if kind != "split" else 1700)
