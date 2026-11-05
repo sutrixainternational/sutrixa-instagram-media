@@ -197,6 +197,36 @@
     "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?",
     "Kaka, aaj aath baje ghar! Shabaash, beta!"
    ]
+  },
+  {
+   "date": "2026-11-05",
+   "url": "https://www.instagram.com/reel/DfW5VwAj4k8/",
+   "story": "Bablu ka Hotel EP3 haazri: staff call in absent, paper attendance register is a mess, Kaka shows phone clock-in, leave queue, payslips and documents in your own Drive (HR4U)",
+   "hook": "Stop counting staff in a register.",
+   "clips_src": [
+    "2026-11-04_dlg_ep3_register.mp4",
+    "2026-11-05_dlg_ep3_kaka.mp4",
+    "2026-11-05_dlg_ep3_priya_clockin.mp4",
+    "2026-11-05_dlg_ep3_kaka_drive.mp4",
+    "2026-11-05_dlg_ep3_payoff.mp4"
+   ],
+   "facts": [
+    "hr4u_clockin_one_tap",
+    "hr4u_live_view",
+    "hr4u_leave_auto_balance_one_queue",
+    "hr4u_payslips",
+    "hr4u_files_own_drive"
+   ],
+   "lines": [
+    "Kaun aaya, kaun nahi... is register se kuch pata hi nahi chalta!",
+    "Beta, register band kar.",
+    "Staff phone se haazri lagaye,",
+    "Good morning sir! Haazri lag gayi.",
+    "chhutti bhi phone se maange...",
+    "aur salary slip, ek click mein.",
+    "Aur saare kagaz... contract, ID, salary slip... sab teri apni Google Drive mein, beta.",
+    "Ab pata hai kaun aaya, kaun nahi. Mahine ke aakhir mein, bas ek click!"
+   ]
   }
  ]
 }

@@ -13,7 +13,9 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > **4 Nov lesson:** Gemini now refuses prompts that name a studio style ("Pixar-like"): 4 of 4 failed with "something went wrong / having a hard time". Write the style as "Colourful 3D animated cartoon style with soft, rounded, stylised characters". A plain prompt rendered fine, so the quota was not the cause.
 
-> **5 Nov plan, EP 3 "haazri" (HR4U), main session.** Made on 4 Nov: `2026-11-04_dlg_ep3_register.mp4` (Bablu flipping the paper register: "Kaun aaya, kaun nahi... is register se kuch pata hi nahi chalta!", speech 3.25-7.4s). Still to make, ONE AT A TIME (on 4 Nov two rendered, then every request failed: the daily video limit), ONE speaker per clip:
+> **5 Nov: EP3 POSTED (DfW5VwAj4k8), all 5 EP3 clips are now USED; never reuse them.** Lessons: Gemini refused every two-speaker prompt (Bablu + Kaka together) but rendered all 5 single-speaker ones, so write ONE speaker per clip. Chrome now saves Gemini downloads to C:\Users\daipa\Downloads, not the G: Drive folder; the laptop's Downloads is connected to the session, so pick clips up there.
+
+> **(done) 5 Nov plan, EP 3 "haazri" (HR4U), main session.** Made on 4 Nov: `2026-11-04_dlg_ep3_register.mp4` (Bablu flipping the paper register: "Kaun aaya, kaun nahi... is register se kuch pata hi nahi chalta!", speech 3.25-7.4s). Still to make, ONE AT A TIME (on 4 Nov two rendered, then every request failed: the daily video limit), ONE speaker per clip:
 > - ep3_priya_clockin: receptionist Priya (24, neat bun, maroon blazer) taps her phone at the entrance: "Good morning sir! Haazri lag gayi, nau baj kar do minute."
 > - ep3_kaka: Kaka alone at his stall: "Beta, register band kar. Staff phone se haazri lagaye, chhutti bhi phone se maange... aur salary slip, ek click mein."
 > - ep3_kaka_drive: Kaka alone: "Aur sab kagaz, contract, ID, salary slip... teri apni Google Drive mein."
