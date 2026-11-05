@@ -1,3 +1,5 @@
+> **5 Nov 2026 ONLY (owner chose "post tomorrow, full quality"):** the MAIN session makes the HR4U story Reel "Bablu ka Hotel EP 3: haazri" (all-new Veo dialogue clips, human voices, 40-60s) and publishes it this evening. Today's 6:47 PM run must NOT render or post a Reel. Do the post-mortem, the owner pack, Stories and replies only. The 4 Nov GST special (DfUki2olOVU) was a repeat; the owner is deleting it, so leave it out of the post-mortem averages.
+
 > **30 Oct 2026 ONLY (owner approved):** the main session publishes the story Reel "Bablu ka Hotel, EP 1" (Rizstay, Hinglish, 85s, keyword LEAK) at about 7:30 PM IST. Today's 6:47 PM run must NOT render or post another Reel. Do the post-mortem, write the owner pack (LEAK keyword DM with freebies/LEAK_2026-10-30.png, Story frames, replies, comments) and log nothing new in posted.md (the main session logs it).
 
 # Standing content rules (@sutrixainternational)

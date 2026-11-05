@@ -13,6 +13,13 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 
 > **4 Nov lesson:** Gemini now refuses prompts that name a studio style ("Pixar-like"): 4 of 4 failed with "something went wrong / having a hard time". Write the style as "Colourful 3D animated cartoon style with soft, rounded, stylised characters". A plain prompt rendered fine, so the quota was not the cause.
 
+> **5 Nov plan, EP 3 "haazri" (HR4U), main session.** Made on 4 Nov: `2026-11-04_dlg_ep3_register.mp4` (Bablu flipping the paper register: "Kaun aaya, kaun nahi... is register se kuch pata hi nahi chalta!", speech 3.25-7.4s). Still to make, ONE AT A TIME (on 4 Nov two rendered, then every request failed: the daily video limit), ONE speaker per clip:
+> - ep3_priya_clockin: receptionist Priya (24, neat bun, maroon blazer) taps her phone at the entrance: "Good morning sir! Haazri lag gayi, nau baj kar do minute."
+> - ep3_kaka: Kaka alone at his stall: "Beta, register band kar. Staff phone se haazri lagaye, chhutti bhi phone se maange... aur salary slip, ek click mein."
+> - ep3_kaka_drive: Kaka alone: "Aur sab kagaz, contract, ID, salary slip... teri apni Google Drive mein."
+> - ep3_payoff: Bablu alone, relaxed, phone in hand: "Ab pata hai kaun aaya, kaun nahi. Aur mahine ke aakhir mein... bas ek click!"
+> Facts (docs/products.md HR4U): one-tap clock-in, live view of who's clocked in, leave requests with automatic balances in one approval queue, payslips, files in the company's own Google Drive.
+
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
 1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.
