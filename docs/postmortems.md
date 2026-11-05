@@ -304,6 +304,8 @@ Other 24h+ re-reads this pull: 29 Oct eli5 77 views, 5.8s, 9.9%, skip 76.8% (was
 ---
 
 ## 2026-11-04 run · post-mortem of the previous Reel: EP2 ending moment Reel (DfPfKsHkjay, 2 Nov, Voxa, human voice, 20.1s, send/save)
+**Re-read 5 Nov (~71h):** 107 views, 3.6s / 18.2%, skip 75.8%, 3 likes, 0 comments, 2 shares, 0 saves. The verdict holds: payoff clip at frame 0 = worst retention in 10.
+
 **No Reel was posted on 3 Nov** (no run/commit that day apart from the laptop profile checks). So the previous Reel is 2 Nov, read at ~47h.
 | metric | ~47h | last-10 median / benchmark |
 |---|---|---|
@@ -338,3 +340,38 @@ Other re-reads: EP1 178 views, 6.5s, 13.7%, skip 70.3%, 2 shares · 29 Oct eli5 
 - Owner: send today's Reel to 3-5 hotel owners/front-desk managers in the first hour (2 shares/100 views came from send asks).
 - Owner: reply to every GST comment within the hour with the DM below; pin a seed comment ("Aapke hotel ka room rate ₹7,500 se upar hai ya neeche?").
 - Laptop clip task: the folder has been empty since 2 Nov. Make EP3 HR4U dialogue clips + 2 GST dialogue clips (Kaka explaining a line) before Friday.
+
+## 2026-11-05 run · post-mortem: 4 Nov GST special (DfUki2olOVU, ~24h, EXCLUDED from averages: repeat) + early read of EP3 "haazri" (DfW5VwAj4k8, ~2h)
+Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules.md, 5 Nov note). This run did not render or post. EP3 gets its 24h read in the 6 Nov run.
+| metric | 4 Nov GST special (~24h) | EP3 haazri (~2h, early) | last-10 counted median (excl. 4 Nov, EP3) |
+|---|---|---|---|
+| views | **184 (1.86x)** | 38 | 99 |
+| avg watch / watched % | 6.3s / 24.3% | 5.4s / 13.5% (40s Reel) | ~6.0s / ~17% |
+| skip rate | **58.6%** | **55.9% (best ever, early/warm)** | 70.7% |
+| likes / comments / shares / saves | 1 / 0 (0 "GST") / 1 / 0 | 0 / 0 / 0 / 0 | 2 / 0 / 1 / 0 |
+| followers | 31 (+0 since 4 Nov) | | |
+
+**What went right (with reasons)**
+- Lowest skip rates we have ever had came on the last two Reels (58.6%, 55.9%). Both open with a character SPEAKING THE PROBLEM inside 1s ("paisa teen jagah se leak ho raha hai"; "Kaun aaya, kaun nahi..."). EP2-ending opened on the payoff and skipped 75.8%. The spoken-problem opener is now the strongest pattern in the data.
+- The GST special still reached 1.86x median despite reused clips: ₹ number hook + GST topic + open loop keeps working for reach.
+- EP3 introduced a new character (Priya) and five fresh clips, so it passes the no-repeat rule.
+
+**What went wrong (with reasons)**
+- 4 Nov was a repeat (EP1 clips, lines, room-GST facts). Owner rule broken; still live at 13:20 UTC (owner said he'd delete it).
+- 0 "GST" keyword comments: 5 keyword Reels in a row with 0 keyword comments (LEAK, CALLS, PHONE, GST, plus CALLS earlier). At 31 followers the keyword ask doesn't convert.
+- EP3: the send chip appears at ~30s (contact sheet), but average watch is 5.4s, so ~85% of viewers never see the ask. Rule says ask by 8s.
+- EP3 hook has no ₹/number ("Stop counting staff in a register."). The two best-reach Reels in the window (EP2 210, GST special 184) had a ₹ figure at frame 0.
+- 40s length with 5.4s average watch = 13.5% watched; the facts land at 12-20s, after most people left.
+
+**Change in the next Reel (6 Nov, EP4 Velocity)**
+1. Character speaks the problem from <1s (keep; proven twice).
+2. ₹ or count in the frame-0 line (e.g. how many customers search and find nothing). Hookscore ≥75, ≤6 words.
+3. Send/save chip by 8s AND at the end, even on a keyword day.
+4. Strongest fact by 5s (first spoken answer line), not after 12s.
+5. Keyword day (alternation: EP3 was send). Build the freebie first. Also keep the send ask, since keyword comments are still 0.
+6. Fresh EP4 dialogue clips are REQUIRED (no-repeat rule). As of 13:20 UTC the Gemini folder has none for EP4 (only the 4 Nov heritage_lakeside landscape clip and an unnamed gemini_generated_video_be321941). The laptop task must make EP4 Velocity clips tonight.
+
+**Reach actions**
+- Owner: send EP3 now to 3-5 owners who still use a register (first-hour sends are our biggest lever; 0 shares at 2h).
+- Owner: post the 5 Story frames (stories/2026-11-05_daily.json, branch s/2026-11-05) with a poll on frame 4; DM every "Register" voter.
+- Owner: delete DfUki2olOVU if not done (repeat content) and pin EP3 or EP2.

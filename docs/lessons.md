@@ -66,3 +66,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - TRY (4 Nov): a payoff/happy clip at frame 0 loses people (2 Nov: 3.8s avg, 74.1% skip). Frame 0 must be the problem line, never the resolution.
 - TRY (4 Nov): text-only middle beats after the voice stops lose viewers; get more dialogue lines per Reel (one Gemini clip per fact).
 - CHECKED (4 Nov): keyword comments still 0 across 4 keyword Reels; send asks earn 2 shares on 101 views. Keep alternating (owner rule) but put the send ask by 8s on keyword days too.
+
+## Human voice vs narrator (5 Nov run)
+- Counted human-voice Reels (EP1 185, EP2 210, EP2-end 107): mean 167 views vs narrator 24-29 Oct median 89 (1.9x). Shares 2 each vs 0-1. Still PROVEN for reach.
+- PROVEN (5 Nov): a character speaking the PROBLEM in the first second gives the lowest skip we've had (58.6% on 4 Nov, 55.9% on EP3 early) vs 75.8% when the payoff clip opens (2 Nov) and 69-78% for narrator Reels.
+- CHECKED (5 Nov): keyword comments 0 across 5 keyword Reels. Keep the alternation (owner rule) but never drop the early send ask.
+- TRY (5 Nov): a ₹/count in the frame-0 line on story Reels; ask chip by 8s on 40-60s Reels (EP3 put it at ~30s while avg watch was 5.4s).

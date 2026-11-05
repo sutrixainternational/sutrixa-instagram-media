@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "THURSDAY · BABLU KA HOTEL EP 3", "headline": "Teen phone. *Teen chhutti.* Register mein kuch nahi.", "image": "shots/ep3_bablu_register.jpg", "size": 80},
+{"name": "d2_clockin", "kicker": "WHAT KAKA CHANGED", "headline": "Staff clock in from *their own phone.* One tap.", "bullets": ["You see live who's in right now", "No register to count at 10 AM"], "image": "shots/hr_live.jpg", "size": 80},
+{"name": "d3_leave", "kicker": "AND THE CHHUTTI CALLS?", "headline": "Leave requests land in *one queue.*", "bullets": ["Balances count themselves", "Payslips at month end in one click"], "image": "shots/hr_hero.jpg", "size": 80},
+{"name": "d4_ask", "kicker": "QUICK POLL", "headline": "How do you track staff today? *Register or app?*", "bullets": ["Tap the poll", "Register voters: I'll DM you what Bablu switched to"], "size": 88},
+{"name": "d5_close", "kicker": "NEW REEL · EP 3 IS UP", "headline": "Know an owner with a register? *Send them EP 3.*", "bullets": ["EP 4 tomorrow: Bablu's empty Google listing"], "image": "shots/ep3_bablu_payoff.jpg", "foot": "@sutrixainternational", "size": 80}
+]
+}
