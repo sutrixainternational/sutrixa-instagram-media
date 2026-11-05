@@ -70,5 +70,5 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 ## Human voice vs narrator (5 Nov run)
 - Counted human-voice Reels (EP1 185, EP2 210, EP2-end 107): mean 167 views vs narrator 24-29 Oct median 89 (1.9x). Shares 2 each vs 0-1. Still PROVEN for reach.
 - PROVEN (5 Nov): a character speaking the PROBLEM in the first second gives the lowest skip we've had (58.6% on 4 Nov, 55.9% on EP3 early) vs 75.8% when the payoff clip opens (2 Nov) and 69-78% for narrator Reels.
-- CHECKED (5 Nov): keyword comments 0 across 5 keyword Reels. Keep the alternation (owner rule) but never drop the early send ask.
+- CHECKED (5 Nov): keyword comments 0 across 4 keyword Reels. Keep the alternation (owner rule) but never drop the early send ask.
 - TRY (5 Nov): a ₹/count in the frame-0 line on story Reels; ask chip by 8s on 40-60s Reels (EP3 put it at ~30s while avg watch was 5.4s).

@@ -358,7 +358,7 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 
 **What went wrong (with reasons)**
 - 4 Nov was a repeat (EP1 clips, lines, room-GST facts). Owner rule broken; still live at 13:20 UTC (owner said he'd delete it).
-- 0 "GST" keyword comments: 5 keyword Reels in a row with 0 keyword comments (LEAK, CALLS, PHONE, GST, plus CALLS earlier). At 31 followers the keyword ask doesn't convert.
+- 0 "GST" keyword comments: 4 keyword Reels in a row with 0 keyword comments (CALLS, LEAK, PHONE, GST). At 31 followers the keyword ask doesn't convert.
 - EP3: the send chip appears at ~30s (contact sheet), but average watch is 5.4s, so ~85% of viewers never see the ask. Rule says ask by 8s.
 - EP3 hook has no ₹/number ("Stop counting staff in a register."). The two best-reach Reels in the window (EP2 210, GST special 184) had a ₹ figure at frame 0.
 - 40s length with 5.4s average watch = 13.5% watched; the facts land at 12-20s, after most people left.
