@@ -22,6 +22,8 @@ Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian se
 > - ep3_payoff: Bablu alone, relaxed, phone in hand: "Ab pata hai kaun aaya, kaun nahi. Aur mahine ke aakhir mein... bas ek click!"
 > Facts (docs/products.md HR4U): one-tap clock-in, live view of who's clocked in, leave requests with automatic balances in one approval queue, payslips, files in the company's own Google Drive.
 
+> **6 Nov owner rule: alternate English and Hindi Reels.** The 6 Nov Reel is ENGLISH (5 Nov was Hindi). English clip prompts keep the same shape, one speaker per clip, no studio names, and say: "says in English, with a natural Indian accent, in a warm human voice: \"...\"". Example for an English Voxa Reel: a restaurant owner mid-dinner-rush, phone buzzing, says: "Three missed calls in ten minutes. That's three tables gone." Name files YYYY-MM-DD_dlg_en_<topic>.mp4 so the language is visible.
+
 ## Dialogue clips queue (make in this order)
 Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
 1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.

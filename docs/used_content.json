@@ -11,7 +11,8 @@
    "facts": [
     "rz_one_bill_checkout"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-25",
@@ -25,7 +26,8 @@
     "vx_247",
     "vx_textback"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-26",
@@ -40,7 +42,8 @@
     "vx_textback",
     "vx_calendar"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-27",
@@ -57,7 +60,8 @@
     "rz_folio_one_bill",
     "rz_gst_register_excel"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-28",
@@ -73,7 +77,8 @@
     "vx_calendar",
     "vx_textback"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-29",
@@ -91,7 +96,8 @@
     "gst_no_itc_5pct",
     "rz_purchase_register"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-10-30",
@@ -119,7 +125,8 @@
     "order seedha kitchen jaaye,",
     "aur stock khud ghate.",
     "Kaka, aaj aath baje ghar! Shabaash, beta!"
-   ]
+   ],
+   "lang": "hi"
   },
   {
    "date": "2026-10-31",
@@ -136,7 +143,8 @@
     "vx_12_languages",
     "vx_calendar"
    ],
-   "lines": []
+   "lines": [],
+   "lang": "en"
   },
   {
    "date": "2026-11-01",
@@ -158,7 +166,8 @@
     "Beta, phone tu mat utha.",
     "Ek AI receptionist rakh, jo har call uthaye, chaubees ghante.",
     "Hindi mein bhi baat karega? Barah bhashaon mein."
-   ]
+   ],
+   "lang": "hi"
   },
   {
    "date": "2026-11-02",
@@ -176,7 +185,8 @@
    ],
    "lines": [
     "Ab koi call miss nahi hoti."
-   ]
+   ],
+   "lang": "hi"
   },
   {
    "date": "2026-11-04",
@@ -196,7 +206,8 @@
    "lines": [
     "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?",
     "Kaka, aaj aath baje ghar! Shabaash, beta!"
-   ]
+   ],
+   "lang": "hi"
   },
   {
    "date": "2026-11-05",
@@ -226,7 +237,8 @@
     "aur salary slip, ek click mein.",
     "Aur saare kagaz... contract, ID, salary slip... sab teri apni Google Drive mein, beta.",
     "Ab pata hai kaun aaya, kaun nahi. Mahine ke aakhir mein, bas ek click!"
-   ]
+   ],
+   "lang": "hi"
   }
  ]
 }

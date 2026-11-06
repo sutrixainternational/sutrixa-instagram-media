@@ -10,7 +10,8 @@ The spec must carry a "meta" block:
     "story": "HR4U: staff attendance + leave + salary slips",   # one-line plot / angle
     "clips_src": ["2026-11-04_dlg_ep3_staff_call.mp4", ...],      # Drive file names of every clip used
     "facts": ["hr4u_clockin_one_tap", "hr4u_live_view", ...],      # short fact ids taught
-    "hook": "on-screen hook text"
+    "hook": "on-screen hook text",
+    "lang": "en" or "hi"                                           # alternate with the last Reel
   }
 Spoken lines are read from every beat's "say".
 
@@ -56,9 +57,16 @@ def check(spec, today=None):
     led = load()
     meta = spec.get("meta") or {}
     errs = []
-    for k in ("story", "clips_src", "facts", "hook"):
+    for k in ("story", "clips_src", "facts", "hook", "lang"):
         if not meta.get(k):
             errs.append(f"meta.{k} missing: the spec must declare it")
+    # Owner rule 6 Nov 2026: alternate languages, one English Reel then one Hindi Reel.
+    if meta.get("lang") and meta["lang"] not in ("en", "hi"):
+        errs.append(f"meta.lang must be 'en' or 'hi', got {meta['lang']!r}")
+    if meta.get("lang") and led["posts"]:
+        last = sorted(led["posts"], key=lambda p: p["date"])[-1]
+        if last.get("lang") == meta["lang"]:
+            errs.append(f"language repeats: the last Reel ({last['date']}) was also '{meta['lang']}'. Alternate English and Hindi (owner rule 6 Nov)")
     today = today or dt.date.today()
     used_clips = {c.lower(): p["date"] for p in led["posts"] for c in p.get("clips_src", [])}
     for c in meta.get("clips_src", []):
@@ -93,7 +101,7 @@ def record(spec, date, url):
     led = load()
     meta = spec["meta"]
     led["posts"].append({"date": date, "url": url, "story": meta["story"], "hook": meta["hook"],
-                         "clips_src": meta["clips_src"], "facts": meta["facts"], "lines": lines_of(spec)})
+                         "clips_src": meta["clips_src"], "facts": meta["facts"], "lang": meta.get("lang"), "lines": lines_of(spec)})
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     print(f"recorded {date} in {LEDGER}")
 
