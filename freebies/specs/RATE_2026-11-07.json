@@ -1,0 +1,11 @@
+{"title": "Hotel food GST:", "title2": "the 1-page check",
+ "items": [
+  ["1", "Look at last financial year's room rates.", "Was any room sold above ₹7,500 for one night (per unit, per day)?"],
+  ["2", "Yes: restaurant bills this year are 18% GST.", "And you can claim input credit on the GST you pay on purchases."],
+  ["3", "No: restaurant bills stay at 5% GST.", "But no input credit on purchases at 5%."],
+  ["4", "Do the maths on one bill.", "₹2,000 dinner: 5% = ₹100 GST. 18% = ₹360 GST. A ₹260 gap per bill."],
+  ["5", "Re-check every April.", "The test uses the previous financial year, so a new year can change your rate."],
+  ["6", "Confirm with your CA before you change your billing.", "Rules and notifications can change. This sheet is a starting point, not tax advice."]
+ ],
+ "footer": "Rizstay: GST-ready bills for room and restaurant, with CGST/SGST worked out on every bill.",
+ "links": "restaurant.rizstay.com  ·  Book a demo: sutrixa.com/connect"}

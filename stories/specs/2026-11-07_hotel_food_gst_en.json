@@ -1,0 +1,127 @@
+{
+ "out": "work/reel.mp4",
+ "preset": "tips",
+ "accent": "#FFD400",
+ "voice": "af_heart",
+ "speed": 1.15,
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": true,
+ "lang": "en-us",
+ "meta": {
+  "story": "Hotel restaurant GST: a room sold above Rs 7,500 last year makes the hotel's restaurant bills 18% with input credit instead of 5% without; Rizstay stay code and live orders",
+  "clips_src": [
+   "2026-11-04_heritage_lakeside_dinner_landscape_10s.mp4"
+  ],
+  "facts": [
+   "gst_specified_premises_18pct_itc",
+   "gst_specified_premises_prev_fy_test",
+   "gst_hotel_dinner_math_2000",
+   "rz_stay_code_portal",
+   "rz_live_orders_realtime"
+  ],
+  "hook": "Don't bill hotel dinners at 5%.",
+  "lang": "en"
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/lakeside.mp4",
+   "vstart": 0.0,
+   "punch": false,
+   "headline": "Don't bill hotel dinners at 5%.",
+   "say": "Hotel owners, your restaurant might be charging the wrong GST.",
+   "tts": "Hotel owners, your restaurant might be charging the wrong GST."
+  },
+  {
+   "kind": "clip",
+   "video": "work/lakeside.mp4",
+   "vstart": 2.6,
+   "punch": false,
+   "label": "RULE 1",
+   "headline": "Sold any room above ₹7,500 a night last financial year?",
+   "say": "Rule 1. Sold any room above ₹7,500 a night last financial year?",
+   "tts": "Rule one. Sold any room above seven thousand five hundred rupees a night, last financial year?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/lakeside.mp4",
+   "vstart": 5.6,
+   "punch": false,
+   "label": "RULE 1",
+   "headline": "Then your restaurant bills this year = 18% GST.",
+   "say": "Then your restaurant bills this year carry 18% GST. Not 5.",
+   "tts": "Then your restaurant bills this year carry eighteen percent GST. Not five."
+  },
+  {
+   "kind": "card",
+   "video": "work/lakeside.mp4",
+   "vstart": 7.5,
+   "label": "SAVE THIS · SEND IT TO YOUR CA",
+   "headline": "₹2,000 dinner: 5% = ₹100 GST. 18% = ₹360 GST.",
+   "say": "A ₹2,000 dinner? That's ₹360 of GST, not ₹100. Send this to whoever does your billing.",
+   "tts": "A two thousand rupee dinner? That's three hundred and sixty rupees of GST, not one hundred. Send this to whoever does your billing."
+  },
+  {
+   "kind": "clip",
+   "video": "work/lakeside.mp4",
+   "vstart": 0.8,
+   "punch": false,
+   "label": "RULE 2",
+   "headline": "Every room ₹7,500 or less? 5%, but no input credit.",
+   "say": "Rule 2. Every room at ₹7,500 or less? Food stays at 5%, but you can't claim input credit.",
+   "tts": "Rule two. Every room at seven thousand five hundred or less? Food stays at five percent, but you can't claim input credit."
+  },
+  {
+   "kind": "clip",
+   "video": "work/lakeside.mp4",
+   "vstart": 4.2,
+   "punch": false,
+   "label": "RULE 3",
+   "headline": "On 18%, claim credit for the GST on what you buy.",
+   "say": "Rule 3. On the 18% side, you claim back the GST you paid on supplies.",
+   "tts": "Rule three. On the eighteen percent side, you claim back the GST you paid on supplies."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_restaurant.jpg",
+   "hl": [
+    210,
+    316,
+    384,
+    502
+   ],
+   "tap": true,
+   "label": "RIZSTAY",
+   "headline": "Live orders update on every screen.",
+   "hy": 1150,
+   "say": "In Rizstay, new, preparing and ready orders update live on every screen.",
+   "tts": "In Rizstay, new, preparing and ready orders update live on every screen."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_guest.jpg",
+   "hl": [
+    44,
+    240,
+    358,
+    292
+   ],
+   "tap": true,
+   "label": "RIZSTAY",
+   "headline": "Stay code: guests see their own bill.",
+   "hy": 1150,
+   "say": "Room guests type a private stay code. They see their stay, amenities and running bill.",
+   "tts": "Room guests type a private stay code. They see their stay, amenities and running bill."
+  },
+  {
+   "kind": "card",
+   "video": "work/lakeside.mp4",
+   "vstart": 8.0,
+   "label": "COMMENT RATE",
+   "headline": "Comment RATE. I'll DM the 1-page hotel food GST check.",
+   "say": "Comment RATE. I'll send you the 1 page check. Follow so my DM reaches you.",
+   "tts": "Comment RATE. I'll send you the one page check. Follow so my D M reaches you."
+  }
+ ]
+}

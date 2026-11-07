@@ -72,3 +72,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - PROVEN (5 Nov): a character speaking the PROBLEM in the first second gives the lowest skip we've had (58.6% on 4 Nov, 55.9% on EP3 early) vs 75.8% when the payoff clip opens (2 Nov) and 69-78% for narrator Reels.
 - CHECKED (5 Nov): keyword comments 0 across 4 keyword Reels. Keep the alternation (owner rule) but never drop the early send ask.
 - TRY (5 Nov): a ₹/count in the frame-0 line on story Reels; ask chip by 8s on 40-60s Reels (EP3 put it at ~30s while avg watch was 5.4s).
+
+## Human voice vs narrator (7 Nov run)
+- Counted human-voice Reels (EP1 186, EP2 212, EP2-end 115, EP3 144): median 165 views vs narrator 24-29 Oct median 91 (**1.8x**). Skip median ~66.8% vs ~70.7%. Avg watch: EP3 8.4s (voice in every beat) vs EP1/EP2/EP2-end 3.7-6.4s (text-only middles) vs narrator ~7.4s. PROVEN for reach; avg watch depends on a voice in every beat, not on human vs narrator alone.
+- PROVEN (4 Nov + 7 Nov): **a voice in every beat holds longer than text over room sound.** EP3 8.4s avg vs 3.7-6.4s for the dialogue Reels with silent text middles. Copied to rules.md.
+- TRY (7 Nov): the Drive connector can't download clips above ~6 MB (6.6 MB failed twice, 5.1 MB OK). Clip task must keep clips under 5 MB.
+- TEST (7 Nov): English narrator + fresh clip + new GST rule + RATE keyword. Compare with EP3 at 24h.

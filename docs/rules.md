@@ -92,4 +92,6 @@
 - Short "moment" Reels like DbzTILTNcyZ (one relatable 8-10s scene with dialogue + a one-line caption) are a valid format again: they loop, and replays count. Add the logo, keep captions of the dialogue, no screen beats needed.
 - Gemini video quota is limited per day: the hourly clip task should spend it on dialogue clips first.
 
+- **PROVEN (7 Nov, lessons.md): a voice in every beat.** EP3 (voice laid over every screen) held 8.4s avg vs 3.7-6.4s for dialogue Reels with silent text middles. Lay a character's line (audio_src) or narration over every beat.
+- **Drive clips must be under ~5 MB** (7 Nov): the Drive connector drops larger files and the cloud can't fetch Drive/GCS directly.
 - **PROVEN (2 Nov, lessons.md): talking character first.** Two human-voice story Reels (EP1, EP2) got the 2 highest view counts of the last 10 and EP2 the lowest skip ever (53.5%). Default every Reel to a Veo dialogue clip with speech inside ~1s, one ≤6-word line at frame 0, 15-25s. Narrator/Kokoro only when no dialogue clip exists.

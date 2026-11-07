@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "SATURDAY · HOTEL GST", "headline": "Your hotel restaurant: *5% or 18%?*", "image": "shots/lakeside_dinner.jpg", "size": 84},
+{"name": "d2_rule", "kicker": "THE RULE", "headline": "Any room sold above *₹7,500 a night* last financial year?", "bullets": ["Then restaurant bills this year are 18% GST", "With input credit on what you buy"], "image": "shots/lakeside_dinner.jpg", "size": 76},
+{"name": "d3_math", "kicker": "ON ONE ₹2,000 DINNER", "headline": "5% = *₹100.* 18% = *₹360.*", "bullets": ["All rooms at ₹7,500 or less: 5%, no input credit", "Check your own case with your CA"], "size": 88},
+{"name": "d4_ask", "kicker": "QUICK POLL", "headline": "Any room in your hotel above *₹7,500?*", "bullets": ["Tap the poll", "Reply RATE and I'll send the 1-page check"], "size": 88},
+{"name": "d5_close", "kicker": "NEW REEL IS UP", "headline": "Send it to whoever *does your billing.*", "bullets": ["Comment RATE under the Reel for the free check"], "image": "shots/lakeside_dinner.jpg", "foot": "@sutrixainternational", "size": 80}
+]
+}

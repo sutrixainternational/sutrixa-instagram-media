@@ -375,3 +375,41 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 - Owner: send EP3 now to 3-5 owners who still use a register (first-hour sends are our biggest lever; 0 shares at 2h).
 - Owner: post the 5 Story frames (stories/2026-11-05_daily.json, branch s/2026-11-05) with a poll on frame 4; DM every "Register" voter.
 - Owner: delete DfUki2olOVU if not done (repeat content) and pin EP3 or EP2.
+
+**5 Nov EP3 update (7 Nov run, ~50h):** 144 views (1.38x the counted last-10 median of 104), **8.4s avg** (best of any human-voice Reel), 20.9% watched, skip 58.9%, 1 like, 0 comments, 1 share, 0 saves. 4 Nov GST special (still live, excluded): 189 views, 6.3s, 24.3%, skip 58.6%, 1 share.
+
+---
+
+## 2026-11-07 run · post-mortem of the previous Reel: Bablu ka Hotel EP3 "haazri" (DfW5VwAj4k8, 5 Nov, HR4U, human voice, 40.4s, send)
+**No Reel was posted on 6 Nov** (no daily run that day; only the laptop profile checks committed). 2nd missed day this month (3 Nov, 6 Nov).
+| metric | ~50h | counted last-10 median / benchmark |
+|---|---|---|
+| views | 144 | 104 (**1.38x**) · EP2 212 · EP1 186 |
+| avg watch / watched % | **8.4s** / 20.9% | human-voice others 3.7-6.4s; narrator median ~7.4s |
+| skip rate | 58.9% | counted median ~70.6%; benchmark <40% |
+| likes / comments / keyword / shares / saves | 1 / 0 / - (send day) / 1 / 0 | shares/reach benchmark 2.5%: we're at ~0.7% |
+| followers | **32** (+1 since 5 Nov) | |
+
+**What went right (with reasons)**
+- Avg watch 8.4s is the best of every human-voice Reel: a voice in EVERY beat (Kaka's line laid over the HR4U screens) kept people past the first line. The 4 Nov lesson (silent text middles lose viewers) is confirmed from the other side.
+- Skip 58.9% again under 60%: speech from 0.85s, the character speaks the problem ("Kaun aaya, kaun nahi...").
+
+**What went wrong (with reasons)**
+- Send chip at ~30s while avg watch is 8.4s: most viewers never saw the ask. 1 share.
+- No ₹/count at frame 0 (reach 1.38x vs 1.9-2.0x for the ₹-hook Reels EP2 and the GST special).
+- 0 saves for the 13th Reel running: nothing to keep (no checklist/₹ frame).
+- 6 Nov skipped: lost a day of the English/Hindi alternation and a post.
+
+**Change in the next Reel (applied today, 7 Nov)**
+1. Speaking character in the first second: ✘ NOT POSSIBLE. The only dialogue clip in Drive (`2026-11-04_dlg_unreviewed_be321941.mp4`, 6.6 MB, 1280x720) is too large for the Drive connector (connection drops; the 5.1 MB clip downloads fine) and the cloud proxy blocks drive.usercontent / storage.googleapis. Kokoro English voice over the one fresh clip instead, voice on every beat.
+2. Number at frame 0 + ₹ maths spoken early: ✔ "Don't bill hotel dinners at 5%." (80.2) and ₹7,500 on screen at 2.6s, ₹2,000 → ₹360 vs ₹100 card at ~14s.
+3. Save/send chip early: ✔ "SAVE THIS · SEND IT TO YOUR CA" at ~14s with the spoken send ask; keyword at the end. (Not by 8s: the rule needs the ₹ card first.)
+4. Strongest fact by 5s: ✔ partly; the 18% rule lands at 2.6-11s.
+5. Voice in every beat: ✔ (narrator).
+6. GST teaching topic (PROVEN to hold 2x): ✔ new rule (hotel restaurant 18% if any room sold above ₹7,500 last FY).
+7. English (owner rule 6 Nov): ✔. Keyword day with freebie first: ✔ RATE.
+
+**Reach actions**
+- Owner: send today's Reel to 3-5 hotel owners/CAs in the first hour; it's a CA-forwardable rule.
+- Owner: reply to every RATE comment with the DM below within the hour; pin a seed comment.
+- Laptop clip task: rename/re-export dialogue clips under ~5 MB (or 720x1280, 8s, lower bitrate) so the cloud run can download them; make EP4 Velocity English dialogue clips. Delete DfUki2olOVU (repeat, still live).
