@@ -23,8 +23,14 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 W, H, FPS = 1080, 1920, 30
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOGO = Image.open(os.path.join(HERE, "..", "brand", "logo.png")).convert("RGBA")
-FB = "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
+# Typography (owner, 8 Nov: "check the font and text area. Please use better one"):
+# Montserrat (OFL, brand/fonts) - the standard Reel caption face; has the rupee sign.
+_FD = os.path.join(HERE, "..", "brand", "fonts")
+FB = os.path.join(_FD, "Montserrat-ExtraBold.ttf")   # captions
+FH = os.path.join(_FD, "Montserrat-Black.ttf")       # headlines
+FL = os.path.join(_FD, "Montserrat-Bold.ttf")        # labels / chips
 FM = "/usr/share/fonts/opentype/inter/Inter-SemiBold.otf"
+SAFE_BOTTOM = 1480   # Instagram's caption + buttons cover the area below this
 _F = {}
 
 
@@ -67,29 +73,87 @@ def wrap(d, text, f, maxw):
     return lines
 
 
-def headline(img, text, y, size=84, alpha=1.0, box=True):
-    d = ImageDraw.Draw(img, "RGBA"); f = font(FB, size)
-    lines = wrap(d, text, f, W - 140); lh = int(size * 1.12)
-    a = int(255 * alpha)
+def _shadow(img, box, draw_fn, blur=10, alpha=150, offset=(0, 6)):
+    """Soft drop shadow for text, computed only inside its bounding box (fast)."""
+    x0, y0, x1, y1 = [int(v) for v in box]
+    pad = blur * 3
+    x0, y0 = max(0, x0 - pad), max(0, y0 - pad); x1, y1 = min(W, x1 + pad), min(H, y1 + pad)
+    if x1 <= x0 or y1 <= y0: return
+    layer = Image.new("L", (x1 - x0, y1 - y0), 0)
+    draw_fn(ImageDraw.Draw(layer), -x0 + offset[0], -y0 + offset[1])
+    layer = layer.filter(ImageFilter.GaussianBlur(blur)).point(lambda v: v * alpha // 255)
+    img.alpha_composite(Image.merge("RGBA", (Image.new("L", layer.size, 0),) * 3 + (layer,)), (x0, y0))
+
+
+def _rich(text):
+    """'Stop *counting* staff' -> [('Stop', False), ('counting', True), ('staff', False)]"""
+    out, hot = [], False
+    for part in re.split(r"(\*)", text):
+        if part == "*": hot = not hot; continue
+        glue = bool(part) and not part[0].isspace()
+        for k, w in enumerate(part.split()):
+            if k == 0 and glue and out and re.fullmatch(r"[^\w₹]+", w):
+                out[-1] = (out[-1][0] + w, out[-1][1])   # keep "register." together
+            else:
+                out.append((w, hot))
+    return out
+
+
+def headline(img, text, y, size=84, alpha=1.0, box=True, accent=(255, 212, 0)):
+    """Headline: Montserrat Black, white on a soft dark glass panel (or bare with shadow on cards).
+    *word* is drawn in the accent colour. Max 3 lines; shrinks to fit."""
+    d = ImageDraw.Draw(img, "RGBA")
+    size = int(size * 0.88)
+    toks = _rich(text)
+    while True:
+        f = font(FH, size)
+        lines, cur = [], []
+        for w in toks:
+            test = " ".join(x for x, _ in cur + [w])
+            if cur and d.textlength(test, font=f) > W - 200: lines.append(cur); cur = [w]
+            else: cur.append(w)
+        if cur: lines.append(cur)
+        if len(lines) <= 3 or size <= 52: break
+        size -= 6
+    lh = int(size * 1.14); a = int(255 * alpha)
+    widths = [d.textlength(" ".join(x for x, _ in ln), font=f) for ln in lines]
+    tw = max(widths); th = lh * len(lines)
     if box:
-        tw = max(d.textlength(l, font=f) for l in lines)
-        bx0 = (W - tw) / 2 - 34; bx1 = (W + tw) / 2 + 34
-        d.rounded_rectangle([bx0, y - 22, bx1, y + lh * len(lines) + 10], 28, fill=(255, 255, 255, int(235 * alpha)))
-        col, stroke = (10, 10, 10, a), 0
+        px, py = 40, 26
+        panel = [(W - tw) / 2 - px, y - py, (W + tw) / 2 + px, y + th - (lh - size) + py]
+        d.rounded_rectangle(panel, 30, fill=(12, 14, 22, int(170 * alpha)))
+        d.rounded_rectangle(panel, 30, outline=(255, 255, 255, int(38 * alpha)), width=2)
     else:
-        col, stroke = (255, 255, 255, a), 5
-    for ln in lines:
-        d.text(((W - d.textlength(ln, font=f)) / 2, y), ln, font=f, fill=col, stroke_width=stroke, stroke_fill=(0, 0, 0, a))
+        def sh(dr, ox, oy):
+            yy = y
+            for ln, wdt in zip(lines, widths):
+                dr.text(((W - wdt) / 2 + ox, yy + oy), " ".join(x for x, _ in ln), font=f, fill=255); yy += lh
+        _shadow(img, ((W - tw) / 2, y, (W + tw) / 2, y + th), sh, blur=14, alpha=int(200 * alpha))
+    sp = d.textlength(" ", font=f)
+    for ln, wdt in zip(lines, widths):
+        x = (W - wdt) / 2
+        for w, hot in ln:
+            d.text((x, y), w, font=f, fill=(accent if hot else (255, 255, 255)) + (a,))
+            x += d.textlength(w, font=f) + sp
         y += lh
     return y
 
 
 def chip(img, text, accent, y=230, alpha=1.0):
-    d = ImageDraw.Draw(img, "RGBA"); f = font(FB, 44)
-    tw = d.textlength(text, font=f)
-    x0 = (W - tw) / 2 - 28
-    d.rounded_rectangle([x0, y, x0 + tw + 56, y + 76], 38, fill=accent + (int(255 * alpha),))
-    d.text((x0 + 28, y + 12), text, font=f, fill=(10, 10, 10, int(255 * alpha)))
+    """Small letter-spaced label on a dark pill with an accent dot."""
+    d = ImageDraw.Draw(img, "RGBA"); f = font(FL, 32); track = 3
+    text = text.upper()
+    tw = sum(d.textlength(c, font=f) + track for c in text) - track
+    dot = 14; gap = 14; px = 30
+    wpill = px + dot + gap + tw + px
+    x0 = (W - wpill) / 2
+    d.rounded_rectangle([x0, y, x0 + wpill, y + 64], 32, fill=(10, 12, 20, int(190 * alpha)))
+    d.rounded_rectangle([x0, y, x0 + wpill, y + 64], 32, outline=accent + (int(200 * alpha),), width=2)
+    d.ellipse([x0 + px, y + 32 - dot / 2, x0 + px + dot, y + 32 + dot / 2], fill=accent + (int(255 * alpha),))
+    x = x0 + px + dot + gap
+    for c in text:
+        d.text((x, y + 14), c, font=f, fill=(255, 255, 255, int(255 * alpha)))
+        x += d.textlength(c, font=f) + track
 
 
 def caption_words(text):
@@ -116,8 +180,10 @@ def word_times(text, total, start=0.25):
     return out
 
 
-def kinetic(img, wt, t, accent, y=1380, size=88):
-    """Show the 1-3 word chunk containing the current word; current word in accent."""
+def kinetic(img, wt, t, accent, y=1300, size=80):
+    """Word-by-word captions: Montserrat ExtraBold, white with a soft shadow; the word being
+    spoken sits on an accent-coloured rounded box (dark text). 1-3 words at a time, inside
+    the safe zone (never below SAFE_BOTTOM)."""
     if not wt: return
     idx = None
     for i, (_, a, b) in enumerate(wt):
@@ -129,15 +195,26 @@ def kinetic(img, wt, t, accent, y=1380, size=88):
     d = ImageDraw.Draw(img, "RGBA"); f = font(FB, size)
     words = [w for w, _, _ in chunk]
     line = " ".join(words)
-    # shrink to fit
-    while d.textlength(line, font=f) > W - 120 and size > 50:
-        size -= 6; f = font(FB, size)
-    x = (W - d.textlength(line, font=f)) / 2
-    pop = 1.0
-    for j, (w, a, b) in enumerate(chunk):
-        col = accent if (c0 + j) == idx else (255, 255, 255)
-        d.text((x, y), w, font=f, fill=col + (255,), stroke_width=7, stroke_fill=(0, 0, 0, 255))
-        x += d.textlength(w + " ", font=f)
+    while d.textlength(line, font=f) > W - 160 and size > 52:
+        size -= 4; f = font(FB, size)
+    y = min(y, SAFE_BOTTOM - size - 20)
+    sp = d.textlength(" ", font=f) + 6
+    total = sum(d.textlength(w, font=f) for w in words) + sp * (len(words) - 1)
+    x0 = (W - total) / 2
+    def sh(dr, ox, oy):
+        x = x0
+        for w in words:
+            dr.text((x + ox, y + oy), w, font=f, fill=255); x += dr.textlength(w, font=f) + sp
+    _shadow(img, (x0, y, x0 + total, y + size * 1.2), sh, blur=9, alpha=210, offset=(0, 5))
+    x = x0
+    for j, w in enumerate(words):
+        wl = d.textlength(w, font=f)
+        if (c0 + j) == idx:
+            d.rounded_rectangle([x - 14, y - 6, x + wl + 14, y + size * 1.08], 16, fill=accent + (255,))
+            d.text((x, y), w, font=f, fill=(14, 14, 18, 255))
+        else:
+            d.text((x, y), w, font=f, fill=(255, 255, 255, 255))
+        x += wl + sp
 
 
 def cover(im, w, h):
@@ -314,7 +391,7 @@ def render(spec):
                 dd = ImageDraw.Draw(img); dd.rectangle([0, H // 2 - 5, W, H // 2 + 5], fill=(255, 255, 255, 255))
                 for lab, yy, col in ((b.get("top_label"), H // 2 - 110, (230, 60, 60)), (b.get("bottom_label"), H // 2 + 30, (40, 190, 110))):
                     if lab:
-                        f = font(FB, 46); tw = dd.textlength(lab, font=f)
+                        f = font(FL, 44); tw = dd.textlength(lab, font=f)
                         dd.rounded_rectangle([40, yy, 40 + tw + 48, yy + 78], 20, fill=col + (255,))
                         dd.text((64, yy + 12), lab, font=f, fill=(255, 255, 255, 255))
             else:  # card
@@ -325,9 +402,11 @@ def render(spec):
                 chip(img, b["label"], accent, alpha=1.0 if bi == 0 else ease(t / 0.2))
             if b.get("headline"):
                 hy = b.get("hy", 820 if kind == "card" else 340)
+                if kind != "card" and hy > 1000:  # low headlines would collide with captions: use the top band
+                    hy = 330
                 headline(img, b["headline"], hy, size=96 if kind == "card" else 80,
-                         alpha=1.0 if bi == 0 else ease(t / 0.2), box=(kind != "card"))
-            kinetic(img, b["_wt"], t, accent, y=1420 if kind != "split" else 1700)
+                         alpha=1.0 if bi == 0 else ease(t / 0.2), box=(kind != "card"), accent=accent)
+            kinetic(img, b["_wt"], t, accent, y=1300 if kind != "split" else 1640)
             corner_logo(img)
             out = img.convert("RGB")
             if first_frame is None: first_frame = out.copy()
