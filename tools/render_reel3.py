@@ -99,7 +99,7 @@ def _rich(text):
     return out
 
 
-def headline(img, text, y, size=84, alpha=1.0, box=True, accent=(255, 212, 0)):
+def headline(img, text, y, size=84, alpha=1.0, box=True, accent=(255, 212, 0), measure=False):
     """Headline: Montserrat Black, white on a soft dark glass panel (or bare with shadow on cards).
     *word* is drawn in the accent colour. Max 3 lines; shrinks to fit."""
     d = ImageDraw.Draw(img, "RGBA")
@@ -118,6 +118,8 @@ def headline(img, text, y, size=84, alpha=1.0, box=True, accent=(255, 212, 0)):
     lh = int(size * 1.14); a = int(255 * alpha)
     widths = [d.textlength(" ".join(x for x, _ in ln), font=f) for ln in lines]
     tw = max(widths); th = lh * len(lines)
+    if measure:  # (x0, y0, x1, y1) of the panel / text block
+        return ((W - tw) / 2 - 40, y - 26, (W + tw) / 2 + 40, y + th - (lh - size) + 26)
     if box:
         px, py = 40, 26
         panel = [(W - tw) / 2 - px, y - py, (W + tw) / 2 + px, y + th - (lh - size) + py]
@@ -331,6 +333,96 @@ def tts_factory():
     return tts
 
 
+# ---------------------------------------------------------------- face-aware text layout
+# Owner, 8 Nov: "the character half face covers the text ... this small details you must take
+# care before posting any content". Every clip beat detects the characters' faces (YuNet, works
+# on the 3D cartoon characters) and places the label, headline and captions where no head is.
+_YUNET = os.path.join(HERE, "..", "brand", "models", "face_detection_yunet_2023mar.onnx")
+_DET = None
+
+
+def detect_heads(vdir, fr, y_off=0, samples=6):
+    """Union of head boxes over a few frames of the beat. YuNet's box runs eyes-to-chin, so it is
+    widened 18% each side and raised 55% of its height to cover hair, cap and forehead."""
+    global _DET
+    if not vdir or not fr or not os.path.exists(_YUNET):
+        return []
+    import cv2, numpy as np
+    heads = []
+    for k in sorted(set(int(j * (len(fr) - 1) / max(samples - 1, 1)) for j in range(samples))):
+        im = cv2.imread(os.path.join(vdir, fr[k]))
+        if im is None: continue
+        h, w = im.shape[:2]
+        if _DET is None:
+            _DET = cv2.FaceDetectorYN.create(_YUNET, "", (w, h), 0.6, 0.3, 5000)
+        _DET.setInputSize((w, h))
+        _, faces = _DET.detect(im)
+        faces = [] if faces is None else [x for x in faces if float(x[-1]) >= 0.7 and float(x[2]) >= 0.12 * w]
+        big = max([float(x[2]) for x in faces], default=0)
+        for x in faces:
+            fx, fy, fw, fh, sc = float(x[0]), float(x[1]), float(x[2]), float(x[3]), float(x[-1])
+            if fw < 0.6 * big: continue   # keep the characters, drop pictures/props detected as faces
+            heads.append((fx - 0.18 * fw, y_off + fy - 0.55 * fh, fx + 1.18 * fw, y_off + fy + 1.08 * fh))
+    return heads
+
+
+def _hits(r, boxes, pad=24):
+    return any(r[0] < b[2] + pad and r[2] > b[0] - pad and r[1] < b[3] + pad and r[3] > b[1] - pad for b in boxes)
+
+
+def plan_text(img_probe, b, kind, heads, accent):
+    """Choose y for captions, headline and label so none of them covers a head.
+    Returns (layout dict, error or None)."""
+    cap_size = 80
+    def cap_rect(y): return (100, y - 12, W - 100, y + cap_size * 1.15)
+    lay = {"cap": 1300 if kind != "split" else 1640, "head": None, "chip": 230, "hsize": 96 if kind == "card" else 80}
+    if kind in ("card", "screen", "scene") or not heads:
+        if b.get("headline"):
+            hy = b.get("hy", 820 if kind == "card" else 340)
+            lay["head"] = 330 if (kind != "card" and hy > 1000) else hy
+        return lay, None
+    # captions and headline are planned together: for each caption height (1300 first, then lower,
+    # then higher) find a headline spot (top band, else the gap under the faces) at 80/72/64/58 px.
+    best = None
+    for cy in (1300, 1340, SAFE_BOTTOM - cap_size - 20, 1220, 1140):
+        if _hits(cap_rect(cy), heads):
+            continue
+        if not b.get("headline"):
+            best = (cy, None, 80); break
+        for size in (80, 72, 64, 58):
+            probe = headline(img_probe, b["headline"], 0, size=size, measure=True)
+            ph = probe[3] - probe[1]
+            for hy in [330] + list(range(int(cy - ph - 30), 600, -10)):
+                r = headline(img_probe, b["headline"], hy, size=size, measure=True)
+                if r[1] < 300 or r[3] > cy - 18: continue
+                if not _hits(r, heads):
+                    best = (cy, hy, size); break
+            if best: break
+        if best: break
+    if not best:
+        what = "headline \"%s\"" % b["headline"] if b.get("headline") else "captions"
+        return lay, f"{what} would cover a face at every position"
+    lay["cap"], lay["head"], lay["hsize"] = best
+    taken = [cap_rect(lay["cap"])]
+    if lay["head"] is not None:
+        taken.append(headline(img_probe, b["headline"], lay["head"], size=lay["hsize"], measure=True))
+    if b.get("label"):
+        cw = 520  # generous label width for the check
+        opts = [230]
+        if lay["head"] is not None:
+            hr = headline(img_probe, b["headline"], lay["head"], size=lay["hsize"], measure=True)
+            opts += [hr[1] - 64 - 16, hr[3] + 16]
+        opts += [lay["cap"] - 64 - 36]
+        for cy in opts:
+            r = ((W - cw) / 2, cy, (W + cw) / 2, cy + 64)
+            if not _hits(r, heads, pad=16) and not _hits(r, taken, pad=10):
+                lay["chip"] = cy; break
+        else:
+            lay["chip"] = None   # no face-free spot: leave the label off this beat rather than cover a face
+            print(f"note: label \"{b['label']}\" skipped on this beat (no face-free spot)")
+    return lay, None
+
+
 def render(spec):
     accent = hexrgb(spec.get("accent", "#FFD400"))
     bpm = spec.get("beat_bpm", 100)
@@ -371,6 +463,11 @@ def render(spec):
             shot = Image.open(b["image"]).convert("RGB")
         if kind == "screen" and b.get("tap"):
             taps.append(t_global + 0.45)
+        heads = detect_heads(vd, fr) if kind in ("clip",) else (detect_heads(vd, fr) if kind == "split" else [])
+        lay, lerr = plan_text(Image.new("RGBA", (W, H)), b, kind, heads, accent)
+        if lerr:
+            sys.exit(f"REFUSED (text over face) beat {bi + 1}: {lerr}. Shorten the text, drop the headline, or use another clip segment.")
+        b["_layout"] = lay
         for i in range(nf):
             t = i / FPS
             if kind == "clip":
@@ -398,15 +495,12 @@ def render(spec):
                 base = vframe(vd, fr, i) if vd else (cover(shot, W, H) if shot else Image.new("RGB", (W, H), (8, 14, 34)))
                 img = base.filter(ImageFilter.GaussianBlur(18)).convert("RGBA")
                 img.alpha_composite(Image.new("RGBA", (W, H), (0, 0, 0, 110)))
-            if b.get("label") and kind != "split":
-                chip(img, b["label"], accent, alpha=1.0 if bi == 0 else ease(t / 0.2))
+            if b.get("label") and kind != "split" and lay["chip"] is not None:
+                chip(img, b["label"], accent, y=lay["chip"], alpha=1.0 if bi == 0 else ease(t / 0.2))
             if b.get("headline"):
-                hy = b.get("hy", 820 if kind == "card" else 340)
-                if kind != "card" and hy > 1000:  # low headlines would collide with captions: use the top band
-                    hy = 330
-                headline(img, b["headline"], hy, size=96 if kind == "card" else 80,
+                headline(img, b["headline"], lay["head"], size=lay["hsize"],
                          alpha=1.0 if bi == 0 else ease(t / 0.2), box=(kind != "card"), accent=accent)
-            kinetic(img, b["_wt"], t, accent, y=1300 if kind != "split" else 1640)
+            kinetic(img, b["_wt"], t, accent, y=lay["cap"])
             corner_logo(img)
             out = img.convert("RGB")
             if first_frame is None: first_frame = out.copy()
