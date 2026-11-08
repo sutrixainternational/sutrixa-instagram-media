@@ -135,3 +135,4 @@
   4. Highlights + stories (+8): post the rendered Story frames from the phone, then START · RIZSTAY · VOXA · HR4U · FREEBIES.
   5. Name field (allowed again from 10 Nov), pick one: `Sutrixa | Hotel & GST software` (30) · `Sutrixa | AI for hotels, India` (30) · `Sutrixa | Hotel billing app` (27).
 - Projected if 1-4 are done: about 77/100. Not verified.
+<!-- 2026-11-08 13:37 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 8 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Owner re-notified at 13:37 IST; next reminder no earlier than 2026-11-09 07:55 IST. -->
