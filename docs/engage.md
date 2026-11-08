@@ -31,3 +31,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 ## Dropped this week
 - **@riyaazamlani: wrong account.** The public index shows @riyaazamlani as a Turkish lyricist, not the restaurateur Riyaaz Amlani. It was added on 25 Oct from a web search; take it off any list. His real handle is unknown, so don't guess one.
 - @restaurant.india, @hospitalitybiz, @marketmyhotel.in: added on 25 Oct from search, and nothing confirmed them this week. Swapped for accounts the laptop actually opened.
+
+## Comment drafts, 8 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @ca.kushalgarg (any GST deadline Reel), type 2 missing case: The part small hotels miss is the supplier side. If the vendor files late, the credit isn't in 2B and you chase it for months.
+2. @cadeveshthakur.official (GSTR-9 list), type 5 real question: For a hotel with a restaurant, which point trips people up more in GSTR-9, the room slab or the food rate?
+3. @ca.himanigarg (GST update), type 4 extend one line: The date matters less than the habit. Owners who match bills every month never panic in November.
+4. @ganesh.debnath__ (money-loss story), type 2 missing case: Same thing happens when a restaurant runs ads and nobody picks up the phone at 8 PM. The ad gets blamed for a phone problem.
+5. @fewshot.studio (explainer), type 9 one-liner: The analogy did more work than any definition I've read.
+6. @aiwith.om (AI for business), type 2 missing case: Works until the staff stop using it. The tools that stick are the ones that save the person doing the data entry, not just the owner.
+7. @vanturexmedia (salon marketing), type 1 add a datum: Salons lose the most calls exactly when the chairs are full. The busiest hour is the worst hour to miss a booking.
+8. @gstify (weekly update), type 5 real question: Does this change anything for hotels billing rooms under ₹7,500, or is it only for the 18% side?
+9. @ca.kushalgarg (registration/notice Reel), type 5 real question: For a small hotel, what usually triggers the first notice: a return filed late, or one invoice that doesn't match?
+10. @aiwith.om (Hinglish explainer), type 8 reframe: Another way to read this: the AI isn't replacing the receptionist, it's covering the hours she isn't there.

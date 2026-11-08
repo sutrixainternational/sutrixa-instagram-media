@@ -413,3 +413,35 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 - Owner: send today's Reel to 3-5 hotel owners/CAs in the first hour; it's a CA-forwardable rule.
 - Owner: reply to every RATE comment with the DM below within the hour; pin a seed comment.
 - Laptop clip task: rename/re-export dialogue clips under ~5 MB (or 720x1280, 8s, lower bitrate) so the cloud run can download them; make EP4 Velocity English dialogue clips. Delete DfUki2olOVU (repeat, still live).
+
+---
+
+## 2026-11-08 run (6:47 PM, post-mortem + pack only; the MAIN session posts today's English Reel per the 8 Nov ONLY note) · post-mortem of: Hotel food GST (DfcVjx-myi5, 7 Nov, Rizstay, ENGLISH, Kokoro narrator, landscape clip cropped, 49.8s, keyword RATE)
+| metric | ~23h | counted last-10 median (excl. 4 Nov repeat) / benchmark |
+|---|---|---|
+| views | 91 | 102.5 (**0.89x**) · EP3 147 · EP2 212 |
+| avg watch / watched % | **3.1s** / 6.3% (worst ever) | EP3 8.2s / 20.6% |
+| skip rate | **86.8%** (worst ever) | speaking-character openers 58.9-62.6%; benchmark <40% |
+| likes / comments / RATE / shares / saves | 0 / 0 / 0 / 0 / 0 | first Reel with zero interactions of any kind |
+| followers | 32 (flat since 7 Nov) | |
+
+**What went wrong (with reasons)**
+- Frame 0 was a landscape clip centre-cropped to 9:16 under a computer narrator: 87% swiped inside 3s. Both changes at once (no human voice + no native portrait footage) gave the worst skip on the account; the owner also rejected it for quality (one clip looped ~35s, smeared screens).
+- Hotel GST for the 4th time (27 Oct, 29 Oct, 4 Nov, 7 Nov). The "GST holds 2x" lesson did not save it: topic cannot rescue a bad first 3 seconds.
+- 6th keyword Reel with 0 keyword comments (CALLS, LEAK, PHONE, GST, RATE + 0 comments overall on 12 Reels).
+- English + narrator is untested against English + human voice, so we still can't separate "Hindi" from "human voice". Today's English Veo Reel is that test.
+
+**What went right**: nothing measurable. The ₹ maths card was a good screenshot frame but only ~6% of viewers reached it.
+
+**Change in today's Reel (8 Nov, main session, English)** (all are already hard-gated or in rules.md):
+1. A Veo character speaks the problem in English inside 1s, native portrait clip at frame 0. No narrator.
+2. No clip on screen > 12s, no beat > 9s; tall phone screenshots only.
+3. Not GST (topic rest ≥ 14 days). HR4U or Voxa hooks from the 8 Nov review fit.
+4. Send ask by 8s, no keyword (keywords paused until a Reel earns ≥ 5 organic comments).
+5. Voice in every beat (lines over screens via audio_src).
+
+**5 Nov EP3 final (~3.3 days):** 147 views, 8.2s avg, 20.6%, skip 59.5%, 1 like, 1 share, 0 saves.
+
+**Reach actions**
+- Owner: consider archiving DfcVjx-myi5 (you rejected it; at 0.89x it drags the grid) and DfUki2olOVU (repeat, still live).
+- Owner: send tonight's Reel to 3-5 people in the first hour (list in the pack).

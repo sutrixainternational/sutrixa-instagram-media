@@ -78,3 +78,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - PROVEN (4 Nov + 7 Nov): **a voice in every beat holds longer than text over room sound.** EP3 8.4s avg vs 3.7-6.4s for the dialogue Reels with silent text middles. Copied to rules.md.
 - TRY (7 Nov): the Drive connector can't download clips above ~6 MB (6.6 MB failed twice, 5.1 MB OK). Clip task must keep clips under 5 MB.
 - TEST (7 Nov): English narrator + fresh clip + new GST rule + RATE keyword. Compare with EP3 at 24h.
+
+## 8 Nov run (post-mortem of 7 Nov)
+- PROVEN (7 Nov + 2 Nov): **frame 0 decides everything.** Narrator + landscape crop: 86.8% skip, 3.1s avg, 0 interactions. Speaking character on native portrait footage: 58.9-62.6%. Already in rules.md (8 Nov hook guidance + quality gate).
+- WEAKENED (7 Nov): "GST topics hold 2x" (29 Oct). True only when the opener holds; GST Reel #4 got 0.89x and 6.3% watched. Topic rest ≥ 14 days is now enforced by no_repeat.py.
+- PROVEN again (6th time): comment-KEYWORD asks get 0 comments at 32 followers. Keywords stay paused (8 Nov review).
+- TEST (8 Nov): English Veo dialogue Reel (main session). Compare with EP3 (Hindi, human voice) at 24h to separate language from voice.

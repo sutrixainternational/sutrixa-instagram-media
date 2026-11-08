@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "SUNDAY · STAFF", "headline": "Who forgot to *clock out* yesterday?", "image": "shots/hr_live.jpg", "size": 84},
+{"name": "d2_why", "kicker": "WHY IT HURTS", "headline": "One open shift = *a wrong payslip* at month end", "bullets": ["Someone fixes it by hand", "Or nobody notices"], "size": 80},
+{"name": "d3_fix", "kicker": "WHAT HR4U DOES", "headline": "Idle sessions *close by themselves*", "bullets": ["Staff send a correction request from their phone", "You approve it in one queue"], "image": "shots/hr_hero.jpg", "size": 78},
+{"name": "d4_ask", "kicker": "QUICK POLL", "headline": "How do you track staff hours?", "bullets": ["Register · WhatsApp · An app", "Or reply and tell me"], "size": 88},
+{"name": "d5_close", "kicker": "NEW REEL TONIGHT", "headline": "Watch it, then *send it to one owner*", "bullets": ["Follow for one business fix a day"], "foot": "@sutrixainternational", "size": 80}
+]
+}
