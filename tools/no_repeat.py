@@ -27,6 +27,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LEDGER = os.path.join(ROOT, "docs", "used_content.json")
 SIM = 0.60
 FACT_DAYS = 21
+TOPIC_DAYS = 14
 
 
 def norm(s):
@@ -57,17 +58,24 @@ def check(spec, today=None):
     led = load()
     meta = spec.get("meta") or {}
     errs = []
-    for k in ("story", "clips_src", "facts", "hook", "lang"):
+    for k in ("story", "clips_src", "facts", "hook", "lang", "topic"):
         if not meta.get(k):
             errs.append(f"meta.{k} missing: the spec must declare it")
     # Owner rule 6 Nov 2026: alternate languages, one English Reel then one Hindi Reel.
     if meta.get("lang") and meta["lang"] not in ("en", "hi"):
         errs.append(f"meta.lang must be 'en' or 'hi', got {meta['lang']!r}")
     if meta.get("lang") and led["posts"]:
-        last = sorted(led["posts"], key=lambda p: p["date"])[-1]
+        valid = [p for p in led["posts"] if not p.get("rejected_by_owner")]
+        last = sorted(valid, key=lambda p: p["date"])[-1]
         if last.get("lang") == meta["lang"]:
             errs.append(f"language repeats: the last Reel ({last['date']}) was also '{meta['lang']}'. Alternate English and Hindi (owner rule 6 Nov)")
     today = today or dt.date.today()
+    # Owner 8 Nov: a SUBJECT may not come back within 14 days, however the facts are worded.
+    # topic = short subject id from docs/topics.md, e.g. gst_hotel, voxa_missed_calls, hr4u_attendance_payroll
+    for p in led["posts"]:
+        age = (today - dt.date.fromisoformat(p["date"][:10])).days
+        if meta.get("topic") and p.get("topic") == meta["topic"] and age <= TOPIC_DAYS:
+            errs.append(f"topic '{meta['topic']}' was already the subject on {p['date']} ({age} days ago; cool-down {TOPIC_DAYS} days)")
     used_clips = {c.lower(): p["date"] for p in led["posts"] for c in p.get("clips_src", [])}
     for c in meta.get("clips_src", []):
         base = re.sub(r"^used_[0-9+\-_]*", "", c.lower())
@@ -101,7 +109,7 @@ def record(spec, date, url):
     led = load()
     meta = spec["meta"]
     led["posts"].append({"date": date, "url": url, "story": meta["story"], "hook": meta["hook"],
-                         "clips_src": meta["clips_src"], "facts": meta["facts"], "lang": meta.get("lang"), "lines": lines_of(spec)})
+                         "clips_src": meta["clips_src"], "facts": meta["facts"], "lang": meta.get("lang"), "topic": meta.get("topic"), "lines": lines_of(spec)})
     json.dump(led, open(LEDGER, "w"), ensure_ascii=False, indent=1)
     print(f"recorded {date} in {LEDGER}")
 

@@ -12,7 +12,8 @@
     "rz_one_bill_checkout"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "rizstay_billing_late_night"
   },
   {
    "date": "2026-10-25",
@@ -27,7 +28,8 @@
     "vx_textback"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-10-26",
@@ -43,7 +45,8 @@
     "vx_calendar"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-10-27",
@@ -61,7 +64,8 @@
     "rz_gst_register_excel"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "gst_hotel"
   },
   {
    "date": "2026-10-28",
@@ -78,7 +82,8 @@
     "vx_textback"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-10-29",
@@ -97,7 +102,8 @@
     "rz_purchase_register"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "gst_input_credit"
   },
   {
    "date": "2026-10-30",
@@ -126,7 +132,8 @@
     "aur stock khud ghate.",
     "Kaka, aaj aath baje ghar! Shabaash, beta!"
    ],
-   "lang": "hi"
+   "lang": "hi",
+   "topic": "gst_hotel"
   },
   {
    "date": "2026-10-31",
@@ -144,7 +151,8 @@
     "vx_calendar"
    ],
    "lines": [],
-   "lang": "en"
+   "lang": "en",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-11-01",
@@ -167,7 +175,8 @@
     "Ek AI receptionist rakh, jo har call uthaye, chaubees ghante.",
     "Hindi mein bhi baat karega? Barah bhashaon mein."
    ],
-   "lang": "hi"
+   "lang": "hi",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-11-02",
@@ -186,7 +195,8 @@
    "lines": [
     "Ab koi call miss nahi hoti."
    ],
-   "lang": "hi"
+   "lang": "hi",
+   "topic": "voxa_missed_calls"
   },
   {
    "date": "2026-11-04",
@@ -207,7 +217,8 @@
     "Beta, tera hotel guest nahi kho raha... paisa teen jagah se leak ho raha hai. Teen jagah se, Kaka?",
     "Kaka, aaj aath baje ghar! Shabaash, beta!"
    ],
-   "lang": "hi"
+   "lang": "hi",
+   "topic": "gst_hotel"
   },
   {
    "date": "2026-11-05",
@@ -238,7 +249,8 @@
     "Aur saare kagaz... contract, ID, salary slip... sab teri apni Google Drive mein, beta.",
     "Ab pata hai kaun aaya, kaun nahi. Mahine ke aakhir mein, bas ek click!"
    ],
-   "lang": "hi"
+   "lang": "hi",
+   "topic": "hr4u_attendance_payroll"
   },
   {
    "date": "2026-11-07",
@@ -266,7 +278,9 @@
     "In Rizstay, new, preparing and ready orders update live on every screen.",
     "Room guests type a private stay code. They see their stay, amenities and running bill.",
     "Comment RATE. I'll send you the 1 page check. Follow so my DM reaches you."
-   ]
+   ],
+   "topic": "gst_hotel",
+   "rejected_by_owner": true
   }
  ]
 }

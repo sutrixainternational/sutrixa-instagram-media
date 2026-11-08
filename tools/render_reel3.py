@@ -397,4 +397,13 @@ if __name__ == "__main__":
         _errs = no_repeat.check(_spec)
         if _errs:
             sys.exit("REFUSED (no_repeat): " + "; ".join(_errs))
+    # Owner 8 Nov: hard quality gate before and after rendering.
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import qa_reel
+    _q = qa_reel.check_spec(_spec)
+    if _q:
+        sys.exit("REFUSED (qa_reel spec): " + "; ".join(_q))
     render(_spec)
+    _q = qa_reel.check_video(_spec["out"] if os.path.isabs(_spec["out"]) else os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), _spec["out"]))
+    if _q:
+        sys.exit("REFUSED (qa_reel video): " + "; ".join(_q) + "  -- do NOT post this file")
