@@ -10,8 +10,121 @@
   "hook": "Our food is better. So why are we *empty*?",
   "lang": "en",
   "topic": "velocity_social_posting",
-  "clips_src": ["2026-11-08_dlg_en_vel_bablu_empty.mp4", "2026-11-08_dlg_en_vel_priya_march.mp4", "2026-11-08_dlg_en_vel_kaka.mp4", "2026-11-08_dlg_en_vel_priya_replies.mp4", "2026-11-08_dlg_en_vel_payoff.mp4"],
-  "facts": ["vel_posts_written_weekly", "vel_pictures_and_videos_made", "vel_posted_at_good_times", "vel_approve_on_phone", "vel_replies_comments_forwards_messages"]
+  "clips_src": [
+   "2026-11-08_dlg_en_vel_bablu_empty.mp4",
+   "2026-11-08_dlg_en_vel_priya_march.mp4",
+   "2026-11-08_dlg_en_vel_kaka.mp4",
+   "2026-11-08_dlg_en_vel_priya_replies.mp4",
+   "2026-11-08_dlg_en_vel_payoff.mp4"
+  ],
+  "facts": [
+   "vel_posts_written_weekly",
+   "vel_pictures_and_videos_made",
+   "vel_posted_at_good_times",
+   "vel_approve_on_phone",
+   "vel_replies_comments_forwards_messages"
+  ]
  },
- "beats": "FILLED IN ONCE THE CLIPS ARRIVE (speech timings measured per clip)"
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/vel_bablu.mp4",
+   "vstart": 2.6,
+   "dur": 7.0,
+   "clip_voice": true,
+   "speech": [
+    0.6,
+    6.6
+   ],
+   "punch": false,
+   "label": "BABLU'S HOTEL · EP 4",
+   "headline": "Our food is better. So why are we *empty*?",
+   "say": "Our food is better. So why is that hotel full... and we are empty?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/vel_priya1.mp4",
+   "vstart": 1.9,
+   "dur": 7.0,
+   "clip_voice": true,
+   "speech": [
+    0.5,
+    6.8
+   ],
+   "punch": false,
+   "label": "PRIYA · RECEPTION",
+   "say": "Sir, they post on Instagram every single day. We posted once... in March."
+  },
+  {
+   "kind": "clip",
+   "video": "work/vel_kaka.mp4",
+   "vstart": 0.6,
+   "dur": 4.0,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    3.9
+   ],
+   "punch": false,
+   "label": "1 · POSTS WRITTEN FOR YOU",
+   "say": "Then let someone do it for you, beta. They write your posts,"
+  },
+  {
+   "kind": "clip",
+   "video": "work/vel_kaka.mp4",
+   "vstart": 4.6,
+   "dur": 5.0,
+   "clip_voice": true,
+   "speech": [
+    0.1,
+    4.9
+   ],
+   "punch": false,
+   "label": "2 · YOU APPROVE ON YOUR PHONE",
+   "say": "make the videos, and post on time. You just say yes, on your phone."
+  },
+  {
+   "kind": "clip",
+   "video": "work/vel_priya2.mp4",
+   "vstart": 0.6,
+   "dur": 8.2,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    8.0
+   ],
+   "punch": false,
+   "label": "3 · REPLIES TO COMMENTS FOR YOU",
+   "say": "And it replies to comments, and every guest message comes straight to our phone. Nothing goes out without your okay, sir."
+  },
+  {
+   "kind": "clip",
+   "video": "work/vel_payoff.mp4",
+   "vstart": 0.0,
+   "dur": 8.0,
+   "clip_voice": true,
+   "speech": [
+    1.0,
+    7.0
+   ],
+   "punch": false,
+   "label": "SEND THIS TO A HOTEL OWNER",
+   "say": "Fully booked this weekend... and I did not write a single post!"
+  },
+  {
+   "kind": "card",
+   "video": "work/vel_payoff.mp4",
+   "vstart": 7.6,
+   "dur": 2.4,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/vel_payoff.mp4",
+   "astart": 7.6,
+   "label": "SUTRIXA VELOCITY",
+   "headline": "Your posts, *done for you*. velocity.sutrixa.com",
+   "say": " "
+  }
+ ]
 }
