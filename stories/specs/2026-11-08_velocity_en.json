@@ -100,12 +100,12 @@
   {
    "kind": "clip",
    "video": "work/vel_payoff.mp4",
-   "vstart": 0.0,
-   "dur": 8.0,
+   "vstart": 0.8,
+   "dur": 7.0,
    "clip_voice": true,
    "speech": [
-    1.0,
-    7.0
+    0.7,
+    6.4
    ],
    "punch": false,
    "label": "SEND THIS TO A HOTEL OWNER",
@@ -114,14 +114,14 @@
   {
    "kind": "card",
    "video": "work/vel_payoff.mp4",
-   "vstart": 7.6,
-   "dur": 2.4,
+   "vstart": 7.8,
+   "dur": 2.2,
    "speech": [
     0,
     0.1
    ],
    "audio_src": "work/vel_payoff.mp4",
-   "astart": 7.6,
+   "astart": 7.8,
    "label": "SUTRIXA VELOCITY",
    "headline": "Your posts, *done for you*. velocity.sutrixa.com",
    "say": " "
