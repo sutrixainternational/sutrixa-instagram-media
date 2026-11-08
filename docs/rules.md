@@ -1,4 +1,4 @@
-> **9 Nov 2026 ONLY:** the MAIN session posts the English Velocity story Reel (Bablu, Priya, Kaka; topic velocity_social_posting) at about 7:30 PM. Today's 6:47 PM run must NOT render or post a Reel: post-mortem, owner pack, Stories and replies only. (8 Nov: no Reel was posted. Gemini was overloaded/limited and Chrome's downloads were stuck waiting on Save-as, so no clip reached the laptop or Drive; the owner was told.)
+> **8 Nov note:** the English Velocity Reel was posted late on 8 Nov (23:55 IST, Dffbuyxkq9y) after the downloads started reaching Drive again. 9 Nov is back to normal: the 6:47 PM run makes a HINDI Reel (language alternation), new story, new clips, all gates.
 
 > **8 Nov 2026 ONLY:** the owner rejected the 7 Nov Reel (DfcVjx-myi5) for quality: one stock clip looped ~35s, robotic Kokoro narrator instead of human voices, glitched/smeared screens, and the ₹7,500 hotel GST topic for the 4th time. The MAIN session makes and posts today's Reel (English, human voices, new story). Today's 6:47 PM run must NOT render or post a Reel: post-mortem, owner pack, Stories and replies only.
 

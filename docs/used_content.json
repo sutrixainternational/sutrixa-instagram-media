@@ -281,6 +281,36 @@
    ],
    "topic": "gst_hotel",
    "rejected_by_owner": true
+  },
+  {
+   "date": "2026-11-08",
+   "url": "https://www.instagram.com/reel/Dffbuyxkq9y/",
+   "story": "Bablu ka Hotel (English): the hotel across the street is full because it posts every day; Priya says they posted once in March; Kaka says let someone write, make and post it for you while you just approve on your phone (Velocity); replies and guest messages come to the phone; Bablu fully booked",
+   "hook": "Our food is better. So why are we *empty*?",
+   "clips_src": [
+    "2026-11-08_dlg_en_vel_bablu_empty.mp4",
+    "2026-11-08_dlg_en_vel_priya_march.mp4",
+    "2026-11-08_dlg_en_vel_kaka.mp4",
+    "2026-11-08_dlg_en_vel_priya_replies.mp4",
+    "2026-11-08_dlg_en_vel_payoff.mp4"
+   ],
+   "facts": [
+    "vel_posts_written_weekly",
+    "vel_pictures_and_videos_made",
+    "vel_posted_at_good_times",
+    "vel_approve_on_phone",
+    "vel_replies_comments_forwards_messages"
+   ],
+   "lang": "en",
+   "topic": "velocity_social_posting",
+   "lines": [
+    "Our food is better. So why is that hotel full... and we are empty?",
+    "Sir, they post on Instagram every single day. We posted once... in March.",
+    "Then let someone do it for you, beta. They write your posts,",
+    "make the videos, and post on time. You just say yes, on your phone.",
+    "And it replies to comments, and every guest message comes straight to our phone. Nothing goes out without your okay, sir.",
+    "Fully booked this weekend... and I did not write a single post!"
+   ]
   }
  ]
 }
