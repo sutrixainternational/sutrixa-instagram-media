@@ -1,0 +1,17 @@
+{
+ "out": "work/reel_velocity_en.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "en",
+ "meta": {
+  "story": "Bablu ka Hotel (English): the hotel across the street is full because it posts every day; Priya says they posted once in March; Kaka says let someone write, make and post it for you while you just approve on your phone (Velocity); replies and guest messages come to the phone; Bablu fully booked",
+  "hook": "Our food is better. So why are we *empty*?",
+  "lang": "en",
+  "topic": "velocity_social_posting",
+  "clips_src": ["2026-11-08_dlg_en_vel_bablu_empty.mp4", "2026-11-08_dlg_en_vel_priya_march.mp4", "2026-11-08_dlg_en_vel_kaka.mp4", "2026-11-08_dlg_en_vel_priya_replies.mp4", "2026-11-08_dlg_en_vel_payoff.mp4"],
+  "facts": ["vel_posts_written_weekly", "vel_pictures_and_videos_made", "vel_posted_at_good_times", "vel_approve_on_phone", "vel_replies_comments_forwards_messages"]
+ },
+ "beats": "FILLED IN ONCE THE CLIPS ARRIVE (speech timings measured per clip)"
+}
