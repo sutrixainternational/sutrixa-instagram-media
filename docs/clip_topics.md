@@ -1,67 +1,45 @@
-# Gemini clip topics. Rewritten by the weekly review, 1 Nov 2026
-Evidence this week (24-29 Oct reads; vidIQ disconnected for 30-31 Oct): GST/tax-number Reels hold ~2x longer than Voxa missed-call Reels (13.6-15.7s vs 7.6-8.8s avg watch). Every Reel loses 64-81% in the first 3 seconds. The two things that move the first 3s are a fresh clip with the problem in motion and, as a bet, a human Veo voice. Folder "1 - Gemini clips" was EMPTY on 31 Oct: **keep at least 2 unused clips in it**, dialogue first.
+# Gemini clip topics. Rewritten by the weekly review, 8 Nov 2026
+Evidence (vidIQ owner insights, 8 Nov, lifetime, 11 counted Reels, median 102 views): **the 4 Reels that opened on a Veo character speaking averaged 1.61x median; the 7 narrator Reels 0.84x.** The best Reel of the month is EP2 "Bablu ka phone" (212 views, 2.08x, 2 shares). The worst opener is 7 Nov: a landscape dinner clip cropped to portrait under a narrator (87.9% skip). So the queue below is **dialogue clips only, native portrait, one speaker per clip**, and it alternates English and Hindi (owner rule 6 Nov).
 
-Every clip: vertical 9:16, realistic (or the Bablu/Kaka 3D style), 8s, Indian setting, natural sound, no text, no logos. The problem moves in the first second. Prompt shape: subject + action + camera move + style + light + specs, 50-100 words.
+Every clip: vertical 9:16 (native, never a landscape crop), 8s, Indian setting, natural sound, no text, no logos. The problem moves in the first second and the line starts inside ~1s. Prompt shape: subject + action + camera move + style + light + specs, 50-100 words. **Export under 5 MB** (720x1280 is fine): the Drive connector drops bigger files and the cloud can't fetch Drive directly (7 Nov). Keep at least 2 unused clips in "1 - Gemini clips".
 
-> 30 Oct (still binding) (owner: "voiceover very humanly", DbzTILTNcyZ): make DIALOGUE clips first. Write the spoken line inside the Gemini video prompt so Veo's own human voice speaks it. Portrait 9:16. One line per 8s clip, Hindi/Hinglish, natural voice described (warm, tired, raspy...). Name files YYYY-MM-DD_dlg_<topic>.mp4.
+Standing lessons (still binding):
+- ONE speaker per clip: Gemini refused every two-speaker prompt (5 Nov).
+- No studio names in prompts ("Pixar-like" fails). Write "Colourful 3D animated cartoon style with soft, rounded, stylised characters" (4 Nov).
+- Write the spoken line into the prompt so Veo's own voice says it: Hindi: `says in Hindi, with a natural warm voice: "..."`. English: `says in English, with a natural Indian accent, in a warm human voice: "..."`. Lines under ~7s.
+- Name files `YYYY-MM-DD_dlg_<en|hi>_<topic>.mp4`. Chrome saves Gemini downloads to the laptop's Downloads folder.
+- If Google shows an "unusual traffic" check, never solve it; stop and retry later.
+- **No repeats** (owner rule 4 Nov): no clip, line, hook, story angle or fact used in the last 21 days. Facts below are picked from products.md lines not yet taught; `tools/no_repeat.py check` decides on the day.
 
-> **1 Nov status (after the 7:30 PM run):** EP2 posted at 14:00 UTC (DfM5OWDFD4v) with clips 1+2 (moved to "3 - Posted" as USED_2026-11-01_*). Clip 3 `2026-11-01_dlg_ep2_happy.mp4` landed in Drive after EP2 was rendered, so it is still UNUSED in "1 - Gemini clips": use it next as a short moment Reel/EP2 payoff opener ("Ab koi call miss nahi hoti."). Next to make: clips 4-5 below, then EP3 (HR4U staff register). If Google shows an "unusual traffic" robot check, never try to solve it: stop and retry later.
+## Characters (keep identical every time)
+BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater. PRIYA: 24-year-old receptionist, neat bun, maroon blazer. All three can speak English or Hindi.
 
-> **2 Nov status:** the EP2 happy clip was used for the 2 Nov moment Reel (DfPfKsHkjay) and moved to "3 - Posted". Folder "1 - Gemini clips" now has NO unused video. Make next, in order: EP3 HR4U dialogue clips (Bablu reading staff leave messages on WhatsApp: "Aaj kaun chhutti pe hai? Kisi ko pata nahi!"; Kaka: "Beta, chhutti ek jagah maang, ek jagah approve kar."), then clips 4-5 below.
-
-> **4 Nov status:** folder "1 - Gemini clips" still has NO unused video (empty since 2 Nov). 4 Nov reused the EP1 Kaka bench clip, tea-stall sound and EP1 happy ending for a GST special. Make next, in order: EP3 HR4U dialogue clips (leave on WhatsApp), then 2 GST dialogue clips where Kaka says ONE fact each ("Saat hazaar ka kamra? Paanch percent, beta." / "Delhi ka guest ho ya Pune ka, CGST aur SGST hi lagega."), so the middle beats have a voice too.
-
-> **4 Nov lesson:** Gemini now refuses prompts that name a studio style ("Pixar-like"): 4 of 4 failed with "something went wrong / having a hard time". Write the style as "Colourful 3D animated cartoon style with soft, rounded, stylised characters". A plain prompt rendered fine, so the quota was not the cause.
-
-> **5 Nov: EP3 POSTED (DfW5VwAj4k8), all 5 EP3 clips are now USED; never reuse them.** Lessons: Gemini refused every two-speaker prompt (Bablu + Kaka together) but rendered all 5 single-speaker ones, so write ONE speaker per clip. Chrome now saves Gemini downloads to C:\Users\daipa\Downloads, not the G: Drive folder; the laptop's Downloads is connected to the session, so pick clips up there.
-
-> **(done) 5 Nov plan, EP 3 "haazri" (HR4U), main session.** Made on 4 Nov: `2026-11-04_dlg_ep3_register.mp4` (Bablu flipping the paper register: "Kaun aaya, kaun nahi... is register se kuch pata hi nahi chalta!", speech 3.25-7.4s). Still to make, ONE AT A TIME (on 4 Nov two rendered, then every request failed: the daily video limit), ONE speaker per clip:
-> - ep3_priya_clockin: receptionist Priya (24, neat bun, maroon blazer) taps her phone at the entrance: "Good morning sir! Haazri lag gayi, nau baj kar do minute."
-> - ep3_kaka: Kaka alone at his stall: "Beta, register band kar. Staff phone se haazri lagaye, chhutti bhi phone se maange... aur salary slip, ek click mein."
-> - ep3_kaka_drive: Kaka alone: "Aur sab kagaz, contract, ID, salary slip... teri apni Google Drive mein."
-> - ep3_payoff: Bablu alone, relaxed, phone in hand: "Ab pata hai kaun aaya, kaun nahi. Aur mahine ke aakhir mein... bas ek click!"
-> Facts (docs/products.md HR4U): one-tap clock-in, live view of who's clocked in, leave requests with automatic balances in one approval queue, payslips, files in the company's own Google Drive.
-
-> **6 Nov owner rule: alternate English and Hindi Reels.** The 6 Nov Reel is ENGLISH (5 Nov was Hindi). English clip prompts keep the same shape, one speaker per clip, no studio names, and say: "says in English, with a natural Indian accent, in a warm human voice: \"...\"". Example for an English Voxa Reel: a restaurant owner mid-dinner-rush, phone buzzing, says: "Three missed calls in ten minutes. That's three tables gone." Name files YYYY-MM-DD_dlg_en_<topic>.mp4 so the language is visible.
-
-## Dialogue clips queue (make in this order)
-Characters (3D animated feature-film style, keep identical every time): BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater.
-1. dlg_ep2_phone_rush - lunch rush in Bablu's hotel restaurant, phone ringing on the counter, Bablu with plates in both hands says in Hindi, frustrated: "Phone uthaun ya plate rakhun?! Har missed call ek booking thi." Push-in.
-2. dlg_ep2_kaka_voxa - tea stall, Kaka sipping chai says calmly: "Beta, phone tu mat utha. Ek AI receptionist rakh, jo har call uthaye, chaubees ghante." Bablu: "Hindi mein bhi baat karega?" Kaka smiles: "Barah bhashaon mein."
-3. dlg_ep2_happy - evening, Bablu relaxed, phone rings once and stops, he smiles at the camera and says: "Ab koi call miss nahi hoti." Slow push-in.
-4. dlg_moment_month_end (moment Reel, like DbzTILTNcyZ) - real (not cartoon) Indian hotel owner at night with registers says softly to himself: "Har mahine yahi... CA ka phone, aur bill ka hisaab." Warm lamp, realistic.
-5. dlg_moment_salon - real Indian salon owner mid-haircut, phone buzzing in her apron, she sighs: "Ek haath mein kainchi, ek mein phone... kaise sambhalun?"
-
-
-## Next week (2-8 Nov), in order. Match the pillar day (docs/strategy.md)
-| # | file name | day / preset | scene (frame 0 = problem moving) | hook (hookscore) |
+## Next week (9-15 Nov), in order. Language alternates (7 Nov EN, so 8 Nov HI, 9 Nov EN...)
+| # | file name | day · lang · preset | scene + spoken line (frame 0 = problem moving) | new facts (docs/products.md) |
 |---|---|---|---|---|
-| 1 | 2026-11-02_dlg_hr4u_leave_whatsapp | Mon HR4U · tips | office manager's phone buzzing nonstop with WhatsApp leave messages, she says in Hindi, tired: "Aaj phir teen log chhutti pe... kisne bataya tha?" handheld push-in | write ≥ 75 on the day |
-| 2 | 2026-11-03_rizstay_cgst_sgst_envelopes | Tue Rizstay · eli5 Part 2 (CGST vs SGST, series plan below) | clerk tearing one bill total into two envelopes at a hotel counter while a guest taps the desk, static close-up then push-in; plus an analogy shot of a wedding envelope split in two | "Stop splitting CGST and SGST yourself. Your bill can do it." (81, 25 Oct; 10 words, so put a ≤ 6-word cut of it on screen and score it on the day) |
-| 3 | 2026-11-04_dlg_ep2_phone_rush | Wed Voxa · story EP2 or countdown Part 3 | dialogue clip 1 above (Bablu, plates, ringing phone) | "Stop losing ₹500 on every missed call." (85.8) |
-| 4 | 2026-11-05_rizstay_kot_lost_slip | Thu Rizstay · **counter** | handwritten KOT slip sliding off the pass behind the counter, a table waving, static close-up then tilt | "Stop writing KOTs by hand. 1 lost slip, 1 angry table." (94.8) |
-| 5 | 2026-11-06_velocity_empty_google_listing | Fri Velocity · proof | shop owner showing a phone with an empty map listing to a customer who shrugs and walks off, handheld | write ≥ 75 on the day; Velocity facts only as in products.md |
-| 6 | 2026-11-07_dlg_moment_salon | Sat Voxa · moment (8-10s) | dialogue clip 5 above (salon owner, scissors + phone) | the spoken line is the hook |
-| 7 | 2026-11-08_rizstay_registers_pile | Sun best-of · counter | five paper registers stacked on a front desk, one slides and falls, receptionist sighs, slow push-in | "Stop losing staff hours to 5 paper registers." (85.8) |
+| 1 | 2026-11-09_dlg_en_ep4_priya_clockout | Mon · EN · story (Bablu ka Hotel EP4) | Priya at the front desk at night, phone in hand, worried, handheld push-in, cartoon style. Says in English: "Sir, I forgot to clock out yesterday. Does it say I worked twenty hours?" Second clip `_kaka_en_idle`: Kaka alone at his stall, in English: "Beta, it closes the idle session itself. She just sends a correction." | HR4U: idle sessions auto-close; correction requests; attendance export CSV/JSON/PDF |
+| 2 | 2026-11-10_dlg_hi_kitchen_waste | Tue · HI · counter | Hotel kitchen, a cook tips spoiled paneer into a bin, Bablu walks in, static close-up then tilt up to his face. Says in Hindi: "Yeh paneer kisne phenka? Kitne ka tha? Kisi ko pata nahi!" | Rizstay: waste log records the loss + who logged it; purchases restock; roles: one sign-in, a dashboard for Kitchen and Owner |
+| 3 | 2026-11-11_dlg_en_clinic_four_lines | Wed · EN · stages | Realistic small clinic, receptionist with a queue in front, two phones ringing, handheld. Says in English, flustered: "Hold please... hold please... four lines are ringing and I'm alone." | Voxa: setup = describe the business → train on FAQs/catalogue → connect number/calendar → live; "from idea to live agent in an afternoon"; qualifies leads; CRM integrations (HubSpot, Zoho, Salesforce) |
+| 4 | 2026-11-12_dlg_hi_ep5_qr_menu | Thu · HI · story (EP5) | Bablu's restaurant, a guest waving for the menu, the waiter running, cartoon style. Bablu says in Hindi: "Menu do, order lo, phir kitchen bhaago... ek waiter, das table!" Clip 2 `_kaka_qr`: Kaka alone: "Table pe QR laga. Guest khud dekhe, khud order kare." | Rizstay: table QR menu → browse and order; private stay code shows the guest their stay and amenities (check no_repeat: 7 Nov used the stay code); 3-step setup, no installs |
+| 5 | 2026-11-13_dlg_en_saree_shop_posting | Fri · EN · pov | Realistic saree shop owner (woman, 40s) behind the counter, customers waiting, phone open on Instagram, sighs. Says in English: "I opened this shop to sell sarees, not to post on Instagram every day." Handheld push-in | Velocity: posts written every week; owner approves on the phone, nothing goes out without approval; one-page website with a WhatsApp button; replies to comments and forwards messages |
+| 6 | 2026-11-14_dlg_hi_moment_salon | Sat · HI · proof (moment, 15-25s) | Realistic salon owner mid-haircut, phone buzzing in her apron. Says in Hindi: "Ek haath mein kainchi, ek mein phone... kaise sambhalun?" Slow push-in | Voxa: books appointments; resolves requests; voice that callers can interrupt (barge-in was 2 Nov: check no_repeat) |
+| 7 | 2026-11-15_dlg_en_new_joiner_docs | Sun · EN · counter | Realistic office, a new hire holding a folder of papers, confused, looking around. Says in English: "Nobody told me where to send my documents." | HR4U: onboarding stages pending docs → background check → cleared → active; appointment letter acknowledged in the inbox |
+
+Proof stays ≤ 1 in 5 posts and story ≤ 2 a week (presets.md). Velocity has not been posted since 18 Oct: #5 is its first Reel under the new rules, so log it carefully.
 
 ## Keep making (proven lane)
-- Rizstay GST numbers any GST business can use (input credit, CGST/SGST split, ₹7,500 room slab). Facts checked every time (no IGST-for-rooms).
-- Analogy shots for eli5: chai stall, kirana counter, wedding envelope, lift buttons.
+- A Veo character saying the problem in the first second (1.61x vs 0.84x, n=4 vs 7).
+- Rizstay GST numbers any GST business can use, but only facts not taught in the last 21 days (the room slab, hotel restaurant 18%/5% and input-credit facts are blocked until 19-28 Nov).
+- A voice on every beat (PROVEN 7 Nov): lay a character line or narration over each product screen.
 
 ## Dropped (losers, do not make again)
-- Calm desk/accountant shots with no motion at frame 0 (24 Oct clip reused 29 Oct: 80.9% skip).
-- Brand intros, polls, generic "AI automation" lists, vague hotel-experience lines, Velocity "sales target" framing (25 Oct review: 10-17 views, 70-92% skip).
-- Voxa website marketing pages as the main visual (28 Oct: nothing to screenshot). Use the real text-back screen or a Bablu scene.
+- Landscape clips cropped to portrait (7 Nov: 87.9% skip, 3.1s average watch).
+- Narrator-only openers when a dialogue clip could be made (0.84x median, n=7).
+- Calm desk/accountant shots with no motion at frame 0 (29 Oct: 78.3% skip).
+- Brand intros, polls, generic "AI automation" lists, vague hotel-experience lines, Velocity "sales target" framing (25 Oct review).
+- Voxa website marketing pages as the main visual (28 Oct).
 
-> 28 Oct (skills_ext/marketingskills/video/references/ai-video-prompting.md): write every Gemini prompt as subject + action + camera movement + style + lighting/mood + specs, 50-100 words. Always name the camera move (slow push-in, handheld follow, static close-up). Put the problem IN MOTION in the first second (phone ringing and vibrating, slip falling, queue forming). Indian setting and people, realistic, vertical 9:16, natural sound, no on-screen text, no logos.
-
-> 27 Oct: keep the Drive stock balanced to the docs/strategy.md calendar. The next clips should cover the next days' pillars (Mon HR4U, Tue Rizstay, Wed Voxa, Thu Rizstay, Fri Velocity, Sat Voxa, Sun HR4U), and the date in each clip's name should match its pillar day.
-
-## Series plan (27 Oct live scan; presets eli5 + countdown, see docs/presets.md)
-Gemini clips for series need an **analogy shot** as well as the problem shot.
-- **"GST, explained like you're 5"** (Rizstay, Tue/Thu): Part 1 input credit (analogy: a shop refunding the deposit on a bottle) · Part 2 CGST vs SGST (one bill split into two envelopes) · Part 3 why room rate above ₹7,500 changes the rate (a lift with floor buttons). Facts must be verified before scripting; no IGST-for-rooms claim.
-- **"Payroll, explained like you're 5"** (HR4U, Mon/Sun): PF, ESI and TDS on salary, each with one everyday analogy and checked facts.
-- **"Stop these 5 mistakes"** countdown: Rizstay billing (#1 = hand-added GST), Voxa missed calls (#1 = no call back within an hour), Velocity local marketing (#1 = an empty Google Business Profile). Only claims allowed by docs/products.md.
-- **"AI receptionist, explained like you're 5"** (Voxa, Wed/Sat): what it does on a missed call, in 12 Indian languages. No pricing (owner rule).
-Analogy clip prompts: everyday Indian scenes (chai stall, kirana counter, wedding envelope, lift buttons), realistic, 9:16, no text.
-
+## Series plan
+- **Bablu ka Hotel** (story, max 2 a week): EP4 HR4U clock-out (EN), EP5 Rizstay QR menu (HI). One product per episode, a new story each time.
+- **Moment Reels** (proof length): one 8s scene with a real-looking owner speaking, then 2-3 fact screens with a voice on each.
+- ELI5 and countdown are down to weight 1 (presets.md): run each once in the next two weeks, with a dialogue opener, to re-test.

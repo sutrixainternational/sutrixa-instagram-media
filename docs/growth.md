@@ -109,3 +109,55 @@ Median of the last 10 Reels: 67.5 views. 0 comments and 0 saves on every Reel so
 - **Profile**: 55/100 carried from 30 Oct (not re-verified). Fixes in docs/profile_log.md.
 - **Carousel**: "Your GST credit expires 30 Nov." 9 slides on branch c/2026-11-01 (caption READY, ig-human 90.4 slides / 82.7 caption).
 - **ig-repurpose**: skipped, the owner hasn't shared a long asset.
+
+## Week ending 8 Nov 2026 (third weekly review)
+
+### Run status
+- vidIQ owner insights pulled 8 Nov (~04:45 UTC). Every number below is Instagram's own, lifetime per Reel. Nothing is rounded up.
+- Agent Reach: install refused by this session's safety check (2nd week). vidIQ credits 0 (refill 13 Nov). Laptop Instagram pane logged out since 31 Oct. Research = WebSearch/WebFetch of trend reports only.
+- No daily Reel on 3 Nov or 6 Nov (no run those days).
+
+### Numbers
+- Followers: **32**. Last week's log: **28** (30 Oct read). Change: **+4** in 9 days.
+- Gap to target: **99,968** followers in 16 days = **6,248 a day**. The account is gaining about 0.4 a day. **The 24 Nov target will not be met.** Nothing in this plan changes that, and the report says so plainly. Honest next marks: first Reel past 500 views, 50 followers.
+- Account, 2-8 Nov: reach **381** accounts, **690** views. Reels last 30 days (vidIQ summary): 1,930 views.
+- 0 comments and 0 saves on all 12 Reels in the window. 12 shares in total.
+
+| date | preset | product | voice | hook (hookscore) | len | views | x median | avg watch | watched | skip | shares |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 Nov | story EP2 | Voxa | hi human | Stop losing ₹500 per missed call. (85.8) | 25s | 212 | **2.08x** | 5.9s | 23.7% | 62.6% | 2 |
+| 30 Oct | story EP1 | Rizstay | hi human | 16 ghante kaam. Paisa kahan gaya? (50.6) | 47s | 186 | 1.82x | 6.4s | 13.6% | 71.0% | 2 |
+| 5 Nov | story EP3 | HR4U | hi human | Stop counting staff in a register. (51.0) | 40s | 145 | 1.42x | 8.3s | 20.7% | 59.2% | 1 |
+| 2 Nov | proof | Voxa | hi human | Your phone rang. Nobody picked up. (77.8) | 20s | 115 | 1.13x | 3.7s | 18.7% | 75.5% | 2 |
+| 25 Oct | pre-preset | Voxa | en TTS | Stop letting your phone ring at 8 PM. (81.4) | 29s | 106 | 1.04x | 7.3s | 25.1% | 70.0% | 1 |
+| 24 Oct | pre-preset | Rizstay | en TTS | Your hotel's accountant. 11 PM. Again. (54.8) | 32s | 102 | 1.00x | 4.7s | 14.8% | 69.3% | 1 |
+| 27 Oct | tips | Rizstay | en TTS | Stop adding GST by hand at 11 PM. (80.2) | 46s | 99 | 0.97x | 12.6s | 27.5% | 71.1% | 1 |
+| 29 Oct | eli5 | Rizstay | en TTS | Stop losing GST input credit… (94.8) | 59s | 83 | 0.81x | 5.5s | 9.4% | 78.3% | 1 |
+| 7 Nov | tips | Rizstay | en TTS | Don't bill hotel dinners at 5%. (80.2) | 49s | 80 (~15h) | 0.78x | 3.1s | 6.4% | **87.9%** | 0 |
+| 28 Oct | countdown | Voxa | en TTS | Stop these 5 missed-call mistakes. (85.8) | 48s | 66 | 0.65x | 7.5s | 15.6% | 71.7% | 1 |
+| 26 Oct | pre-preset | Voxa | en TTS | Stop dropping your scissors… (81.4) | 32s | 64 | 0.63x | 8.3s | 25.8% | 70.2% | 0 |
+| 4 Nov | counter | Rizstay | hi human | Stop charging 18% on ₹7,000 rooms. (83.2) | 26s | 189 | excluded (repeat, still live) | 6.3s | 24.3% | 58.6% | 1 |
+Median of the 11 counted: **102** views. Reels on 31 Oct (hand-post) never appeared in insights: not posted.
+
+### ig-audit (n = 11, low confidence; everything below is a bet with evidence, not proof)
+- **By voice (clearest split):** Veo human-voice dialogue n=4: 164.5 views avg (1.61x), skip 67.1%, 7 shares. Narrator/Kokoro n=7: 85.7 (0.84x), skip 74.1%, 5 shares. All 4 human-voice Reels were Hindi, so voice and language are mixed up.
+- **By preset:** story 1.77x (n=3) > proof 1.13x (n=1) > tips 0.88x (n=2) > eli5 0.81x (n=1) > countdown 0.65x (n=1). counter's only run was the excluded repeat (1.85x).
+- **By product:** HR4U 1.42x (n=1), Voxa 1.10x (n=5), Rizstay 1.08x (n=5). No real product effect; the voice explains more.
+- **By hook formula:** 9/11 are #2 Negative Command, in both top and bottom. Can't be judged until we test others.
+- **By hook score:** under 75 (n=3) averaged 144 views; 75+ (n=8) 103. Third week the score runs backwards.
+- **By clip/topic:** best openers are Bablu dialogue scenes; the worst is 7 Nov's landscape dinner clip cropped to portrait (87.9% skip, 3.1s avg watch). GST still holds well on 27 Oct (12.6s) but not on 7 Nov, so the opener matters more than the topic.
+- **By length:** ≤30s n=3 averaged 144 views; 31-45s 104; >45s 103 with the highest skip (76%). The owner's 40-60s rule (4 Nov) is the opposite of what the views say; it's the owner's call.
+- **By CTA:** 5 keyword Reels (CALLS, LEAK, PHONE, GST, RATE) = 0 comments. Send asks = all 12 shares.
+- Best Reel: **1 Nov EP2 "Bablu ka phone"**: 2.08x, 2 shares. A character shouting the problem in the first second, a ₹ stake on screen, 25s.
+- Worst Reel: **7 Nov "Don't bill hotel dinners at 5%"**: 0.78x at ~15h, 87.9% skip, 3.1s. Narrator over a cropped landscape clip, 49.8s, keyword ask. (Young read: re-check at 24-48h, but the skip is already the worst ever.)
+
+### Decisions
+- **Weights** (docs/presets.md): story 5 · tips 3 · counter 3 · proof 2 · stages 2 · pov 2 · countdown 1 · eli5 1 · quiz 1. Was tips 4 · counter 3 · countdown 2 · eli5 2 · story 2 · stages 2 · pov 2 · proof 2 · quiz 1.
+- **New preset:** none. "No, no, no… yes!" is on watch (1 report only).
+- **Hooks** (docs/rules.md, skill_workflow.md): character speaks the problem in 1s; hookscore floor 50 for spoken hooks (75 for narrator hooks); 2 non-#2 formulas this week; no landscape crops at frame 0; send ask by 8s; keyword asks paused.
+- **Clip topics** (docs/clip_topics.md): 7 dialogue clips for 9-15 Nov, EN/HI alternating, all new facts, under 5 MB, native portrait. English Veo dialogue is the test of the week.
+- **Engage** (docs/engage.md): 8 verified + 2 buyer slots left for the owner. @riyaazamlani removed: the handle belongs to a Turkish lyricist, not the restaurateur.
+- **Swipe** (docs/swipe.md): own 11 Reels with true multiples; no niche capture possible this week.
+- **Profile:** 55/100, unchanged (no fixes made yet). See docs/profile_log.md 8 Nov.
+- **Carousel:** "Count your missed calls." 9 slides on branch c/2026-11-08 (caption READY, ig-human 83.9 slides / 79.5 caption, no pricing).
+- **ig-repurpose:** skipped, no long asset shared.

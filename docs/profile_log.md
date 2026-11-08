@@ -122,3 +122,16 @@
 <!-- 2026-11-06 22:55 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 6 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Not re-notified (owner re-notified at 14:55 IST; next reminder no earlier than 2026-11-07 07:55 IST). -->
 <!-- 2026-11-07 21:38 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 7 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Owner re-notified at 21:38 IST; next reminder no earlier than 2026-11-08 07:55 IST. -->
 <!-- 2026-11-07 21:55 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 7 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Not re-notified (owner re-notified at 21:38 IST; next reminder no earlier than 2026-11-08 07:55 IST). -->
+
+## 2026-11-08 weekly review (ig-profile)
+- Read from vidIQ owner insights (profile fields only; no live view): name "Sutrixa | AI Business Software", bio "Enterprise AI || SAAS / Rizstay · Voxa · HR4U · Velocity / 📍Canada- Mississauga || India- Bengaluru • Kolkata / $1.1M+ projects delivered ↓", link sutrixa.com, 32 followers, 33 posts. Pinned posts, highlights, stories and grid covers are not visible from here, so those items are carried from 30 Oct.
+- **Score 55/100, unchanged**: name 10/12 · bio line 1 4/12 · bio body 5/8 · pinned 0/10 (carried) · link 6/8 · highlights 0/8 (carried) · grid 6/8 · photo 4/6 (carried) · handle 4/6 · category/contact 6/6 (carried) · recent activity 8/10 (posted this week; 0 comments to answer; 2 missed days) · stories 2/6 (carried).
+- Copy-ready fixes, most points first:
+  1. Pinned three (+8): https://www.instagram.com/reel/DfM5OWDFD4v/ (EP2, best Reel), https://www.instagram.com/reel/DfW5VwAj4k8/ (EP3, best hold of the human-voice Reels), and the missed-call carousel once posted (branch c/2026-11-08).
+  2. Bio (+6, 144 characters; ig-human 42 because a bio is fragments by design, 0 slop, 0 fingerprints):
+     `Hotels, restaurants & shops in India:` / `GST bills, calls, payroll & posts, run by AI.` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ projects delivered ↓`
+     This also drops the 3-city line (28 Oct HQ-only rule).
+  3. Delete or archive the 4 Nov repeat https://www.instagram.com/reel/DfUki2olOVU/ (still live, 3rd on the grid).
+  4. Highlights + stories (+8): post the rendered Story frames from the phone, then START · RIZSTAY · VOXA · HR4U · FREEBIES.
+  5. Name field (allowed again from 10 Nov), pick one: `Sutrixa | Hotel & GST software` (30) · `Sutrixa | AI for hotels, India` (30) · `Sutrixa | Hotel billing app` (27).
+- Projected if 1-4 are done: about 77/100. Not verified.
