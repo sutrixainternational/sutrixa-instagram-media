@@ -21,3 +21,6 @@ Runs in the cloud with the owner's laptop off. Read `docs/rules.md` and `docs/pr
 8. Run vidiq_video_upload(url). Then vidiq_instagram_publish_reel with isAiGenerated true (Gemini footage). Poll the containerId until PUBLISHED.
 9. Leave the `v/DATE` branch in place. The git proxy refuses branch deletes. Log the post in `docs/posted.md` on main: date, permalink, hook and product. Push main.
 10. Comments: ig-reply skill on the latest posts. **Drafts only.** Send them to the owner for batch approval.
+
+## Face-aware text (8 Nov)
+render_reel3 needs OpenCV for face detection: `pip install --break-system-packages opencv-python-headless` (model: brand/models/face_detection_yunet_2023mar.onnx).
