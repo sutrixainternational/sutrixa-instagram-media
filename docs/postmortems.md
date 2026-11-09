@@ -445,3 +445,35 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 **Reach actions**
 - Owner: consider archiving DfcVjx-myi5 (you rejected it; at 0.89x it drags the grid) and DfUki2olOVU (repeat, still live).
 - Owner: send tonight's Reel to 3-5 people in the first hour (list in the pack).
+
+## 2026-11-09 run (6:47 PM) · post-mortem of: Bablu's Hotel EP 4 (Dffbuyxkq9y, posted 8 Nov 23:55 IST, Velocity, ENGLISH, 5 Veo dialogue clips, 40.4s, send ask)
+| metric | ~18.7h | counted last-10 median (excl. 4 Nov repeat) / benchmark |
+|---|---|---|
+| views | **204** | 108 (**1.89x**, 2nd best after EP2 212, in less than a day) |
+| avg watch / watched % | **9.5s** / 23.8% | EP3 8.2s / 20.5% · 7 Nov 3.5s / 7.1% |
+| skip rate | **42.5% (best ever)** | previous best 58.8%; benchmark <40% |
+| likes / comments / shares / saves | 4 (most ever) / 0 / 0 / 1 | |
+| followers | 32 (flat) | |
+
+**What worked (with reasons)**
+- English + human voice beat every narrator Reel and every Hindi dialogue Reel on skip. This answers the open test: the driver is the **speaking character on native portrait footage**, not Hindi. 7 Nov (English narrator, landscape) 85.2% skip vs 8 Nov (English Veo) 42.5%, same language, same week.
+- Hook was not a Negative Command ("Our food is better. So why are we *empty*?", a spoken complaint/question). First non-"Stop…" hook in a while and the best skip rate: weak evidence (n=1) that the formula change helped too.
+- New text style + face-aware layout: no complaints, contact sheet clean.
+- Posted at 23:55 IST, not 7:30 PM, and still did 1.89x: posting time matters less than the opener.
+
+**What didn't**
+- 0 shares despite the send ask (EP2/EP3 got 1-2). The ask was generic ("send this to a hotel owner"). 1 save is the first save in 10 Reels.
+- Followers flat at 32: views are coming from non-followers who don't follow. No reason to follow is given beyond "follow for one fix a day".
+
+**Changes for today's Reel (9 Nov, HINDI)**
+1. Hindi Veo dialogue, character speaks inside 1s, native portrait. (gated)
+2. Keep a spoken complaint/question hook, not "Stop…".
+3. Name a specific person in the send ask ("Send this to the friend who runs a dhaba") and put it on screen by 8s.
+4. Follow reason tied to the series: end card "EP 5 kal" / "Next episode tomorrow, follow to see what Bablu fixes next".
+5. Not GST, not Velocity (topic rest). Suggested: rizstay_stock ("Yeh paneer kisne phenka?").
+
+**Result today: NO REEL.** Drive "1 - Gemini clips" has no unused Hindi dialogue clip (the five 8 Nov clips are all EP4 English and recorded; 2026-11-04_dlg_unreviewed_be321941 is 6.6 MB, landscape 1280x720, and the Drive connector can't download it). This cloud run has no access to the laptop, so it cannot make clips in Gemini. Owner asked to choose: make 4-5 Hindi clips and post late, or skip.
+
+**Reach actions**
+- Owner: EP4 is the best opener on the account. Send it to 3-5 people today (list in pack) and pin it to the grid.
+- Owner: archive DfcVjx-myi5 (rejected, 85% skip) and DfUki2olOVU (repeat) if not done yet.

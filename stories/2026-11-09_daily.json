@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU'S HOTEL · EP 4", "headline": "Better food. *Empty tables.* Why?", "image": "shots/rz_restaurant.jpg", "size": 84},
+{"name": "d2_why", "kicker": "THE REAL REASON", "headline": "The hotel across the street *posts every day*", "bullets": ["Bablu posted once. In March.", "Guests pick who they can see"], "size": 80},
+{"name": "d3_fix", "kicker": "WHAT CHANGED", "headline": "Posts and replies, *approved from his phone*", "bullets": ["Nothing goes out until he says yes"], "image": "shots/vl_hero.jpg", "size": 78},
+{"name": "d4_ask", "kicker": "QUICK POLL", "headline": "When did your business last post?", "bullets": ["This week · This month · Can't remember", "Or reply and tell me"], "size": 86},
+{"name": "d5_close", "kicker": "WATCH EP 4", "headline": "Send it to *one friend* who runs a hotel", "bullets": ["EP 5 is coming. Follow so you don't miss it"], "foot": "@sutrixainternational", "size": 80}
+]
+}

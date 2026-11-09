@@ -84,3 +84,10 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - WEAKENED (7 Nov): "GST topics hold 2x" (29 Oct). True only when the opener holds; GST Reel #4 got 0.89x and 6.3% watched. Topic rest ≥ 14 days is now enforced by no_repeat.py.
 - PROVEN again (6th time): comment-KEYWORD asks get 0 comments at 32 followers. Keywords stay paused (8 Nov review).
 - TEST (8 Nov): English Veo dialogue Reel (main session). Compare with EP3 (Hindi, human voice) at 24h to separate language from voice.
+
+## 9 Nov run (post-mortem of 8 Nov EP4, English Veo)
+- PROVEN (EP4 vs 7 Nov, both English): **human voice, not Hindi, is the driver.** English Veo dialogue 42.5% skip / 9.5s / 1.89x; English narrator 85.2% / 3.5s / 0.89x. Language alternation costs nothing.
+- TRY (EP4, n=1): spoken complaint/question hooks ("So why are we empty?") over "Stop…". Best skip ever on the first non-Negative-Command hook in weeks.
+- TRY: name a specific person in the send ask; generic "send to a hotel owner" got 0 shares on EP4.
+- TRY: give a reason to follow (next-episode tease) — views tripled vs 7 Nov but followers stayed at 32.
+- WEAKENED: "post at 7:30 PM". EP4 went out at 23:55 IST and did 1.89x in under a day.

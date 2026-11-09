@@ -43,3 +43,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 8. @gstify (weekly update), type 5 real question: Does this change anything for hotels billing rooms under ₹7,500, or is it only for the 18% side?
 9. @ca.kushalgarg (registration/notice Reel), type 5 real question: For a small hotel, what usually triggers the first notice: a return filed late, or one invoice that doesn't match?
 10. @aiwith.om (Hinglish explainer), type 8 reframe: Another way to read this: the AI isn't replacing the receptionist, it's covering the hours she isn't there.
+
+## Comment drafts, 9 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @ganesh.debnath__ (money-loss story): The ad usually isn't the problem. It's what happens in the first hour after someone clicks and nobody replies.
+2. @fewshot.studio (explainer series): Part numbers on the cover are doing half the work. I went back for Part 1 without thinking.
+3. @aiwith.om (AI for business): The test I use: does it save the person who does the boring entry, or only the owner? Only the first kind survives a month.
+4. @vanturexmedia (salon marketing): Most salons I see post the finished look. The before-after with the price of the service hidden gets the DMs.
+5. @ca.kushalgarg (GST update): For small hotels the real cost of a notice isn't the penalty, it's the two days the owner spends finding old bills.
+6. @cadeveshthakur.official (GSTR-9 list): Which of these do you see missed most by businesses with under 10 staff?
+7. @ca.himanigarg (GST update): Saving this for my CA. He'll pretend he already knew.
+8. @gstify (weekly update): Is there any change here for restaurants on the 5% rate, or is it all on the 18% side?
+9. @fewshot.studio (Hinglish explainer): Kaash school mein bhi aise hi samjhate.
+10. @aiwith.om (Hinglish explainer): Simple test for any tool: kya staff isse khud use karega, ya sirf owner ko accha lagega?
