@@ -46,3 +46,4 @@ Proof stays ≤ 1 in 5 posts and story ≤ 2 a week (presets.md). Velocity has n
 
 ## Clip-run log (hourly dialogue-clip task)
 - 2026-11-10 14:07 UTC: BLOCKED, no clip made. Claude in Chrome reports 4 connected browsers ("Browser 1-4", Windows) and none selected for the session, so it refuses every browser action until the owner picks one. Next Reel = HINDI (8 Nov EN was last valid); next story = queue #2 kitchen waste (rizstay_stock). Drive "1 - Gemini clips" has 0 unused Hindi dlg clips; last clips made 8 Nov 18:41 UTC. Owner notified. Later runs: if still blocked, don't notify again the same day.
+- 2026-11-10 16:06 UTC: still BLOCKED, no clip made. Claude in Chrome now lists 2 connected browsers ("Browser 1", "Browser 2", Windows), none selected; the task must not pick one itself. Next = HINDI, queue #2 kitchen waste (rizstay_stock). Drive still has 0 unused Hindi dlg clips. Owner already notified at 14:07, not notified again.
