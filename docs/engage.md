@@ -55,3 +55,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 8. @gstify (weekly update): Is there any change here for restaurants on the 5% rate, or is it all on the 18% side?
 9. @fewshot.studio (Hinglish explainer): Kaash school mein bhi aise hi samjhate.
 10. @aiwith.om (Hinglish explainer): Simple test for any tool: kya staff isse khud use karega, ya sirf owner ko accha lagega?
+
+## Comment drafts, 10 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @fewshot.studio (explainer series): The best line was the boring one in the middle. That's usually the part people screenshot.
+2. @aiwith.om (AI for business, Hinglish): Sabse mushkil step tool lena nahi, staff ko pehle hafte use karwana hai.
+3. @vanturexmedia (salon marketing): A salon's Google listing photos sell more than its Instagram. Most owners update one and forget the other.
+4. @ganesh.debnath__ (money-loss story): Every story like this has one moment where a small leak looked too small to fix. That's the part I'd love a Part 2 on.
+5. @ca.kushalgarg (GST update): Small hotels usually find out about a mismatch from the CA in March, not from the portal in the month it happened.
+6. @cadeveshthakur.official (compliance list): Which one on this list causes the most panic for a first-year business?
+7. @ca.himanigarg (GST update): Sending this to the one friend who still keeps bills in a shoebox.
+8. @gstify (weekly update): Does this need any action from a restaurant that only files quarterly?
+9. @fewshot.studio (Hinglish explainer): Example ne sab clear kar diya. Definition yaad nahi rehti, example reh jaata hai.
+10. @aiwith.om (AI tool Reel): Real test for any AI tool: does it still work the week the owner is too busy to check it?

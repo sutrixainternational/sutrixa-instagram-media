@@ -91,3 +91,7 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - TRY: name a specific person in the send ask; generic "send to a hotel owner" got 0 shares on EP4.
 - TRY: give a reason to follow (next-episode tease) — views tripled vs 7 Nov but followers stayed at 32.
 - WEAKENED: "post at 7:30 PM". EP4 went out at 23:55 IST and did 1.89x in under a day.
+
+## 10 Nov run (EP4 at ~42h)
+- CHECKED: a good Reel at 32 followers lives ~24h (EP4 204 → 215 views from 18.7h to 42.5h). Missing a day means no new reach at all; the clip supply is now the bottleneck, not the format.
+- TRY (still untested): next-episode tease + named-person send ask (no Reel since 8 Nov to test them).

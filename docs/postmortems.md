@@ -477,3 +477,25 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 **Reach actions**
 - Owner: EP4 is the best opener on the account. Send it to 3-5 people today (list in pack) and pin it to the grid.
 - Owner: archive DfcVjx-myi5 (rejected, 85% skip) and DfUki2olOVU (repeat) if not done yet.
+
+## 2026-11-10 run (6:47 PM) · post-mortem of: EP 4 (Dffbuyxkq9y) at ~42.5h. No Reel on 9 Nov (no fresh Hindi clips)
+| metric | ~42.5h | counted last-10 median (excl. 4 Nov repeat) / benchmark |
+|---|---|---|
+| views | **215** (+11 since 18.7h) | 117 (**1.84x**, best on the account, ahead of EP2 212) |
+| avg watch / watched % | 9.6s / 24.0% | EP3 8.2s / 20.5% |
+| skip rate | **42.0%** (best ever) | benchmark < 40% |
+| likes / comments / shares / saves | 4 / 0 / 0 / 1 | |
+| followers | 32 (flat for 4 days) | |
+
+**Reading**
+- EP4 has stopped growing (+11 views in a day): the Reel lived ~24h. With no Reel on 9 Nov the account had nothing new in front of non-followers for 2 days. The biggest cost right now is missed days, not weak Reels.
+- 0 comments on all 12 Reels in the window and 0 shares on EP4. Reach is coming; interaction isn't.
+- Followers flat at 32 since 7 Nov although EP4 reached ~200 people: no reason to follow was given.
+
+**Changes for the next Reel (Hindi, still owed)**: all five 9 Nov changes stand: Hindi Veo dialogue inside 1s, spoken complaint/question hook (not "Stop…"), a named person in the send ask on screen by 8s, "EP 5 kal, follow" end card, topic not GST/Velocity (rizstay_stock: "Yeh paneer kisne phenka?").
+
+**Result today: NO REEL (2nd day).** Drive "1 - Gemini clips" has nothing new since 8 Nov 18:41 UTC (only the 5 used EP4 English clips); no video anywhere in Drive created after 8 Nov 19:00 UTC. This cloud run has no laptop access, so it cannot make clips in Gemini. Not posting a weaker Reel (8 Nov gate). Owner asked again to make 4-5 Hindi clips.
+
+**Reach actions**
+- Owner: pin EP4 and send it to 3-5 people today; it is the best opener we have and it is still the newest Reel.
+- Stories today ask viewers to pick EP5's problem (question/poll), so Stories keep the account visible while no Reel goes out.

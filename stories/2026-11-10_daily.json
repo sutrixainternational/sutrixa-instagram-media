@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU KA HOTEL", "headline": "EP 4 ne sabse zyada log *roke*", "bullets": ["EP 4 abhi bhi log dekh rahe hain", "Agla episode aap chuniye"], "image": "shots/ep3_bablu_payoff.jpg", "size": 82},
+{"name": "d2_choice", "kicker": "EP 5 KA PROBLEM", "headline": "Bablu ki agli *sirdard* kya ho?", "bullets": ["A: Kitchen mein maal kahan gayab hota hai", "B: Raat 11 baje ka bill", "C: Phone pe booking chhoot jaati hai"], "size": 78},
+{"name": "d3_poll", "kicker": "POLL", "headline": "Aapke business mein *sabse bada* jhanjhat?", "bullets": ["Stock · Billing · Staff · Calls", "Sticker na dikhe toh reply karke likhiye"], "size": 82},
+{"name": "d4_ask", "kicker": "AAPKI KAHANI", "headline": "Aapke hotel ka ek *sach* bataiye", "bullets": ["Jo sabse zyada pareshan karta hai", "Best jawab agla episode banega"], "size": 82},
+{"name": "d5_close", "kicker": "FOLLOW", "headline": "EP 5 jaldi. *Follow* karke rakhiye", "bullets": ["Ek dost ko bhejiye jo hotel ya dhaba chalata hai"], "foot": "@sutrixainternational", "size": 80}
+]
+}
