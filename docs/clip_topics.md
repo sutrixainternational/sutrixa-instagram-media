@@ -43,3 +43,6 @@ Proof stays ≤ 1 in 5 posts and story ≤ 2 a week (presets.md). Velocity has n
 - **Bablu ka Hotel** (story, max 2 a week): EP4 HR4U clock-out (EN), EP5 Rizstay QR menu (HI). One product per episode, a new story each time.
 - **Moment Reels** (proof length): one 8s scene with a real-looking owner speaking, then 2-3 fact screens with a voice on each.
 - ELI5 and countdown are down to weight 1 (presets.md): run each once in the next two weeks, with a dialogue opener, to re-test.
+
+## Clip-run log (hourly dialogue-clip task)
+- 2026-11-10 14:07 UTC: BLOCKED, no clip made. Claude in Chrome reports 4 connected browsers ("Browser 1-4", Windows) and none selected for the session, so it refuses every browser action until the owner picks one. Next Reel = HINDI (8 Nov EN was last valid); next story = queue #2 kitchen waste (rizstay_stock). Drive "1 - Gemini clips" has 0 unused Hindi dlg clips; last clips made 8 Nov 18:41 UTC. Owner notified. Later runs: if still blocked, don't notify again the same day.
