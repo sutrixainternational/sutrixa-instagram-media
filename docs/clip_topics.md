@@ -4,6 +4,7 @@ Evidence (vidIQ owner insights, 8 Nov, lifetime, 11 counted Reels, median 102 vi
 Every clip: vertical 9:16 (native, never a landscape crop), 8s, Indian setting, natural sound, no text, no logos. The problem moves in the first second and the line starts inside ~1s. Prompt shape: subject + action + camera move + style + light + specs, 50-100 words. **Export under 5 MB** (720x1280 is fine): the Drive connector drops bigger files and the cloud can't fetch Drive directly (7 Nov). Keep at least 2 unused clips in "1 - Gemini clips".
 
 Standing lessons (still binding):
+- **Gemini UI changed (11 Nov):** the "+" / "Upload & tools" menu now opens EMPTY on a freshly loaded page. Video lives at sidebar "More" -> "Videos" (URL gemini.google.com/u/0/videos): a "Describe your video" box with an aspect button under it (pick "Portrait (9:16)"). After sending, the prompt shows as a user-query bubble and the send button turns into "Stop response". Work in a NEW tab (it is the active, painted tab); an old background tab reports window 0x0 and freezes.
 - ONE speaker per clip: Gemini refused every two-speaker prompt (5 Nov).
 - No studio names in prompts ("Pixar-like" fails). Write "Colourful 3D animated cartoon style with soft, rounded, stylised characters" (4 Nov).
 - Write the spoken line into the prompt so Veo's own voice says it: Hindi: `says in Hindi, with a natural warm voice: "..."`. English: `says in English, with a natural Indian accent, in a warm human voice: "..."`. Lines under ~7s.
