@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU KA HOTEL · EP 5", "headline": "Kal: yeh paneer *kisne* phenka?", "bullets": ["Kitchen ka gayab maal, aur ek waste log", "EP 5 kal shaam"], "image": "shots/ep3_bablu_register.jpg", "size": 80},
+{"name": "d2_quiz", "kicker": "QUIZ", "headline": "Kitchen ka maal sabse zyada *kahan* jaata hai?", "bullets": ["A: Zyada bana, phenk diya", "B: Expiry nikal gayi", "C: Kisi ne likha hi nahi", "Sticker na dikhe toh A, B ya C reply kijiye"], "size": 76},
+{"name": "d3_fact", "kicker": "EK BAAT", "headline": "Jo *likha* nahi, woh gina nahi", "bullets": ["Waste likhoge tabhi pata chalega kya, kitna aur kab", "Hafte ke ant mein total dekhiye, andaaza nahi"], "size": 82},
+{"name": "d4_ask", "kicker": "AAPKI BAARI", "headline": "Aapke kitchen mein kya *sabse zyada* phenka jaata hai?", "bullets": ["Reply mein ek shabd likhiye", "Best jawab agle episode mein"], "size": 76},
+{"name": "d5_close", "kicker": "FOLLOW", "headline": "EP 5 kal. *Follow* karke rakhiye", "bullets": ["Us dost ko bhejiye jiska dhaba ya hotel hai"], "foot": "@sutrixainternational", "size": 80}
+]
+}
