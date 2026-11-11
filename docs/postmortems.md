@@ -499,3 +499,18 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 **Reach actions**
 - Owner: pin EP4 and send it to 3-5 people today; it is the best opener we have and it is still the newest Reel.
 - Stories today ask viewers to pick EP5's problem (question/poll), so Stories keep the account visible while no Reel goes out.
+
+## 2026-11-11 run (6:47 PM) · post-mortem of: EP 4 (Dffbuyxkq9y) at ~67h. No Reel on 9, 10 or 11 Nov
+**No numbers today.** vidiq_instagram_owner_insights returns `owner_token_inactive` for 39219443167670371 (reels, media and account modes, 3 calls), although vidiq_social_account_list still shows the account as active with canPublish true. The public fallback (vidiq_ig_profile_reels) needs 5 credits and the vidIQ balance is 0. Last real read stays the 10 Nov one: EP4 215 views (1.84x), 42.0% skip, 9.6s avg, 4 likes, 0 comments, 0 shares, 1 save, followers 32.
+
+**Reading**
+- Third day with no Reel. EP4 had already stopped growing on 10 Nov, so the account has had no fresh reach since ~9 Nov.
+- If the Instagram token is really dead, tomorrow's EP5 publish through vidIQ may fail too. Owner should reconnect Instagram in vidIQ before 12 Nov 7:30 PM IST.
+
+**Changes for EP5 (12 Nov, Hindi, rizstay_stock)**: unchanged from 9-10 Nov: Hindi Veo dialogue inside 1s (Bablu paneer clip), spoken question hook ("Yeh paneer kisne phenka?"), named person in the send ask on screen by 8s, "EP 6 kal, follow" end card, voice in every beat (Kaka/Priya audio over waste log and purchase/report screens). CTA: send/save (keywords paused, 8 Nov review).
+
+**Result today: NO REEL (by rule).** rules.md 11 Nov ONLY note: the main session owns EP5; 2 of 5 clips exist (bablu_paneer, ramu_waste), Gemini hit its daily video limit, the 3 missing clips are made on 12 Nov. EP5 posts 12 Nov.
+
+**Reach actions**
+- Owner: reconnect Instagram in vidIQ (insights token inactive).
+- Stories today tease EP5 (paneer / waste) with a quiz and a reply ask, so the account stays visible on day 3 without a Reel.

@@ -67,3 +67,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 8. @gstify (weekly update): Does this need any action from a restaurant that only files quarterly?
 9. @fewshot.studio (Hinglish explainer): Example ne sab clear kar diya. Definition yaad nahi rehti, example reh jaata hai.
 10. @aiwith.om (AI tool Reel): Real test for any AI tool: does it still work the week the owner is too busy to check it?
+
+## Comment drafts, 11 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @fewshot.studio (explainer): The pause before the answer did more than the answer. I leaned in.
+2. @aiwith.om (AI for business): The first week decides it. If the tool adds one extra step for the staff, it's gone by Friday.
+3. @vanturexmedia (salon marketing): Rainy days are when salons should post most. Fewer walk-ins, more people scrolling at home.
+4. @ganesh.debnath__ (money-loss story): Small leaks don't feel like losses because nobody writes them down. That's the whole trick.
+5. @ca.kushalgarg (GST update): For a small restaurant, which mismatch shows up first: purchase bills or the sales side?
+6. @cadeveshthakur.official (compliance list): Saving this. The second point is the one most small owners only hear about from a notice.
+7. @ca.himanigarg (GST update): The example made it click. The rule alone never does.
+8. @gstify (weekly update): Is there anything here a hotel with only rooms under ₹7,500 actually has to act on?
+9. @fewshot.studio (Hinglish explainer): Yeh wala part dost ko bhej diya, woh roz yahi galti karta hai.
+10. @aiwith.om (Hinglish AI Reel): Tool tab tak kaam ka hai jab tak staff khud use kare. Owner ke bharose nahi chalta.

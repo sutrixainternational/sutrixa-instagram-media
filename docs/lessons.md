@@ -95,3 +95,7 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 ## 10 Nov run (EP4 at ~42h)
 - CHECKED: a good Reel at 32 followers lives ~24h (EP4 204 → 215 views from 18.7h to 42.5h). Missing a day means no new reach at all; the clip supply is now the bottleneck, not the format.
 - TRY (still untested): next-episode tease + named-person send ask (no Reel since 8 Nov to test them).
+
+## 11 Nov run (no Reel, insights down)
+- CHECKED: vidIQ can show an Instagram account as active/canPublish while owner insights return owner_token_inactive. Check insights early on posting days; a dead token may block publishing too. Fallback (31 Oct): host the MP4 on v/DATE and send it to the owner to post by hand.
+- CHECKED: Gemini's daily video limit is about 2-4 clips per day (11 Nov: 2 kept + 2 accidental takes). A 5-clip episode needs clips made across 2 days, so the clip task should run a day ahead of the episode.
