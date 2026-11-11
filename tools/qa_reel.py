@@ -52,6 +52,11 @@ def check_spec(spec):
                     errs.append(f"beat {i}: highlight box {hl} is outside {b['image']} ({im.width}x{im.height})")
             except FileNotFoundError:
                 errs.append(f"beat {i}: missing image {b['image']}")
+    # Owner 11 Nov 2026: "there is no actual product pictures in video". Every Reel shows the real product:
+    # at least 2 screen beats using a real product capture from shots/ (no AI-made or stock screens).
+    real = [b for b in spec.get("beats", []) if b.get("kind") == "screen" and str(b.get("image", "")).startswith("shots/")]
+    if len(real) < 2 and not spec.get("owner_ok_no_screens"):
+        errs.append(f"only {len(real)} real product screen beat(s); need >= 2 screens from shots/ (owner rule 11 Nov: show the actual product)")
     for v, s in per_video.items():
         if s > MAX_PER_VIDEO:
             errs.append(f"{v} is on screen {s:.1f}s in total (max {MAX_PER_VIDEO}s): one clip must not carry the Reel")
