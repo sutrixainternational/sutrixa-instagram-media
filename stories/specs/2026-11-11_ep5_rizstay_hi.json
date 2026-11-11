@@ -85,28 +85,58 @@
    "kind": "clip",
    "video": "work/ep5/priya.mp4",
    "vstart": 1.1,
-   "dur": 5.2,
+   "dur": 3.3,
    "clip_voice": true,
    "speech": [
     0.4,
-    5.0
+    3.1
    ],
    "punch": false,
    "label": "3 · PURCHASES REFILL THE STOCK",
-   "say": "Sir, naya paneer kharido toh purchase mein daalo, stock apne aap bhar jaata hai."
+   "say": "Sir, naya paneer kharido toh purchase mein daalo,"
   },
   {
-   "kind": "clip",
-   "video": "work/ep5/priya.mp4",
-   "vstart": 6.3,
+   "kind": "screen",
+   "image": "shots/rz_registers.jpg",
+   "hl": [
+    240,
+    178,
+    296,
+    207
+   ],
+   "tap": true,
+   "audio_src": "work/ep5/priya.mp4",
+   "astart": 4.4,
+   "dur": 1.9,
+   "speech": [
+    0.1,
+    1.7
+   ],
+   "label": "3 · PURCHASES REFILL THE STOCK",
+   "headline": "Purchase in. Stock *refills itself*.",
+   "hy": 1560,
+   "say": "stock apne aap bhar jaata hai."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_registers.jpg",
+   "hl": [
+    40,
+    480,
+    362,
+    519
+   ],
+   "tap": true,
+   "audio_src": "work/ep5/priya.mp4",
+   "astart": 6.3,
    "dur": 3.3,
-   "clip_voice": true,
    "speech": [
     0.1,
     2.9
    ],
-   "punch": false,
    "label": "4 · REPORTS BY DATE, TO EXCEL",
+   "headline": "Filter by date. *Export to Excel.*",
+   "hy": 1560,
    "say": "Aur report date se filter karke Excel mein nikaal lo."
   },
   {
