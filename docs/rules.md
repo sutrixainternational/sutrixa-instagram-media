@@ -1,3 +1,5 @@
+> **11 Nov 2026 ONLY:** the MAIN session makes the clips and posts the Hindi Reel "Bablu ka Hotel EP 5" (Rizstay waste log, topic rizstay_stock) today. The clip task does nothing today (save the Gemini quota); the 6:47 PM run does the post-mortem, owner pack, Stories and replies only, unless docs/posted.md has no 11 Nov row by then, in which case it reports what is missing and does not post.
+
 > **8 Nov note:** the English Velocity Reel was posted late on 8 Nov (23:55 IST, Dffbuyxkq9y) after the downloads started reaching Drive again. 9 Nov is back to normal: the 6:47 PM run makes a HINDI Reel (language alternation), new story, new clips, all gates.
 
 > **8 Nov 2026 ONLY:** the owner rejected the 7 Nov Reel (DfcVjx-myi5) for quality: one stock clip looped ~35s, robotic Kokoro narrator instead of human voices, glitched/smeared screens, and the ₹7,500 hotel GST topic for the 4th time. The MAIN session makes and posts today's Reel (English, human voices, new story). Today's 6:47 PM run must NOT render or post a Reel: post-mortem, owner pack, Stories and replies only.
