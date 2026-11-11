@@ -1,0 +1,142 @@
+{
+ "out": "work/reel_ep5.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "hi",
+ "meta": {
+  "story": "Bablu ka Hotel (Hindi) EP5: five kilo paneer bought yesterday is gone today; Ramu the cook admits half spoiled and he threw it without writing it down; Kaka says keep Rizstay's waste log (what, how much, who logged it); Priya says enter purchases and stock refills itself, and reports filter by date and export to Excel; Bablu tracks every gram on his phone",
+  "hook": "Kal 5 kilo paneer aaya. Aaj *khatam*?",
+  "lang": "hi",
+  "topic": "rizstay_stock",
+  "clips_src": [
+   "2026-11-11_dlg_hi_ep5_bablu_paneer.mp4",
+   "2026-11-11_dlg_hi_ep5_ramu_waste.mp4",
+   "2026-11-11_dlg_hi_ep5_kaka_wastelog.mp4",
+   "2026-11-11_dlg_hi_ep5_priya_reports.mp4",
+   "2026-11-11_dlg_hi_ep5_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "rz_waste_log_who_logged",
+   "rz_purchases_restock",
+   "rz_reports_filter_export"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep5/bablu1.mp4",
+   "vstart": 2.0,
+   "dur": 7.6,
+   "clip_voice": true,
+   "speech": [
+    1.1,
+    7.2
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 5",
+   "say": "Kal paanch kilo paneer aaya tha... aaj phir khatam? Paneer gaya kahaan?!",
+   "headline": "Kal 5 kilo paneer aaya. Aaj *khatam*?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/ramu.mp4",
+   "vstart": 1.1,
+   "dur": 6.0,
+   "clip_voice": true,
+   "speech": [
+    0.5,
+    5.2
+   ],
+   "punch": false,
+   "label": "SEND THIS TO WHOEVER RUNS YOUR KITCHEN",
+   "say": "Saab, aadha paneer kharab ho gaya tha... maine phenk diya. Kahin likha nahi."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/kaka.mp4",
+   "vstart": 1.0,
+   "dur": 4.4,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    4.2
+   ],
+   "punch": false,
+   "label": "1 · WASTE LOG: WHAT, HOW MUCH",
+   "say": "Beta, Rizstay ka waste log rakho. Kya phenka,"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/kaka.mp4",
+   "vstart": 5.4,
+   "dur": 4.6,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    3.7
+   ],
+   "punch": false,
+   "label": "2 · AND WHO LOGGED IT",
+   "say": "kitna phenka, aur kisne likha... sab dikhega."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/priya.mp4",
+   "vstart": 1.1,
+   "dur": 5.2,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    5.0
+   ],
+   "punch": false,
+   "label": "3 · PURCHASES REFILL THE STOCK",
+   "say": "Sir, naya paneer kharido toh purchase mein daalo, stock apne aap bhar jaata hai."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/priya.mp4",
+   "vstart": 6.3,
+   "dur": 3.3,
+   "clip_voice": true,
+   "speech": [
+    0.1,
+    2.9
+   ],
+   "punch": false,
+   "label": "4 · REPORTS BY DATE, TO EXCEL",
+   "say": "Aur report date se filter karke Excel mein nikaal lo."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep5/payoff.mp4",
+   "vstart": 0.9,
+   "dur": 7.0,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    6.5
+   ],
+   "punch": false,
+   "label": "EP 6 KAL · FOLLOW KARO",
+   "say": "Ab har gram paneer ka hisaab mere phone pe! Agla episode kal..."
+  },
+  {
+   "kind": "card",
+   "video": "work/ep5/payoff.mp4",
+   "vstart": 7.9,
+   "dur": 2.1,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep5/payoff.mp4",
+   "astart": 7.9,
+   "label": "SUTRIXA RIZSTAY",
+   "headline": "Stock, waste, reports. *Ek app.* restaurant.rizstay.com",
+   "say": " "
+  }
+ ]
+}
