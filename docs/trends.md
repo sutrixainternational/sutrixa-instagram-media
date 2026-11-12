@@ -136,3 +136,51 @@ Signature moves:
 <!-- 2026-11-11 18:56 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 11 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Not re-notified (owner re-notified at 11:57 IST; next reminder no earlier than 2026-11-12 07:55 IST). -->
 <!-- 2026-11-12 16:54 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 12 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Not re-notified (owner re-notified at 12:54 IST; next reminder no earlier than 2026-11-13 07:55 IST). -->
 <!-- 2026-11-12 17:55 IST: re-checked, built-in browser pane still LOGGED OUT of Instagram (accounts/edit redirects to login; only the saved-profile "Continue" button). Parts A+B for 31 Oct to 12 Nov still due as one combined run (Sunday deeper pass included; fix the bio location line to HQ-only first). Not re-notified (owner re-notified at 12:54 IST; next reminder no earlier than 2026-11-13 07:55 IST). -->
+
+## 2026-11-12
+Combined catch-up run (31 Oct to 12 Nov were missed: the built-in browser pane was logged out until this evening). Sources (laptop browser pane, read-only, ~30 page loads, no rate limit or challenge; pane hidden, so the feed was stepped with the on-page "next" button): Reels feed (2 loads, ~25 Reels stepped, counts read from the feed: likes / comments / reposts / shares), Explore (1 recent tile of ~20), keyword search "AI tools for business" (3 old posts, 2025: web keyword search still broken, 6th scan running; "customer calls" and "payroll" not tried to save loads), 13 posts opened at /p/<code>/ for og:description (author, date, likes, comments, caption start). Durations read from the playing video; "~" = the stepping may have offset it by one Reel.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| hormozi (31 Oct) | 62K | 1,724 | 26.5K | ~31s | "Comment WIN to get a free scaling roadmap" | Bold Claim | numbered tips + keyword giveaway, talking head (skip: face-only) |
+| thetechstien (2 Nov) | 17.8K | 760 | n/s | ~51s | "Anthropic ke CEO ne bhi notice kiya" | Curiosity Gap | AI tool news + keyword GITHUB, Hinglish |
+| the.ai.mates (9 Nov) | 2,702 | 2,282 | 5,827 | 70s | "Editor ko ₹20,000/month dena band karo" | Correction + Bold Claim (₹ stakes) | faceless cartoon presenter + 5-step tutorial with progress tracker, Hinglish, keyword CTA |
+| builditlikerahul (4 Nov) | 2,814 | 1,220 | n/s | n/r | "Claude just killed Splitwise" | Bold Claim | app demo + keyword APP, English |
+| (WhatsApp agent, DfRS4SjNmbx) | 766 | 644 | 1,246 | ~28s | "How to build a WhatsApp AI agent in 10 minutes, no code" | Curiosity Gap | numbered setup tutorial, screen recording, keyword CTA |
+| turbantechguy (Nov) | 482 | 1,973 | 927 | ~52s | "Kisi ne Claude ko salesman bana diya" | Curiosity Gap | AI-generated presenter, keyword HARVEY, Hinglish |
+| harshhchouksey (Nov) | 566 | 772 | 1,197 | n/r | "Kaunse product pe kaunsa ad format chalana hai" | Identity Trigger | marketing cheat sheet + keyword FORMAT, Hinglish |
+| fiza_ismail.ai (6 Nov) | 345 | 152 | 387 | 28s | "How to build a restaurant AI agent in 10 minutes" | Curiosity Gap + Identity Trigger (restaurant) | step tutorial, screen recording on a light canvas, keyword MENU, English |
+| nivedan.ai (11 Nov) | 280 | 404 | 325 | ~44s | "ChatGPT just launched its biggest update yet" | Bold Claim (news) | AI news for business owners (ChatGPT business profiles), English |
+| gmbconsult (4 Nov) | 241 | 309 | 294 | n/r | "Local SEO and GMB ranking tips 2026" | Identity Trigger | local SEO tips, India |
+| mattaskumar (11 Nov) | 29 | 20 | 11 | n/r | "ChatGPT just launched Business Profiles" | Bold Claim (news) | AI SEO news (2nd Reel on the same launch) |
+Skipped: canwebuildthis (4 Nov, skit), grandview.consulting (11 Nov, office meme), cricket and festival Reels, ads (elevenlabs, kessel), okayburade (too small to judge).
+
+### Beat sheet 1: the.ai.mates "₹0 editing workflow" (70s, faceless cartoon presenter, Hinglish; 5.8K shares, comments 0.84x likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | cream paper canvas, one cartoon presenter (glasses, striped shirt) fixed in the bottom third for the whole Reel | small serif line top-left with one word in red italic; huge condensed headline "SAB EDIT KAR RAHE", 2nd half red; a red stamp tag under it | spoken line printed as the top sentence | presenter gestures; headline already on at frame 0 | Hinglish VO, original audio |
+| promise | 3-12s | same canvas | mono kicker "// 01 · the promise", "COST ₹0" top-right; headline "$0 WORKFLOW" with red underline; 3 chips "RAW FOOTAGE → CLAUDE → FINAL REEL" | top sentence, key word red italic | chips pop in left to right | same |
+| steps | 12-60s | same canvas, a tab bar at the very top "✓01 SETUP · 02 TOOLS · 03 STYLE · 04 EDIT · 05 EXPORT" (done = ticked, current = dark pill) | "TOOL 2/4" counter top-right; white card with tool tiles filling empty "+" slots one by one | same | tiles drop into slots; presenter points up | same |
+| end | 60-70s | "STEP 5 EXPORT" headline, all tabs ticked | | | | keyword CTA in caption |
+Signature moves (render_reel3-reproducible):
+1. **Step tracker at the top**: 3-5 tabs, done ones ticked, current one dark; plus "STEP n/N" at top-right. Persistent for the whole Reel = a reason to stay to the last tab.
+2. **One fixed presenter** in the bottom third over one canvas (we have Bablu/Kaka/Priya: a still or a looping Veo clip, faces never covered: owner rule 8 Nov).
+3. **Two-colour condensed headline** with the payoff word in the accent colour and a hand-drawn underline (our *word* yellow markup already does the colour).
+4. **Flow chips** "A → B → C" for a process in one frame (e.g. "ORDER → KOT → KITCHEN SCREEN").
+5. **Empty slots that fill**: a card with "+" placeholders that fill one per beat (a visible counter, same family as our counter preset).
+
+### Beat sheet 2: fiza_ismail.ai "restaurant AI agent in 10 minutes" (28s, faceless screen tutorial, English)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-2s | soft light-green gradient canvas, small 3D mascot centre | tiny pill "NO CODE · EVERY SCREEN"; serif headline "How to build a / *restaurant AI agent*" (2nd line italic on a lime highlight); dark pill "⏱ in 10 minutes"; row of 5 app icons; lime "NO CODE ✓" sticker | one-word-at-a-time grey captions low centre | mascot bobs; everything on at frame 0 | VO |
+| steps | 2-22s | browser-window mockup (traffic lights + URL bar) showing the real tool screen | "STEP 2 ✱" pill, headline "AI agent + *Claude*"; segmented progress bar at the very top | bold black word captions, key word on a lime box | cursor moves to the next node; hard cuts every ~3-4s | VO |
+| CTA | 22-28s | blank canvas | "Comment / MENU (huge lime sticker) / for the full setup, every screen" + a small honest footnote | | sticker pops | VO |
+Signature moves:
+1. **Real screen inside a browser-window frame** (traffic lights + URL bar) on a soft canvas, not full-bleed: reads as "real product", fits our tall shots/ captures (owner rule 11 Nov: real screens).
+2. **Segmented progress bar at the very top** (one segment per step) + a "STEP n" pill.
+3. **Promise stack at frame 0**: niche word in the headline ("restaurant"), a time pill, and a "no code" sticker. For us: "Hotel GST bill" + "in 1 screen" + "no installs" (products.md: no installs, browser).
+4. **Honest footnote** under the CTA in small mono type (they flag the real limit). Builds trust; matches our no-made-up-claims rule.
+
+- Fits Sutrixa: (1) **step tutorials with a visible progress tracker** led both top Reels (the.ai.mates 5.8K shares; WhatsApp agent 1,246 shares on 766 likes; fiza 387 on 345): faceless, real screens, a cartoon presenter, which is exactly our Bablu + shots/ setup; it layers on the tips/counter presets (top progress tabs + "STEP n/N"). (2) **"<AI thing> for restaurants / WhatsApp, no code"** is the on-niche hook family this fortnight; for us it's Voxa (answers calls, 12 Indian languages, live "in an afternoon") and Rizstay (no installs, browser), never "10 minutes" (not in products.md). (3) Keyword giveaways drove comments on 7 of 11 Reels (the.ai.mates 2,282, turbantechguy 1,973), but our 5 keyword Reels got 0 comments, so keep them paused per the 8 Nov review; a step tracker is the part we can copy now. Skip the ChatGPT Business Profiles news wave (2 Reels on 11 Nov): no Sutrixa product claim backs it.
+- Use today (next Reel, 13 Nov English, autopilot): put a **segmented step bar + "STEP n/N" chip at the top of every screen beat** and frame each real shots/ capture in a **browser-window mockup** on a plain canvas; one Bablu/Priya clip stays the speaking hook (owner rules 8 + 11 Nov).
+- Presets: **no new preset**. The step-tracker grammar is strong today, but the last live scan was 30 Oct, so it has 1 day of evidence, not 2 consecutive days; re-check on the next scan, and if it shows again add **stepper** (clip hook → 3-5 × `screen` in a browser frame under a persistent step bar → `card`) at weight 2.
