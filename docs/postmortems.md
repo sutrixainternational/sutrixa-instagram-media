@@ -514,3 +514,31 @@ Today's Reel (EP3) was made and posted by the main session at 4:55 PM IST (rules
 **Reach actions**
 - Owner: reconnect Instagram in vidIQ (insights token inactive).
 - Stories today tease EP5 (paneer / waste) with a quiz and a reply ask, so the account stays visible on day 3 without a Reel.
+
+## 2026-11-12 run (6:47 PM, post-mortem + pack only; EP5 already posted 18:46 IST by the main session, 12 Nov note) · post-mortem of: EP 4 (Dffbuyxkq9y) final at ~90h + first read of EP 5 (DfpIdH3jwPD, ~10 min)
+Insights are back (owner reconnected vidIQ 18:40 IST; owner_insights returned data, 0 credits).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| EP4 Velocity EN (8 Nov) | **216** (+1 since 10 Nov) | 9.7s / 24.4% | **41.8%** | 4 / 0 / 0 / 1 |
+| EP5 Rizstay HI (12 Nov, ~10 min) | 1 | n/a | n/a | 0 / 0 / 0 / 0 |
+
+Counted last-10 median (excl. 4 Nov repeat and EP5): **108** views (64, 66, 84, 97, 99, 117, 149, 186, 212, 216). EP4 = **2.0x**, best on the account. Followers **32** (flat since 7 Nov). 0 comments on every Reel in the window.
+
+**Reading**
+- EP4 is final: it stopped at ~216 after day 1. A Reel at 32 followers lives ~24h, so the 4 days with no Reel (9-12 Nov) were 4 days of zero new reach.
+- EP5 is the first test of: real product screen under a spoken line (owner rule 11 Nov), a named-person send ask ("whoever runs your kitchen"), and a next-episode follow tease. Read it at 24h tomorrow.
+- Followers still flat with ~200 people reached per Reel: the follow tease on EP5 is the test that matters most.
+
+**Changes for the next Reel (13 Nov, ENGLISH, autopilot)**
+1. English Veo dialogue, character speaks the problem inside 1s, native portrait (unchanged, proven).
+2. Spoken complaint/question hook, not "Stop…" (EP4 41.8% skip).
+3. ≥ 2 real product screens from shots/ under spoken lines (owner rule 11 Nov). Planned topic hr4u_onboarding_docs: shots/ has hr_hero.jpg and hr_live.jpg only; a tall capture of the HR4U documents/onboarding screen is needed if those don't match the lines.
+4. Named person in the send ask by 8s + "EP 7 tomorrow, follow" end card.
+5. CTA send/save (keywords paused since 8 Nov review; EP5 was send, so either is fine; keep send until a Reel gets ≥ 5 comments).
+
+**Blocker for 13 Nov:** Drive "1 - Gemini clips" has **0 English dialogue clips** (last clip 11 Nov 18:03 UTC). The hourly clip task stopped 7 runs in a row today: the Chrome browser it gets as "Browser 2" is signed into Gemini with a personal Google account, not Sutrixa International. Owner told in today's pack.
+
+**Reach actions**
+- Owner: send EP5 to 3-5 people tonight (list in pack); pin EP5 next to EP4.
+- Stories today point to EP5 (quiz on waste log, "Aapke kitchen ka Ramu kaun hai?" reply ask) and tease EP6 English.

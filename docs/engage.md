@@ -79,3 +79,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 8. @gstify (weekly update): Is there anything here a hotel with only rooms under ₹7,500 actually has to act on?
 9. @fewshot.studio (Hinglish explainer): Yeh wala part dost ko bhej diya, woh roz yahi galti karta hai.
 10. @aiwith.om (Hinglish AI Reel): Tool tab tak kaam ka hai jab tak staff khud use kare. Owner ke bharose nahi chalta.
+
+## Comment drafts, 12 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @fewshot.studio (explainer): The example did the work. I'd forgotten the rule by the end but I still remember the example.
+2. @aiwith.om (AI for business): Owners buy the tool, staff decide if it lives. Would love one on getting staff to actually use it.
+3. @vanturexmedia (salon marketing): The before/after is the hook, but the price list in the caption is what gets the DM.
+4. @ganesh.debnath__ (money-loss story): The leak nobody writes down is always bigger than the one everybody argues about.
+5. @ca.kushalgarg (GST update): Does this change anything for a small restaurant that buys most stock from unregistered vendors?
+6. @cadeveshthakur.official (compliance list): Point three is the one small kitchens skip. Nobody keeps the purchase bills together.
+7. @ca.himanigarg (GST update): Forwarding this to my CA with one word: "noted?"
+8. @gstify (weekly update): For a hotel that only rents rooms under ₹7,500, is there anything to act on this month?
+9. @fewshot.studio (Hinglish explainer): Ek example aur sab samajh aa gaya. Theory yaad nahi rehti.
+10. @aiwith.om (Hinglish AI Reel): Kitchen mein tool tabhi chalega jab cook ko ek click se zyada na lage.
