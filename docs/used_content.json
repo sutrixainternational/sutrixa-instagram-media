@@ -311,6 +311,36 @@
     "And it replies to comments, and every guest message comes straight to our phone. Nothing goes out without your okay, sir.",
     "Fully booked this weekend... and I did not write a single post!"
    ]
+  },
+  {
+   "date": "2026-11-12",
+   "url": "https://www.instagram.com/reel/DfpIdH3jwPD/",
+   "story": "Bablu ka Hotel (Hindi) EP5: five kilo paneer bought yesterday is gone today; Ramu the cook admits half spoiled and he threw it without writing it down; Kaka says keep Rizstay's waste log (what, how much, who logged it); Priya says enter purchases and stock refills itself, and reports filter by date and export to Excel; Bablu tracks every gram on his phone",
+   "hook": "Kal 5 kilo paneer aaya. Aaj *khatam*?",
+   "clips_src": [
+    "2026-11-11_dlg_hi_ep5_bablu_paneer.mp4",
+    "2026-11-11_dlg_hi_ep5_ramu_waste.mp4",
+    "2026-11-11_dlg_hi_ep5_kaka_wastelog.mp4",
+    "2026-11-11_dlg_hi_ep5_priya_reports.mp4",
+    "2026-11-11_dlg_hi_ep5_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "rz_waste_log_who_logged",
+    "rz_purchases_restock",
+    "rz_reports_filter_export"
+   ],
+   "lang": "hi",
+   "topic": "rizstay_stock",
+   "lines": [
+    "Kal paanch kilo paneer aaya tha... aaj phir khatam? Paneer gaya kahaan?!",
+    "Saab, aadha paneer kharab ho gaya tha... maine phenk diya. Kahin likha nahi.",
+    "Beta, Rizstay ka waste log rakho. Kya phenka,",
+    "kitna phenka, aur kisne likha... sab dikhega.",
+    "Sir, naya paneer kharido toh purchase mein daalo,",
+    "stock apne aap bhar jaata hai.",
+    "Aur report date se filter karke Excel mein nikaal lo.",
+    "Ab har gram paneer ka hisaab mere phone pe! Agla episode kal..."
+   ]
   }
  ]
 }
