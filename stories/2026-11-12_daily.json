@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU KA HOTEL · EP 5 LIVE", "headline": "5 kilo paneer aaya. Aaj tray *khaali*", "bullets": ["Ramu ne kya kiya? Reel abhi dekhiye", "Profile pe sabse upar"], "image": "shots/rz_registers.jpg", "size": 76},
+{"name": "d2_quiz", "kicker": "QUIZ", "headline": "Kharab maal phenkne se pehle *kya* karna chahiye?", "bullets": ["A: Chup chaap phenk do", "B: Waste log mein likho", "C: Owner ko baad mein batao", "Sticker na dikhe toh A, B ya C reply kijiye"], "size": 74},
+{"name": "d3_fact", "kicker": "EK BAAT", "headline": "Purchase likho, stock *khud* bharta hai", "bullets": ["Naya maal purchase mein daalo, stock count apne aap update", "Report date se filter karo, Excel mein nikaalo"], "size": 78},
+{"name": "d4_ask", "kicker": "AAPKI BAARI", "headline": "Aapke kitchen ka *Ramu* kaun hai?", "bullets": ["Us dost ko yeh Reel bhejiye", "Ya reply mein apni kahani likhiye"], "size": 78},
+{"name": "d5_close", "kicker": "KAL · EP 6 (ENGLISH)", "headline": "New staff, *zero* paperwork?", "bullets": ["Bablu ka agla jhamela kal shaam", "Follow karke rakhiye"], "foot": "@sutrixainternational", "size": 80}
+]
+}
