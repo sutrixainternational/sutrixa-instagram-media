@@ -197,3 +197,14 @@
   1. **Pin 3** (open since 30 Oct, 13 days): https://www.instagram.com/reel/DfM5OWDFD4v/ (EP2, lowest skip ever), https://www.instagram.com/reel/DfW5VwAj4k8/ (EP3, best hold of the human-voice Reels), https://www.instagram.com/reel/DfHupKPiiip/ (EP1, the story series opener). +8.
   2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 7 days; still 5th on the grid).
   3. **Post Stories from the phone** (stories/ frames), then the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built from the archive (open since 28 Oct). +8-14.
+
+## 2026-11-13 (ig-profile, live view, 22:15 IST)
+- Live profile: name "Sutrixa | AI Business Software", category "Software", link sutrixa.com (+1 more), 35 posts, 32 followers, 4 following. No pinned posts, no highlights, story archive still EMPTY. Grid top 12 unchanged since 12 Nov (newest EP5 DfpIdH3jwPD; no Reel on 13 Nov); the 4 Nov repeat DfUki2olOVU is still 5th.
+- **Bio was changed outside this task** since the 12 Nov 18:55 IST save (no commit or note in the repo, so most likely by the owner in the app). Live now: `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta | Bengaluru`. It drops the 12 Nov search-phrase first line and re-adds the India offices, which conflicts with the 28 Oct owner rule (HQ only), and the location line is cut off at "more" on the profile.
+- **Not changed.** A manual edit newer than the 28 Oct rule may be the owner changing their mind, so this task did not overwrite it; the owner was asked which bio to keep. If they confirm the HQ-only rule, restore the 12 Nov bio (149 chars, detect.py 55.9) on the next run (the 3-day spacing counts from the owner's edit, so it can go any time after the reply).
+- Name not changed (no weekly review recommendation). Captions: no new post since the 12 Nov check. Highlights: not possible (archive empty).
+- **Score 54/100** (was 60): name 10/12 · bio line 1 6/12 (generic "Enterprise AI | Agency", no who/what) · bio body 5/8 (location line truncated) · pinned 0/10 · link 6/8 · highlights 0/8 · grid 5/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 8/10 (no Reel 13 Nov) · stories 0/6.
+- App-only to-dos still open:
+  1. **Pin 3** (open since 30 Oct, 14 days): https://www.instagram.com/reel/DfM5OWDFD4v/ (EP2), https://www.instagram.com/reel/DfW5VwAj4k8/ (EP3), https://www.instagram.com/reel/DfHupKPiiip/ (EP1). +8.
+  2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 8 days).
+  3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).

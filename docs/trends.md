@@ -184,3 +184,46 @@ Signature moves:
 - Fits Sutrixa: (1) **step tutorials with a visible progress tracker** led both top Reels (the.ai.mates 5.8K shares; WhatsApp agent 1,246 shares on 766 likes; fiza 387 on 345): faceless, real screens, a cartoon presenter, which is exactly our Bablu + shots/ setup; it layers on the tips/counter presets (top progress tabs + "STEP n/N"). (2) **"<AI thing> for restaurants / WhatsApp, no code"** is the on-niche hook family this fortnight; for us it's Voxa (answers calls, 12 Indian languages, live "in an afternoon") and Rizstay (no installs, browser), never "10 minutes" (not in products.md). (3) Keyword giveaways drove comments on 7 of 11 Reels (the.ai.mates 2,282, turbantechguy 1,973), but our 5 keyword Reels got 0 comments, so keep them paused per the 8 Nov review; a step tracker is the part we can copy now. Skip the ChatGPT Business Profiles news wave (2 Reels on 11 Nov): no Sutrixa product claim backs it.
 - Use today (next Reel, 13 Nov English, autopilot): put a **segmented step bar + "STEP n/N" chip at the top of every screen beat** and frame each real shots/ capture in a **browser-window mockup** on a plain canvas; one Bablu/Priya clip stays the speaking hook (owner rules 8 + 11 Nov).
 - Presets: **no new preset**. The step-tracker grammar is strong today, but the last live scan was 30 Oct, so it has 1 day of evidence, not 2 consecutive days; re-check on the next scan, and if it shows again add **stepper** (clip hook → 3-5 × `screen` in a browser frame under a persistent step bar → `card`) at weight 2.
+
+## 2026-11-13
+Sources (laptop browser pane, read-only, ~30 page loads, no rate limit or challenge; pane hidden, feed stepped with the Down key): Reels feed (1 load, ~15 Reels stepped, counts read from the feed: likes / comments / reposts / shares), Explore (1 load, 3 tiles), keyword search "customer calls" (3 posts, all Sept or older: web keyword search still broken, 7th scan running; "payroll" and "restaurant business" not tried to save loads), 10 posts read at /p/<code>/ for og:description. Durations read from the video element ("~" = may be offset by one Reel).
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| nick_saraev (11 Nov, Explore) | 4,778 | 5,721 | n/r | n/r | "Comment FABLE to get the prompts for all 13 use cases" | Bold Claim + keyword | AI tool use-case list + keyword giveaway, English (face) |
+| cyberbhaiyadidi (12 Nov) | 2,720 | 42 | 4,164 | 95s | "Microsoft down. Hack nahi hua." | Correction (news) | news explainer with an everyday analogy ("toll plaza" = servers) + "3 rules" tracker, 2 faceless cartoon presenters, Hinglish, keyword SAFE |
+| wtf__mba (n/r) | 3,647 | 15 | 618 | n/r | sales pitch silence line | Curiosity Gap | sales skit (skip: face) |
+| itsvinayakg (6 Nov) | 901 | 327 | 1,484 | 58s | "SaaS is dying. It's all about RaaS now." | Bold Claim + Identity Trigger ("agency owners") | talking head → B-roll VO with a corner "RAAS = ?" chip → plain-canvas text cards, keyword RaaS, English |
+| soberandcoindia (28 Oct) | 694 | 57 | 182 | ~36s | "People love saying Calcutta isn't a startup city" | Correction | founder story, Kolkata (face) |
+| saleswithayush (29 Oct) | 506 | 175 | 345 | ~44s | "What do you say when a prospect asks 'Is it negotiable?'" | Relatable Pain | sales script tip + keyword CALL (face) |
+| __arpita_das__ (12 Nov) | 62 | 0 | n/s | ~7s | "Dear Microsoft..." | meme | outage meme (skip) |
+| indusflavour (n/r) | 28.1K | 308 | 7,724 | n/r | "Anything for that 100% customer satisfaction" | Relatable Pain | restaurant skit (skip: face/skit) |
+Skipped: funnyreels0705 and baadshahig (memes), teamdiljitglobal (music), heyitspriyankaaaaa (festival), roxhype (ad), jiyaaatips (Sept), DfZpc-gESTI (carousel templates).
+
+### Beat sheet 1: cyberbhaiyadidi "Microsoft 365 outage explained" (95s, faceless, Hinglish; 4,164 shares = 1.5x likes, posted the night of the outage)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | dark navy canvas; 2 round cartoon presenter badges (a "bhaiya" and a "didi") fixed in the bottom third for the whole Reel | mono kicker "• OUTAGE FILE · MICROSOFT 365 · 12-13 NOV" top; huge 2-line headline "MICROSOFT DOWN. / HACK NAHI HUA." (key word red, line 2 cyan); a 2×3 grid of app tiles each with a red ✕; crossed-out icon | spoken line as a bold white sentence, key words red | ✕ marks already on at frame 0 | VO, original audio |
+| what | 3-25s | same canvas | headline "KAB AUR KYA GIRA?"; big time card "11:24 PM" with date + UTC; row of red status pills "Outlook DOWN · Teams DOWN…"; small "SOURCE: Microsoft 365 Status · BleepingComputer" line | caption sentence with the number in cyan | pills pop in left to right | VO |
+| analogy | 25-60s | same canvas | headline "SECURE CONNECTION JAM"; one diagram card (padlock + gears = "gate"), tiny toll booths; plain caption "Har booth ka gate" | | parts light up as named | VO |
+| rules | 60-85s | same canvas | headline "DIDI KE 3 OUTAGE RULES"; a tab row "RULE 1 · RULE 2 · RULE 3" under it; 3 numbered rows that fill one per beat | | rows fill one by one | VO |
+| CTA | 85-95s | same canvas | "COMMENT KARO / SAFE" huge; a mock comment + DM card showing the checklist preview | | card slides up | VO |
+Signature moves (render_reel3-reproducible):
+1. **"File" kicker + same canvas for the whole Reel**: one dark canvas, a mono kicker line ("• GST FILE · HOTEL BILL"), only the centre card changes per beat (same family as counter).
+2. **Status pills** (red "DOWN"/green "DONE" chips in a row) to show 4-5 things at once in one frame: for us "Front desk ✓ · Kitchen ✓ · Bill ✓".
+3. **Everyday analogy card** in the middle (toll booth = server): our eli5 analogy beat, drawn as one labelled diagram, not stock footage.
+4. **Numbered rows that fill** under a "RULE 1/2/3" tab row: the step-tracker grammar again (2nd scan day running).
+5. **SOURCE line** in tiny mono under each fact card: cheap trust, matches our products.md-only rule (for us "Source: rizstay.com").
+
+### Beat sheet 2: itsvinayakg "SaaS is dying, RaaS now" (58s, English; 1,484 shares, 327 comments on 901 likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | talking head at a rooftop table, city at night | 3-line stacked headline top third "SAAS IS DYING. / IT'S ALL ABOUT / RAAS NOW." (DYING red, RAAS NOW yellow, heavy outline) + small white pill "Agency owners, this one's for you." | | static, headline on at frame 0 | VO |
+| explain | 3-35s | B-roll (skyline, street) under the voice | small yellow corner chip "RAAS = ?" stays top-right; centre white uppercase captions 2-3 words at a time | white caps, centred | B-roll cuts every ~3s | VO + soft bed |
+| punch | 35-55s | plain off-white canvas | 2-line black bold statement, centred, held ~15s while the voice explains | | none: a held card | VO |
+| CTA | 55-58s | | keyword in caption | | | |
+Signature moves: (1) **niche pill under the hook** ("Hotel owners, this one's for you": an Identity Trigger in one line); (2) **corner question chip** ("GST = ?") kept on screen until the answer beat pays it off; (3) **held plain-canvas statement card** for the one line that matters. Talking-head parts skipped (we are faceless).
+
+- Fits Sutrixa: (1) **step/rule tracker on one persistent canvas with faceless cartoon presenters** led the strongest on-niche Reel for the 2nd scan day running (12 Nov: the.ai.mates 5.8K shares, fiza 387; 13 Nov: cyberbhaiyadidi 4,164 shares on 2,720 likes); it is our Bablu/Kaka + shots/ setup. (2) **"<thing> explained" with an everyday analogy** (eli5 grammar) shares well when it is timely; ours must stay on products.md facts (GST split, KOT, missed calls), not news. (3) Keyword CTAs drive comments on every face Reel (nick_saraev 5,721), but ours stay paused (0 comments on 5 tries, 8 Nov review); use the SOURCE line and a save line instead.
+- Use today (next Reel): add a **niche pill under the hook** ("Hotel owners, this one's for you") and keep **one persistent canvas with a "STEP n/N" tab row** on screen beats; put a tiny **"Source: <product site>"** line under each fact.
+- Presets: **added `stepper` (weight 2)** to docs/presets.md: the step-tracker grammar has now shown with strong share numbers on 2 scan days in a row (12 + 13 Nov) and fits faceless + real screens. 3 matching topics added to docs/clip_topics.md (hooks scored 80.4-84.4).
