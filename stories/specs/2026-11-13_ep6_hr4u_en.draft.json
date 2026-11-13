@@ -1,0 +1,160 @@
+{
+ "out": "work/reel_ep6.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "en",
+ "meta": {
+  "story": "Bablu ka Hotel (English) EP6: the new chef joins Monday and his papers are lost in a pile at the front desk; Sunil the new chef asks if anyone got the ID and certificates he sent; Kaka says HR4U shows every new joiner's stage (pending documents, background check, cleared, active) and a failed check keeps its reason; Priya says the appointment letter is already in his inbox and he tapped acknowledge; Bablu has the chef cleared and active on HR4U",
+  "hook": "New chef Monday. His papers? *Somewhere in here.*",
+  "lang": "en",
+  "topic": "hr4u_onboarding_docs",
+  "clips_src": [
+   "2026-11-12_dlg_en_ep6_bablu_papers.mp4",
+   "2026-11-13_dlg_en_ep6_sunil_firstday.mp4",
+   "2026-11-12_dlg_en_ep6_kaka_onboarding.mp4",
+   "2026-11-13_dlg_en_ep6_kaka_checks.mp4",
+   "2026-11-12_dlg_en_ep6_priya_letter.mp4",
+   "2026-11-12_dlg_en_ep6_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "hr4u_onboarding_stages",
+   "hr4u_check_fail_reason",
+   "hr4u_appointment_letter_inbox"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep6/papers.mp4",
+   "vstart": 0.2,
+   "dur": 5.4,
+   "clip_voice": true,
+   "speech": [
+    0.5,
+    5.1
+   ],
+   "punch": false,
+   "label": "BABLU'S HOTEL · EP 6",
+   "say": "Our new chef joins on Monday... and his papers are somewhere in this pile!",
+   "headline": "New chef Monday. His papers? *Somewhere in here.*"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep6/sunil.mp4",
+   "vstart": 1.1,
+   "dur": 6.0,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    5.8
+   ],
+   "punch": false,
+   "label": "SEND THIS TO WHOEVER HIRES YOUR STAFF",
+   "say": "Sir, I sent my ID and my certificates last week. Did anyone get them?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep6/kaka.mp4",
+   "vstart": 1.0,
+   "dur": 3.5,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    3.3
+   ],
+   "punch": false,
+   "label": "1 · EVERY JOINER HAS A STAGE",
+   "say": "Beta, HR4U shows every new joiner:"
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr4u_onboarding.png",
+   "hl": [
+    60,
+    240,
+    342,
+    304
+   ],
+   "tap": true,
+   "audio_src": "work/ep6/kaka.mp4",
+   "astart": 4.5,
+   "dur": 4.3,
+   "speech": [
+    0.2,
+    3.9
+   ],
+   "label": "1 · EVERY JOINER HAS A STAGE",
+   "headline": "Documents, check, cleared, *active*.",
+   "hy": 1560,
+   "say": "pending documents, background check, cleared, active."
+  },
+  "KAKA2",
+  {
+   "kind": "clip",
+   "video": "work/ep6/priya.mp4",
+   "vstart": 1.0,
+   "dur": 3.6,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    3.3
+   ],
+   "punch": false,
+   "label": "3 · LETTER ACKNOWLEDGED IN THE INBOX",
+   "say": "Sir, his appointment letter is already in his inbox."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr4u_onboarding.png",
+   "hl": [
+    36,
+    562,
+    370,
+    594
+   ],
+   "tap": true,
+   "audio_src": "work/ep6/priya.mp4",
+   "astart": 4.6,
+   "dur": 1.9,
+   "speech": [
+    0.3,
+    1.6
+   ],
+   "label": "3 · LETTER ACKNOWLEDGED IN THE INBOX",
+   "headline": "Appointment letter: *acknowledged*.",
+   "hy": 1560,
+   "say": "He tapped acknowledge."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep6/payoff.mp4",
+   "vstart": 1.3,
+   "dur": 7.0,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    6.8
+   ],
+   "punch": false,
+   "label": "EP 7 NEXT · FOLLOW",
+   "say": "Papers checked, chef cleared and active... all on HR4U! Follow for the next episode!"
+  },
+  {
+   "kind": "card",
+   "video": "work/ep6/payoff.mp4",
+   "vstart": 8.3,
+   "dur": 1.7,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep6/payoff.mp4",
+   "astart": 8.3,
+   "label": "SUTRIXA HR4U",
+   "headline": "Hiring papers, *sorted*. hr4u.sutrixa.com",
+   "say": " "
+  }
+ ]
+}
