@@ -91,3 +91,15 @@ Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (se
 8. @gstify (weekly update): For a hotel that only rents rooms under ₹7,500, is there anything to act on this month?
 9. @fewshot.studio (Hinglish explainer): Ek example aur sab samajh aa gaya. Theory yaad nahi rehti.
 10. @aiwith.om (Hinglish AI Reel): Kitchen mein tool tabhi chalega jab cook ko ek click se zyada na lage.
+
+## Comment drafts, 14 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @fewshot.studio (explainer): The second example is the one that'll stick. First one set it up, second one landed it.
+2. @aiwith.om (AI for business): Joining day is where most small businesses lose the paperwork. Nobody owns it after the interview.
+3. @vanturexmedia (salon marketing): New stylists bring their own followers. Most salons never ask them to post on day one.
+4. @ganesh.debnath__ (money-loss story): The expensive mistakes are always the boring admin ones. Nobody makes a Reel about a lost file, until it costs something.
+5. @ca.kushalgarg (GST update): For a hotel hiring seasonal staff, is there any GST or payroll paperwork people usually miss in the first month?
+6. @cadeveshthakur.official (compliance list): Saving this. Most small owners only learn the staff-document rules after an inspection.
+7. @ca.himanigarg (GST update): The worked example is what makes these useful. More of these please.
+8. @gstify (weekly update): Anything in this week's changes for a restaurant on the 5% rate?
+9. @fewshot.studio (Hinglish explainer): Example se sab samajh aa gaya. Ab yaad bhi rahega.
+10. @aiwith.om (Hinglish AI Reel): Naye staff ko pehle din hi tool pe laao, baad mein aadat nahi badalti.

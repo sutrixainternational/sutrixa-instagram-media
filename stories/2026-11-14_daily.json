@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU KA HOTEL · EP 5", "headline": "1,349 people watched Bablu lose his *paneer*", "bullets": ["Missed it? It's on the profile", "Ramu, the waste log, the real Rizstay screen"], "image": "shots/rz_registers.jpg", "size": 74},
+{"name": "d2_quiz", "kicker": "QUICK QUIZ", "headline": "*New hire* joins Monday. What do you check first?", "bullets": ["A: Their ID and certificates", "B: Their background check", "C: Their signed appointment letter", "No sticker? Reply A, B or C"], "size": 72},
+{"name": "d3_fact", "kicker": "ONE THING TO KNOW", "headline": "Every new joiner has a *stage*", "bullets": ["Pending documents, background check, cleared, active", "HR4U shows each one on the onboarding card"], "image": "shots/hr4u_onboarding.png", "size": 76},
+{"name": "d4_ask", "kicker": "YOUR TURN", "headline": "Your new staff's papers. *Where* are they?", "bullets": ["Reply with the honest answer", "A drawer counts. So does a WhatsApp chat"], "size": 76},
+{"name": "d5_close", "kicker": "NEXT · EP 6 (ENGLISH)", "headline": "New chef. Lost papers. *Bablu panics.*", "bullets": ["Coming next on the profile", "Follow so you see it first"], "foot": "@sutrixainternational", "size": 78}
+]
+}

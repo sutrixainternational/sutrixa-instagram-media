@@ -542,3 +542,37 @@ Counted last-10 median (excl. 4 Nov repeat and EP5): **108** views (64, 66, 84, 
 **Reach actions**
 - Owner: send EP5 to 3-5 people tonight (list in pack); pin EP5 next to EP4.
 - Stories today point to EP5 (quiz on waste log, "Aapke kitchen ka Ramu kaun hai?" reply ask) and tease EP6 English.
+
+## 2026-11-14 run (6:47 PM) · post-mortem of: EP 5 (DfpIdH3jwPD, 12 Nov, Rizstay, HINDI) at ~48h. No Reel on 13 Nov (connectors 502); no Reel posted by this run (EP6 is one clip short, see below)
+vidIQ owner insights OK (0 credits); Instagram connection active, canPublish true.
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP5 Rizstay HI (12 Nov)** | **1,349** | **14.0s / 35.1%** | **29.9%** | 23 / 0 / 1 / 2 |
+| EP4 Velocity EN (8 Nov) | 249 | 9.3s / 23.3% | 45.5% | 5 / 0 / 1 / 1 |
+| 7 Nov GST narrator | 133 | 4.6s / 9.4% | 85.3% | 1 / 0 / 9 / 0 |
+
+Counted last-10 median (excl. the 4 Nov repeat): **152.5** views (66, 84, 99, 118, 133, 172, 186, 213, 249, 1,349). EP5 = **8.8x**, the account's first real outlier; first Reel with skip under the 40% benchmark. Followers **32**: flat since 7 Nov, even with 1,349 views.
+
+**What worked (EP5)**
+- Spoken question hook from a character inside 1s ("paneer gaya kahaan?!") over native portrait Veo: skip 29.9% vs 45.5% (EP4) and 62-85% for earlier Reels.
+- Real product screen under a spoken line (owner rule 11 Nov) did not hurt hold: 35% watched on a 40s Reel, best on the account.
+- A relatable loss everyone in a kitchen knows (spoiled stock thrown away, not written down) beat software features.
+
+**What went wrong**
+- **0 new followers from 1,349 views.** The "follow karo" sits at the very end (payoff line, ~38s); with 14s average watch, most viewers never hear it. The profile also gives no reason to follow (no series highlight, EP5 not pinned).
+- 0 comments again (13th Reel in a row). 2 saves, 1 share: low sends for the reach (0.07%).
+- No Reel on 13 Nov, the day after the best Reel: the momentum window (~24h) was lost.
+
+**Changes for the next Reel (EP6, ENGLISH, hr4u_onboarding_docs)**
+1. Keep: character speaks a problem question inside 1s, native portrait, real HR4U screens under spoken lines, 40-45s, named-person send ask by 8s.
+2. **Follow reason by ~10s**, not only at the end: on-screen label on beat 2 "BABLU'S HOTEL · A NEW EPISODE EVERY DAY · FOLLOW" (label only, no extra audio).
+3. Caption: first line names the series and the problem; last line "Follow for EP 7." (no view-count claims).
+4. CTA: send ask (keywords stay paused until a Reel gets ≥ 5 comments; EP5 got 0).
+5. Comment bait that needs one word: on-screen question at the end "Where are YOUR staff papers? Drawer or WhatsApp?" (test for comments).
+
+**Result today: NO REEL (by rule, owner's step 4).** EP6 has 5 of 6 clips in Drive. The 6th, Kaka "if a check fails, the reason is written right there", was generated in Gemini on 13 Nov after 17:35 UTC but never downloaded (Chrome disconnected). Without it the spec plans 33.4s and qa_reel.py refuses (< 40s); every other gate passes (no_repeat OK). This cloud run has no laptop/Chrome, so it cannot download or make the clip. Owner asked to save the clip to Drive; a follow-up check tonight posts EP6 late if it appears.
+
+**Reach actions**
+- Owner: pin EP5 (best Reel) on the profile tonight; send it to 3-5 owners.
+- Stories today replay EP5's number and tease EP6 (quiz on what to check first for a new hire).

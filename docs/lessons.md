@@ -104,3 +104,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - CHECKED again: EP4 216 views final (2.0x the counted median of 108), +1 view after day 1. Reels live ~24h at this size; every skipped day is lost reach.
 - PENDING (read at 24h on 13 Nov): EP5 tests real product screen + named-person send ask + next-episode follow tease, in Hindi.
 - CHECKED: insights work again after the owner's 12 Nov reconnect.
+
+## 14 Nov run (EP5 at ~48h)
+- PROVEN (EP4 + EP5, 2 post-mortems): a character speaking a problem question inside 1s over native portrait Veo cuts skip (45.5% EP4, 29.9% EP5 vs 62-85% before). Copied to rules.md (14 Nov note).
+- CHECKED: real product screens under a spoken line did not hurt hold (EP5 35% watched, best yet).
+- TRY: views do not turn into follows by themselves (EP5 1,349 views, followers flat at 32). Put the follow reason on screen by ~10s, pin the best Reel.
+- CHECKED: a missing day right after a hit loses the momentum window. Keep one spare clip per episode so a single failed download can't block the Reel.
