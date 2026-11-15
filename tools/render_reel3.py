@@ -500,6 +500,11 @@ def render(spec):
             if b.get("headline"):
                 headline(img, b["headline"], lay["head"], size=lay["hsize"],
                          alpha=1.0 if bi == 0 else ease(t / 0.2), box=(kind != "card"), accent=accent)
+            if kind == "screen":
+                # 15 Nov: captions over a product screen sat on top of the screen's own text; give them a dark band
+                band = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+                ImageDraw.Draw(band).rectangle([0, lay["cap"] - 40, W, lay["cap"] + 140], fill=(8, 6, 14, 200))
+                img.alpha_composite(band)
             kinetic(img, b["_wt"], t, accent, y=lay["cap"])
             corner_logo(img)
             out = img.convert("RGB")
