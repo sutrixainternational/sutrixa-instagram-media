@@ -16,5 +16,8 @@ Pick the SUBJECT, not the wording. Two Reels about GST on hotel rooms or hotel f
 | hr4u_onboarding_docs | onboarding, documents, contracts in your own Drive |
 | velocity_social_posting | posts written for you, pictures/videos, posting times, approval on phone |
 | velocity_website_leads | one-page website, WhatsApp button, finding customers, follow-up emails |
+| rizstay_menu_pricing | menu prices, dish mix, best sellers (added 15 Nov) |
+| voxa_setup_leads | Voxa setup steps, training on FAQs, lead qualifying (added 15 Nov) |
+| hr4u_training_promotions | training assign/track, promotions with salary history, staff retention (added 15 Nov) |
 
 Add a new row when a genuinely new subject comes up.

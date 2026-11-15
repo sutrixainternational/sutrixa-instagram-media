@@ -208,3 +208,17 @@
   1. **Pin 3** (open since 30 Oct, 14 days): https://www.instagram.com/reel/DfM5OWDFD4v/ (EP2), https://www.instagram.com/reel/DfW5VwAj4k8/ (EP3), https://www.instagram.com/reel/DfHupKPiiip/ (EP1). +8.
   2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 8 days).
   3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
+
+## 2026-11-15 (weekly review, ig-profile with rubric.json; vidIQ owner profile fields, no live browser view)
+- Read via vidIQ owner insights 15 Nov: name "Sutrixa | AI Business Software", bio `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta | Bengaluru` (unchanged since the owner's edit before 13 Nov), link sutrixa.com, 35 posts, **32 followers**, 4 following. Pinned posts, highlights and stories can't be read from the API: carried from the 13 Nov live view (none, none, archive empty). Not changed by this task (the weekly review never edits the profile).
+- **Why the profile is the priority this week:** EP5 reached 1,240 accounts (about 1,200 of them non-followers) and followers stayed at 32. Per ig-audit, views with no follows is a profile problem, not a hook problem. A visitor from EP5 lands on a bio that says "Enterprise AI | Agency" (not for a hotel owner), no pinned episode, no highlights, no story ring.
+- **Score 53/100** (was 54 on 13 Nov): name 10/12 · bio line 1 6/12 · bio body 5/8 (location line cut at "more") · pinned 0/10 · link 6/8 · highlights 0/8 · grid 5/8 (the 4 Nov repeat still live) · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 7/10 (1 Reel in the last 7 days, 12 Nov) · stories 0/6.
+- **Copy-ready fixes, in order of points lost (owner edits in the app):**
+  1. **Pin 3 (+8):** EP5 https://www.instagram.com/reel/DfpIdH3jwPD/ (10x, the Reel new visitors arrive from), EP4 https://www.instagram.com/reel/Dffbuyxkq9y/ (English, 1.87x), EP3 https://www.instagram.com/reel/DfW5VwAj4k8/. Replaces the 12 Nov list (EP2/EP3/EP1).
+  2. **Bio (+5 to +6)**, two options (no prices, no InfraRobo; ig-human 51.1, fragments, 0 slop):
+     A (144 chars, HQ-only per the 28 Oct rule): `Apps for Indian hotels, restaurants & shops` / `Bills+GST · AI calls · payroll · posts` / `Bablu ka Hotel: 1 business fix per episode 👇` / `📍 HQ Mississauga`
+     B (147 chars, keeps product names + proof): `Hotels & shops in India: bills, calls, staff, posts` / `Rizstay · Voxa · HR4U · Velocity` / `Follow Bablu ka Hotel 👇 new episodes weekly` / `$1.1M+ in projects`
+  3. **Post 3 Stories from the phone (+4 to +6), then highlights (+4 to +8):** START (what Sutrixa does), BABLU KA HOTEL (episodes), then one per product. The archive must have stories before highlights can exist.
+  4. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov; +1 grid).
+  5. **Name (optional, +0 to +2):** current name is fine (10/12). If changed: `Sutrixa | Hotel, GST & HR apps` (30) or `Sutrixa | Business Apps India` (29).
+- Honest re-score if 1-4 are done: about 75/100. The rest needs daily posting (recent activity) and a story habit; no rewrite fixes those.

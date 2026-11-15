@@ -1,79 +1,70 @@
-# Swipe file (ig-viral), weekly review 8 Nov 2026
-
-## Read this first
-- **No niche capture this week.** The laptop's Instagram pane has been logged out since 31 Oct (no live scans), the cloud can't open instagram.com, Agent Reach was blocked at install, and vidIQ credits are 0 until 13 Nov. Trend reports were read with WebSearch/WebFetch (docs/presets.md, "8 Nov review"), but they give audio and format names, not per-account medians.
-- So the ranked file below is **our own 11 counted Reels** with real view counts from vidIQ owner insights and our real median (102). That is the only batch this week with a true outlier multiple. Raw rows: docs/swipe_own_2026-11-08.tsv. The 11-Reel niche batch from 28-30 Oct is still in docs/swipe_niche_2026-11-01.tsv (likes only, no medians).
-- 11 Reels from 1 account is evidence about us, not about the niche.
-
-## What it says
-1. **Hookscore runs backwards again.** Top third median score 51, bottom third 81. The two lowest-scoring hooks (EP1 "16 ghante kaam. Paisa kahan gaya?" 50.6, EP3 "Stop counting staff in a register." 51.0) are #2 and #3 by multiple. What they share: a character says the problem out loud in the first second.
-2. **9 of 11 hooks are #2 Negative Command.** It is both in the top (EP2 2.1x) and the bottom (26 Oct 0.6x), so the formula isn't the difference; the voice and the opener are.
-3. **Unclassified (2):** "Your phone rang. Nobody picked up." (1.1x) and "Your hotel's accountant. 11 PM. Again." (1.0x). Both are a scene stated in fragments, a shape not in hooks.json. Mid-table, so not worth adding yet.
-
-## Our versions for next week (spoken line is the hook)
-| shape that worked | our new line | product |
-|---|---|---|
-| character complains about a specific moment, in their own words (EP1, EP3) | "Sir, I forgot to clock out yesterday. Does it say I worked twenty hours?" | HR4U |
-| frustrated owner + a ₹/count problem moving at frame 0 (EP2) | "Hold please... hold please... four lines are ringing and I'm alone." | Voxa |
-| owner says the identity line (5 Nov "register" scene) | "I opened this shop to sell sarees, not to post on Instagram every day." | Velocity |
-
----
 # Swipe file
 
 11 reels across 11 accounts. Ranked by multiple over account median.
 
-## 2.1x  Negative Command  (@sutrixainternational/01Nov-story)
-- views: 212  baseline: 102
-- hook score: 85.8  words: 6
-- hook: "Stop losing ₹500 per missed call."
+## 586.2x  unclassified  (@satnaminfotech_)
+- views: 1,700,000  baseline: 2,900
+- hook score: 28.6  words: 11
+- hook: "Staff apna parivar hai, hamesha ek doosre ke kaam aana chahiye"
 
-## 1.8x  Numbered With A Favourite  (@sutrixainternational/30Oct-story)
-- views: 186  baseline: 102
-- hook score: 50.6  words: 6
-- hook: "16 ghante kaam. Paisa kahan gaya?"
+## 335.6x  unclassified  (@compoundlab.in)
+- views: 85,900  baseline: 256
+- hook score: 30.0  words: 6
+- hook: "Discount diya, phir bhi gym khaali?"
 
-## 1.4x  Negative Command  (@sutrixainternational/05Nov-story)
-- views: 145  baseline: 102
-- hook score: 51.0  words: 6
-- hook: "Stop counting staff in a register."
+## 74.3x  unclassified  (@labibs_india)
+- views: 185,800  baseline: 2,500
+- hook score: 30.0  words: 9
+- hook: "Bhai apki kismat achhi hai, apka apna business hai"
 
-## 1.1x  unclassified  (@sutrixainternational/02Nov-proof)
-- views: 115  baseline: 102
-- hook score: 77.8  words: 6
-- hook: "Your phone rang. Nobody picked up."
+## 69.7x  unclassified  (@contentkahuna)
+- views: 160,200  baseline: 2,300
+- hook score: 50.6  words: 11
+- hook: "Badi lassi Rs 60. 100 mein se sirf 8 ne li."
 
-## 1.0x  Negative Command  (@sutrixainternational/25Oct-pre)
-- views: 106  baseline: 102
-- hook score: 81.4  words: 8
-- hook: "Stop letting your phone ring at 8 PM."
+## 67.2x  unclassified  (@businessidea_841)
+- views: 4,000,000  baseline: 59,500
+- hook score: 44.6  words: 9
+- hook: "Dukandar ne anda liya ubal ke becha 10 me"
 
-## 1.0x  unclassified  (@sutrixainternational/24Oct-pre)
-- views: 102  baseline: 102
-- hook score: 54.8  words: 6
-- hook: "Your hotel's accountant. 11 PM. Again."
+## 38.4x  unclassified  (@desitouch.vlogs)
+- views: 265,000  baseline: 6,900
+- hook score: 27.6  words: 4
+- hook: "Sabse sasta packing material"
 
-## 1.0x  Negative Command  (@sutrixainternational/27Oct-tips)
-- views: 99  baseline: 102
-- hook score: 80.2  words: 8
-- hook: "Stop adding GST by hand at 11 PM."
+## 15.0x  unclassified  (@vlog_wala_bhaiya_ji)
+- views: 1,100,000  baseline: 73,500
+- hook score: 30.0  words: 7
+- hook: "Diwali mein staff ko khush kar do"
 
-## 0.8x  Negative Command  (@sutrixainternational/29Oct-eli5)
-- views: 83  baseline: 102
-- hook score: 94.8  words: 8
-- hook: "Stop losing GST input credit. Deadline: 30 November."
+## 13.2x  unclassified  (@chintunomics)
+- views: 2,000,000  baseline: 151,500
+- hook score: 30.0  words: 12
+- hook: "Chintu ki modern car wash par makkhi tak nahi aa rahi thi"
 
-## 0.8x  Negative Command  (@sutrixainternational/07Nov-tips)
-- views: 80  baseline: 102
-- hook score: 80.2  words: 6
-- hook: "Don't bill hotel dinners at 5%."
+## 12.9x  unclassified  (@niko_.thinks)
+- views: 11,200,000  baseline: 868,200
+- hook score: 30.0  words: 10
+- hook: "Fortuner khareedne se achha hai, ek petrol pump khol lo."
 
-## 0.7x  Negative Command  (@sutrixainternational/28Oct-countdown)
-- views: 66  baseline: 102
-- hook score: 85.8  words: 5
-- hook: "Stop these 5 missed-call mistakes."
+## 12.6x  unclassified  (@dukaandidi)
+- views: 2,500,000  baseline: 198,700
+- hook score: 30.0  words: 5
+- hook: "Jaane bolo ya LOSS uthao?"
 
-## 0.6x  Negative Command  (@sutrixainternational/26Oct-pre)
-- views: 64  baseline: 102
-- hook score: 81.4  words: 8
-- hook: "Stop dropping your scissors for 1 more call."
+## 5.0x  unclassified  (@_arungupta_0097)
+- views: 1,800,000  baseline: 364,000
+- hook score: 30.0  words: 6
+- hook: "Again rikshaw wala attitude in season"
 
+
+## Reading (weekly review, 15 Nov 2026)
+Source: vidIQ outlier search (Instagram, India, last 30 days, ≥5K views; 2 queries, 10 credits), 11 Reels from 11 accounts, followers and medians from vidIQ. Hooks are on-screen text or the spoken first line, transliterated. Sample is small: treat as direction, not proof.
+- **The animated business case study is the clearest niche outlier format.** 5 of the 11 (@dukaandidi 12.6x, @businessidea_841 67.2x, @chintunomics 13.2x, @contentkahuna 69.7x at 1.4K followers, @compoundlab.in 335x at 208 followers) plus @stacked_ape (632x, hook not captured) and @niko_.thinks (12.9x) are cartoon/3D characters, Hindi voice, a named owner with a money dilemma, a lesson any owner can use (loss leader, decoy pricing, retention over discounts). Small accounts break out with it, which is our situation exactly.
+- **Hook shape:** a named character + a concrete business object + the dilemma or loss, often as a question ("Discount diya, phir bhi gym khaali?", "Jaane bolo ya LOSS uthao?", "Badi lassi ₹60. 100 mein se sirf 8 ne li."). hookscore.py rates all of them 28-51 and classifies none: our own EP5 hook ("Kal 5 kilo paneer aaya. Aaj khatam?", 50.6) is the same shape and is our 10x Reel.
+- **What they do that Bablu ka Hotel doesn't:** the lesson is a business principle the viewer can use without buying anything; the product, when there is one, is one beat near the end. Our episodes teach product features.
+
+## Your version (hand to ig-reel)
+- "Bablu ne thali ₹180 ki. 100 mein se 12 ne li." → menu decoy lesson + Rizstay best-selling dishes screen.
+- "Raat 9 ke baad 6 call. Ek bhi nahi uthaya." → cost of after-hours calls (own maths) + Voxa.
+- "Discount diya, phir bhi rooms khaali?" → reviews and replies beat discounts + Velocity.

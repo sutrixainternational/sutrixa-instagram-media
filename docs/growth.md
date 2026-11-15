@@ -161,3 +161,55 @@ Median of the 11 counted: **102** views. Reels on 31 Oct (hand-post) never appea
 - **Profile:** 55/100, unchanged (no fixes made yet). See docs/profile_log.md 8 Nov.
 - **Carousel:** "Count your missed calls." 9 slides on branch c/2026-11-08 (caption READY, ig-human 83.9 slides / 79.5 caption, no pricing).
 - **ig-repurpose:** skipped, no long asset shared.
+
+## Week ending 15 Nov 2026 (fourth weekly review)
+
+### Run status
+- vidIQ owner insights pulled 15 Nov (~05:00 UTC), free. All numbers are Instagram's own, lifetime per Reel; nothing rounded up.
+- Agent Reach: install refused by this session's safety check (3rd week). Research = WebSearch/WebFetch (Lightreel, NewEngen 13 Nov, postdom 9-15 Nov, NapoleonCat, mean.ceo) + vidIQ outlier search (credits 170 at start; 2 searches + 5 profile checks = 35 credits used).
+- **Only 1 Reel posted in the 7 days 9-15 Nov** (EP5, 12 Nov). No Reel on 9, 10, 11, 13, 14 Nov (Gemini daily limit, Chrome profile mix-ups, Drive/vidIQ 502 on 13 Nov, one EP6 clip never downloaded). EP4 went out late on 8 Nov 23:55 IST.
+- The 1 Nov and 8 Nov carousels (branches c/2026-11-01, c/2026-11-08) were never posted: no carousel appears in the media list.
+
+### Numbers
+- Followers: **32**. Last week: **32**. Change: **0** in 7 days.
+- Gap to the 100,000 target: **99,968** in 9 days = **11,108 a day**. The account has gained 4 followers in 16 days. **The 24 Nov target will not be met**, and nothing in this plan changes that. Honest next marks: 50 followers, and a second Reel past 1,000 views.
+- Account 8-15 Nov: reach **1,456** accounts, **1,688** views (last week 2-8 Nov: 381 reach, 690 views). Last 30 days: 2,279 reach, 3,531 views. follows_and_unfollows returned no data.
+- 0 comments on every Reel. EP5 has the account's first 2 saves since 25 Oct.
+
+| date | preset | product | voice | hook (hookscore) | len | views | reach | x median | avg watch | watched | skip | shares | saves |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 12 Nov | story EP5 | Rizstay | hi human | Kal 5 kilo paneer aaya. Aaj khatam? (50.6) | 40s | **1,353** | 1,240 | **10.0x** | 14.0s | 35.1% | **30.0%** | 1 | 2 |
+| 8 Nov | story EP4 | Velocity | **en human** | Our food is better. So why are we empty? (34.2) | 40s | 252 | 213 | 1.87x | 9.4s | 23.5% | 45.3% | 1 | 1 |
+| 1 Nov | story EP2 | Voxa | hi human | Stop losing ₹500 per missed call. (85.8) | 25s | 214 | 159 | 1.59x | 5.9s | 23.6% | 62.4% | 2 | 0 |
+| 30 Oct | story EP1 | Rizstay | hi human | 16 ghante kaam. Paisa kahan gaya? (50.6) | 47s | 186 | - | 1.38x | 6.4s | 13.6% | 71.0% | 2 | 0 |
+| 5 Nov | story EP3 | HR4U | hi human | Stop counting staff in a register. (51.0) | 40s | 173 | 136 | 1.28x | 7.7s | 19.3% | 61.8% | 2 | 0 |
+| 7 Nov | tips | Rizstay | en TTS | Don't bill hotel dinners at 5%. (80.2) | 49s | 135 | 100 | 1.00x | 4.7s | 9.5% | 85.5% | **9** | 0 |
+| 2 Nov | proof | Voxa | hi human | Your phone rang. Nobody picked up. (77.8) | 20s | 119 | 86 | 0.88x | 3.7s | 18.7% | 75.5% | 2 | 0 |
+| 27 Oct | tips | Rizstay | en TTS | Stop adding GST by hand at 11 PM. (80.2) | 46s | 99 | - | 0.73x | 12.6s | 27.5% | 71.1% | 1 | 0 |
+| 29 Oct | eli5 | Rizstay | en TTS | Stop losing GST input credit… (94.8) | 59s | 84 | - | 0.62x | 5.5s | 9.3% | 78.7% | 1 | 0 |
+| 28 Oct | countdown | Voxa | en TTS | Stop these 5 missed-call mistakes. (85.8) | 48s | 66 | - | 0.49x | 7.5s | 15.6% | 71.7% | 1 | 0 |
+| 26 Oct | pre-preset | Voxa | en TTS | Stop dropping your scissors… (81.4) | 32s | 64 | - | 0.47x | 8.3s | 25.8% | 70.2% | 0 | 0 |
+| 4 Nov | counter | Rizstay | hi human | Stop charging 18% on ₹7,000 rooms. (83.2) | 26s | 195 | 159 | excluded (repeat, still live) | 6.3s | 24.2% | 58.9% | 1 | 0 |
+Median of the 11 counted: **135** views (last week 102; older Reels kept gaining views, e.g. 7 Nov 80 → 135).
+
+### ig-audit (n = 11, low confidence; EP5 is one Reel and drags every average)
+- **Winner: EP5 "paneer kahaan gaya?"** 10.0x, skip 30% (account ~68%), 14.0s average watch, 1,240 reach. Why: Bablu shouts a question about a physical thing with a number inside 1s ("5 kilo paneer... khatam?"), a new character (Ramu) confesses, a real Rizstay Stock screen under Priya's line, a voice on every beat, native portrait Veo. It is the first Reel Instagram pushed well past followers.
+- **Loser: 7 Nov tips "Don't bill hotel dinners at 5%"**: skip 85.5%, 4.7s watch, the Kokoro narrator over a cropped landscape clip. But it has **9 shares on 100 reach**, the best sends per reach on the account, from "SEND IT TO YOUR CA". The topic travels; the opener killed it.
+- **By preset:** story n=5 mean 3.23x (median 1.59x) > tips 0.87x (n=2) ≈ proof 0.88x > eli5 0.62x > countdown 0.49x. Since 8 Nov only story Reels have been posted, so counter, stepper, stages, pov and quiz are untested.
+- **By voice/language:** human voice n=6 counted (5 story + 1 proof), mean 2.83x; Kokoro n=5, mean 0.66x. English human voice n=1 (EP4) = 1.87x, so it isn't only Hindi.
+- **By product:** no clean effect. Rizstay has the 10x and three of the bottom five.
+- **By hook formula:** the 2 best are character questions about a concrete thing (EP5, EP4: mean 5.9x). The 7 #2 Negative Command Reels averaged 0.88x.
+- **By hook score:** 4th week backwards. The two best scored 50.6 and 34.2; hooks ≥ 75 (n=7) averaged 0.83x.
+- **By clip topic:** physical loss in a kitchen (paneer) and an empty restaurant beat abstract topics (GST rules, missed-call maths).
+- **By length:** all 5 story Reels ran 25-47s; length doesn't separate them. 40s held 35% on EP5.
+- **Views without follows:** EP5 reached 1,240 accounts and net followers stayed at 32. Per ig-audit, that's a profile problem: no pinned posts, a bio for "Enterprise AI | Agency", no highlights, no stories, and the promised "EP 6 kal" never came. Fixes go to the owner (docs/profile_log.md 15 Nov).
+
+### Decisions
+- **Weights** (docs/presets.md): story 6 · casestudy 4 (new) · tips 3 · counter 3 · stepper 2 · stages 2 · pov 2 · proof 1 · countdown 1 · eli5 1 · quiz 1. Was story 5 · tips 3 · counter 3 · proof 2 · stages 2 · pov 2 · stepper 2 · countdown 1 · eli5 1 · quiz 1.
+- **New preset: casestudy** (animated business lesson: a character's money dilemma → failed fix → Kaka names the principle → viewer's maths → real product screen → payoff). From 6 niche accounts in the vidIQ outlier search, 12.6x to 632x, two of them under 1,500 followers. Swipe file: docs/swipe.md + docs/swipe_niche_2026-11-15.tsv.
+- **Hooks** (docs/rules.md 15 Nov, skill_workflow.md): character questions about a concrete thing are allowed; hookscore is logged, not gated, for spoken character hooks; follow reason on screen by ~10s; only promise the next episode when its clips exist.
+- **Clip topics** (docs/clip_topics.md): 16-22 Nov queue (EP6 finish, 2 casestudy, pov, counter, stages, EP7), full clip set + 1 spare before announcing an episode. New topic ids in docs/topics.md. Week plan in docs/plan.md.
+- **Engage** (docs/engage.md): 10 accounts, all verified today (5 by vidIQ profile fetch, 5 by outlier-search Reels dated 23 Oct-12 Nov), including 2 real buyers (@labibs_india restaurant brand, @desitouch.vlogs food founder). 10 comment drafts, ig-human 74.3.
+- **Profile:** 53/100 (13 Nov: 54). Fixes: pin EP5/EP4/EP3, bio options A/B, 3 Stories then highlights, delete the 4 Nov repeat. See docs/profile_log.md.
+- **Carousel:** "Where did your paneer go?" 10 slides on branch c/2026-11-15 (caption READY; ig-human 66.8 caption / 71.5 slides; no product pricing, ₹ figures are a labelled ingredient-cost example).
+- **ig-repurpose:** skipped, no long asset shared.

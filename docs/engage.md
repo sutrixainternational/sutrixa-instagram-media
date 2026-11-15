@@ -1,38 +1,50 @@
 # Daily engagement list (ig-comment / ig-plan)
 10 slots: 5 reach, 3 peers, 2 buyers. Only handles verified as existing. Never guess a handle.
 
-Refreshed 8 Nov 2026 (weekly review). How each was verified:
-- **live** = opened and read in the logged-in laptop browser by the daily trend scan on the date shown (docs/trends.md), with a recent Reel on it. The pane has been logged out since 31 Oct, so no handle could be re-opened this week.
-- **index 8 Nov** = its profile page on a public Instagram index (socialveins.com) was fetched in this run and matched the expected account. Not a live Instagram view.
-- The cloud can't open instagram.com and vidIQ profile lookups cost 5 credits (balance 0 until 13 Nov), so nothing else could be checked.
-
-Comments are drafted by ig-comment and posted by the owner from the app. Never automated.
+Refreshed 15 Nov 2026 (weekly review). How each was verified:
+- **profile 15 Nov** = vidIQ `vidiq_ig_profile` fetched the live public profile in this run (name, followers, bio shown below).
+- **outlier 15 Nov** = returned by vidIQ outlier search in this run with a Reel posted 23 Oct-12 Nov (permalink in docs/swipe.md or below), so the account exists and is active. Not a full profile read.
+The cloud can't open instagram.com. Comments are drafted by ig-comment and posted by the owner from the app. Never automated.
 
 ## Reach (5): comment early, before the thread is deep
 | handle | who | verified | why |
 |---|---|---|---|
-| @ca.kushalgarg | CA, GST news Reels | live 28 Oct (GST registration Reel, 4.2K likes, 7.1K comments) | GST-paying owners read his comments |
-| @cadeveshthakur.official | CA, GSTR-9 listicles | live 28 Oct (GSTR-9 "20 points", 1,026 likes) | same audience, deadline content |
-| @ca.himanigarg | CA, "GST Update" Reels | live 28 Oct (935 likes) | GST owners and accountants; a third CA so the round isn't 2 threads a day |
-| @ganesh.debnath__ | Hinglish money-loss stories for local businesses (clinic ad example) | live 28 Oct (626 likes, 296 comments) | small-business owners who lose money on marketing: Velocity and Voxa buyers read here |
-| @fewshot.studio | Hinglish numbered explainer series with everyday analogies | live 28 Oct (61K likes) | biggest reach in the list; Indian viewers who like plain-language explainers |
+| @dukaandidi | Hindi animated business case studies, 107K | outlier 15 Nov (cafe laptop-customers Reel, 2.5M views, 12.6x, 10 Nov) | the format we're adopting (casestudy); small-business owners in the comments |
+| @chintunomics | Hindi animated business stories ("Chintu"), 138K | outlier 15 Nov (car-wash loss-leader Reel, 2.0M, 13.2x, 23 Oct) | same audience, story format |
+| @fewshot.studio | Hinglish explainers with analogies, 251.9K | profile 15 Nov | biggest reach on the list |
+| @ca.kushalgarg | CA, tax and money-saving Reels, 21K | profile 15 Nov | GST-paying owners read his comments |
+| @canitinsharmaa | GST/tax explainer (GST notices), 146K | outlier 15 Nov (GST notices Reel, 887K, 90x, 30 Oct) | business owners worried about GST |
 
 ## Peers (3): same field, reciprocates
 | handle | who | verified |
 |---|---|---|
-| @aiwith.om | Hinglish AI/business explainers, faceless | live 29 Oct ("5 jagah", 3,082 likes, 191 shares) |
-| @vanturexmedia | salon/local marketing, faceless, Hinglish | live 30 Oct (1,495 likes) |
-| @gstify | "GSTify - Weekly GST updates", India, about 3.5K followers | index 8 Nov (socialveins.com/influencer/instagram/gstify) |
+| @contentkahuna | 3D animated Hindi business lessons, 1.4K followers | outlier 15 Nov (decoy-pricing lassi Reel, 160K, 69.7x, 12 Nov) |
+| @compoundlab.in | animated Hindi business case studies, 208 followers | outlier 15 Nov (gym retention Reel, 85.9K, 335x, 11 Nov) |
+| @aiwith.om | Hinglish AI/business explainers, 25.9K | profile 15 Nov |
 
-## Buyers (2): owner to fill
-No buyer handle could be verified this week, so these two slots stay empty rather than guessed. Fill them with 2 hotel or restaurant owners you know personally (you can see their profiles in the app). Comment for weeks before any DM, and never pitch in a comment.
-Not re-verified, so not in the round: @injarestaurant and @thepetpoojafamily (search 25 Oct only; nothing found this week). Check them in the app before using them.
+## Buyers (2): never pitch, comment for weeks first
+| handle | who | verified |
+|---|---|---|
+| @labibs_india | LABIB's: shawarma/rolls restaurant brand since 2014, franchising, 1.4K followers | profile 15 Nov (Reel on the work behind a restaurant, 185.8K, 74x, 10 Nov). Rizstay/Velocity fit |
+| @desitouch.vlogs | founder building a healthy-food brand, 4.6K followers | profile 15 Nov (packing-material sourcing vlog, 265K, 38.4x, 11 Nov). Velocity/HR4U fit later |
 
 ## Dropped this week
-- **@riyaazamlani: wrong account.** The public index shows @riyaazamlani as a Turkish lyricist, not the restaurateur Riyaaz Amlani. It was added on 25 Oct from a web search; take it off any list. His real handle is unknown, so don't guess one.
-- @restaurant.india, @hospitalitybiz, @marketmyhotel.in: added on 25 Oct from search, and nothing confirmed them this week. Swapped for accounts the laptop actually opened.
+- @cadeveshthakur.official, @ca.himanigarg, @ganesh.debnath__, @vanturexmedia, @gstify: not re-verified this run (last checked 28 Oct-8 Nov); swapped for accounts verified today. They can come back after a fresh check.
+- @riyaazamlani stays off (wrong person, 8 Nov).
 
-## Comment drafts, 8 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+## Comment drafts, 15 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
+1. @dukaandidi (cafe laptop Reel): Every cafe owner has met this customer. Most just suffer quietly instead of fixing the rule.
+2. @chintunomics (any story): What I like is the bad idea looks bad for 30 seconds first. That's how it feels when you're the owner.
+3. @fewshot.studio (any explainer): The analogy did the work here. I'll remember this one longer than any definition.
+4. @ca.kushalgarg (tax-saving Reel): Small hotels miss this most at month end, when the bills are in a drawer and the CA is waiting.
+5. @canitinsharmaa (GST notice Reel): Half the panic goes away when the purchase bills are already sorted month by month.
+6. @contentkahuna (lassi Reel): The middle option doing all the selling is so true. Every menu has one, most owners just don't know it.
+7. @compoundlab.in (gym Reel): Discounts bring people in once. Someone remembering your name brings them back. Same in restaurants.
+8. @aiwith.om (AI tool Reel): Which of these would you trust with customer calls? That's where small businesses get nervous.
+9. @labibs_india (hard-work Reel): People see the counter, not the 6 AM prep. Respect.
+10. @desitouch.vlogs (packing vlog): Saving this. Packing cost is the line nobody budgets for when they start.
+
+## Older drafts (8 Nov)
 1. @ca.kushalgarg (any GST deadline Reel), type 2 missing case: The part small hotels miss is the supplier side. If the vendor files late, the credit isn't in 2B and you chase it for months.
 2. @cadeveshthakur.official (GSTR-9 list), type 5 real question: For a hotel with a restaurant, which point trips people up more in GSTR-9, the room slab or the food rate?
 3. @ca.himanigarg (GST update), type 4 extend one line: The date matters less than the habit. Owners who match bills every month never panic in November.

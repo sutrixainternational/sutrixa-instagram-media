@@ -1,18 +1,16 @@
-# Week plan · 26 Oct – 1 Nov 2026 · @sutrixainternational
-Rewritten by the weekly review (25 Oct) from the audit in docs/growth.md. Replaces the earlier week-2 draft.
-The daily cloud run posts one main Reel (15-20s) and one Trial Reel (9-12s, different formula) every day at 6:47 PM IST, taking clips in order from docs/clip_topics.md. Rizstay gets 2 of every 5 days; Velocity stays off until the owner confirms it is live.
+# Week plan · 16 – 22 Nov 2026 · @sutrixainternational
+Rewritten by the weekly review (15 Nov) from docs/growth.md 15 Nov. Clips, lines and facts per day: docs/clip_topics.md. Hooks: docs/rules.md 15 Nov. One Reel a day at 6:47 PM IST; the carousel and Stories are posted by the owner from the phone.
 
-MON 26  REEL   TEACH    Rizstay  #2  "Stop adding room and restaurant GST by hand at 11 PM."    (rizstay_gst_bill)
-TUE 27  REEL   OFFER    Voxa         missed call in lunch rush                                (voxa_lunch_rush_missed_call)
-        CAROUSEL (owner posts, 8:30am) "Stop adding GST by hand." branch c/2026-10-25
-WED 28  REEL   TEACH    HR4U         month-end payroll out of Excel                           (hr4u_payroll_excel, reuse new angle)
-THU 29  REEL   TEACH    Rizstay  #2  "Stop writing KOTs by hand. 1 lost slip is 1 angry table." (rizstay_kot_lost_slip)
-FRI 30  REEL   TEACH    Voxa         clinic phone ringing after hours                         (voxa_clinic_after_hours)
-SAT 31  REEL   OPINION  Rizstay  #20 "Your 20-room hotel doesn't need an enterprise system."  (rizstay_small_hotel_big_system)
-SUN 1   REEL   TEACH    HR4U         leave requests buried in WhatsApp                        (hr4u_leave_whatsapp)
-Rotation check: Rizstay 3 of 7, never more than 2 in any 5 days (owner rule).
+SUN 16  REEL      STORY      HR4U      EN  Bablu ka Hotel EP6, new joiner papers        (hr4u_onboarding_docs; needs the Kaka "checks" clip)
+MON 17  REEL      CASESTUDY  Rizstay   HI  "Das table, ek waiter..." table QR, faster turns (rizstay_kitchen_orders)
+        CAROUSEL  TEACH      (owner, any time Mon) "Where did your paneer go?" branch c/2026-11-15
+TUE 18  REEL      POV        Voxa      EN  "40 calls. Same 3 questions."                (voxa_setup_leads)
+WED 19  REEL      COUNTER    HR4U      HI  "3rd cook gone this year." training + promotions (hr4u_training_promotions)
+THU 20  REEL      CASESTUDY  Velocity  EN  "Searched you. Booked them."                 (velocity_website_leads)
+FRI 21  REEL      STAGES     Rizstay   HI  complimentary stay + blocked room at 11 PM    (rizstay_billing_late_night)
+SAT 22  REEL      STORY      by no_repeat EN  Bablu ka Hotel EP7 (plan on 19 Nov)
 
-Hook gate: every on-screen hook >= 75 on hookscore.py. Log the score in docs/posted.md.
-PROOF slot: EMPTY until the owner gives one real result (a client, a number, a before/after).
-STORIES: daily, 3-5 frames, owner posts. Wed poll: "Missed a customer call this week?" Yes / Every day.
-ENGAGE: 20 min a day on the 10 accounts in docs/engage.md, before posting. Owner posts the comments.
+STORIES  every day, 3-5 frames from tools/story.py; question sticker on Wed; a "this week's Reels" story on Sun.
+ENGAGE   20 min a day before posting, 10 accounts in docs/engage.md (5 reach / 3 peers / 2 buyers), drafts there.
+Rotation check: no preset twice in 3 days; story 2, casestudy 2 this week; EN/HI alternate; Rizstay 2 of 7.
+The hour matters far less than the first second. The thing that cost the most this week was days with no Reel at all.
