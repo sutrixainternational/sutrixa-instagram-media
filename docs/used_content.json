@@ -341,6 +341,38 @@
     "Aur report date se filter karke Excel mein nikaal lo.",
     "Ab har gram paneer ka hisaab mere phone pe! Agla episode kal..."
    ]
+  },
+  {
+   "date": "2026-11-15",
+   "url": "https://www.instagram.com/reel/DfwiDjID4zu/",
+   "story": "Bablu ka Hotel (English) EP6: the new chef joins Monday and his papers are lost in a pile at the front desk; Sunil the new chef asks if anyone got the ID and certificates he sent; Kaka says HR4U shows every new joiner's stage (pending documents, background check, cleared, active) and a failed check keeps its reason; Priya says the appointment letter is already in his inbox and he tapped acknowledge; Bablu has the chef cleared and active on HR4U",
+   "hook": "New chef Monday. His papers? *Somewhere in here.*",
+   "clips_src": [
+    "2026-11-12_dlg_en_ep6_bablu_papers.mp4",
+    "2026-11-13_dlg_en_ep6_sunil_firstday.mp4",
+    "2026-11-12_dlg_en_ep6_kaka_onboarding.mp4",
+    "2026-11-13_dlg_en_ep6_kaka_checks.mp4",
+    "2026-11-12_dlg_en_ep6_priya_letter.mp4",
+    "2026-11-12_dlg_en_ep6_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "hr4u_onboarding_stages",
+    "hr4u_check_fail_reason",
+    "hr4u_appointment_letter_inbox"
+   ],
+   "lang": "en",
+   "topic": "hr4u_onboarding_docs",
+   "lines": [
+    "Our new chef joins on Monday... and his papers are somewhere in this pile!",
+    "Sir, I sent my ID and my certificates last week. Did anyone get them?",
+    "Beta, HR4U shows every new joiner:",
+    "pending documents, background check, cleared, active.",
+    "And if a check fails,",
+    "the reason is written right there. No guessing, beta.",
+    "Sir, his appointment letter is already in his inbox.",
+    "He tapped acknowledge.",
+    "Papers checked, chef cleared and active... all on HR4U! Follow for the next episode!"
+   ]
   }
  ]
 }
