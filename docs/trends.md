@@ -227,3 +227,50 @@ Signature moves: (1) **niche pill under the hook** ("Hotel owners, this one's fo
 - Fits Sutrixa: (1) **step/rule tracker on one persistent canvas with faceless cartoon presenters** led the strongest on-niche Reel for the 2nd scan day running (12 Nov: the.ai.mates 5.8K shares, fiza 387; 13 Nov: cyberbhaiyadidi 4,164 shares on 2,720 likes); it is our Bablu/Kaka + shots/ setup. (2) **"<thing> explained" with an everyday analogy** (eli5 grammar) shares well when it is timely; ours must stay on products.md facts (GST split, KOT, missed calls), not news. (3) Keyword CTAs drive comments on every face Reel (nick_saraev 5,721), but ours stay paused (0 comments on 5 tries, 8 Nov review); use the SOURCE line and a save line instead.
 - Use today (next Reel): add a **niche pill under the hook** ("Hotel owners, this one's for you") and keep **one persistent canvas with a "STEP n/N" tab row** on screen beats; put a tiny **"Source: <product site>"** line under each fact.
 - Presets: **added `stepper` (weight 2)** to docs/presets.md: the step-tracker grammar has now shown with strong share numbers on 2 scan days in a row (12 + 13 Nov) and fits faceless + real screens. 3 matching topics added to docs/clip_topics.md (hooks scored 80.4-84.4).
+
+## 2026-11-15
+Sources (laptop browser pane, read-only, ~31 page loads incl. the profile checks, no rate limit or challenge; the pane dropped once mid-scan and reconnected): Reels feed (1 load, ~45 Reels stepped with Down, then the on-page next arrow when Down lost focus; counts read from the feed: likes / comments / reposts / shares), Explore (1 load: only 1 recent tile, nick_saraev 11 Nov, already logged 13 Nov), keyword search "restaurant business" (3 posts, all older than Sept: web keyword search still broken, 8th scan running; "payroll" and "marketing for local business" not tried to save loads), 21 posts read at /p/<code>/ for og:description. Durations from the video element where it could be tied to the Reel. Most of today's feed was cricket, Jagadhatri Puja and memes; only 6 on-niche Reels were from the last 14 days, so 4 older ones are listed and marked.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| mayankshah_ai (14 Nov) | 2,106 | 637 | 1,833 | 160s | "Your app works. That doesn't mean it's safe." | Correction | talking head + "report cover" headline card at frame 0 + top-third B-roll panel, Hinglish (face) |
+| potatomarketing.in (14 Nov) | 865 | 30 | 910 | n/r | "Instagram Algorithm 2027" | Bold Claim (prediction) | algorithm explainer, shares > likes |
+| stillwise.in (7 Nov) | 369 | 34 | n/s | 100s | "More than half their COD orders were coming back. Now it's under 10%." | Bold Claim + Curiosity Gap (before/after number) | faceless 3D animated client case study, object as the character, 3 fixes, keyword RTO, Hinglish |
+| simranmarwah.me × soshal.ai (13 Nov, collab) | 240 | 12 | 182 | n/r | "Hiring a social media agency doesn't automatically mean more sales." | Correction | collab post, talking head + list (face) |
+| canwebuildthis (Nov, n/r) | 246 | 14 | 37 | n/r | "explain it like i'm five, part 8: what's prompt injection?" | Curiosity Gap | numbered eli5 series, English |
+| kajaltechsolutions (14 Nov) | 37 | 2 | 41 | n/r | "200 views on your reel, 2 million on your competitor's?" | Relatable Pain | AI-made content (labelled), Reels-strategy tip |
+| batubuildsfunnels (n/r) | 2,539 | 812 | 1,952 | n/r | "How Alex Hormozi makes 150 to 750 ads from one filming session" | Curiosity Gap | process breakdown + keyword |
+| zenushkascut (n/r) | 1,434 | 950 | 1,696 | n/r | "Comment REDDIT for the playbook." | Bold Claim + keyword | keyword giveaway |
+| ai.zygis (24 Oct, older) | 3,022 | 3,671 | 4,141 | n/r | "Did you know that Claude can have its own WhatsApp number!" | Curiosity Gap | AI tool demo + keyword |
+| byerror.media (23 Oct, older) | 658 | 19 | 2,051 | n/r | "Stop hiring 7 people to grow 1 brand." | Correction | agency pitch, list of roles |
+Skipped: thebharatinc (21 Oct business history, 25.2K shares, older), reethu_brand_studio (Amul logo redesign: someone else's brand), indoorplaymom (Outlook meme), just_sfurti (23 Oct), elevenlabs (ad), cricket, puja and wedding Reels, varunmayyareels, canwebuildthis skit.
+
+### Beat sheet 1: mayankshah_ai "vibe-coded app risk" (160s, Hinglish; 1,833 shares = 0.87x likes, 637 comments)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | talking head, warm room; a white "article/report" card fills the top third: small brand masthead, then a 3-line bold headline "<Topic> Risk Report — Week of <date>: Is Your <thing> Safe?" | the report headline is the hook text; nothing else | white sentence-case word captions low-centre ("Bhai agar tum") | card already on at frame 0, no motion | VO, original audio |
+| proof | 3-30s | top third becomes a B-roll panel (grid of app icons / dark code-tile wall with a red outline drawing over it); face stays in the lower two-thirds | | 2-3 word captions | the red outline draws itself over the panel | same |
+| body | 30-160s | same split, panel changes per point | | same | panel swaps on each new point | same |
+Signature moves (render_reel3-reproducible, faceless):
+1. **"Report cover" hook card**: a dated, masthead-style headline ("GST CHECK · WEEK OF 16 NOV: Is your hotel bill right?") on frame 0. It reads as news + a check, not an ad. Ours sits over a `split` beat with Bablu below instead of a face.
+2. **Top-third proof panel** that swaps per point while the speaker stays fixed below (`split`: shots/ capture on top, Bablu/Kaka clip below).
+3. **Self-drawing red outline** circling the one thing on the screen capture that matters (a GST line, a missed-call count).
+
+### Beat sheet 2: stillwise.in "COD returns case study" (100s, faceless 3D, Hinglish; on-niche, a client story with real numbers)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | 3D road, a cardboard parcel with sunglasses as the "character" | delivery-app notification card top "✓ Reached Patna hub" + green road sign "Patna hub · 0 km" | none on frame 0 | parcel rolls forward | VO |
+| problem | 3-20s | same road, sign flips to "INDORE" | the notification card turns into a red "RETURNED to origin" stamp; caption "Shuru se..." | white bold words, low centre | stamp slams in, slight shake | VO |
+| cost | 20-40s | warehouse shelves full of returned boxes with red tags | ghosted big text "2 wapas..." | | slow push-in | VO |
+| why | 40-60s | front door, 3D | 3 chat bubbles pop one by one: "Maine order kiya tha?", "Abhi paise nahi hain, bhaiya", "Kal aana!" | | bubbles pop in sequence | VO |
+| fix | 60-85s | dark card, typed lock label "🔒 Decision: …" + a phone mockup of the checkout screen (pay online vs COD, "Pay advance & place order") | | | typewriter text, phone slides up | VO |
+| CTA | 85-100s | wooden desk, a paper SOP sheet | yellow "Comment "RTO" ↓" tag + a mock comment box with "RTO" typed | | sheet drops in | VO |
+Signature moves:
+1. **A business object as the character** (their parcel; for us a hotel bill, a KOT slip, a ringing phone) carried through every beat: the casestudy preset with no faces at all.
+2. **Notification card → red stamp** to show the problem in one frame ("Booking received" → "NO-SHOW"; "Missed call" × 6).
+3. **Chat bubbles that pop one by one** for the customer's excuses or questions (cheap to render as `card` overlays).
+4. **Phone mockup of the real screen** for the fix beat (our `screen` beat in a phone frame: Rizstay bill, Voxa call log).
+
+- Fits Sutrixa: (1) **the animated business case study** (named business, a real number before/after, 3 fixes, object or cartoon as the character) showed again in the live feed (stillwise, 7 Nov) after the 15 Nov weekly review's vidIQ outlier search: it is already our **casestudy** preset (weight 4), so no new preset; today adds the notification-stamp and chat-bubble moves to it. Ours must use only products.md facts and no invented client numbers. (2) **Correction hooks with a dated "report" card** (mayankshah, byerror) earn shares on English/Hinglish business accounts; it is a face Reel, but the card and the top-third proof panel work over Bablu. (3) Keyword CTAs still drive the comments (ai.zygis 3,671, zenushkascut 950, batubuilds 812), but ours stay paused (0 comments on 5 tries, 8 Nov review). Skipped the "Instagram algorithm 2027" news (no product claim behind it).
+- Use today (next Reel): open with a **dated "report cover" card on frame 0** over a `split` beat (e.g. "GST CHECK · WEEK OF 16 NOV"), and show the problem as a **notification card that turns into a red stamp** before the real Rizstay/Voxa screen in a phone frame.
+- Presets: **no new preset.** The case-study format is already `casestudy`; the report-cover hook has 1 day of evidence. Re-check the report-cover card on the next scan; if it shows again, add it as a hook option to `casestudy`/`counter`, not a new preset.
