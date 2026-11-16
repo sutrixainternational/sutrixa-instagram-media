@@ -274,3 +274,43 @@ Signature moves:
 - Fits Sutrixa: (1) **the animated business case study** (named business, a real number before/after, 3 fixes, object or cartoon as the character) showed again in the live feed (stillwise, 7 Nov) after the 15 Nov weekly review's vidIQ outlier search: it is already our **casestudy** preset (weight 4), so no new preset; today adds the notification-stamp and chat-bubble moves to it. Ours must use only products.md facts and no invented client numbers. (2) **Correction hooks with a dated "report" card** (mayankshah, byerror) earn shares on English/Hinglish business accounts; it is a face Reel, but the card and the top-third proof panel work over Bablu. (3) Keyword CTAs still drive the comments (ai.zygis 3,671, zenushkascut 950, batubuilds 812), but ours stay paused (0 comments on 5 tries, 8 Nov review). Skipped the "Instagram algorithm 2027" news (no product claim behind it).
 - Use today (next Reel): open with a **dated "report cover" card on frame 0** over a `split` beat (e.g. "GST CHECK · WEEK OF 16 NOV"), and show the problem as a **notification card that turns into a red stamp** before the real Rizstay/Voxa screen in a phone frame.
 - Presets: **no new preset.** The case-study format is already `casestudy`; the report-cover hook has 1 day of evidence. Re-check the report-cover card on the next scan; if it shows again, add it as a hook option to `casestudy`/`counter`, not a new preset.
+
+## 2026-11-16
+Sources (laptop browser pane, read-only, ~27 page loads incl. the profile checks, no rate limit or challenge; pane hidden, so Down and the next-Reel arrow did not advance the feed and screenshots often timed out): Reels feed (1 load: the 12 Reels the page pre-loaded, counts read from the feed: likes / comments / reposts / shares), Explore (1 load: 3 tiles), keyword search "hotel business" (3 posts, all Aug-Oct: web keyword search still broken, 9th scan running; "payroll" and "marketing for local business" not tried to save loads), 3 author /reels/ grids to find shortcodes, 4 posts read at /p/<code>/ for og:description. Durations from the video element. A thin day: only 5 on-niche Reels from the last 14 days.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| mister.a1b (15 Nov, 14.3K followers, 172K views) | 6,558 | 78 | 7.6K | 132s | "Vibe coding ❌ Vibe Marketing ✅ / $2 Million raised by Vibe Marketing" | Correction + Bold Claim (₹/$ number) | founder story: letterboxed 16:9 podcast clip in a black 9:16 frame under a persistent 2-line headline, English/Hinglish (face in the clip) |
+| deepsoch.dev × tirthpatel00 (n/r) | 59.4K | 1,063 | 20K | n/r | "we are launching our data center" | Bold Claim (news) | AI infra launch (skip: news, no Sutrixa claim behind it) |
+| damini.creator (n/r, 825K followers) | 889 | 1,149 | 870 | n/r | "This AI Tool Is INSANE" | Bold Claim | AI tool demo + lead-gen, labelled AI content (weak vs account size) |
+| socialwithphilip (9 Nov, Explore) | 502 | 366 | n/s | n/r | "Comment CLAUDE and I'll send you all 60 prompts" | Bold Claim + keyword | content-planning prompts, keyword giveaway (face) |
+| namansoni.ai (≈13 Nov, 83.6K followers) | 267 | 91 | 456 | n/r | "5 Claude Code plugins you need to know about" | Curiosity Gap (numbered) | countdown/tips list, "send this to my DMs" CTA (shares 1.7x likes) |
+| digizan_hunt (15 Nov) | 41 | 41 | 25 | 62s | "90% log…" (Meta ads audience) | Correction (stat) | faceless explainer: isotype people-grid + real Ads Manager screen in a browser frame under a segmented step bar, keyword AUDIENCE, Hinglish |
+Skipped: shaz.mcomedy (10 Nov, 147K, meme), wealth (3.7M, motivation), artbox_social (office skit), whatsupwithria (complaint against a named sweet shop: a post about people/a business), deepbiswasvlogs (puja trip), gallabox and druto.in (ads).
+
+### Beat sheet 1: mister.a1b "vibe marketing founders" (132s; 7.6K shares > 6.6K likes on a 14.3K account, 12x followers in views)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | black 9:16 frame; a 16:9 clip sits in the middle third (3 founders at a podcast table) | 2-line headline in the top black band, on at frame 0 and never leaves: "X ❌ Y ✅" line, then a number line with the key words in yellow | none burned in | none: the headline holds still | clip's own speech, original audio |
+| story | 3-120s | the same letterbox; the clip cuts between speakers / a man telling the story on a terrace at night | same headline, unchanged | none | only the clip moves; cuts every ~5-10s inside the 16:9 window | speech |
+| end | 120-132s | same | same | | | caption "They are genius" + 5 story hashtags, no CTA |
+Signature moves (render_reel3-reproducible with our own Veo clips):
+1. **Letterboxed clip under a fixed headline**: put a 16:9 Veo/Gemini clip in the middle third of a black 1080x1920 frame; the top band carries the hook for the whole Reel. The headline does the work, the clip just has to be watchable.
+2. **"Old way ❌ New way ✅" line + a number line** with the key words in yellow: for us "Paper register ❌ One screen ✅ / GST bill in 1 screen" (products.md facts only; no invented money numbers).
+3. **No captions, no CTA, a 3-word caption**: it relies on the story and a share-worthy headline. We keep our save line in the caption (rules.md), but can drop the on-screen CTA on story beats.
+
+### Beat sheet 2: digizan_hunt "Meta ads audience" (62s, faceless, Hinglish; small account, on-niche explainer for local businesses)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-2s | cream paper canvas with faint line-drawn scenery at the bottom | segmented step bar at the very top (one segment lit); small grey kicker, then a huge condensed blue word ("1%") | none | screen card already on | VO, original audio |
+| proof | 2-25s | a real Ads Manager screen inside a browser-window frame (traffic lights) centred on the canvas | kicker + big blue word changes per beat ("pro…") | | cursor moves to the button; step bar advances | VO |
+| stat | 40-60s | isotype grid: 5 rows × 10 people icons, some filled blue, the rest grey | kicker "200 random leads", big blue "page likers" | | icons fill/grey out to show the share of people | VO |
+| CTA | end | | | keyword AUDIENCE in the caption | | |
+Signature moves:
+1. **Isotype people grid** (filled vs grey icons) to show a share at a glance: for us "of every 10 calls, the ones nobody picks up" only once Voxa has a real number; until then use it for counts we can state (e.g. 12 icons = 12 Indian languages, products.md).
+2. **Big single word in the accent colour** under a small grey kicker, swapped per beat: the same family as our *word* markup.
+3. **Real screen in a browser-window frame + segmented step bar**: the step-tracker grammar for the 3rd scan day (12, 13, 16 Nov); already our `stepper` preset.
+
+- Fits Sutrixa: (1) **the letterboxed clip under a fixed "❌/✅" headline** is the cheapest way to turn one Veo dialogue clip into a long, shareable Reel: no screen-text per beat, the top band carries the hook (mister.a1b: shares > likes, 12x followers in views). It is 1 day of evidence. (2) **Faceless explainers on a paper canvas with a step bar and real screens** showed again (digizan_hunt), so `stepper` stays right for screen-heavy product Reels. (3) "Send this to my DMs" and keyword CTAs keep driving shares/comments elsewhere (namansoni 456 shares on 267 likes); ours stay paused per the 8 Nov review, keep the share line in the caption.
+- Use today (next Reel): render the speaking hook clip **letterboxed in the middle third under a fixed 2-line headline** ("Paper register ❌ One screen ✅" style, key words yellow) that stays on for the whole clip beat, then cut to the `stepper` screens.
+- Presets: **no new preset.** The letterbox-headline format has 1 day of evidence (re-check next scan; if it shows again, add **letterbox** = `clip` letterboxed under a persistent headline → `screen` × 2 → `card`, weight 2). The step-bar grammar (3rd day) is already `stepper`. The report-cover card from 15 Nov did not show again today.
