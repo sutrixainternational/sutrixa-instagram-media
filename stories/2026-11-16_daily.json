@@ -1,0 +1,9 @@
+{
+"frames": [
+{"name": "d1_open", "kicker": "BABLU'S HOTEL · EP 6", "headline": "New chef. Lost papers. *Fixed in one card.*", "bullets": ["EP 6 is on the profile", "Sunil, Kaka, and the real HR4U onboarding screen"], "image": "shots/hr4u_onboarding.png", "size": 72},
+{"name": "d2_quiz", "kicker": "QUICK QUIZ", "headline": "Guest sits down. How long till the *order* is taken?", "bullets": ["A: Under 2 minutes", "B: 2 to 5 minutes", "C: More than 5 minutes", "No sticker? Reply A, B or C"], "size": 70},
+{"name": "d3_fact", "kicker": "ONE THING TO KNOW", "headline": "Faster order, *faster free table*", "bullets": ["Every minute a guest waits to order is a minute the table can't turn", "A QR on the table lets the guest open the menu and order"], "size": 72},
+{"name": "d4_ask", "kicker": "YOUR TURN", "headline": "Who takes orders in your restaurant at *peak hour?*", "bullets": ["Reply: waiter, owner, or 'whoever is free'", "Honest answers only"], "size": 74},
+{"name": "d5_close", "kicker": "NEXT · EP 7 (HINDI)", "headline": "10 tables. 1 waiter. *Ramu waits.*", "bullets": ["Coming next on the profile", "Follow so you see it first"], "foot": "@sutrixainternational", "size": 78}
+]
+}

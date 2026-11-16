@@ -115,3 +115,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @gstify (weekly update): Anything in this week's changes for a restaurant on the 5% rate?
 9. @fewshot.studio (Hinglish explainer): Example se sab samajh aa gaya. Ab yaad bhi rahega.
 10. @aiwith.om (Hinglish AI Reel): Naye staff ko pehle din hi tool pe laao, baad mein aadat nahi badalti.
+
+## Comment drafts, 16 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch.
+1. @dukaandidi (business case study): The real loss in most restaurants isn't the food. It's the 10 minutes a table sits waiting to order.
+2. @chintunomics (business story): Every one of these stories has a moment where the owner was too busy working to see the leak. That's the best part.
+3. @fewshot.studio (Hinglish explainer): Example pehle, theory baad mein. Isi liye yaad reh jaata hai.
+4. @ca.kushalgarg (tax Reel): For a small restaurant, which mistake shows up first in a notice: purchase bills or sales entries?
+5. @canitinsharmaa (GST notices): Saving this. Most small owners only open the portal after the notice, never before.
+6. @contentkahuna (animated business lesson): The pricing trick works because nobody does the maths at the counter. Great pick.
+7. @compoundlab.in (case study): Retention stories are underrated. Getting a customer back is cheaper than getting a new one, every single time.
+8. @aiwith.om (AI for business): Tool tabhi chalega jab waiter ko ek tap se zyada na lage. Rush hour mein koi manual nahi padhta.
+9. @dukaandidi (Hindi case study): Peak hour mein ek waiter kam ho toh poori shaam ki kamaai pe asar padta hai. Yeh part sabko samajhna chahiye.
+10. @chintunomics (Hindi story): Chintu ka next step kya hoga? Part 2 ka intezaar hai.

@@ -576,3 +576,32 @@ Counted last-10 median (excl. the 4 Nov repeat): **152.5** views (66, 84, 99, 11
 **Reach actions**
 - Owner: pin EP5 (best Reel) on the profile tonight; send it to 3-5 owners.
 - Stories today replay EP5's number and tease EP6 (quiz on what to check first for a new hire).
+
+## 2026-11-16 run (6:47 PM) · post-mortem of: EP 6 (DfwiDjID4zu, 15 Nov ~15:40 IST, HR4U, ENGLISH) at ~27h. No Reel posted by this run (EP7 short 2 clips after the repeat gate, see below)
+vidIQ owner insights OK (0 credits). Followers **32** (flat since 7 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP6 HR4U EN (15 Nov)** | **173** | **6.9s / 17.2%** | **62.4%** | 2 / 0 / 1 / 0 |
+| EP5 Rizstay HI (12 Nov) | 1,355 | 14.0s / 35.1% | 30.1% | 23 / 0 / 1 / 2 |
+| EP4 Velocity EN (8 Nov) | 253 | 9.4s / 23.4% | 45.6% | 5 / 0 / 1 / 1 |
+
+Last-10 median (excl. 4 Nov repeat): **173** (66, 84, 119, 135, 173, 173, 186, 214, 253, 1,355). EP6 = **1.0x**: back to baseline after EP5's 8.8x.
+
+**What went wrong (EP6)**
+- Skip doubled vs EP5 (62.4% vs 30.1%). EP6 opened on a statement ("Our new chef joins on Monday... and his papers are somewhere in this pile!") with a pile of papers, not a question with a loss in it. EP5 and EP4 opened on a spoken question ("paneer gaya kahaan?!", "So why are we empty?").
+- Topic: staff paperwork is an office problem; EP5's spoiled paneer is a loss every kitchen sees. HR is the weakest subject so far (EP3 haazri 173 views, EP6 173).
+- 0 comments again (14th Reel in a row); the end question did not pull a single comment. 0 follows from 173 views.
+- Posted ~15:40 IST (main session), earlier than the usual 18:45-20:00 window; can't separate the time from the hook with n=1.
+
+**Changes for the next Reel (EP7, HINDI, rizstay_kitchen_orders)**
+1. Open on a spoken complaint with a number in it inside 0.5s (Bablu: "Das table, ek waiter... order likhne mein hi das minute!"), visible chaos (full restaurant).
+2. Kitchen/table problems over office problems: QR ordering, empty pass, waiting guests.
+3. Keep: follow reason in the beat-1 label, named-person send ask in beat 2 (< 8s), real Rizstay screens under spoken lines, end question for comments.
+4. Post in the evening window (hourly retries 18:47-23:47 IST).
+
+**Result today: NO REEL by this run (owner rule step 4: no weaker Reel).** EP7 has 6 Hindi clips in Drive, but `tools/no_repeat.py check` refused 2 spoken lines: "order seedha kitchen screen pe aata hai." and "seedha kitchen mein!" are 71% like EP1's "order seedha kitchen jaaye," (30 Oct). Those were the only lines that matched a real product screen (shots/rz_restaurant.jpg Live Orders). Without them the Reel has 0 screen beats and ~36 s. Priya's "New, preparing, ready" half also repeats a 7 Nov fact (rz_live_orders_realtime). Two replacement clips are queued in docs/clip_topics.md; draft spec stories/specs/2026-11-16_ep7_rizstay_qr_hi.draft.json. Owner notified once.
+
+**Reach actions**
+- Owner: EP5 is still the best Reel: pin it if not pinned. Send EP6 to 3-5 people who hire staff (list in pack).
+- Stories today: replay EP6's stage card, tease EP7 (Hindi), quiz on order waiting time.

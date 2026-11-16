@@ -14,6 +14,12 @@ Standing lessons (still binding):
 - If Google shows an "unusual traffic" check, never solve it; stop and retry later.
 - **No repeats** (owner rule 4 Nov): no clip, line, hook, story angle or fact used in the last 21 days. Facts below are picked from products.md lines not yet taught; `tools/no_repeat.py check` decides on the day.
 
+## URGENT FIRST (16 Nov, daily run): 2 replacement HINDI clips for EP7, before anything else
+no_repeat refused EP7's two kitchen lines (71% like EP1 30 Oct "order seedha kitchen jaaye"). Make these two, Portrait (9:16), Hindi, one speaker, 8-10s, line starting inside ~1s. Both lines pass no_repeat (checked 16 Nov: 42%, 43%). Draft spec: stories/specs/2026-11-16_ep7_rizstay_qr_hi.draft.json.
+1. `YYYY-MM-DD_dlg_hi_ep7_priya_menu.mp4`: PRIYA (neat bun, maroon blazer) at a busy restaurant table, holding a small table stand with a QR code, guests behind her scanning it on their phones; slow push-in. She says in Hindi, with a natural warm voice: "Sir, menu ki saari dishes QR pe hain... guest dekh ke khud chunta hai!" (screen beat: shots/rz_restaurant.jpg, Menu Dishes card)
+2. `YYYY-MM-DD_dlg_hi_ep7_bablu_bestseller.mp4`: BABLU at the cash counter looking at his phone, delighted, turns it slightly toward camera (screen blurred, no readable text); full restaurant behind. He says in Hindi, with a natural warm voice: "Aur kaunsi dish sabse zyada bikti hai... yeh bhi yahin dikhta hai!" (screen beat: shots/rz_restaurant.jpg, Best Selling Dishes)
+Do NOT write any new line with "order seedha kitchen" or "new, preparing, ready" (blocked: EP1 30 Oct line, 7 Nov fact). Pre-check every new line: `python3 -c "import sys;sys.path.insert(0,'tools');import no_repeat as n;l=n.load();print(max(n.sim('LINE',o) for p in l['posts'] for o in p.get('lines',[])))"` must be < 0.6.
+
 ## Characters (keep identical every time)
 BABLU: chubby 35-year-old Indian hotel owner, round face, thin moustache, messy black hair, light blue half-sleeve shirt with a pen in the pocket, brown trousers. KAKA: thin 70-year-old tea seller, thick white handlebar moustache, NO beard, NO glasses, grey woollen cap, maroon checked muffler, brown shawl over a cream sweater. PRIYA: 24-year-old receptionist, neat bun, maroon blazer. All three can speak English or Hindi.
 

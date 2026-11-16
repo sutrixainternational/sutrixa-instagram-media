@@ -1,0 +1,178 @@
+{
+ "out": "work/reel_ep7.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "hi",
+ "meta": {
+  "story": "Bablu ka Hotel (Hindi) EP7: ten tables and one waiter, ten minutes just to write the order; Ramu the cook waits at an empty pass because no order has come in; Kaka says the faster the order the faster the table frees up, put a QR on every table; Priya says the full menu is on the QR so guests browse and choose; Bablu sees guests ordering themselves and his best-selling dish on the dashboard; Priya reports three extra tables and no guest waited to order",
+  "hook": "10 table, 1 waiter... *order mein 10 minute!*",
+  "lang": "hi",
+  "topic": "rizstay_kitchen_orders",
+  "clips_src": [
+   "2026-11-15_dlg_hi_ep7_bablu_tables.mp4",
+   "2026-11-15_dlg_hi_ep7_ramu_noorder.mp4",
+   "2026-11-15_dlg_hi_ep7_kaka_qr.mp4",
+   "2026-11-15_dlg_hi_ep7_bablu_payoff.mp4",
+   "2026-11-16_dlg_hi_ep7_priya_tables.mp4",
+   "2026-11-1X_dlg_hi_ep7_priya_menu.mp4 (TODO)",
+   "2026-11-1X_dlg_hi_ep7_bablu_bestseller.mp4 (TODO)"
+  ],
+  "facts": [
+   "rz_table_qr_guest_self_order",
+   "rz_qr_full_menu_browse",
+   "rz_best_sellers_by_quantity",
+   "gen_faster_order_faster_table_turn"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep7/tables.mp4",
+   "vstart": 0.9,
+   "dur": 6.4,
+   "clip_voice": true,
+   "speech": [
+    0.4,
+    3.5
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 7 · NEW EPISODES, FOLLOW",
+   "say": "Das table, ek waiter... order likhne mein hi das minute!",
+   "headline": "10 table, 1 waiter... *order mein 10 minute!*"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/ramu.mp4",
+   "vstart": 3.5,
+   "dur": 5.0,
+   "clip_voice": true,
+   "speech": [
+    1.4,
+    4.15
+   ],
+   "punch": false,
+   "label": "SEND THIS TO WHOEVER RUNS YOUR RESTAURANT",
+   "say": "Saab, order aaya hi nahi toh banaun kya?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/kaka.mp4",
+   "vstart": 0.7,
+   "dur": 8.6,
+   "clip_voice": true,
+   "speech": [
+    0.6,
+    7.5
+   ],
+   "punch": false,
+   "label": "1 · FASTER ORDER = FASTER TABLE",
+   "say": "Beta, jitni jaldi order, utni jaldi table khaali. Table pe QR laga do."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/priya_menu.mp4",
+   "vstart": "TODO",
+   "dur": "TODO",
+   "clip_voice": true,
+   "speech": "TODO",
+   "punch": false,
+   "label": "2 · FULL MENU ON THE TABLE QR",
+   "say": "Sir, menu ki saari dishes QR pe hain..."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_restaurant.jpg",
+   "hl": [
+    18,
+    522,
+    192,
+    684
+   ],
+   "tap": true,
+   "audio_src": "work/ep7/priya_menu.mp4",
+   "astart": "TODO",
+   "dur": "TODO",
+   "speech": "TODO",
+   "label": "2 · FULL MENU ON THE TABLE QR",
+   "headline": "Poora menu, *table ke QR pe.*",
+   "hy": 1560,
+   "say": "guest dekh ke khud chunta hai!"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/payoff.mp4",
+   "vstart": 1.0,
+   "dur": 2.65,
+   "clip_voice": true,
+   "speech": [
+    1.2,
+    2.55
+   ],
+   "punch": false,
+   "label": "4 · GUESTS ORDER THEMSELVES",
+   "say": "Guest khud order karta hai,"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/bablu_best.mp4",
+   "vstart": "TODO",
+   "dur": "TODO",
+   "clip_voice": true,
+   "speech": "TODO",
+   "punch": false,
+   "label": "3 · BEST SELLERS, BY QUANTITY",
+   "say": "Aur kaunsi dish sabse zyada bikti hai..."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_restaurant.jpg",
+   "hl": [
+    18,
+    720,
+    384,
+    790
+   ],
+   "tap": true,
+   "audio_src": "work/ep7/bablu_best.mp4",
+   "astart": "TODO",
+   "dur": "TODO",
+   "speech": "TODO",
+   "label": "3 · BEST SELLERS, BY QUANTITY",
+   "headline": "Best seller? *Yahin dikhta hai.*",
+   "hy": 1560,
+   "say": "yeh bhi yahin dikhta hai!"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep7/priya_t.mp4",
+   "vstart": 1.6,
+   "dur": 8.0,
+   "clip_voice": true,
+   "speech": [
+    0.9,
+    6.5
+   ],
+   "punch": false,
+   "label": "EP 8 COMING · FOLLOW",
+   "say": "Sir, aaj teen table zyada lage... aur kisi guest ko order ke liye wait nahi karna pada!"
+  },
+  {
+   "kind": "card",
+   "video": "work/ep7/payoff.mp4",
+   "vstart": 6.0,
+   "dur": 4.0,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep7/payoff.mp4",
+   "astart": 6.0,
+   "label": "SUTRIXA RIZSTAY",
+   "headline": "Aapke yahan order mein *kitne minute?* Comment karo. restaurant.rizstay.com",
+   "say": " "
+  }
+ ],
+ "_todo": "DRAFT 16 Nov: the two kitchen lines (priya_kitchenscreen, payoff 'seedha kitchen mein') were refused by no_repeat (71% like EP1 30 Oct 'order seedha kitchen jaaye'). Make 2 new HI clips (docs/clip_topics.md 16 Nov), set vstart/dur/speech/astart from their audio, fill clips_src names, then render."
+}

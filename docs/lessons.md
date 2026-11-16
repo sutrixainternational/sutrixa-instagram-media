@@ -110,3 +110,8 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - CHECKED: real product screens under a spoken line did not hurt hold (EP5 35% watched, best yet).
 - TRY: views do not turn into follows by themselves (EP5 1,349 views, followers flat at 32). Put the follow reason on screen by ~10s, pin the best Reel.
 - CHECKED: a missing day right after a hit loses the momentum window. Keep one spare clip per episode so a single failed download can't block the Reel.
+
+## 16 Nov run (EP6 at ~27h)
+- PROVEN-ish (EP4, EP5 vs EP6): **a spoken QUESTION/complaint hook beats a statement hook.** EP4 "So why are we empty?" 45.6% skip, EP5 "paneer gaya kahaan?!" 30.1%, EP6 statement "his papers are somewhere in this pile" 62.4%. Next: one more question hook to promote it.
+- TRY: HR/paperwork topics hold worst (EP3 173 views, EP6 173 = 1.0x). Prefer kitchen, table and money-loss stories; HR only with a visible loss.
+- CHECKED: no_repeat compares spoken lines against EVERY earlier Reel, with no time limit. EP1 (30 Oct) "order seedha kitchen jaaye" blocks any "order seedha kitchen..." line forever. Clip prompts must be pre-checked with no_repeat's sim() before the clip is made (16 Nov: 2 EP7 clips were made, then refused).
