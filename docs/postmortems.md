@@ -605,3 +605,5 @@ Last-10 median (excl. 4 Nov repeat): **173** (66, 84, 119, 135, 173, 173, 186, 2
 **Reach actions**
 - Owner: EP5 is still the best Reel: pin it if not pinned. Send EP6 to 3-5 people who hire staff (list in pack).
 - Stories today: replay EP6's stage card, tease EP7 (Hindi), quiz on order waiting time.
+
+**Update 16 Nov 22:00 IST (hourly retry):** EP7 posted (Dfzx4_Wjk1d). Applied: change 1 ✔ (spoken number complaint at 0.4s, full restaurant), 2 ✔ (table/QR problem), real screens ✔ (2), end question ✔, evening window ✔. Changed: beat-2 send chip swapped for the keyword QR chip (CTA alternation, last 3 Reels were send asks); caption still asks a question. Check tomorrow whether the keyword pulls the first comments in 14 Reels.

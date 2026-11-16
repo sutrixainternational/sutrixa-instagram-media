@@ -373,6 +373,36 @@
     "He tapped acknowledge.",
     "Papers checked, chef cleared and active... all on HR4U! Follow for the next episode!"
    ]
+  },
+  {
+   "date": "2026-11-16",
+   "url": "https://www.instagram.com/reel/Dfzx4_Wjk1d/",
+   "story": "Bablu ka Hotel (Hindi) EP7: ten tables and one waiter, ten minutes just to write the order; Ramu the cook waits because no order has come in; Kaka says the faster the order the faster the table frees up, put a QR on every table; Priya shows the full menu is on the table QR so guests browse and choose; Bablu: guests order themselves; Priya reports three extra tables and no guest waited to order",
+   "hook": "10 table, 1 waiter... *order mein 10 minute!*",
+   "clips_src": [
+    "2026-11-15_dlg_hi_ep7_bablu_tables.mp4",
+    "2026-11-15_dlg_hi_ep7_ramu_noorder.mp4",
+    "2026-11-15_dlg_hi_ep7_kaka_qr.mp4",
+    "2026-11-16_dlg_hi_ep7_priya_menu.mp4",
+    "2026-11-15_dlg_hi_ep7_bablu_payoff.mp4",
+    "2026-11-16_dlg_hi_ep7_priya_tables.mp4"
+   ],
+   "facts": [
+    "rz_table_qr_guest_self_order",
+    "rz_qr_full_menu_browse",
+    "gen_faster_order_faster_table_turn"
+   ],
+   "lang": "hi",
+   "topic": "rizstay_kitchen_orders",
+   "lines": [
+    "Das table, ek waiter... order likhne mein hi das minute!",
+    "Saab, order aaya hi nahi toh banaun kya?",
+    "Beta, jitni jaldi order, utni jaldi table khaali. Table pe QR laga do.",
+    "Sir, menu ki saari dishes QR pe hain...",
+    "guest dekh ke khud chunta hai!",
+    "Guest khud order karta hai,",
+    "Sir, aaj teen table zyada lage... aur kisi guest ko order ke liye wait nahi karna pada!"
+   ]
   }
  ]
 }
