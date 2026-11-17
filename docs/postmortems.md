@@ -607,3 +607,34 @@ Last-10 median (excl. 4 Nov repeat): **173** (66, 84, 119, 135, 173, 173, 186, 2
 - Stories today: replay EP6's stage card, tease EP7 (Hindi), quiz on order waiting time.
 
 **Update 16 Nov 22:00 IST (hourly retry):** EP7 posted (Dfzx4_Wjk1d). Applied: change 1 ✔ (spoken number complaint at 0.4s, full restaurant), 2 ✔ (table/QR problem), real screens ✔ (2), end question ✔, evening window ✔. Changed: beat-2 send chip swapped for the keyword QR chip (CTA alternation, last 3 Reels were send asks); caption still asks a question. Check tomorrow whether the keyword pulls the first comments in 14 Reels.
+
+## 2026-11-17 run (6:47 PM, first hourly run) · post-mortem of: EP 7 (Dfzx4_Wjk1d, 16 Nov ~21:55 IST, Rizstay, HINDI) at ~21h
+vidIQ owner insights OK (0 credits). Followers **34** (+2 since 16 Nov, first gain since 7 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP7 Rizstay HI (16 Nov)** | **1,547** | **14.0s / 34.9%** | **35.6%** | 29 / 0 / 4 / 2 |
+| EP6 HR4U EN (15 Nov) | 187 | 6.8s / 16.9% | 62.9% | 2 / 0 / 1 / 0 |
+| EP5 Rizstay HI (12 Nov) | 1,357 | 14.0s / 35.1% | 30.1% | 23 / 0 / 1 / 2 |
+| EP4 Velocity EN (8 Nov) | 254 | 9.5s / 23.7% | 45.4% | 5 / 0 / 1 / 1 |
+
+Last-10 median: **193** (120, 136, 174, 187, 187, 199, 215, 254, 1,357, 1,547). EP7 = **8.0x**, best Reel ever, in under 24h (posted late, 21:55 IST).
+
+**What worked (EP7)**
+- Same recipe as EP5: Hindi, kitchen/table problem, a spoken number complaint at 0.4s over a busy native-portrait scene. Skip 35.6% (EP5 30.1%), watched 34.9% (EP5 35.1%). Two Hindi Rizstay Reels in a row at 7-8x: the pattern is real.
+- Shares 4 (best ever), likes 29 (best ever), +2 followers.
+
+**What went wrong**
+- Keyword QR: **0 comments from 1,547 views** (15th Reel with 0 comments). Keywords fail even past 500 views → the 2 Nov TRY lesson is now confirmed twice (QR 16 Nov + earlier).
+- English Reels stay at baseline (EP4 254, EP6 187) while Hindi Rizstay Reels hit 1,300-1,550. Can't separate language from topic yet (both EN Reels were office topics: social posting, HR papers).
+
+**Changes for TODAY (EP8, ENGLISH, voxa_setup_leads)**
+1. Front-desk loss with numbers, spoken in the first second (Bablu: "Thirty enquiry calls this week... and only two bookings?"), busy hotel lobby, ringing phone: a money problem, not an office problem.
+2. Send ask (CTA alternation after the QR keyword day) as the beat-2 label by ~6s, plus "Share this with whoever answers your hotel phone" in the caption.
+3. Follow reason in the beat-1 label; "EP 9 TOMORROW · FOLLOW" on the payoff.
+4. Real product: voxa.sutrixa.com hero screen twice ("qualify leads", "book appointments") under the spoken lines. shots/vx_launch.jpg is a PRICING card: never use it (no-pricing rule).
+5. Keep 40-45s (42.1s).
+
+**Reach actions**
+- Owner: pin EP7 (best Reel) next to EP5; send EP8 to 3-5 hotel owners/front-desk managers.
+- Tomorrow (HINDI, 18 Nov): needs 3 more HI hr4u clips (only 2 of ~5 in Drive) and HR is the weakest topic; if clips stall, a Hindi Rizstay kitchen topic (rizstay_menu_pricing: best sellers) is the stronger choice once its clips exist.

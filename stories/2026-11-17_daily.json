@@ -1,0 +1,7 @@
+{"frames": [
+{"name": "s1_open", "kicker": "BABLU'S HOTEL · EP 8 · NEW", "headline": "30 enquiry calls. *Only 2 bookings.*", "bullets": ["Where did the other 28 go?", "EP 8 is on the profile"], "size": 76},
+{"name": "s2_content", "kicker": "WHAT PRIYA FOUND", "headline": "Half the callers ask *the same 3 questions.*", "bullets": ["Rates, check-in time, parking", "Every repeat call is a call a real guest can't get through"], "size": 70},
+{"name": "s3_content", "kicker": "KAKA'S FIX", "headline": "Answer the 3 questions *once.*", "bullets": ["Voxa is trained on your FAQs", "It asks each caller what they need", "You talk only to guests ready to book"], "image": "shots/vx_hero.jpg", "size": 66},
+{"name": "s4_ask", "kicker": "QUICK POLL", "headline": "What do callers ask you *most?*", "bullets": ["Room rates / Check-in time / Parking / Food", "Reply to this story with yours"], "size": 72},
+{"name": "s5_close", "kicker": "EP 9 TOMORROW · HINDI", "headline": "Watch EP 8, *send it to your front desk.*", "bullets": ["voxa.sutrixa.com"], "foot": "@sutrixainternational", "size": 70}
+]}

@@ -1,0 +1,14 @@
+Bablu's Hotel, EP 8: 30 hotel enquiry calls, only 2 bookings 📞
+
+Half the callers asked the same three questions, so Priya spent the whole day repeating room rates, check-in time and parking while the guests who actually wanted to book kept hearing a busy tone. Ouch.
+
+Kaka's fix: an AI receptionist for the hotel phone. Here's what changed with Sutrixa Voxa:
+1. Setup took one afternoon: describe the hotel, add your FAQs, connect your number, and it goes live.
+2. It's trained on your own FAQs, so it answers the repeat questions on every call.
+3. It asks each caller what they need and books the serious ones. Bablu now talks only to guests who're ready to book.
+
+voxa.sutrixa.com
+
+Share this with whoever answers your hotel phone. EP 9 tomorrow, follow so you don't miss it.
+
+#hotelowner #smallbusinessindia #aireceptionist #hotelbooking #bablushotel

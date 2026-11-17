@@ -1,0 +1,63 @@
+{
+ "out": "work/reel_ep8.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "en",
+ "meta": {
+  "story": "Bablu's Hotel (English) EP8: thirty enquiry calls in a week and only two bookings; Priya says half the callers ask the same three questions; Kaka says teach the AI phone agent those answers once so it picks up every call and you only talk to real buyers; Priya lists the setup (describe the hotel, add FAQs, connect the number) and it went live the same afternoon; the agent asks each caller what they need and books the serious one; Bablu now only talks to guests ready to book",
+  "hook": "30 enquiry calls. *Only 2 bookings?*",
+  "lang": "en",
+  "topic": "voxa_setup_leads",
+  "clips_src": [
+   "2026-11-16_dlg_en_voxa_bablu_thirtycalls.mp4",
+   "2026-11-16_dlg_en_voxa_priya_fortycalls.mp4",
+   "2026-11-16_dlg_en_voxa_kaka_teach.mp4",
+   "2026-11-16_dlg_en_voxa_priya_setup.mp4",
+   "2026-11-16_dlg_en_voxa_priya_booked.mp4",
+   "2026-11-16_dlg_en_voxa_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "vx_setup_describe_faqs_number_live",
+   "vx_trained_on_your_faqs",
+   "vx_qualifies_leads"
+  ]
+ },
+ "beats": [
+  {"kind": "clip", "video": "work/ep8/bablu_hook.mp4", "vstart": 0.2, "dur": 6.0, "clip_voice": true, "speech": [0.35, 5.5], "punch": false,
+   "label": "BABLU'S HOTEL · EP 8 · NEW EPISODE DAILY, FOLLOW",
+   "say": "Thirty enquiry calls this week... and only two bookings? Where did the rest go?",
+   "headline": "30 enquiry calls. *Only 2 bookings?*"},
+  {"kind": "clip", "video": "work/ep8/priya_forty.mp4", "vstart": 3.9, "dur": 3.0, "clip_voice": true, "speech": [0.25, 2.6], "punch": false,
+   "label": "SEND THIS TO WHOEVER ANSWERS YOUR PHONE",
+   "say": "and half of them asked the same three questions!"},
+  {"kind": "clip", "video": "work/ep8/kaka.mp4", "vstart": 0.7, "dur": 6.5, "clip_voice": true, "speech": [0.3, 6.2], "punch": false,
+   "label": "1 · TRAIN IT ON YOUR FAQs ONCE",
+   "say": "Beta, teach Voxa those three answers once. It picks up every call,"},
+  {"kind": "screen", "image": "shots/vx_hero.jpg", "hl": [22, 328, 146, 358], "tap": true,
+   "audio_src": "work/ep8/kaka.mp4", "astart": 7.25, "dur": 2.5, "speech": [0.3, 2.25],
+   "label": "2 · IT QUALIFIES THE CALLERS",
+   "headline": "You talk to *real buyers.*", "hy": 1560,
+   "say": "and you talk only to real buyers."},
+  {"kind": "clip", "video": "work/ep8/priya_setup.mp4", "vstart": 0.7, "dur": 8.0, "clip_voice": true, "speech": [0.3, 7.7], "punch": false,
+   "label": "3 · DESCRIBE · FAQs · NUMBER · LIVE",
+   "say": "We described our hotel, added our FAQs, connected our number... and Voxa went live the same afternoon!"},
+  {"kind": "clip", "video": "work/ep8/priya_booked.mp4", "vstart": 2.3, "dur": 3.75, "clip_voice": true, "speech": [0.3, 3.4], "punch": false,
+   "label": "4 · IT ASKS WHAT THE CALLER NEEDS",
+   "say": "Sir, Voxa asked every caller what they need..."},
+  {"kind": "screen", "image": "shots/vx_hero.jpg", "hl": [144, 292, 326, 322], "tap": true,
+   "audio_src": "work/ep8/priya_booked.mp4", "astart": 6.15, "dur": 3.3, "speech": [0.25, 3.05],
+   "label": "4 · THE SERIOUS ONE GETS BOOKED",
+   "headline": "Serious caller? *Booked.*", "hy": 1560,
+   "say": "and booked the serious one straight into our calendar!"},
+  {"kind": "clip", "video": "work/ep8/payoff.mp4", "vstart": 0.6, "dur": 5.6, "clip_voice": true, "speech": [0.4, 5.2], "punch": false,
+   "label": "EP 9 TOMORROW · FOLLOW",
+   "say": "Every enquiry call answered... and I only talk to guests ready to book!"},
+  {"kind": "card", "video": "work/ep8/payoff.mp4", "vstart": 6.2, "dur": 3.5, "speech": [0, 0.1],
+   "audio_src": "work/ep8/payoff.mp4", "astart": 6.2,
+   "label": "SUTRIXA VOXA",
+   "headline": "*Send this* to whoever answers your phone. voxa.sutrixa.com",
+   "say": " "}
+ ]
+}

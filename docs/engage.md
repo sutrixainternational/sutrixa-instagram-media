@@ -127,3 +127,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @aiwith.om (AI for business): Tool tabhi chalega jab waiter ko ek tap se zyada na lage. Rush hour mein koi manual nahi padhta.
 9. @dukaandidi (Hindi case study): Peak hour mein ek waiter kam ho toh poori shaam ki kamaai pe asar padta hai. Yeh part sabko samajhna chahiye.
 10. @chintunomics (Hindi story): Chintu ka next step kya hoga? Part 2 ka intezaar hai.
+
+## Comment drafts, 17 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
+1. @dukaandidi (any case study): The fix always looks obvious after the story. The hard part is noticing the leak while you're busy running the counter.
+2. @chintunomics (any story): Chintu losing money for a reason nobody tracks is every small shop I know. The numbers at the end hit hard.
+3. @fewshot.studio (any explainer): Saving this one. The example made it click faster than the definition ever did.
+4. @ca.kushalgarg (tax Reel): Most owners only hear about this in March. Doing it monthly would save so much panic.
+5. @canitinsharmaa (GST Reel): The scary part of a notice is usually just missing paperwork. Sorted bills fix half of it.
+6. @contentkahuna (animated lesson): The 3D style makes a dry business idea easy to watch to the end. What do you animate in?
+7. @compoundlab.in (case study): Retention stories like this are underrated. Getting a customer back costs far less than finding a new one.
+8. @aiwith.om (AI explainer): Good to see someone show what AI does for a normal shop instead of only big companies.
+9. @labibs_india (restaurant Reel): The rush you show is the part customers never see. Respect to the kitchen team.
+10. @desitouch.vlogs (founder vlog): Sourcing is the part nobody talks about when they start a food brand. Thanks for showing the messy side.

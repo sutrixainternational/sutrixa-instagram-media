@@ -5,6 +5,9 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- **PROVEN (12 + 16 Nov, EP5 + EP7): Hindi kitchen-problem story with a spoken number complaint inside 0.5s = 7-8x median** (1,357 and 1,547 views, skip 30-36%, watched ~35%). Copied to rules.md.
+- PROVEN (2 Nov + 16 Nov): **comment-keyword giveaways get 0 comments**, even at 1,547 views (QR). Keep the owner's alternation, but treat keyword days as send days in disguise; never judge a Reel by keyword comments.
+- TRY (17 Nov): English Reels sit at baseline (EP4 254, EP6 187). EP8 tests an English money problem (30 calls, 2 bookings) at the front desk instead of an office topic.
 - **PROVEN-ish (2 Nov, 2 story Reels): human-voice story Reels beat narrator Reels on reach and skip.** EP1 129 views / skip 67.8%, EP2 144 views / skip 53.5% vs narrator median ~81 views / ~69% skip (last 10). Avg watch is similar (6.1-6.8s vs narrator ~7.7s), so the voice wins the first 3 seconds, not the middle. EP2's short, fast version (speech at 0.75s, 25s) gave 27% watched vs EP1 13%. Copied to rules.md: default to a talking character in the first second, ≤25s.
 - TRY (2 Nov): **keyword giveaways don't work at our size.** CALLS, LEAK, PHONE: 0 keyword comments from 60-144 viewers each. Keep the owner's alternation but expect nothing until a Reel passes ~500 views; judge send/save days separately.
 - TRY (2 Nov): a 20s moment Reel (EP2 ending) with one dialogue line + 3 text facts. Compare skip and watched % with EP2 at 24h.

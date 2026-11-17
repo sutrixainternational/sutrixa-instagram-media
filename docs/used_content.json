@@ -403,6 +403,37 @@
     "Guest khud order karta hai,",
     "Sir, aaj teen table zyada lage... aur kisi guest ko order ke liye wait nahi karna pada!"
    ]
+  },
+  {
+   "date": "2026-11-17",
+   "url": "https://www.instagram.com/reel/Df2CnignPpL/",
+   "story": "Bablu's Hotel (English) EP8: thirty enquiry calls in a week and only two bookings; Priya says half the callers ask the same three questions; Kaka says teach the AI phone agent those answers once so it picks up every call and you only talk to real buyers; Priya lists the setup (describe the hotel, add FAQs, connect the number) and it went live the same afternoon; the agent asks each caller what they need and books the serious one; Bablu now only talks to guests ready to book",
+   "hook": "30 enquiry calls. *Only 2 bookings?*",
+   "clips_src": [
+    "2026-11-16_dlg_en_voxa_bablu_thirtycalls.mp4",
+    "2026-11-16_dlg_en_voxa_priya_fortycalls.mp4",
+    "2026-11-16_dlg_en_voxa_kaka_teach.mp4",
+    "2026-11-16_dlg_en_voxa_priya_setup.mp4",
+    "2026-11-16_dlg_en_voxa_priya_booked.mp4",
+    "2026-11-16_dlg_en_voxa_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "vx_setup_describe_faqs_number_live",
+    "vx_trained_on_your_faqs",
+    "vx_qualifies_leads"
+   ],
+   "lang": "en",
+   "topic": "voxa_setup_leads",
+   "lines": [
+    "Thirty enquiry calls this week... and only two bookings? Where did the rest go?",
+    "and half of them asked the same three questions!",
+    "Beta, teach Voxa those three answers once. It picks up every call,",
+    "and you talk only to real buyers.",
+    "We described our hotel, added our FAQs, connected our number... and Voxa went live the same afternoon!",
+    "Sir, Voxa asked every caller what they need...",
+    "and booked the serious one straight into our calendar!",
+    "Every enquiry call answered... and I only talk to guests ready to book!"
+   ]
   }
  ]
 }
