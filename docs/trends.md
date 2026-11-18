@@ -417,3 +417,50 @@ Signature moves (with our Gemini/Veo 3D characters: Bablu, Ramu, Kaka):
 - Fits Sutrixa: (1) **faceless motion-graphic stepper on real screens** (shahfahid 9.8K shares; sideeq 17 Nov) is the strongest format in the restaurant niche today and it is exactly Rizstay's guest portal + KDS + bills: our `stepper` preset, no new preset, but the hub-and-spoke end card and the table-grid problem diagram are new moves. (2) **3D-animated kitchen case story** (yashkiyukti 4.1K shares) is the 4th sighting of the animated business story = `casestudy`/`story`; it also validates EP9's topic (a cook leaving) as one the niche shares. (3) Keyword giveaways keep pulling 1.7K-4.7K comments elsewhere (_post2all, suket.builds, neuraxine on restaurants) while ours stay at 0: theirs promise a concrete list of named tools/steps in the hook line itself; ours name a keyword without saying what's in it.
 - Use today (next Reel, Thu = Rizstay): open on a **top-down 6-table diagram with orange "waiting" dots popping one by one ("ONE WAITER")**, then run each product step under the same 3-tier header (kicker · STEP n/N pill · 3-word title) on one dark canvas, and end on a **hub-and-spoke "one screen" card** naming every step.
 - Presets: **no new preset.** Step grammar = `stepper` (5th day); animated kitchen story = `casestudy`/`story`. The 16 Nov letterbox headline appeared only as a payoff band today (yashkiyukti), not as a persistent headline, so it still has 1 day of evidence as a format.
+
+## 2026-11-19
+Sources (laptop browser pane, read-only, ~20 page loads incl. the profile checks, no rate limit or challenge; pane hidden, scroll-wheel advanced the Reels feed again and play-then-pause seeks rendered frames, so no vidIQ credits used). Reels feed (1 load, 21 Reels scrolled), keyword searches **"AI tools for business", "small business India", "customer calls"** (3 tiles each, all older than 14 days or off-niche: the hidden pane renders only the first row), Explore (1 load, 3 tiles). 10 posts read at /p/<code>/ for og:description; durations from the video element. Follower counts not loaded, so ratios vs account size are n/r. Shares only where the feed showed them.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| buildwithdevender (17 Nov) [Df2DzTET9tO] | 428 | 521 | n/s | 64s | "Ek automation, aur har clinic owner tumhe ₹20,000-₹25,000 dene ko ready" | Bold Claim + Identity Trigger (clinic owner) | faceless light-canvas motion-graphic **stepper** (5-node top progress bar), ₹ counter, WhatsApp phone mockup, keyword CLINIC, Hinglish |
+| omee_ki_kahaani (17 Nov) [Df11dn5OVUh] | 1,804 | 19 | n/s | 20s | "Jab tak yeh issue solve nahi hota tab tak yeh reel post nahi honi chaiye" | Curiosity Gap | **"Raw vs Edited" layer stack**: one framed clip + an editor timeline strip of labelled layers (Raw → Captions → Zoom → Graphics → BGM & SFX), each layer switches on (face on camera) |
+| yapsbykhushi (15 Nov) [DfwyCl7qgYC] | 827 | 353 | n/s | 43s | "A ₹30 crore company. And nobody knows the founder." | Curiosity Gap + Bold Claim | founder-brand story, keyword FOUNDER (30 post ideas), English |
+| thegrowthxcontent (18 Nov) [Df4tlNHTmoJ] | 97 | 0 | n/s | 54s | "Tired of shooting videos every single day?" | Relatable Pain | 4-step batching system (Step 1-4 in caption), English (too new to judge) |
+| thesistersofsteel (3 Nov) [DfRq1P_JFka] | 209 | 15 | n/s | 35s | "Be your own boss, they said. It'll be fun, they said." | Relatable Pain (owner life) | family-business owner skit (face), steel industry |
+| peehu5_ (22 Oct, collab growviquemedia) [DezCWkeTQ6o] | 2,546 | 527 | 3,493 | 48s | (no caption) | n/r | collab agency Reel (outside window, reference) |
+| canwebuildthis (24 Oct, Explore) [DfABaXZz8Ef] | 13K | 258 | n/s | 43s | "What if no human ever checked the code again?" | Curiosity Gap + keyword | AI-generated short film + keyword VIBECODE (outside window) |
+| themilesholden (22 Oct, Explore) [DezdsQxtJEJ] | 2,022 | 1,081 | n/s | 16s | "Claude Turns Sketches Into a Netflix-Style ... UI" | Bold Claim | sketch-to-UI screen demo (outside window) |
+| nitinbhuriyaan (30 Oct, "customer calls") [DfHdJtqNtyi] | 735K | 2,703 | n/s | 95s | (no caption) | n/r | not checked (no caption; outside window) |
+Skipped: dabangmanis (road news), sakshi__bhutada_ (personal), esmecrystals (ad), futurepulse.vision (tech visual), sonysportsnetwork x2 (cricket), subhajitpramanik610, _priyanka_pal_2002_, raja_shastri90 (devotional).
+
+### Beat sheet 1: buildwithdevender "clinic automation" (64s, faceless motion graphics, Hinglish; comments > likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | plain off-white/mint gradient canvas, nothing else | small grey italic serif line ("agar yeh banake de gaye...") over one huge bold black sans word: "CLINIC"; tiny pill "CLINIC AUTOMATION" top-left from frame 0 | dark rounded box, white words, current word in teal ("Agar tumhe ye") | word pops in, slight scale | Hinglish male VO from 0s (original audio) |
+| stakes | 3-10s | same canvas: small green pill "₹ Har clinic owner", then a giant ₹ figure counting up (₹23,190) with a green range chip "₹20K-₹25K per clinic", gold coins floating up | the ₹ figure is the only big text | same, keyword "rupaye se 25,000" | number ticks up, coins rise | coin SFX |
+| step 1 | 10-20s | one white chat bubble slides in mid-frame ("Kiski appointment kab?") | bubble only | same | slide-in from left | |
+| step 2 | 20-35s | phone mockup with a WhatsApp chat "City Care Clinic", message bubbles appear one by one | chat text | same ("message karega") | bubbles pop, phone slight float | message SFX |
+| step 3-4 | 35-55s | **top 5-node stepper** (icons, current node teal and larger, done nodes ticked) above a big analog clock filling to "1 ghanta pehle" chip | node row + small orange chip | same ("ghanta pehle patient") | clock hand sweeps, node lights | tick-tock |
+| CTA | 55-64s | white comment box mock "Add a comment...", italic serif "poora workflow chahiye?" above | serif kicker | same ("chahiye toh comment") | keyword types into the box | pop |
+Signature moves (render_reel3-reproducible):
+1. **Light canvas, one object per beat**: a single bubble, phone, clock or number fills the centre; no footage at all in the middle beats. Our `card` beats on a light background with one PNG/screen per beat.
+2. **Italic serif kicker over one giant sans keyword** ("...gaye" / CLINIC): the same serif/sans mix as sideeq's ₹ figure (17 Nov); 2nd day for the serif accent.
+3. **Giant ₹ counter + range chip** as the stakes beat (₹23,190 ticking, "₹20K-₹25K" chip): our `counter` chip, enlarged to fill the frame for 3s. Only with a number from docs/products.md or the viewer's own maths.
+4. **Top N-node icon stepper** that appears mid-Reel once the steps start: the `stepper` header again (6th scan day: 12, 13, 16, 17, 18, 19 Nov).
+5. **Captions in a dark box with the current word in teal**: same mechanics as our yellow word-by-word, different colour.
+
+### Beat sheet 2: omee_ki_kahaani "Raw vs Edited" (20s, Hinglish caption; 1.8K likes, very short)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | grey canvas, a rounded 4:5 video frame of the creator talking; title "Raw vs Edited" in light grey above; an editor **timeline strip** at the bottom with labelled clips (Raw · Captions) and a vertical playhead | "Raw vs Edited" | none | playhead moves right | creator VO |
+| layers | 3-15s | same frame; as the playhead reaches each labelled clip (Captions → Zoom In & Out → Graphics) that layer switches on inside the frame: big serif text "ISSUE", a punch-in, a laptop graphic | layer labels on the strip | burned-in title inside the frame | timeline scrolls left, each layer pops | |
+| payoff | 15-20s | last layer "BGM & SFX" lit, frame fully edited ("POST" word) | | | loop to start | music enters on the last layer |
+Signature moves:
+1. **Timeline strip as the progress bar**: labelled clips scroll under a playhead; each label = one beat. For us: "Paper → Rizstay" with clips labelled "KOT · Bill · GST · Stock" lighting up as the product screen fills in.
+2. **The same frame gets better layer by layer** (one persistent frame, additive changes): close to `counter` (one persistent background, chip climbs).
+3. **Under 20s with a payoff on the last layer**: a short loopable Reel for a slot between story days.
+
+- Fits Sutrixa: (1) **Faceless stepper on a plain canvas with one object per beat** (buildwithdevender, clinics, 521 comments) is the 6th day of the step grammar and the first time it showed up for **clinics**, a vertical we serve but never post for; it is `stepper`/`counter`, no new preset. (2) **Keyword CTAs that name the exact contents** ("30 LinkedIn post ideas", "poora workflow") keep pulling 350-520 comments on small accounts (yapsbykhushi, buildwithdevender), same finding as 18 Nov. (3) The "Raw vs Edited" layer-stack is a clean faceless-able shape for Velocity or Rizstay, but it is 1 day of evidence: on watch.
+- Use today (next Reel, Thu = Rizstay): open on a **plain light canvas with an italic serif kicker over one giant word** (e.g. small "har raat ka" over big "HISAAB"), then one object per beat (bill, KOT, GST split) under the STEP n/N stepper, and make the keyword line say exactly what they get.
+- Presets: **no new preset.** Step grammar = `stepper` (6th day); ₹ counter = `counter`. On watch (1 day): "Raw vs Edited" layer stack (omee_ki_kahaani 19 Nov) and the 16 Nov letterbox headline (no repeat). If the layer stack shows again, add it as preset **layers** (`clip` frame + `screen` beats with a timeline-strip overlay, weight 2).
