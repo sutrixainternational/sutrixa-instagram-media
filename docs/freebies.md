@@ -7,3 +7,4 @@
 | 2026-11-04 | GST | Bablu ka Hotel GST special "Stop charging 18% on ₹7,000 rooms" (Rizstay) | https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/main/freebies/GST_2026-11-04.png (PDF: .../freebies/GST_2026-11-04.pdf) |
 | 2026-11-07 | RATE | Hotel food GST "Don't bill hotel dinners at 5%." (Rizstay, English) | https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/main/freebies/RATE_2026-11-07.png (PDF: .../freebies/RATE_2026-11-07.pdf) |
 | 2026-11-16 | QR | Bablu ka Hotel EP7 (Rizstay table QR, Hindi) | https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/main/freebies/QR_2026-11-16.png (PDF: .../freebies/QR_2026-11-16.pdf) |
+| 2026-11-18 | STAFF | Bablu ka Hotel EP9 (HR4U training + promotions, Hindi) | https://raw.githubusercontent.com/sutrixainternational/sutrixa-instagram-media/main/freebies/STAFF_2026-11-18.png (PDF: .../freebies/STAFF_2026-11-18.pdf) |

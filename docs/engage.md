@@ -139,3 +139,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @aiwith.om (AI explainer): Good to see someone show what AI does for a normal shop instead of only big companies.
 9. @labibs_india (restaurant Reel): The rush you show is the part customers never see. Respect to the kitchen team.
 10. @desitouch.vlogs (founder vlog): Sourcing is the part nobody talks about when they start a food brand. Thanks for showing the messy side.
+
+## Comment drafts, 18 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
+1. @dukaandidi (staff/case study): Log tankhwah se zyada isliye jaate hain ki koi poochta nahi. Ek baar ka "kya seekhna hai?" bahut rok leta hai.
+2. @chintunomics (any story): Chintu ki galti chhoti thi, nuksaan bada. Yahi har dukaan ki kahani hai.
+3. @labibs_india (kitchen Reel): A cook who has been with you 3 years is worth more than any new recipe. The rush you showed proves it.
+4. @compoundlab.in (business lesson): Replacing one trained person costs weeks, not just a salary. Most owners never count that part.
+5. @aiwith.om (AI explainer): The best AI use for a small business is the boring one: remembering things the owner forgets.
+6. @fewshot.studio (explainer): Clear and quick. The one example did more than three slides would have.
+7. @contentkahuna (animated lesson): The character's face did half the explaining. Animation suits business stories well.
+8. @desitouch.vlogs (food founder): Keeping the same team through the first year is the hardest part nobody films. Respect.
+9. @ca.kushalgarg (salary/tax Reel): Writing every raise down with the date saves so many arguments later.
+10. @canitinsharmaa (GST/compliance): Staff records and salary history are always the first thing asked for. Keep them in one place.

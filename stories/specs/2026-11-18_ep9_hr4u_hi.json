@@ -1,0 +1,157 @@
+{
+ "out": "work/reel_ep9.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "hi",
+ "meta": {
+  "story": "Bablu ka Hotel (Hindi) EP9: the third cook this year hands Bablu a resignation letter; Ramu admits two years of the same work and the same salary and nobody ever asked; Kaka at his chai stall says give every cook training in HR4U and track who learned how much; Priya shows a promotion is one step with the new post, new salary and full history saved; Bablu: training, promotion and the new salary maths, all in one place",
+  "hook": "Teesra cook *gaya!*",
+  "lang": "hi",
+  "topic": "hr4u_training_promotions",
+  "clips_src": [
+   "2026-11-17_dlg_hi_hr4u_bablu_resign.mp4",
+   "2026-11-17_dlg_hi_hr4u_ramu_tankhwah.mp4",
+   "2026-11-17_dlg_hi_hr4u_kaka_training.mp4",
+   "2026-11-17_dlg_hi_hr4u_priya_promotion.mp4",
+   "2026-11-17_dlg_hi_hr4u_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "hr4u_training_assign_track",
+   "hr4u_promotion_post_salary_history_one_step",
+   "gen_staff_quit_without_growth_or_raise"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep9/resign.mp4",
+   "vstart": 0.0,
+   "dur": 5.6,
+   "clip_voice": true,
+   "speech": [
+    0.15,
+    4.45
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 9 · NEW EPISODES, FOLLOW",
+   "say": "Teesra cook iss saal chhod ke gaya! Kyun?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep9/ramu.mp4",
+   "vstart": 0.0,
+   "dur": 7.4,
+   "clip_voice": true,
+   "speech": [
+    0.1,
+    6.2
+   ],
+   "punch": false,
+   "label": "COMMENT STAFF · FREE 5-STEP CHECKLIST",
+   "say": "Saab, do saal se wahi kaam, wahi tankhwah. Kisi ne poocha hi nahi."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep9/kaka.mp4",
+   "vstart": 2.0,
+   "dur": 5.15,
+   "clip_voice": true,
+   "speech": [
+    1.6,
+    5.0
+   ],
+   "punch": false,
+   "label": "1 · HAR COOK KO TRAINING",
+   "say": "Beta, HR4U mein har cook ko training do..."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr_hero.jpg",
+   "hl": [
+    212,
+    305,
+    288,
+    337
+   ],
+   "tap": true,
+   "audio_src": "work/ep9/kaka.mp4",
+   "astart": 7.15,
+   "dur": 2.85,
+   "speech": [
+    0.15,
+    2.75
+   ],
+   "label": "1 · TRAINING TRACK HOTI HAI",
+   "headline": "Kaun kitna seekha? *Sab track.*",
+   "hy": 1560,
+   "say": "aur kaun kitna seekha, sab track hota hai."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep9/priya.mp4",
+   "vstart": 0.9,
+   "dur": 7.7,
+   "clip_voice": true,
+   "speech": [
+    0.5,
+    7.0
+   ],
+   "punch": false,
+   "label": "2 · PROMOTION EK STEP MEIN",
+   "say": "Sir, HR4U mein promotion bhi ek step mein: naya pad, nayi tankhwah, aur poori history save."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep9/payoff.mp4",
+   "vstart": 0.4,
+   "dur": 5.6,
+   "clip_voice": true,
+   "speech": [
+    0.95,
+    5.2
+   ],
+   "punch": false,
+   "label": "3 · SAB EK JAGAH",
+   "say": "Training bhi, promotion bhi, nayi tankhwah ka poora hisaab bhi..."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr_hero.jpg",
+   "hl": [
+    20,
+    283,
+    384,
+    362
+   ],
+   "tap": true,
+   "audio_src": "work/ep9/payoff.mp4",
+   "astart": 6.0,
+   "dur": 2.1,
+   "speech": [
+    0.3,
+    1.0
+   ],
+   "label": "3 · SAB EK JAGAH",
+   "headline": "Training, payroll, staff: *ek jagah.*",
+   "hy": 1560,
+   "say": "sab ek jagah!"
+  },
+  {
+   "kind": "card",
+   "video": "work/ep9/resign.mp4",
+   "vstart": 5.6,
+   "dur": 4.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep9/resign.mp4",
+   "astart": 5.6,
+   "label": "SUTRIXA HR4U",
+   "headline": "Comment *STAFF*: free 5-step checklist. hr4u.sutrixa.com",
+   "say": " "
+  }
+ ]
+}

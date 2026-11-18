@@ -638,3 +638,26 @@ Last-10 median: **193** (120, 136, 174, 187, 187, 199, 215, 254, 1,357, 1,547). 
 **Reach actions**
 - Owner: pin EP7 (best Reel) next to EP5; send EP8 to 3-5 hotel owners/front-desk managers.
 - Tomorrow (HINDI, 18 Nov): needs 3 more HI hr4u clips (only 2 of ~5 in Drive) and HR is the weakest topic; if clips stall, a Hindi Rizstay kitchen topic (rizstay_menu_pricing: best sellers) is the stronger choice once its clips exist.
+
+## 2026-11-18 run (6:47 PM, first hourly run) · post-mortem of: EP 8 (Df2CnignPpL, 17 Nov ~19:00 IST, Voxa, ENGLISH) at ~24h
+vidIQ owner insights OK (0 credits). Followers **35** (+1 since 17 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP8 Voxa EN (17 Nov)** | **160** | **5.6s / 13.4%** | **67.8%** | 1 / 0 / 1 / 0 |
+| EP7 Rizstay HI (16 Nov) | 1,557 | 13.9s / 34.8% | 35.7% | 29 / 0 / 4 / 2 |
+| EP6 HR4U EN (15 Nov) | 189 | 6.7s / 16.7% | 63.4% | 2 / 0 / 1 / 0 |
+| EP5 Rizstay HI (12 Nov) | 1,359 | 14.0s / 35.0% | 30.1% | 23 / 0 / 1 / 2 |
+
+Last-10 median: **~195** (121, 136, 160, 174, 189, 200, 216, 254, 1,359, 1,557). EP8 = **0.82x**.
+
+**What went wrong (EP8)**: the English money-problem test (30 calls, 2 bookings) did NOT lift English: skip 67.8%, the worst since 2 Nov. Third English human-voice Reel at or below baseline (254, 189, 160). The front-desk scene is still an "office" scene; the hook needed reading time.
+**What worked**: nothing new; human voice + real screens kept it from the 7 Nov low.
+
+**Changes for TODAY (EP9, HINDI, hr4u_training_promotions)**
+1. Hindi, spoken number complaint at 0.15s ("Teesra cook iss saal chhod ke gaya! Kyun?") in a kitchen, Ramu the cook as the second voice (kitchen-people story, closest to the EP5/EP7 recipe the HR topic allows).
+2. CTA alternation: keyword STAFF (EP8 was send) on the beat-2 label by ~6s; freebie freebies/STAFF_2026-11-18.png.
+3. Real product: shots/hr_hero.jpg twice ("training" highlighted under Kaka's "aur kaun kitna seekha, sab track hota hai"; the attendance/payroll/onboarding/training paragraph under Bablu's "sab ek jagah!").
+4. 40.6s (short-by-one stretch: no spare clip; beats widened, no reuse, no TTS). Beat-1 hook headline dropped by the face guard (Bablu fills the frame); the spoken line is the hook.
+
+**Result: EP9 POSTED** https://www.instagram.com/reel/Df4nvrxnPXu/ (~19:05 IST). Watch tomorrow: does Hindi + kitchen people beat baseline on an HR topic (separates language from Rizstay topic)?
