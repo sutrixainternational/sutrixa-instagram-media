@@ -362,3 +362,58 @@ Signature moves:
 - Fits Sutrixa: (1) **the faceless animated business story with an AI fix** (digitalstaff 65x, dukaandidi 9x, plus stillwise 15 Nov) is the strongest pattern in the niche for the 3rd time: it is our `casestudy` preset (weight 4) and the Bablu story format, so no new preset; today adds the per-beat 2-line headline, the hook-frame context pills and the dark slow beat. (2) **Compliance-fear hooks with a ₹ figure + an N-step checklist on real screens** (sideeq 250x) fit Rizstay's GST bills exactly, as long as the stake is a documented rule, not an invented penalty; it maps onto `stepper`. (3) Keyword CTAs keep pulling comments elsewhere (digitalstaff 2,019, yoursocialteam 3,440); ours are being re-tested with EP7's QR keyword (16 Nov), so judge that before changing anything.
 - Use today (next Reel): give **every beat its own 2-line top headline (line 2 on the accent bar)** and put two context pills on the hook frame ("<CITY> · HOTEL" top, "<PRODUCT> FIX" bottom), with one 2-second dimmed, music-off beat at the low point before the fix.
 - Presets: **no new preset.** Animated case study = `casestudy` (exists); step bar = `stepper` (exists, 4th day). The 16 Nov letterbox-headline format did not show again (mister.a1b's grid did not render), and the 15 Nov report-cover card did not show again.
+
+## 2026-11-18
+Sources (laptop browser pane, read-only, ~19 page loads incl. the profile checks, no rate limit or challenge; the pane was hidden, but this time **scroll-wheel input advanced the Reels feed** (the Down key still did not) and video frames rendered after play-then-pause seeks, so the beat sheets come from our own screenshots, no vidIQ credits used). Reels feed (1 load, ~20 Reels scrolled, counts from the feed: likes · comments · reposts · shares), keyword searches **"restaurant business" and "hotel business": web keyword search WORKS again** (first time in 11 scans; most tiles are older, only 3 + 2 tiles from November), "AI tools for business" not run to save loads. Explore not loaded (budget went to frames). 12 posts read at /p/<code>/ for og:description; durations from the video element. Follower counts not loaded (no grid visits), so ratios vs account size are n/r.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| shahfahid.dev (8 Nov, "AI content" label) [DfgdpeWIHv9] | 13K | 3,165 | 9.8K (+374 reposts) | 86s | "Your waiter can't be at every table at once. But your website can." | Relatable Pain + Bold Claim | faceless motion-graphic **stepper**: dark canvas, "STEP n/6" pill, phone mockup per step, bottom 6-segment progress bar, keyword DETAILS, English |
+| yashkiyukti (11 Nov, verified) [Dfm9MX7hsmX] | 9,529 | 138 | 4.1K (+272 reposts) | 84s | "Chef chala jaye to kya karoge? Chef kahan se laaoge?" | Relatable Pain + Curiosity Gap | **3D-animated restaurant case story** (owner + cooks in a kitchen), Hinglish VO, solution = backup roles, CTA question |
+| emilioabz (17 Nov) [Df3kLELDcXD] | 8,876 | 80 | 4,501 | 81s | "I asked Claude for a $10 million business or humanity dies" | Bold Claim + Curiosity Gap | AI-tool challenge / screen story, English |
+| _post2all (13 Nov) [DfrvfEtHP8j] | 3,673 | 4,724 | 5,230 | 50s | "Comment SKILLS and I'll DM you all 5 install links" | Bold Claim + keyword | keyword giveaway list (5 tools), English |
+| suket.builds (9 Nov) [DfhVC3Gg5PU] | 2,062 | 1,730 | 3,783 | 52s | "Comment SEO and I'll send you the entire playbook" | Bold Claim + keyword | keyword giveaway + numbered tips in caption |
+| neuraxine (13 Nov, "restaurant business" search) [Dfr7IiyoZjf] | 897 | 484 | n/s | 60s | "If you are running a Cafe and Restaurant, comment Details" | Identity Trigger + keyword | restaurant automation offer, keyword |
+| saasyass (17 Nov) [Df20HFsv4zo] | 785 | 335 | 695 | 112s | "Comment CHOOSE to get the guide..." | keyword | funnel-type guide, keyword |
+| beyondmarketing.si (14 Nov, "hotel business" search) [DfuA4PBxtVS] | 799 | 57 | n/s | 52s | "Mera Hotel Hota Na... Main Ek Bhi Customer Competitor Ke Paas Nahi Jaane Deta!" | Identity Trigger + Relatable Pain | Hinglish hotel "imagine a guest searching" story, agency offer |
+| joshcondigitalagency (12 Nov, "hotel business") [Dfq210euJA3] | 749 | 89 | n/s | 58s | "A great hotel deserves... to be found" | Identity Trigger | agency list Reel |
+| web_specia (4 Nov) [DfWdm3HCt3r] | 476 | 103 | 647 | 72s | "Your website got a lead today. But who really was it?" | Curiosity Gap | product demo (visitor intelligence), checklist caption |
+| munnasamjhao (18 Nov, "AI-generated profile") [Df4VAVZzc-Z] | 71 | 8 | 29 | 72s | "Ad band karne se pehle yeh 3 numbers dekho." | Curiosity Gap + countdown | faceless AI-generated Hinglish 3-number check, keyword FATIGUE |
+| (outside the 14-day window) aseleanetwork (26 Oct) [De9Sx5FOxH4] | 990 | 286 | 1,875 | 65s | "15 saal ka experience, Google se 0 patient." | Correction + number contrast | clinic online-presence story, Hinglish (reference only: clinics) |
+Skipped: sakshi__bhutada_ (open letter), angkiitaa, yanibirii x2, anshicoquette17 (personal/devotional), sonysportsnetwork (cricket), fundingirl, growwithevelyn, tazeem.cro, tejas_jhaveri (talking head), dabangmanis (road news), aartistpaul, ads (Explee AI, ElevenLabs).
+
+### Beat sheet 1: shahfahid.dev "QR table system" (86s, faceless motion graphics, English; 9.8K shares on 13K likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-4s | dark navy canvas, 6 round "tables" in a 3x2 grid seen from above; orange alert dots pop on tables one after another | kicker "ONE WAITER" (accent word orange) | none burned in | dots pop, tables pulse | original audio (not heard: muted) |
+| turn | 4-8s | same 6 tables, every one gets a green tick | "BUT YOUR WEBSITE CAN" | | ticks pop in sequence | |
+| step 1 | 8-20s | QR card left, empty phone outline right | kicker "SCAN THE QR", orange pill "STEP 1/6", big white "QR ON EVERY TABLE" | | phone fills as the QR is "scanned" | |
+| step 2 | 20-31s | phone mockup with a dish card (photo circle, name, price chip, size/spice tags, orange "Add to order" button) | "COMPLETE MENU" / "STEP 2/6" / "EVERY DISH DETAIL" | | tags tap on one by one | |
+| step 3 | 31-45s | wide kitchen-display board, order cards in columns | "LIVE ORDERS" / "KITCHEN DISPLAY" | | cards slide between columns | |
+| steps 4-5 | 45-70s | phone: bill split, tip chips, pay options | "SPLIT THE BILL" / "BILL, TIP, PAY" | | chips toggle orange | |
+| payoff | 70-80s | dashboard tiles: 12 · 8/10 · a money total · bar chart with the last bar orange | "ONE DASHBOARD" / "ALL IN ONE VIEW" | | tiles count up, bars grow | |
+| end | 80-86s | hub-and-spoke: "YOUR RESTAURANT" centre, Menu · Kitchen · Payments · Guests · Staff around | "COMPLETE SYSTEM" / "STEP 6/6" / "ONE SYSTEM" | | spokes draw out | |
+Bottom of every step frame: a thin 6-segment progress bar with tiny labels, current segment lit.
+Signature moves (render_reel3-reproducible with our real Rizstay screens):
+1. **The problem as a top-down diagram, not footage**: 6 table circles, orange alert dots popping one by one ("ONE WAITER"), then all ticked ("BUT ONE SCREEN CAN"). A `card` with 6 circles + timed dot overlays: 4s, no clip needed.
+2. **Three-tier step header on one dark canvas**: small 2-word kicker with the accent word in orange → orange pill "STEP n/N" → huge white 3-word title. The same three slots on every step = our `stepper` header (5th scan day for the step grammar: 12, 13, 16, 17, 18 Nov).
+3. **Each step = one phone/screen mockup doing ONE action** (tag taps, card slides, chip toggles): our `screen` beat inside a phone frame with one `hl` box per beat.
+4. **End on a hub-and-spoke "one system" map** naming every step around the business: a `card` that recaps the Reel in one screenshot-worthy frame (the screenshot test).
+
+### Beat sheet 2: yashkiyukti "chef chala jaye to?" (84s, 3D-animated, Hinglish; 4.1K shares)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | 3D head chef at the stove in a teal-tiled kitchen, mid-task | none on top | white lowercase 1-line subtitle, centre-lower third, no box ("Socho aapka chef ek din") | slow push-in | Hinglish VO from 0s |
+| reaction | 3-8s | owner character (moustache, blue shirt) at the pass, hand on head | | same ("aur ab aap soch rahe ho") | cut on the line | |
+| framing | 8-30s | owner faces camera full-length in the kitchen, explaining with hands | | same ("Mere paas aksar ye question aata hai") | small gesture loops, few cuts | |
+| solution | 30-70s | each cook in turn on a red-white floor ring with a red numbered tag above the head ("NO. 2") | tag only | same ("to uske neeche wala cook") | ring + tag pop on, cut per role | |
+| payoff | 70-84s | wide kitchen, whole brigade at work, owner relaxed in front | red 3-word title in a black top band ("Chef nahi, system") | same ("system pe chalta hai") | wide, still | |
+Signature moves (with our Gemini/Veo 3D characters: Bablu, Ramu, Kaka):
+1. **Open on the person you're about to lose, doing the job**, with "Socho..." as the first word: the loss is felt before it's said. A Veo `clip` of Ramu cooking under a "socho" line.
+2. **Numbered role tags + a floor ring** on characters when the fix is "who does what": a `scene` with a red chip ("NO. 2") above the character and a ring under him.
+3. **Payoff as a 3-word red title in a black top band** over the wide shot ("Chef nahi, system"): our `card`/`clip` top_label in the letterbox band, only on the last beat.
+4. **Plain lowercase one-line subtitles, no box, no word highlight**: a quieter caption style for long story beats (test against our yellow word-by-word).
+
+- Fits Sutrixa: (1) **faceless motion-graphic stepper on real screens** (shahfahid 9.8K shares; sideeq 17 Nov) is the strongest format in the restaurant niche today and it is exactly Rizstay's guest portal + KDS + bills: our `stepper` preset, no new preset, but the hub-and-spoke end card and the table-grid problem diagram are new moves. (2) **3D-animated kitchen case story** (yashkiyukti 4.1K shares) is the 4th sighting of the animated business story = `casestudy`/`story`; it also validates EP9's topic (a cook leaving) as one the niche shares. (3) Keyword giveaways keep pulling 1.7K-4.7K comments elsewhere (_post2all, suket.builds, neuraxine on restaurants) while ours stay at 0: theirs promise a concrete list of named tools/steps in the hook line itself; ours name a keyword without saying what's in it.
+- Use today (next Reel, Thu = Rizstay): open on a **top-down 6-table diagram with orange "waiting" dots popping one by one ("ONE WAITER")**, then run each product step under the same 3-tier header (kicker · STEP n/N pill · 3-word title) on one dark canvas, and end on a **hub-and-spoke "one screen" card** naming every step.
+- Presets: **no new preset.** Step grammar = `stepper` (5th day); animated kitchen story = `casestudy`/`story`. The 16 Nov letterbox headline appeared only as a payoff band today (yashkiyukti), not as a persistent headline, so it still has 1 day of evidence as a format.
