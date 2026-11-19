@@ -661,3 +661,24 @@ Last-10 median: **~195** (121, 136, 160, 174, 189, 200, 216, 254, 1,359, 1,557).
 4. 40.6s (short-by-one stretch: no spare clip; beats widened, no reuse, no TTS). Beat-1 hook headline dropped by the face guard (Bablu fills the frame); the spoken line is the hook.
 
 **Result: EP9 POSTED** https://www.instagram.com/reel/Df4nvrxnPXu/ (~19:05 IST). Watch tomorrow: does Hindi + kitchen people beat baseline on an HR topic (separates language from Rizstay topic)?
+
+## 2026-11-19 run (6:47 PM, first hourly run) · post-mortem of: EP 9 (Df4nvrxnPXu, 18 Nov ~19:05 IST, HR4U, HINDI) at ~24h
+vidIQ owner insights OK (0 credits). Followers **35** (flat since 18 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP9 HR4U HI (18 Nov)** | **121** | **6.9s / 17.2%** | **46.5%** | 2 / 0 / 0 / 0 |
+| EP8 Voxa EN (17 Nov, ~48h) | 165 | 5.8s / 13.9% | 68.0% | 1 / 0 / 1 / 0 |
+| EP7 Rizstay HI (16 Nov) | 1,557 | 13.9s / 34.8% | 35.7% | 29 / 0 / 4 / 2 |
+| EP5 Rizstay HI (12 Nov) | 1,359 | 14.0s / 35.0% | 30.1% | 23 / 0 / 1 / 2 |
+
+Last-10 median: **~182** (121, 121, 136, 165, 174, 189, 200, 254, 1,359, 1,557). EP9 = **0.67x**.
+
+**What the test showed**: Hindi + kitchen people + spoken complaint at 0.15s did NOT lift an HR topic. Skip 46.5% is better than every English Reel (63-68%) but far from the Rizstay Hindi hits (30-36%), and reach stayed at the floor. So the 7-8x Reels were driven by the TOPIC (food/stock/table money loss you can see) more than by language alone. Keyword STAFF: 0 comments (16th Reel with 0 comments).
+**What went wrong**: the loss (a cook quitting) is abstract on screen; no object, no number the viewer can see. Watched 17% = people left once it turned into HR software.
+
+**Changes for TODAY (EP10, ENGLISH, velocity_website_leads)**
+1. A VISIBLE loss in frame 1: Bablu in an empty lobby while the rival hotel across the street is full of guests with suitcases; complaint spoken at 0.2s ("They searched 'hotel near me'... and booked the one across the street!").
+2. CTA alternation: send ask (EP9 was keyword) as the beat-2 label by ~6s ("SEND THIS TO A HOTEL WITH NO WEBSITE") + end card + caption.
+3. Real product: velocity.sutrixa.com hero twice (the "It also makes your website" line under Kaka's "Velocity makes you a one-page website"; the Get started button under Priya's "Ready in ten minutes, on my phone!"). shots/vl_hero.jpg padded to shots/vl_hero_tall.png (1.64) for the 1.6 gate; vl_examples.jpg NOT used (shows a ₹4,200 example price).
+4. Follow reason: "EP 11 TOMORROW · FOLLOW" on the payoff; ~40 s with 6 clips (5 + the spare Kaka "ten seconds" line).

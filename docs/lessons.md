@@ -119,3 +119,8 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - PROVEN-ish (EP4, EP5 vs EP6): **a spoken QUESTION/complaint hook beats a statement hook.** EP4 "So why are we empty?" 45.6% skip, EP5 "paneer gaya kahaan?!" 30.1%, EP6 statement "his papers are somewhere in this pile" 62.4%. Next: one more question hook to promote it.
 - TRY: HR/paperwork topics hold worst (EP3 173 views, EP6 173 = 1.0x). Prefer kitchen, table and money-loss stories; HR only with a visible loss.
 - CHECKED: no_repeat compares spoken lines against EVERY earlier Reel, with no time limit. EP1 (30 Oct) "order seedha kitchen jaaye" blocks any "order seedha kitchen..." line forever. Clip prompts must be pre-checked with no_repeat's sim() before the clip is made (16 Nov: 2 EP7 clips were made, then refused).
+
+## 19 Nov run (EP9 at ~24h)
+- CHECKED: Hindi alone does not make a hit. EP9 (Hindi, HR, kitchen people, complaint at 0.15s) = 121 views 0.67x, skip 46.5%. The 7-8x Reels (EP5, EP7) were Hindi + a food/table loss you can SEE (empty paneer tray, waiting tables). Prefer Rizstay kitchen/food topics for Hindi days; HR and office topics only with a visible object loss.
+- TRY: English with a visible rival/loss scene in frame 1 (EP10: busy hotel across the street). Read at 24h on 20 Nov.
+- CHECKED again: keyword giveaways = 0 comments (STAFF, 16th Reel). Keep alternating only because the owner rule asks for it; never count on keyword comments for reach.

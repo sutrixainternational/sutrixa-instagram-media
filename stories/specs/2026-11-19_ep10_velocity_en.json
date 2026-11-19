@@ -1,0 +1,63 @@
+{
+ "out": "work/reel_ep10.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "en",
+ "meta": {
+  "story": "Bablu's Hotel (English) EP10: guests searched 'hotel near me' and booked the hotel across the street; Priya says the rival has a website with a WhatsApp button while Bablu only has a visiting card; Kaka says guests book what they can find in ten seconds and that Velocity makes a one-page website with phone number, WhatsApp button and contact form; Priya says it also puts the hotel on Instagram, Facebook and Google, ready in ten minutes on her phone; Bablu gets three WhatsApp enquiries before lunch",
+  "hook": "They booked the hotel *across the street.*",
+  "lang": "en",
+  "topic": "velocity_website_leads",
+  "clips_src": [
+   "2026-11-18_dlg_en_vel_bablu_acrossstreet.mp4",
+   "2026-11-18_dlg_en_vel_priya_visitingcard.mp4",
+   "2026-11-18_dlg_en_vel_kaka_tenseconds.mp4",
+   "2026-11-18_dlg_en_vel_kaka_website.mp4",
+   "2026-11-18_dlg_en_vel_priya_channels.mp4",
+   "2026-11-18_dlg_en_vel_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "vel_one_page_website_phone_whatsapp_form",
+   "vel_channels_instagram_facebook_google",
+   "vel_ready_ten_minutes_on_phone"
+  ]
+ },
+ "beats": [
+  {"kind": "clip", "video": "work/ep10/bablu_street.mp4", "vstart": 1.2, "dur": 5.8, "clip_voice": true, "speech": [0.2, 4.1], "punch": false,
+   "label": "BABLU'S HOTEL · EP 10 · NEW EPISODE DAILY, FOLLOW",
+   "say": "They searched 'hotel near me'... and booked the one across the street!",
+   "headline": "They booked the hotel *across the street.*"},
+  {"kind": "clip", "video": "work/ep10/priya_card.mp4", "vstart": 1.0, "dur": 5.4, "clip_voice": true, "speech": [0.2, 4.5], "punch": false,
+   "label": "SEND THIS TO A HOTEL WITH NO WEBSITE",
+   "say": "Sir, they have a website with a WhatsApp button. We only have a visiting card."},
+  {"kind": "clip", "video": "work/ep10/kaka_ten.mp4", "vstart": 1.0, "dur": 4.0, "clip_voice": true, "speech": [0.2, 3.5], "punch": false,
+   "label": "THE 10-SECOND RULE",
+   "say": "Guests book what they can find in ten seconds."},
+  {"kind": "screen", "image": "shots/vl_hero_tall.png", "hl": [40, 387, 372, 437], "tap": true,
+   "audio_src": "work/ep10/kaka_web.mp4", "astart": 0.0, "dur": 3.7, "speech": [0.2, 3.5],
+   "label": "1 · A ONE-PAGE WEBSITE, MADE FOR YOU",
+   "headline": "A website, *made for you.*", "hy": 1560,
+   "say": "Beta, Velocity makes you a one-page website..."},
+  {"kind": "clip", "video": "work/ep10/kaka_web.mp4", "vstart": 3.7, "dur": 4.5, "clip_voice": true, "speech": [0.2, 4.2], "punch": false,
+   "label": "2 · PHONE · WHATSAPP BUTTON · CONTACT FORM",
+   "say": "your phone number, a WhatsApp button and a contact form."},
+  {"kind": "clip", "video": "work/ep10/priya_channels.mp4", "vstart": 0.7, "dur": 4.2, "clip_voice": true, "speech": [0.3, 3.95], "punch": false,
+   "label": "3 · INSTAGRAM · FACEBOOK · GOOGLE",
+   "say": "And it puts us on Instagram, Facebook and Google too, sir."},
+  {"kind": "screen", "image": "shots/vl_hero_tall.png", "hl": [18, 455, 385, 511], "tap": true,
+   "audio_src": "work/ep10/priya_channels.mp4", "astart": 4.9, "dur": 3.4, "speech": [0.3, 2.7],
+   "label": "4 · READY IN 10 MINUTES, ON YOUR PHONE",
+   "headline": "Ready in *10 minutes.*", "hy": 1560,
+   "say": "Ready in ten minutes, on my phone!"},
+  {"kind": "clip", "video": "work/ep10/payoff.mp4", "vstart": 0.6, "dur": 4.0, "clip_voice": true, "speech": [0.4, 2.6], "punch": false,
+   "label": "EP 11 TOMORROW · FOLLOW",
+   "say": "Three WhatsApp enquiries before lunch!"},
+  {"kind": "card", "video": "work/ep10/payoff.mp4", "vstart": 4.6, "dur": 5.3, "speech": [0, 0.1],
+   "audio_src": "work/ep10/payoff.mp4", "astart": 4.6,
+   "label": "SUTRIXA VELOCITY",
+   "headline": "*Send this* to a hotel owner with no website. velocity.sutrixa.com",
+   "say": " "}
+ ]
+}

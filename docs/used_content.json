@@ -463,6 +463,37 @@
     "Training bhi, promotion bhi, nayi tankhwah ka poora hisaab bhi...",
     "sab ek jagah!"
    ]
+  },
+  {
+   "date": "2026-11-19",
+   "url": "https://www.instagram.com/reel/Df7MJfLkzUO/",
+   "story": "Bablu's Hotel (English) EP10: guests searched 'hotel near me' and booked the hotel across the street; Priya says the rival has a website with a WhatsApp button while Bablu only has a visiting card; Kaka says guests book what they can find in ten seconds and that Velocity makes a one-page website with phone number, WhatsApp button and contact form; Priya says it also puts the hotel on Instagram, Facebook and Google, ready in ten minutes on her phone; Bablu gets three WhatsApp enquiries before lunch",
+   "hook": "They booked the hotel *across the street.*",
+   "clips_src": [
+    "2026-11-18_dlg_en_vel_bablu_acrossstreet.mp4",
+    "2026-11-18_dlg_en_vel_priya_visitingcard.mp4",
+    "2026-11-18_dlg_en_vel_kaka_tenseconds.mp4",
+    "2026-11-18_dlg_en_vel_kaka_website.mp4",
+    "2026-11-18_dlg_en_vel_priya_channels.mp4",
+    "2026-11-18_dlg_en_vel_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "vel_one_page_website_phone_whatsapp_form",
+    "vel_channels_instagram_facebook_google",
+    "vel_ready_ten_minutes_on_phone"
+   ],
+   "lang": "en",
+   "topic": "velocity_website_leads",
+   "lines": [
+    "They searched 'hotel near me'... and booked the one across the street!",
+    "Sir, they have a website with a WhatsApp button. We only have a visiting card.",
+    "Guests book what they can find in ten seconds.",
+    "Beta, Velocity makes you a one-page website...",
+    "your phone number, a WhatsApp button and a contact form.",
+    "And it puts us on Instagram, Facebook and Google too, sir.",
+    "Ready in ten minutes, on my phone!",
+    "Three WhatsApp enquiries before lunch!"
+   ]
   }
  ]
 }

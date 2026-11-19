@@ -151,3 +151,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @desitouch.vlogs (food founder): Keeping the same team through the first year is the hardest part nobody films. Respect.
 9. @ca.kushalgarg (salary/tax Reel): Writing every raise down with the date saves so many arguments later.
 10. @canitinsharmaa (GST/compliance): Staff records and salary history are always the first thing asked for. Keep them in one place.
+
+## Comment drafts, 19 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
+1. @dukaandidi (case study): Customer pehle phone pe dhoondhta hai, dukaan baad mein. Jo Google pe nahi dikhta, woh race mein hi nahi hai.
+2. @chintunomics (any story): Chintu ne product sahi banaya, bas batana bhool gaya. Aadhe business yahin haar jaate hain.
+3. @labibs_india (outlet Reel): The WhatsApp order button probably brings more regulars than any banner outside. Small thing, big habit.
+4. @compoundlab.in (business lesson): Being easy to find beats being slightly better. Most owners learn that the hard way.
+5. @aiwith.om (AI explainer): A one-page site with a working phone number does more for a local shop than any fancy app.
+6. @fewshot.studio (explainer): The analogy made it click in 5 seconds. That is the whole game on Reels.
+7. @contentkahuna (animated lesson): The pause before the punchline did a lot of work. Good timing.
+8. @desitouch.vlogs (food founder): Writing your story down in one place early saves you so much time when people start asking.
+9. @ca.kushalgarg (small-business Reel): A visiting card can't be searched. Half the clients I've seen lose walk-ins just from that.
+10. @canitinsharmaa (GST/business): Keeping your business name, number and GSTIN the same everywhere online saves confusion later.
