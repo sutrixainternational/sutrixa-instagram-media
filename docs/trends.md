@@ -464,3 +464,46 @@ Signature moves:
 - Fits Sutrixa: (1) **Faceless stepper on a plain canvas with one object per beat** (buildwithdevender, clinics, 521 comments) is the 6th day of the step grammar and the first time it showed up for **clinics**, a vertical we serve but never post for; it is `stepper`/`counter`, no new preset. (2) **Keyword CTAs that name the exact contents** ("30 LinkedIn post ideas", "poora workflow") keep pulling 350-520 comments on small accounts (yapsbykhushi, buildwithdevender), same finding as 18 Nov. (3) The "Raw vs Edited" layer-stack is a clean faceless-able shape for Velocity or Rizstay, but it is 1 day of evidence: on watch.
 - Use today (next Reel, Thu = Rizstay): open on a **plain light canvas with an italic serif kicker over one giant word** (e.g. small "har raat ka" over big "HISAAB"), then one object per beat (bill, KOT, GST split) under the STEP n/N stepper, and make the keyword line say exactly what they get.
 - Presets: **no new preset.** Step grammar = `stepper` (6th day); ₹ counter = `counter`. On watch (1 day): "Raw vs Edited" layer stack (omee_ki_kahaani 19 Nov) and the 16 Nov letterbox headline (no repeat). If the layer stack shows again, add it as preset **layers** (`clip` frame + `screen` beats with a timeline-strip overlay, weight 2).
+
+## 2026-11-20
+Sources (laptop browser pane, read-only, ~29 page loads incl. the profile checks, no rate limit or challenge; pane hidden, scroll-wheel advanced the Reels feed, play-then-pause seeks rendered frames, no vidIQ credits). Reels feed (1 load, 17 Reels scrolled: mostly personal/cricket/ads), keyword searches **"GST", "marketing for local business", "payroll"** (the hidden pane renders only the first row: 3 tiles each), Explore not loaded (budget went to frames). 9 posts read at /p/<code>/ for og:description; durations from the video element; likes/comments/shares for the 2 beat-sheet Reels from the post page's action bar. Follower counts not loaded, so ratios vs account size are n/r.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| cajayeshmoolchandani (19 Nov, verified, "AI content" label, "GST" search) [Df7FHFEy_Kb] | 62.9K (37K in og) | 6.9K | 55.6K (+836 reposts) | 56s | "GST UPDATE 🚨 Small Businessman < 5 cr / No more Tension of monthly Return" | Identity Trigger (< ₹5 cr) + Relatable Pain | single-take talking head (car) under a **persistent 4-line headline for the whole Reel**, end overlay "LIKE & FOLLOW FOR MORE", Hindi VO |
+| ca.jaiwishrajpal (19 Nov, "GST" search) [Df8ssaAozWc] | 1,402 | 25 | n/s | 23s | (hashtags only) | n/r | CA tax explainer (face), short |
+| wtf_foundery (19 Nov, feed) [Df7FJptkwV4] | 304 | 10 | n/s | 47s | "AI payments break when platforms and merchants use different gateways." | Relatable Pain | AI fintech explainer, English |
+| its.ankushgoyal (19 Nov, feed) [Df7tPy5BCPv] | 108 | 32 | n/s | 47s | "0 to 69k+ followers is possible with the right roadmap." | Bold Claim + keyword PROCESS | agency case result, keyword names the deliverable |
+| aadarrsh.hirave (19 Nov, feed) [Df7pWHvMh7H] | n/s | 9 | 4 reposts | 30s | "₹17,876 Ad Spend → ₹1,37,862 Revenue" | Bold Claim (₹ result) | B-roll of the marketer working under a **persistent ₹ results stack** (spend · orders · price · revenue · ROAS) + top pill "Clothing Brands", DM SCALE |
+| ranklocal.ai (19 Nov, "marketing for local business") [Df7QBjrHAvp] | 17 | 0 | n/s | 33s | "Stop waiting 15 days on photographers..." | Relatable Pain + keyword AI | AI graphics tool demo (too new) |
+| ronniedigitalmarketing (10 Nov) [DfkX8BhAjnN] | 13 | 3 | n/s | 15s | "Every local business should have their business listed on all 5 of these sites." | Identity Trigger + list | 5-site citations list (Google Maps/AI answers) |
+| telbooks (5 Nov, "payroll") [DfY8LD3Ptoj] | 2 | 0 | n/s | 20s | "Say goodbye to complicated Excel payroll sheets" | Relatable Pain | payroll software feature list (no traction) |
+| ca_nandini19 (20 Nov, feed) [Df8v6M0o7gN] | n/r | n/r | n/r | n/r | "Anthropic valued at $1.5 trillion..." | Bold Claim (news) | finance news (not opened: news, off-niche) |
+Skipped: suhas_bandagale_19, wanderingsouls_6, monikasharma0306, solandclayde, myapex.club, iqrraa.pk (personal/memes), sonysportsnetwork x2 (cricket), marblism.ai (ad), kristinasubbotina.esq (VC podcast).
+
+### Beat sheet 1: cajayeshmoolchandani "GST < 5 cr" (56s, Hindi; 55.6K shares on 62.9K likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | creator in the driver's seat, sunglasses, mid-gesture, natural daylight | 4-line headline in the top third, white bold on black rounded boxes: "GST UPDATE 🚨" / "Small Businessman < 5 cr" / "No more Tension of" / "monthly Return 😀" | none (no burned-in subtitles) | none: one static handheld take | Hindi VO from 0s (original audio) |
+| explain | 3-50s | same take, hand gestures counting points | **same headline, unchanged** | none | no cuts, no punch-ins seen at 8s, 22s, 40s | speech only |
+| CTA | 50-56s | same take | headline + a blue-box overlay lower-left "LIKE & FOLLOW FOR MORE" | none | overlay pops in | |
+Signature moves (render_reel3-reproducible, faceless):
+1. **One headline for the whole Reel**: the top-third headline is the hook, the summary and the thumbnail at once; nothing else on screen. 2nd scan day with strong numbers for the persistent headline (16 Nov mister.a1b 7.6K shares; today 55.6K shares).
+2. **Audience + threshold in line 2** ("Small Businessman < 5 cr"): the viewer self-selects in one glance. For us: "Hotels with 10-40 rooms", "Restaurants with 1 kitchen".
+3. **Stacked black boxes, one phrase per line** (4 short lines, each its own box) instead of one paragraph: readable at feed size.
+4. **Zero editing in the middle**: the information is in the speech; the frame only has to stay watchable. With our footage = one letterboxed Veo clip or a slow-scroll real screen under the fixed headline.
+(Face-to-camera itself is not copied: we use a character clip or product screen in the frame.)
+
+### Beat sheet 2: aadarrsh.hirave "₹17,876 → ₹1,37,862" (30s, no VO heard; small numbers, kept for the grammar)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-1s | marketer at a desk, hand on chin, warm office light | top pill "Clothing Brands" + lower-third stack of 5 white boxes: "Ad Spend: ₹17,876 / Orders: 138 / Price: ₹999 / Revenue: ₹1,37,862 / ROAS: 7.71X" | none | handheld | music (muted here) |
+| B-roll | 1-30s | the same man typing, looking at the screen, a few soft cuts (5s, 12s, 20s, 28s) | same pill + same stack, unchanged | none | slow cuts every ~6-8s | |
+Signature moves:
+1. **Results stack as the persistent overlay** (input → output numbers top to bottom): our `counter` chip, enlarged to a 4-line stack. Only with products.md numbers or the viewer's own maths.
+2. **Niche pill top-left from frame 0** ("Clothing Brands" = our "Hotel owners" pill in `stepper`).
+3. B-roll that only shows "work happening" behind the numbers: a quiet `clip` of Bablu at the desk.
+
+- Fits Sutrixa: (1) **Persistent-headline Reels** (one fixed top headline over one watchable clip, no per-beat text) now have strong numbers on 2 scan days (16 Nov, 20 Nov): it's the cheapest format for us (one Veo dialogue clip, letterboxed, or one slow-scroll product screen) and works for GST/billing, Voxa and HR4U topics. Added as preset **letterbox**. (2) In the "GST" search the breakout was a threshold-addressed update ("< 5 cr"): for our audience, address by size ("10-40 room hotels"). (3) Keyword CTAs again name the exact deliverable (PROCESS = "how we did it"), same as 18-19 Nov.
+- Use today (next Reel, Fri 21 = Rizstay billing): put the hook clip under a **fixed 3-4 line headline in stacked black boxes (one phrase per box, line 2 = who it's for)** that stays on through the first clip beat, then cut to the product screens.
+- Presets: **new preset letterbox** (weight 2) in docs/presets.md; 3 topics L1-L3 in docs/clip_topics.md (hooks 93.8, 83.2, 80.2). Still on watch (1 day): "Raw vs Edited" layer stack (19 Nov, no repeat today). Step grammar = `stepper` (not seen today).
