@@ -163,3 +163,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @desitouch.vlogs (food founder): Writing your story down in one place early saves you so much time when people start asking.
 9. @ca.kushalgarg (small-business Reel): A visiting card can't be searched. Half the clients I've seen lose walk-ins just from that.
 10. @canitinsharmaa (GST/business): Keeping your business name, number and GSTIN the same everywhere online saves confusion later.
+
+## Comment drafts, 20 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
+1. @dukaandidi (any case study): The fix always looks obvious after the story. Before it, the owner is just tired and guessing.
+2. @chintunomics (any story): Chintu's mistake costs money in the first 10 seconds, that's why I keep watching. Good writing.
+3. @fewshot.studio (any explainer): Saved this. The example made it click faster than the definition did.
+4. @ca.kushalgarg (tax Reel): Free rooms and staff meals never make it to the books in small hotels. Then March comes.
+5. @canitinsharmaa (GST Reel): The notice usually isn't about fraud. It's about a bill nobody wrote down properly.
+6. @contentkahuna (animated lesson): The 3D style is getting really clean. The pause before the reveal works.
+7. @compoundlab.in (case study): Retention stories like this need more views. Owners learn more from these than from courses.
+8. @aiwith.om (AI explainer): Most small owners don't need more AI tools, they need one that does the boring job daily.
+9. @labibs_india (any kitchen Reel): You can tell how much prep happens before the first customer walks in. Respect to the team.
+10. @desitouch.vlogs (any vlog): Packaging decisions are where small brands quietly bleed money. Following the build.
