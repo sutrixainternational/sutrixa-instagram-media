@@ -1,0 +1,172 @@
+{
+ "out": "work/reel_ep11.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "hi",
+ "meta": {
+  "story": "Bablu ka Hotel (Hindi) EP11: at 11 PM Bablu holds a paper bill, the minister's room was free so how does he show it on the bill; Priya adds room 204 is under repair yet still got booked; Kaka at his chai stall says even a room that does not sell counts in the books, write the complimentary room on the bill and block the broken room on the Rizstay room board; Priya shows 204 now shows blocked on the room board so nobody can book it by mistake; Bablu: free room on the bill, 204 blocked on the board",
+  "hook": "Mantri ji ka room *free tha...*",
+  "lang": "hi",
+  "topic": "rizstay_billing_late_night",
+  "clips_src": [
+   "2026-11-19_dlg_hi_rzbill_bablu_mantri.mp4",
+   "2026-11-19_dlg_hi_rzbill_priya_204.mp4",
+   "2026-11-20_dlg_hi_rzbill_kaka_hisaab.mp4",
+   "2026-11-19_dlg_hi_rzbill_kaka_complimentary.mp4",
+   "2026-11-19_dlg_hi_rzbill_priya_roomboard.mp4",
+   "2026-11-19_dlg_hi_rzbill_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "rz_complimentary_stay_on_bill",
+   "rz_block_room_on_room_board",
+   "gen_unsold_or_free_room_still_costs"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep11/mantri.mp4",
+   "vstart": 1.9,
+   "dur": 5.0,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    3.8
+   ],
+   "punch": false,
+   "label": "BABLU KA HOTEL · EP 11 · FOLLOW KARO",
+   "say": "Mantri ji ka room free tha... ab bill mein kaise dikhaun?"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep11/priya204.mp4",
+   "vstart": 1.5,
+   "dur": 4.3,
+   "clip_voice": true,
+   "speech": [
+    0.25,
+    4.1
+   ],
+   "punch": false,
+   "label": "COMMENT ROOM · FREE 5-POINT CHECK",
+   "say": "Sir, aur 204 abhi repair mein hai, phir bhi book ho gaya!"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep11/hisaab.mp4",
+   "vstart": 0.5,
+   "dur": 6.1,
+   "clip_voice": true,
+   "speech": [
+    0.3,
+    5.35
+   ],
+   "punch": false,
+   "label": "KAKA KI SEEKH",
+   "say": "Beta, jo kamra bikta nahi, woh bhi hisaab mein aata hai."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep11/kaka.mp4",
+   "vstart": 1.0,
+   "dur": 3.9,
+   "clip_voice": true,
+   "speech": [
+    0.25,
+    3.65
+   ],
+   "punch": false,
+   "label": "1 · FREE ROOM BHI BILL MEIN",
+   "say": "Beta, Rizstay mein complimentary room bhi bill mein likho,"
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_dashboard.jpg",
+   "hl": [
+    14,
+    700,
+    244,
+    724
+   ],
+   "tap": true,
+   "audio_src": "work/ep11/kaka.mp4",
+   "astart": 4.9,
+   "dur": 3.6,
+   "speech": [
+    0.35,
+    3.5
+   ],
+   "label": "2 · KHARAB KAMRA BLOCK",
+   "headline": "Kharab kamra? *Block karo.*",
+   "hy": 1560,
+   "say": "aur kharab kamra room board pe block kar do."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/rz_dashboard.jpg",
+   "hl": [
+    14,
+    545,
+    236,
+    584
+   ],
+   "tap": true,
+   "audio_src": "work/ep11/roomboard.mp4",
+   "astart": 3.2,
+   "dur": 3.75,
+   "speech": [
+    0.25,
+    3.6
+   ],
+   "label": "2 · LIVE ROOM BOARD",
+   "headline": "204: *blocked.*",
+   "hy": 1560,
+   "say": "Sir, Rizstay ke room board pe 204 ab blocked dikhta hai..."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep11/roomboard.mp4",
+   "vstart": 6.95,
+   "dur": 2.75,
+   "clip_voice": true,
+   "speech": [
+    0.15,
+    2.45
+   ],
+   "punch": false,
+   "label": "KOI GALTI SE BOOK NAHI",
+   "say": "koi galti se book nahi kar sakta."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep11/payoff.mp4",
+   "vstart": 1.9,
+   "dur": 6.7,
+   "clip_voice": true,
+   "speech": [
+    0.25,
+    6.5
+   ],
+   "punch": false,
+   "label": "EP 12 KAL · FOLLOW KARO",
+   "say": "Ab free room bhi bill mein, aur 204 board pe blocked! Follow karo!"
+  },
+  {
+   "kind": "card",
+   "video": "work/ep11/priya204.mp4",
+   "vstart": 5.8,
+   "dur": 4.2,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep11/priya204.mp4",
+   "astart": 5.8,
+   "label": "SUTRIXA RIZSTAY",
+   "headline": "Comment *ROOM*: free 5-point check. restaurant.rizstay.com",
+   "say": " "
+  }
+ ]
+}

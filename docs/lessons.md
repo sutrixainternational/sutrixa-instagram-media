@@ -124,3 +124,9 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - CHECKED: Hindi alone does not make a hit. EP9 (Hindi, HR, kitchen people, complaint at 0.15s) = 121 views 0.67x, skip 46.5%. The 7-8x Reels (EP5, EP7) were Hindi + a food/table loss you can SEE (empty paneer tray, waiting tables). Prefer Rizstay kitchen/food topics for Hindi days; HR and office topics only with a visible object loss.
 - TRY: English with a visible rival/loss scene in frame 1 (EP10: busy hotel across the street). Read at 24h on 20 Nov.
 - CHECKED again: keyword giveaways = 0 comments (STAFF, 16th Reel). Keep alternating only because the owner rule asks for it; never count on keyword comments for reach.
+
+## 20 Nov run (EP10 at ~24h)
+- CHECKED: a visible rival/loss scene in frame 1 lowers skip in English too (EP10 44.6% vs 63-70% for EP6/EP8), but reach stays at baseline (0.94x) when the payoff is office software (website). Hook fixes skip; the topic decides reach.
+- TRY: Hindi hotel-room money loss (free VIP room missing from the bill, broken room booked) as the non-kitchen version of the EP5/EP7 recipe. Read at 24h on 21 Nov.
+- CHECKED: Veo clips can start speaking late (EP11 mantri clip at 2.1s). Always measure speech start and set vstart so the first word lands inside 0.3s.
+- CHECKED: render_reel3's face guard can see a false "head" (thumbs-up hand) in a few sampled frames and refuse the captions; shifting vstart/dur by 0.1-0.2s fixes it without touching the gate.

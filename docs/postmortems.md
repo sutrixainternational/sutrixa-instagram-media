@@ -682,3 +682,27 @@ Last-10 median: **~182** (121, 121, 136, 165, 174, 189, 200, 254, 1,359, 1,557).
 2. CTA alternation: send ask (EP9 was keyword) as the beat-2 label by ~6s ("SEND THIS TO A HOTEL WITH NO WEBSITE") + end card + caption.
 3. Real product: velocity.sutrixa.com hero twice (the "It also makes your website" line under Kaka's "Velocity makes you a one-page website"; the Get started button under Priya's "Ready in ten minutes, on my phone!"). shots/vl_hero.jpg padded to shots/vl_hero_tall.png (1.64) for the 1.6 gate; vl_examples.jpg NOT used (shows a ₹4,200 example price).
 4. Follow reason: "EP 11 TOMORROW · FOLLOW" on the payoff; ~40 s with 6 clips (5 + the spare Kaka "ten seconds" line).
+
+## 2026-11-20 run (6:47 PM, first hourly run) · post-mortem of: EP 10 (Df7MJfLkzUO, 19 Nov ~19:00 IST, Velocity, ENGLISH) at ~24h
+vidIQ owner insights OK (0 credits). Followers **35** (flat since 18 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP10 Velocity EN (19 Nov)** | **172** | **9.5s / 23.7%** | **44.6%** | 1 / 0 / 1 / 0 |
+| EP9 HR4U HI (18 Nov, ~48h) | 142 | 6.9s / 17.3% | 49.6% | 3 / 0 / 1 / 0 |
+| EP8 Voxa EN (17 Nov) | 177 | 5.6s / 13.3% | 69.6% | 1 / 0 / 2 / 0 |
+| EP7 Rizstay HI (16 Nov) | 1,558 | 13.9s / 34.7% | 35.6% | 29 / 0 / 4 / 2 |
+
+Last-10 median: **~183** (136, 142, 172, 174, 177, 189, 200, 254, 1,359, 1,558). EP10 = **0.94x**.
+
+**What worked (EP10)**: the visible-rival frame 1 cut skip to 44.6%, the best English human-voice Reel (EP8 69.6%, EP6 63.4%) and level with EP4. Avg watch 9.5s = best English. So a visible loss in frame 1 helps the hook even in English.
+**What went wrong**: reach stayed at the floor (172) and watched % 23.7% = people left once it turned into "website software". 0 saves, 1 share. A website is not a loss you can count; the 7-8x Reels had a physical object/money loss (paneer, waiting tables).
+
+**Changes for TODAY (EP11, HINDI, rizstay_billing_late_night)**
+1. Hindi + Rizstay hotel money loss you can see: Bablu at 11 PM holding a paper bill, "Mantri ji ka room free tha... ab bill mein kaise dikhaun?" spoken at 0.2s (vstart moved past the clip's silent first 2s).
+2. Second loss inside 6s: Priya, key board with a red tag on 204, "204 repair mein hai, phir bhi book ho gaya!"
+3. CTA alternation: keyword ROOM (EP10 was send) on the beat-2 label by ~5s + end card; freebie freebies/ROOM_2026-11-20.png.
+4. Real product: shots/rz_dashboard.jpg twice (the Active · Blocked legend under Kaka's "kharab kamra room board pe block kar do"; Room timeline / Room status tabs under Priya's "room board pe 204 ab blocked dikhta hai").
+5. Follow reason: "EP 12 KAL · FOLLOW KARO" on the payoff, Bablu says "Follow karo!".
+
+**Result: EP11 POSTED** https://www.instagram.com/reel/Df9xKz2CEND/ (~19:00 IST). Watch tomorrow: does a Hindi hotel-room money loss (not kitchen food) reach the EP5/EP7 level?

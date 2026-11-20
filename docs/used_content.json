@@ -494,6 +494,37 @@
     "Ready in ten minutes, on my phone!",
     "Three WhatsApp enquiries before lunch!"
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "url": "https://www.instagram.com/reel/Df9xKz2CEND/",
+   "story": "Bablu ka Hotel (Hindi) EP11: at 11 PM Bablu holds a paper bill, the minister's room was free so how does he show it on the bill; Priya adds room 204 is under repair yet still got booked; Kaka at his chai stall says even a room that does not sell counts in the books, write the complimentary room on the bill and block the broken room on the Rizstay room board; Priya shows 204 now shows blocked on the room board so nobody can book it by mistake; Bablu: free room on the bill, 204 blocked on the board",
+   "hook": "Mantri ji ka room *free tha...*",
+   "clips_src": [
+    "2026-11-19_dlg_hi_rzbill_bablu_mantri.mp4",
+    "2026-11-19_dlg_hi_rzbill_priya_204.mp4",
+    "2026-11-20_dlg_hi_rzbill_kaka_hisaab.mp4",
+    "2026-11-19_dlg_hi_rzbill_kaka_complimentary.mp4",
+    "2026-11-19_dlg_hi_rzbill_priya_roomboard.mp4",
+    "2026-11-19_dlg_hi_rzbill_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "rz_complimentary_stay_on_bill",
+    "rz_block_room_on_room_board",
+    "gen_unsold_or_free_room_still_costs"
+   ],
+   "lang": "hi",
+   "topic": "rizstay_billing_late_night",
+   "lines": [
+    "Mantri ji ka room free tha... ab bill mein kaise dikhaun?",
+    "Sir, aur 204 abhi repair mein hai, phir bhi book ho gaya!",
+    "Beta, jo kamra bikta nahi, woh bhi hisaab mein aata hai.",
+    "Beta, Rizstay mein complimentary room bhi bill mein likho,",
+    "aur kharab kamra room board pe block kar do.",
+    "Sir, Rizstay ke room board pe 204 ab blocked dikhta hai...",
+    "koi galti se book nahi kar sakta.",
+    "Ab free room bhi bill mein, aur 204 board pe blocked! Follow karo!"
+   ]
   }
  ]
 }
