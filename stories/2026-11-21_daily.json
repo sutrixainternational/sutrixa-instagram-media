@@ -1,0 +1,7 @@
+{"frames": [
+{"name": "s1_open", "kicker": "BABLU'S HOTEL · EP 12 · NEW", "headline": "Pay him for *16 hours?*", "bullets": ["Ramu forgot to clock out.", "EP 12 is on the profile"], "size": 72},
+{"name": "s2_content", "kicker": "WHAT HAPPENED", "headline": "Went home. *Never tapped out.*", "bullets": ["The sheet says 16 hours", "Two shifts a day makes it worse"], "size": 68},
+{"name": "s3_content", "kicker": "KAKA'S FIX", "headline": "Idle sessions *close on their own.*", "bullets": ["Each shift = its own session + live timer", "Staff send a correction request", "Owner approves from the phone"], "image": "shots/hr_live.jpg", "size": 64},
+{"name": "s4_ask", "kicker": "QUICK POLL", "headline": "How do you track *staff hours?*", "bullets": ["Register / App", "Reply to this story and tell me"], "size": 72},
+{"name": "s5_close", "kicker": "EP 13 TOMORROW · HINDI", "headline": "*Send EP 12* to an owner who pays by the hour.", "bullets": ["hr4u.sutrixa.com"], "foot": "@sutrixainternational", "size": 70}
+]}

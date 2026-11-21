@@ -706,3 +706,27 @@ Last-10 median: **~183** (136, 142, 172, 174, 177, 189, 200, 254, 1,359, 1,558).
 5. Follow reason: "EP 12 KAL · FOLLOW KARO" on the payoff, Bablu says "Follow karo!".
 
 **Result: EP11 POSTED** https://www.instagram.com/reel/Df9xKz2CEND/ (~19:00 IST). Watch tomorrow: does a Hindi hotel-room money loss (not kitchen food) reach the EP5/EP7 level?
+
+## 2026-11-21 run (6:47 PM, first hourly run) · post-mortem of: EP 11 (Df9xKz2CEND, 20 Nov ~19:00 IST, Rizstay, HINDI) at ~24h
+vidIQ owner insights OK (0 credits). Followers **36** (+1 since 20 Nov).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **EP11 Rizstay rooms HI (20 Nov)** | **158** | **9.8s / 24.6%** | **34.7%** | 0 / 0 / 0 / 0 |
+| EP10 Velocity EN (19 Nov, ~48h) | 184 | 8.8s / 21.9% | 48.8% | 1 / 0 / 1 / 0 |
+| EP9 HR4U HI (18 Nov) | 155 | 6.3s / 15.9% | 54.3% | 3 / 0 / 1 / 0 |
+| EP7 Rizstay kitchen HI (16 Nov) | 1,561 | 13.9s / 34.7% | 35.6% | 29 / 0 / 4 / 2 |
+
+Last-10 median: **~187** (137, 155, 158, 175, 184, 190, 192, 255, 1,360, 1,561). EP11 = **0.84x**.
+
+**What worked (EP11)**: skip 34.7% is the 3rd best ever and level with the hits (EP5 30.2%, EP7 35.6%). The spoken money complaint at 0.2s + Hindi held the first 3 seconds.
+**What went wrong**: the hook held but reach stayed at the floor (158), 0 likes, 0 shares, 0 saves. A complimentary "Mantri ji" room and a blocked room 204 are front-desk bookkeeping problems; nobody felt it enough to like or send. The hits (paneer gone, 10 tables 1 waiter) were kitchen/food losses everyone recognises. Low skip alone does not unlock the second audition: likes/sends do.
+
+**Changes for TODAY (EP12, ENGLISH, hr4u_attendance_payroll)**
+1. English day gets a kitchen scene + a wage loss anyone can count: Bablu in the kitchen at 7 AM, "Do I pay him for sixteen hours?" spoken at 0.2s, headline "Pay him for 16 hours?".
+2. Second beat is the relatable culprit (Ramu, sheepish: "I went home and forgot to tap out!") inside 6s, with the send ask on the label.
+3. CTA alternation: send ("Share this with a hotel owner who still counts staff hours from a register") on beat 2 label + end card.
+4. Real product: 3 screen beats (hr_live "live timer for each session" under Ramu's "I clock in for both", hr_live "corrections waiting for a decision" under Priya, hr_hero "attendance, leave, payroll" under "Ramu gets paid for the real hours"). hr_live given 290 px of dark top padding (shots/hr_live_top.jpg) so the zoom no longer pins the highlighted line under the headline.
+5. Follow reason: "EP 13 TOMORROW · FOLLOW" + Bablu "Follow us!".
+
+**Result: EP12 POSTED** https://www.instagram.com/reel/DgAWFDvEYHA/ (~19:10 IST). Watch tomorrow: does an English kitchen wage-loss story with a guilty-cook beat get likes/sends above the 0-3 floor?

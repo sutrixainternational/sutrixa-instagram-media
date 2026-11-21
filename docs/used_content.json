@@ -525,6 +525,39 @@
     "koi galti se book nahi kar sakta.",
     "Ab free room bhi bill mein, aur 204 board pe blocked! Follow karo!"
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "url": "https://www.instagram.com/reel/DgAWFDvEYHA/",
+   "story": "Bablu's Hotel (English) EP12: at 7 AM Bablu finds Ramu forgot to clock out last night and asks if he must pay sixteen hours; Ramu admits he went home without tapping out; Kaka says in HR4U an idle session closes on its own; Ramu works a morning and an evening shift and clocks in for both, each with its own live timer; Priya shows Ramu's correction request waiting for Bablu's decision; Bablu approves it from his phone and Ramu is paid for the real hours",
+   "hook": "Pay him for *16 hours?*",
+   "clips_src": [
+    "2026-11-20_dlg_en_hrclock_bablu_sixteen.mp4",
+    "2026-11-20_dlg_en_hrclock_ramu_tapout.mp4",
+    "2026-11-20_dlg_en_hrclock_kaka_idle.mp4",
+    "2026-11-20_dlg_en_hrclock_ramu_twoshifts.mp4",
+    "2026-11-20_dlg_en_hrclock_priya_correction.mp4",
+    "2026-11-20_dlg_en_hrclock_bablu_payoff.mp4"
+   ],
+   "facts": [
+    "hr4u_idle_session_auto_close",
+    "hr4u_multiple_sessions_live_timer_each",
+    "hr4u_attendance_correction_request_approval"
+   ],
+   "lang": "en",
+   "topic": "hr4u_attendance_payroll",
+   "lines": [
+    "Ramu forgot to clock out last night. Do I pay him for sixteen hours?",
+    "Sorry sir, I went home and forgot to tap out!",
+    "Son, in HR4U an idle session closes on its own.",
+    "No sixteen-hour shifts.",
+    "Morning shift, evening shift...",
+    "I clock in for both, sir!",
+    "And Ramu sent a correction request.",
+    "It is waiting for your decision, sir.",
+    "Approved from my phone.",
+    "Ramu gets paid for the real hours."
+   ]
   }
  ]
 }

@@ -5,6 +5,7 @@ How it grows: each post-mortem adds or updates lessons here.
 Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 
 ## Content
+- TRY (21 Nov, EP11): **a low skip rate is not enough for reach.** EP11 held 34.7% skip (hit level) but got 158 views and 0 likes/shares/saves. The hits also earned 23-29 likes: the loss was a kitchen/food problem viewers recognise. Pick losses people would like or send (food, wages, tables), not bookkeeping (complimentary rooms, blocked rooms).
 - TRY→near-PROVEN (18 Nov): **English Reels stay at/below baseline even with a money problem** (EP4 254, EP6 189, EP8 160 / skip 67.8%). Keep the owner's EN/HI alternation, but give English days the strongest physical-loss hook in a kitchen/table scene, not a desk/phone scene. EP9 (HI, HR topic, kitchen people) tests whether Hindi alone lifts a non-Rizstay topic.
 - **PROVEN (12 + 16 Nov, EP5 + EP7): Hindi kitchen-problem story with a spoken number complaint inside 0.5s = 7-8x median** (1,357 and 1,547 views, skip 30-36%, watched ~35%). Copied to rules.md.
 - PROVEN (2 Nov + 16 Nov): **comment-keyword giveaways get 0 comments**, even at 1,547 views (QR). Keep the owner's alternation, but treat keyword days as send days in disguise; never judge a Reel by keyword comments.

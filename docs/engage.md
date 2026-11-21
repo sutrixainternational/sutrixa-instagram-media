@@ -175,3 +175,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @aiwith.om (AI explainer): Most small owners don't need more AI tools, they need one that does the boring job daily.
 9. @labibs_india (any kitchen Reel): You can tell how much prep happens before the first customer walks in. Respect to the team.
 10. @desitouch.vlogs (any vlog): Packaging decisions are where small brands quietly bleed money. Following the build.
+
+## Comment drafts, 21 Nov 2026 (owner posts from the app; adapt the first words to the Reel you comment on)
+1. @dukaandidi: The part where the owner fixes the process instead of blaming the staff is the whole lesson. Most small owners skip that step.
+2. @chintunomics: Loss leaders work until nobody tracks what the "free" thing costs. Chintu should run the numbers weekly, not yearly.
+3. @fewshot.studio: That analogy finally made it click for me. Saving this one for my team.
+4. @ca.kushalgarg: Small hotels lose more to wrong staff hours than to tax mistakes, and nobody audits that. Would love a Reel on it.
+5. @canitinsharmaa: The notice usually starts with a mismatch someone ignored for months. Your checklist would save a lot of owners a bad week.
+6. @contentkahuna: Your 3D style makes a dry pricing idea feel like a story. The lassi example was perfect.
+7. @compoundlab.in: Retention beats acquisition every time in this one. Same thing happens with hotel staff, not just gym members.
+8. @aiwith.om: Good breakdown. The practical bit for small businesses is always "who checks it at 7 AM", not the tool itself.
+9. @labibs_india: People see the rolls, not the 6 AM prep. Respect for showing the real work behind the counter.
+10. @desitouch.vlogs: Packaging sourcing is the part nobody films. Which supplier question saved you the most money?

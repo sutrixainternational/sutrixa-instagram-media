@@ -1,0 +1,223 @@
+{
+ "out": "work/reel_ep12.mp4",
+ "preset": "story",
+ "beat_bpm": 0,
+ "bed": "pad",
+ "loop": false,
+ "lang": "en",
+ "meta": {
+  "story": "Bablu's Hotel (English) EP12: at 7 AM Bablu finds Ramu forgot to clock out last night and asks if he must pay sixteen hours; Ramu admits he went home without tapping out; Kaka says in HR4U an idle session closes on its own; Ramu works a morning and an evening shift and clocks in for both, each with its own live timer; Priya shows Ramu's correction request waiting for Bablu's decision; Bablu approves it from his phone and Ramu is paid for the real hours",
+  "hook": "Pay him for *16 hours?*",
+  "lang": "en",
+  "topic": "hr4u_attendance_payroll",
+  "clips_src": [
+   "2026-11-20_dlg_en_hrclock_bablu_sixteen.mp4",
+   "2026-11-20_dlg_en_hrclock_ramu_tapout.mp4",
+   "2026-11-20_dlg_en_hrclock_kaka_idle.mp4",
+   "2026-11-20_dlg_en_hrclock_ramu_twoshifts.mp4",
+   "2026-11-20_dlg_en_hrclock_priya_correction.mp4",
+   "2026-11-20_dlg_en_hrclock_bablu_payoff.mp4"
+  ],
+  "facts": [
+   "hr4u_idle_session_auto_close",
+   "hr4u_multiple_sessions_live_timer_each",
+   "hr4u_attendance_correction_request_approval"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "video": "work/ep12/sixteen.mp4",
+   "vstart": 1.25,
+   "dur": 6.3,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    4.3
+   ],
+   "punch": false,
+   "label": "BABLU'S HOTEL · EP 12 · NEW EPISODE DAILY, FOLLOW",
+   "say": "Ramu forgot to clock out last night. Do I pay him for sixteen hours?",
+   "headline": "Pay him for *16 hours?*"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/tapout.mp4",
+   "vstart": 0.85,
+   "dur": 4.3,
+   "clip_voice": true,
+   "speech": [
+    0.2,
+    2.95
+   ],
+   "punch": false,
+   "label": "SEND THIS TO A HOTEL OWNER WHO PAYS BY THE HOUR",
+   "say": "Sorry sir, I went home and forgot to tap out!"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/idle.mp4",
+   "vstart": 2.8,
+   "dur": 4.25,
+   "clip_voice": true,
+   "speech": [
+    0.3,
+    3.8
+   ],
+   "punch": false,
+   "label": "1 · IDLE SESSIONS CLOSE ON THEIR OWN",
+   "say": "Son, in HR4U an idle session closes on its own."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/idle.mp4",
+   "vstart": 7.05,
+   "dur": 2.2,
+   "clip_voice": true,
+   "speech": [
+    0.1,
+    1.1
+   ],
+   "punch": false,
+   "label": "1 · IDLE SESSIONS CLOSE ON THEIR OWN",
+   "say": "No sixteen-hour shifts."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/twoshifts.mp4",
+   "vstart": 2.55,
+   "dur": 2.55,
+   "clip_voice": true,
+   "speech": [
+    0.25,
+    1.9
+   ],
+   "punch": false,
+   "label": "2 · TWO SHIFTS A DAY? TWO SESSIONS",
+   "say": "Morning shift, evening shift..."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr_live_top.jpg",
+   "hl": [
+    36,
+    298,
+    372,
+    352
+   ],
+   "tap": true,
+   "audio_src": "work/ep12/twoshifts.mp4",
+   "astart": 5.1,
+   "dur": 3.9,
+   "speech": [
+    0.4,
+    3.25
+   ],
+   "label": "2 · A LIVE TIMER FOR EACH SESSION",
+   "headline": "A live timer for *each session.*",
+   "hy": 1560,
+   "say": "I clock in for both, sir!"
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/correction.mp4",
+   "vstart": 1.95,
+   "dur": 2.45,
+   "clip_voice": true,
+   "speech": [
+    0.3,
+    1.95
+   ],
+   "punch": false,
+   "label": "3 · STAFF SEND A CORRECTION REQUEST",
+   "say": "And Ramu sent a correction request."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr_live_top.jpg",
+   "hl": [
+    36,
+    360,
+    345,
+    412
+   ],
+   "tap": true,
+   "audio_src": "work/ep12/correction.mp4",
+   "astart": 4.4,
+   "dur": 2.9,
+   "speech": [
+    0.25,
+    1.85
+   ],
+   "label": "3 · WAITING FOR YOUR DECISION",
+   "headline": "Corrections wait for *your decision.*",
+   "hy": 1560,
+   "say": "It is waiting for your decision, sir."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/payoff.mp4",
+   "vstart": 2.85,
+   "dur": 2.45,
+   "clip_voice": true,
+   "speech": [
+    1.0,
+    2.1
+   ],
+   "punch": false,
+   "label": "4 · APPROVE IT FROM YOUR PHONE",
+   "say": "Approved from my phone."
+  },
+  {
+   "kind": "screen",
+   "image": "shots/hr_hero.jpg",
+   "hl": [
+    172,
+    282,
+    384,
+    308
+   ],
+   "tap": true,
+   "audio_src": "work/ep12/payoff.mp4",
+   "astart": 5.3,
+   "dur": 2.4,
+   "speech": [
+    0.15,
+    1.75
+   ],
+   "label": "ATTENDANCE · LEAVE · PAYROLL IN ONE PLACE",
+   "headline": "Paid for the *real hours.*",
+   "hy": 1560,
+   "say": "Ramu gets paid for the real hours."
+  },
+  {
+   "kind": "clip",
+   "video": "work/ep12/payoff.mp4",
+   "vstart": 7.7,
+   "dur": 2.3,
+   "clip_voice": true,
+   "speech": [
+    0.3,
+    1.9
+   ],
+   "punch": false,
+   "label": "EP 13 TOMORROW · FOLLOW",
+   "say": "Follow us!"
+  },
+  {
+   "kind": "card",
+   "video": "work/ep12/tapout.mp4",
+   "vstart": 5.25,
+   "dur": 4.6,
+   "speech": [
+    0,
+    0.1
+   ],
+   "audio_src": "work/ep12/tapout.mp4",
+   "astart": 5.25,
+   "label": "SUTRIXA HR4U",
+   "headline": "*Send this* to a hotel owner who pays by the hour. hr4u.sutrixa.com",
+   "say": " "
+  }
+ ]
+}
