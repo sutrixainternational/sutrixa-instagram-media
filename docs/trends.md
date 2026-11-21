@@ -507,3 +507,50 @@ Signature moves:
 - Fits Sutrixa: (1) **Persistent-headline Reels** (one fixed top headline over one watchable clip, no per-beat text) now have strong numbers on 2 scan days (16 Nov, 20 Nov): it's the cheapest format for us (one Veo dialogue clip, letterboxed, or one slow-scroll product screen) and works for GST/billing, Voxa and HR4U topics. Added as preset **letterbox**. (2) In the "GST" search the breakout was a threshold-addressed update ("< 5 cr"): for our audience, address by size ("10-40 room hotels"). (3) Keyword CTAs again name the exact deliverable (PROCESS = "how we did it"), same as 18-19 Nov.
 - Use today (next Reel, Fri 21 = Rizstay billing): put the hook clip under a **fixed 3-4 line headline in stacked black boxes (one phrase per box, line 2 = who it's for)** that stays on through the first clip beat, then cut to the product screens.
 - Presets: **new preset letterbox** (weight 2) in docs/presets.md; 3 topics L1-L3 in docs/clip_topics.md (hooks 93.8, 83.2, 80.2). Still on watch (1 day): "Raw vs Edited" layer stack (19 Nov, no repeat today). Step grammar = `stepper` (not seen today).
+
+## 2026-11-21
+Sources (laptop browser pane, read-only, ~28 page loads incl. the profile checks, no rate limit or challenge; pane hidden, Reels feed advanced by scrolling the feed container (1 load, ~29 Reels passed), play-then-pause seeks rendered frames, no vidIQ credits). Keyword searches **"restaurant business", "hotel business", "business tips"** (3 tiles each; all older than 14 days except brandbysid 15 Nov), Explore (3 tiles, 1 recent opened). 14 posts read at /p/<code>/ for og:description (same page, fetched one by one ~4s apart); durations and share/repost counts from the Reel player for the 2 beat-sheet Reels. Follower counts not loaded, so ratios vs account size are n/r.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| meghanachandani_ (20 Nov, feed) [Df9ozIHTSej] | 98 | 151 | 189 (+8 reposts) | 62s | "5 GitHub repos that can do the work of an en(tire team)" | Bold Claim + numbered Curiosity Gap | **5-item list on a grid-paper canvas** (top half) + speaker in a rounded box (bottom), keyword REPOS, English |
+| kellystratton.ai (20 Nov, feed) [Df-yShjDOSr] | 81 | 100 | 25 (+2 reposts) | 60s | "How to turn CLAUDE into your entire Content Team" | Bold Claim + Relatable Pain ("doing five jobs") | talking head + doc-snippet card and ✓ pill chips per item, keyword PLUGINS, English |
+| vibha.in.progress (19 Nov, feed) [Df7lmWRN_DI] | 367 | 732 | n/s | n/r | "Comment CAPTIONS for free styles, masterclasses..." | keyword giveaway | creator workshop promo (off-niche, kept for the keyword ratio) |
+| juliagaom (18 Nov, feed) [Df6Njj9xwyP] | 291 | 100 | n/s | n/r | "Your watch time is telling you exactly why your content isn't performing." | Correction | business-owner education, English |
+| clickskeys (18 Nov, Explore) [Df4U1cDxMzO] | 5,279 | 239 | n/s | n/r | "Yes, Clicks Communicator is a phone too!" | Correction | product brand demo (hardware, off-niche) |
+| brandbysid (15 Nov, "business tips") [DfwUv3sorZq] | 178 | 5 | n/s | n/r | "Growth doesn't happen by chance." | Bold Claim (generic) | strategy/system tips, English |
+| founders_arc (17 Nov, feed) [Df2I-LOinE7] | 96 | 33 | n/s | n/r | "No product, no revenue & looking for funding?" | Identity Trigger + Relatable Pain | startup funding explainer |
+| nikkidtales (19 Nov, feed, Pune) [Df8-z_JIAjm] | 56 | 11 | n/s | n/r | "How do we manage with 1 staff?" | Curiosity Gap (small-business question) | small-business owners' day/story (face, couple) |
+| digital_seemareddy (20 Nov, feed) [Df-Al7gCfrF] | 27 | 3 | n/s | n/r | "Astrologers ke liye Meta Ads se quality leads kaise generate karein?" | Identity Trigger (niche named) | Hinglish niche ads tips |
+| kavita.kavss (19 Nov, feed) [Df9G7Idh8jR] | 35 | 17 | n/s | n/r | "5 deals in a week? Easy! Just a little crying, 500 phone calls..." | Relatable Pain (humour) | realtor skit (face; humour only) |
+| theos.ai (17 Nov, feed) [Df3mXvEA39z] | 3 | 0 | n/s | n/r | "Afraid the manager will notice an AI is writing to them?" | Relatable Pain + stat | AI tool stat Reel (no traction) |
+Skipped: forbes_riley (motivation), nehasharmainsta2023, the_healthy_oats_bowl, maddie.theresa, sakshi__bhutada_ (personal/creator promos), the_hindu, bbcnews, timesofindia, starjalsha (news/TV), mamathatshares (edits-app tutorial), Japanese-language Reel Df9eqxBPS5D.
+
+### Beat sheet 1: meghanachandani_ "5 GitHub repos" (62s, English; 151 comments and 189 shares on 98 likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | top half: cream grid-paper canvas with a red pill "5 GitHub repos" and a **row of 5 small white cards** (icon, repo name, ★ count); bottom half: speaker in a rounded-corner box | red pill title | word-by-word caption in a band between the two halves, black bold, next word grey | static canvas, cards already in place | VO from 0s |
+| item 1-5 | 3-55s | canvas stays; the row is replaced by **one large white card per item** (the tool's real page/screenshot), labelled by a **numbered red pill** "1 Marketing Skills", "3 Hallmark"... | numbered pill + "AI-generated" tag on the screenshot | same karaoke band ("between an AI-generated") | cut to the next card every ~10s; the screenshot pops in | speech |
+| CTA | 55-62s | speaker goes **full frame**; a **mock comment bubble** slides up at the bottom: a commenter's reply showing the keyword "repos" | comment card | none | bubble slide-up | speech |
+Signature moves (render_reel3-reproducible, faceless):
+1. **Overview row at frame 0**: all N items as small cards in one row before the first one is explained, so the count is visible and the viewer stays to see all of them. For us: 3-5 small `screen` thumbnails (HR4U attendance, payroll, leave) in a row on the canvas.
+2. **Numbered red pill per item** over ONE persistent light grid canvas, the real screen in a large white rounded card (= `stepper` canvas, pill style instead of STEP n/N).
+3. **Karaoke caption band between the canvas and the clip** (current word black, next word grey) instead of captions over footage.
+4. **Mock comment bubble showing the keyword** on the last beat: tells the viewer exactly what to type. Only on keyword days (CTA alternation), with an invented handle such as "hotel.owner".
+5. Bottom half = our character `clip` (Bablu/Priya) instead of a face.
+
+### Beat sheet 2: kellystratton.ai "Claude as your content team" (60s, English; 100 comments on 81 likes)
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | creator at home, glasses, hand gesture, warm practical light | 3-line headline top centre in a white rounded box, black bold: "How to turn CLAUDE / into your entire / Content Team" | single big word lower third (white, bold, shadow) | handheld | VO |
+| items | 3-48s | same take | per item: a **doc-snippet card** (white, a highlighted sentence in yellow) + **✓ pill chips** ("✓ TONE" "✓ WORDS") under it | single word ("AGAINST") lower third | cards pop in per point, no cuts seen | speech |
+| CTA | 48-60s | same take | platform icon tiles (Instagram, TikTok) pop in mid-frame | single word ("TIKTOK") | tile pop | speech |
+Signature moves:
+1. **Highlighted-sentence card**: a white card with 2-3 lines of real text, one phrase highlighted yellow = our `screen` crop of a real product page with a yellow `hl` box on the one line that proves the point.
+2. **✓ pill chips** naming what the item covers (2 words max each), stacked under the card: e.g. "✓ ATTENDANCE ✓ PAYROLL".
+3. **Icon tiles for "where it works"** (WhatsApp, Google, Instagram tiles for Velocity/Voxa).
+(Face-to-camera itself is not copied.)
+
+- Fits Sutrixa: (1) The **numbered list + keyword giveaway** is now strong on 3 scan days (13 Nov namansoni 456 shares, 18 Nov _post2all 4,724 comments, today 2 Reels with comments > likes). It is our `countdown`/`stepper` with the keyword CTA, so **no new preset**; the new grammar is the frame-0 overview row, the numbered red pill and the mock comment bubble. (2) Both winners are "AI does the work of a team" in English: for us "HR4U does the work of a payroll clerk" style, backed only by products.md facts. (3) Keyword searches for restaurant/hotel business returned only old posts (3rd day the web keyword grid shows 3 stale tiles).
+- Use today (next Reel, Sat 21 = HR4U attendance/payroll, EN, send-CTA day): open on a light canvas with a **row of 3 small HR4U screen cards** (the overview) above the character clip, then give each step a **numbered red pill + one large screen card** with a yellow highlight on the proving line; save the mock comment bubble for the next keyword day.
+- Presets: **no new preset** (list + keyword = `countdown`/`stepper`). Still on watch: "Raw vs Edited" layer stack (19 Nov only).
