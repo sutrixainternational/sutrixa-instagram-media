@@ -19,5 +19,6 @@ Pick the SUBJECT, not the wording. Two Reels about GST on hotel rooms or hotel f
 | rizstay_menu_pricing | menu prices, dish mix, best sellers (added 15 Nov) |
 | voxa_setup_leads | Voxa setup steps, training on FAQs, lead qualifying (added 15 Nov) |
 | hr4u_training_promotions | training assign/track, promotions with salary history, staff retention (added 15 Nov) |
+| hr4u_workload | hours vs a 40-hour week, overload/bench alerts, reallocating work (added 22 Nov) |
 
 Add a new row when a genuinely new subject comes up.

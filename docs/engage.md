@@ -1,36 +1,36 @@
 # Daily engagement list (ig-comment / ig-plan)
 10 slots: 5 reach, 3 peers, 2 buyers. Only handles verified as existing. Never guess a handle.
 
-Refreshed 15 Nov 2026 (weekly review). How each was verified:
-- **profile 15 Nov** = vidIQ `vidiq_ig_profile` fetched the live public profile in this run (name, followers, bio shown below).
-- **outlier 15 Nov** = returned by vidIQ outlier search in this run with a Reel posted 23 Oct-12 Nov (permalink in docs/swipe.md or below), so the account exists and is active. Not a full profile read.
+Refreshed 22 Nov 2026 (weekly review). How each was verified:
+- **profile 22 Nov** = vidIQ `vidiq_ig_profile` fetched the live public profile in this run (name, followers, bio shown below).
+- **outlier 22 Nov** = returned by vidIQ outlier search in this run with a Reel posted 11-19 Nov (permalink below and in docs/swipe_niche_2026-11-22.tsv), so the account exists and is active. Not a full profile read.
 The cloud can't open instagram.com. Comments are drafted by ig-comment and posted by the owner from the app. Never automated.
 
 ## Reach (5): comment early, before the thread is deep
 | handle | who | verified | why |
 |---|---|---|---|
-| @dukaandidi | Hindi animated business case studies, 107K | outlier 15 Nov (cafe laptop-customers Reel, 2.5M views, 12.6x, 10 Nov) | the format we're adopting (casestudy); small-business owners in the comments |
-| @chintunomics | Hindi animated business stories ("Chintu"), 138K | outlier 15 Nov (car-wash loss-leader Reel, 2.0M, 13.2x, 23 Oct) | same audience, story format |
-| @fewshot.studio | Hinglish explainers with analogies, 251.9K | profile 15 Nov | biggest reach on the list |
-| @ca.kushalgarg | CA, tax and money-saving Reels, 21K | profile 15 Nov | GST-paying owners read his comments |
-| @canitinsharmaa | GST/tax explainer (GST notices), 146K | outlier 15 Nov (GST notices Reel, 887K, 90x, 30 Oct) | business owners worried about GST |
+| @dukaandidi | Hindi animated business case studies, 143.2K | outlier 22 Nov (boutique bargaining Reel, 1.7M views, 3.5x, 14 Nov: instagram.com/reel/DfuEOJ_yisL) | the casestudy format; small-business owners in the comments |
+| @dr.shantanu_hotel_consultant | hotel consultant, Maharashtra, 82K | outlier 22 Nov (new-hotel masterclass Reel, 83.8K, 6.1x, 17 Nov: instagram.com/reel/Df13t3ppESZ) | the only account on the list whose comments are full of hotel owners |
+| @gurpreetexplains | Hindi retail growth tactics, 21K | outlier 22 Nov (repeat-customer "lucky dip" Reel, 342.6K, 24.8x, 13 Nov: instagram.com/reel/DfrrTAayO0U) | shop and restaurant owners, practical tone like ours |
+| @lalit_ubon | Hindi "shop vs business" lessons, 12.1K | outlier 22 Nov (Reel 308.4K, 73.8x, 19 Nov: instagram.com/reel/Df7FB2SMyQ8) | owners stuck sitting at the counter = HR4U/Rizstay pain |
+| @aniskhatri.business | Hindi talking-head on scaling a dukaan, 4.9K | outlier 22 Nov ("12-12 ghante dukaan par", 201K, 20.9x, 12 Nov: instagram.com/reel/DfoGXxFoUmK) | delegation/systems angle, close to our size |
 
 ## Peers (3): same field, reciprocates
 | handle | who | verified |
 |---|---|---|
-| @contentkahuna | 3D animated Hindi business lessons, 1.4K followers | outlier 15 Nov (decoy-pricing lassi Reel, 160K, 69.7x, 12 Nov) |
-| @compoundlab.in | animated Hindi business case studies, 208 followers | outlier 15 Nov (gym retention Reel, 85.9K, 335x, 11 Nov) |
-| @aiwith.om | Hinglish AI/business explainers, 25.9K | profile 15 Nov |
+| @yashkiyukti | 3D animated restaurant-business lessons, 3K | outlier 22 Nov ("chef gayab" Reel, 227.4K, 90.4x, 11 Nov: instagram.com/reel/Dfm9MX7hsmX; menu psychology, 153.6K, 15 Nov) |
+| @financeby_ca_suraj | CA, animated Hindi shop-finance stories, 2K | outlier 22 Nov (owner's salary Reel, 95.6K, 32.6x, 17 Nov: instagram.com/reel/DfxUoKoRdsi) |
+| @dukan.doctor | animated Hindi shop tactics, 1.6K | outlier 22 Nov ("1499 ke joote" bonus vs discount, 49.9K, 17.9x, 12 Nov: instagram.com/reel/DfolPHFsyGn) |
 
 ## Buyers (2): never pitch, comment for weeks first
 | handle | who | verified |
 |---|---|---|
-| @labibs_india | LABIB's: shawarma/rolls restaurant brand since 2014, franchising, 1.4K followers | profile 15 Nov (Reel on the work behind a restaurant, 185.8K, 74x, 10 Nov). Rizstay/Velocity fit |
-| @desitouch.vlogs | founder building a healthy-food brand, 4.6K followers | profile 15 Nov (packing-material sourcing vlog, 265K, 38.4x, 11 Nov). Velocity/HR4U fit later |
+| @labibs_india | LABIB's: shawarma/rolls/coffee brand since 2014, franchising, 1.4K followers, 698 posts | profile 22 Nov (bio "Franchise With Us", Zomato order link). Rizstay/Velocity fit |
+| @desitouch.vlogs | founder building a healthy-food brand, 5.3K followers (4.6K on 15 Nov) | profile 22 Nov (bio "Building a healthy food brand"). Velocity/HR4U fit later |
 
 ## Dropped this week
-- @cadeveshthakur.official, @ca.himanigarg, @ganesh.debnath__, @vanturexmedia, @gstify: not re-verified this run (last checked 28 Oct-8 Nov); swapped for accounts verified today. They can come back after a fresh check.
-- @riyaazamlani stays off (wrong person, 8 Nov).
+- @chintunomics, @fewshot.studio, @ca.kushalgarg, @canitinsharmaa, @contentkahuna, @compoundlab.in, @aiwith.om: not re-verified in this run, so rotated out (they were real on 15 Nov; can come back once re-checked). Swapped for accounts with a Reel from the last 11 days, including the first hotel-owner audience (@dr.shantanu_hotel_consultant).
+- Not added: @digitalstaff.in (1.6K, 70.3x): sells an AI sales agent, a competitor to Voxa, so no comments there.
 
 ## Comment drafts, 15 Nov (ig-comment). Post only under a Reel where it fits; edit to the Reel you see. Never pitch, never link.
 1. @dukaandidi (cafe laptop Reel): Every cafe owner has met this customer. Most just suffer quietly instead of fixing the rule.

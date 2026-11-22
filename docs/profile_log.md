@@ -306,3 +306,17 @@
   2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 16 days; now 11th on the grid, low priority).
   3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
   4. **Answer the bio question** (asked 13 Nov, 8 days): keep "Enterprise AI | Agency" (with both India offices, against the 28 Oct HQ-only rule), or switch to option A or B from the 15 Nov weekly review.
+
+## 2026-11-22 (weekly review, ig-profile with rubric.json; vidIQ owner profile fields, no live browser view)
+- Read via vidIQ owner insights 22 Nov: name "Sutrixa | AI Business Software", bio `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta | Bengaluru` (unchanged), link sutrixa.com, **42 posts, 37 followers** (15 Nov: 32), 4 following. Pinned posts, highlights and stories can't be read from the API: carried from the 21 Nov live view (0 pinned, no highlights, story archive empty). Not changed by this task.
+- **Why it matters this week:** 3,402 accounts reached and 3,988 views (15-22 Nov) gave 38 profile visits and +5 followers. Two Reels went past 1,400 reach (EP7, EP12). A visitor who taps through sees "Enterprise AI | Agency", nothing pinned, no story ring.
+- **Score 57/100** (= 21 Nov; 15 Nov review 53): name 10/12 · bio line 1 6/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 10/10 (7 Reels in 7 days) · stories 0/6.
+- **Copy-ready fixes, in order of points lost (owner edits in the app):**
+  1. **Pin 3 (+8), updated list:** EP7 https://www.instagram.com/reel/Dfzx4_Wjk1d/ (1,561 views, best on the account) · EP12 https://www.instagram.com/reel/DgAWFDvEYHA/ (1,513 in a day, English) · EP5 https://www.instagram.com/reel/DfpIdH3jwPD/ (1,362). Profile → each Reel → ⋯ → Pin to your profile.
+  2. **Bio (+5 to +6):** option C, new this week, built on what visitors actually arrive from (kitchen episodes). 148 of 150 characters (Instagram counts emoji differently, so check the counter in the app), no prices, no InfraRobo:
+     `Bablu's Hotel: 1 kitchen/staff fix a day 🍳` / `Apps for Indian hotels & restaurants` / `Rizstay · Voxa · HR4U · Velocity` / `📍 Mississauga · Kolkata · Bengaluru`
+     Options A and B from 15 Nov still stand if preferred.
+  3. **Post 3 Stories from the phone (+4 to +6), then highlights (+4 to +8):** START, BABLU'S HOTEL, then one per product. Frames are in stories/.
+  4. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (+1 grid).
+  5. **Name (optional, +0 to +2):** fine at 10/12. If changed: `Sutrixa | Hotel & Restaurant Apps` is 33 characters, too long; use `Sutrixa | Hotel, GST & HR apps` (30).
+- Honest re-score if 1-4 are done: about 76/100. The remaining points need a story habit and a profile photo that reads at 40 px; no rewrite fixes those.

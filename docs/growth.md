@@ -213,3 +213,57 @@ Median of the 11 counted: **135** views (last week 102; older Reels kept gaining
 - **Profile:** 53/100 (13 Nov: 54). Fixes: pin EP5/EP4/EP3, bio options A/B, 3 Stories then highlights, delete the 4 Nov repeat. See docs/profile_log.md.
 - **Carousel:** "Where did your paneer go?" 10 slides on branch c/2026-11-15 (caption READY; ig-human 66.8 caption / 71.5 slides; no product pricing, ₹ figures are a labelled ingredient-cost example).
 - **ig-repurpose:** skipped, no long asset shared.
+
+## Week ending 22 Nov 2026 (fifth weekly review)
+
+### Run status
+- vidIQ owner insights pulled 22 Nov (~04:50 UTC), free. All numbers are Instagram's own, lifetime per Reel; nothing rounded up. EP12 (21 Nov) is under a day old and EP11 two days old, so both will still grow.
+- Agent Reach installed for the first time (v1.6.1) and `agent-reach doctor` ran, but no channel was usable: YouTube blocked by the session's network proxy (403), Reddit's helper download 403, Instagram needs a login. Research = vidIQ outlier search (2 searches, 10 credits; 100 left, renew 13 Dec) + NewEngen (20 Nov) and SocialPilot (17 Nov).
+- **7 Reels in 7 days** (EP6-EP12, 15-21 Nov), all story preset. No missed day. The 22 Nov HINDI EP13 is at risk: 3 of its clips are stuck in Gemini chats because Drive for desktop on the laptop stopped syncing on 20 Nov 17:02 UTC.
+- **No carousel has ever been posted**: the 1, 8 and 15 Nov carousels (branches c/2026-11-01, -08, -15) are not in the media list.
+
+### Numbers
+- Followers: **37**. Last week: **32**. Change: **+5** in 7 days.
+- Gap to the 100,000 target: **99,963** with 2 days left (24 Nov) = **~49,980 a day**. **The target will not be met.** The account has gained 33 followers since 25 Oct. Honest next marks: 50 followers, and one Reel past 5,000 views.
+- Account 15-22 Nov: reach **3,402** accounts (last week 1,456), views **3,988** (last week 1,688), profile visits **38**, content interactions **79**. follows_and_unfollows returned no data. Follows per reach ≈ 0.15%; profile visits per reach ≈ 1.1%.
+- 0 comments on every Reel again (keyword asks on EP7, EP9, EP11 included).
+
+| date | preset | product | lang | hook (on screen) | len | views | reach | x median | avg watch | watched | skip | shares | saves | likes |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 16 Nov | story EP7 | Rizstay QR orders | hi | 10 table, 1 waiter... order mein 10 minute! | 40s | **1,561** | 1,436 | **8.2x** | 13.9s | 34.7% | 35.6% | **4** | 2 | 29 |
+| 21 Nov | story EP12 | HR4U attendance | en | Pay him for 16 hours? | 40s | **1,513** | 1,388 | **8.0x** | 12.9s | 32.4% | 35.8% | 0 | 2 | 19 |
+| 12 Nov | story EP5 | Rizstay stock | hi | Kal 5 kilo paneer aaya. Aaj khatam? | 40s | 1,362 | 1,248 | 7.2x | 14.0s | 35.0% | 30.2% | 1 | 2 | 23 |
+| 8 Nov | story EP4 | Velocity | en | Our food is better. So why are we empty? | 40s | 257 | 216 | 1.35x | 9.4s | 23.5% | 45.4% | 1 | 1 | 5 |
+| 17 Nov | story EP8 | Voxa | en | 30 enquiry calls. Only 2 bookings? | 42s | 192 | 154 | 1.01x | 5.3s | 12.6% | 70.5% | 2 | 0 | 2 |
+| 15 Nov | story EP6 | HR4U onboarding | en | New chef Monday. His papers? Somewhere in here. | 40s | 190 | 164 | 1.00x | 7.1s | 17.7% | 63.6% | 1 | 0 | 3 |
+| 19 Nov | story EP10 | Velocity | en | They booked the hotel across the street. | 40s | 186 | 156 | 0.98x | 8.7s | 21.9% | 48.4% | 1 | 0 | 1 |
+| 5 Nov | story EP3 | HR4U | hi | Stop counting staff in a register. | 40s | 175 | 137 | 0.92x | 7.8s | 19.4% | 61.0% | 2 | 0 | 1 |
+| 20 Nov | story EP11 | Rizstay front desk | hi | Mantri ji ka room free tha... | 40s | 160 | 142 | 0.84x | 9.8s | 24.5% | 34.9% | 0 | 0 | 0 |
+| 18 Nov | story EP9 | HR4U training | hi | 3rd cook gone this year. | 40s | 155 | 134 | 0.82x | 6.3s | 15.9% | 54.3% | 1 | 0 | 3 |
+| 7 Nov | tips | Rizstay GST | en TTS | Don't bill hotel dinners at 5%. | 49s | 137 | 101 | 0.72x | 4.6s | 9.4% | 85.7% | **9** | 0 | 1 |
+| 4 Nov | counter | Rizstay GST | hi | Stop charging 18% on ₹7,000 rooms. | 26s | 201 | 162 | excluded (repeat) | 6.3s | 24.0% | 58.7% | 1 | 0 | 1 |
+Median of the 11 counted (5-21 Nov): **190** views (last week 135 over 26 Oct-12 Nov).
+
+### ig-audit (n = 11, low confidence; the account's distribution is bimodal: ~1,400+ or ~150-250)
+- **Best Reel: EP7 "10 table, 1 waiter"** (8.2x, 4 shares, 29 likes, skip 35.6%). Why: Bablu says a visible floor problem with three numbers in the first second (tables, waiter, minutes); Ramu idle at the pass; Kaka's one-line principle; a real Rizstay menu/QR screen. **EP12 "Pay him for 16 hours?"** is level with it after one day, in English, so it isn't the Hindi.
+- **Worst Reel (counted): 7 Nov tips "Don't bill hotel dinners at 5%"** (0.72x, skip 85.7%, narrator over a cropped landscape clip), though it still has the best sends per reach (9 on 101). **Worst this week: EP9 "3rd cook gone this year"** (0.82x, skip 54.3%): a resignation letter and a 'why' question, no visible loss in the frame. EP11 (0.84x, 0 likes) is the other: a bill at a desk.
+- **By preset:** story n=10 in the window, mean 2.97x this week but median 1.0x; it holds all 3 breakouts. tips n=1 in the window, 0.72x. Nothing else was posted, so casestudy, counter, stepper, stages, pov, letterbox and quiz are still untested. The plan for 2 casestudy + pov + counter + stages last week became 7 story Reels.
+- **By product:** Rizstay 2 breakouts (QR orders, stock) and 1 stall (front desk); HR4U 1 breakout (attendance) and 2 stalls (onboarding, training); Velocity and Voxa 0 of 3. Leaning: restaurant-floor and wage problems, not the product itself.
+- **By hook formula:** EP7 classifies as #11; EP12 and EP5 are unclassified concrete-number questions. The 3 breakouts share a shape, not a formula id: physical loss + number + kitchen/floor scene in the first second.
+- **By hook score:** 5th week with no signal. Breakouts 48-51; EP8 scored 62.6 and stalled.
+- **By clip topic:** kitchen/floor/wages (paneer, tables, 16 hours) 3 of 3 broke out; desk/phone/paper (onboarding papers, enquiry calls, website, free room, training) 0 of 5.
+- **By length:** every story Reel is 40-42s (owner rule), so length can't explain the split.
+- **Language:** breakouts HI, EN, HI; stalls EN ×3, HI ×2. No effect.
+- **Views without follows:** EP7 + EP12 reached ~2,800 accounts and the account gained 5. Profile visits were 38 for 3,402 reach. Both a reason-to-visit problem (end card) and a profile problem (0 pinned, "Enterprise AI | Agency" bio, no story ring).
+
+### Decisions
+- **Weights** (docs/presets.md): story 6 · casestudy 5 · counter 3 · tips 2 · stepper 2 · stages 2 · pov 2 · letterbox 2 · proof 1 · countdown 1 · eli5 1 · quiz 1. Was story 6 · casestudy 4 · tips 3 · counter 3 · stepper 2 · stages 2 · pov 2 · letterbox 2 · proof 1 · countdown 1 · eli5 1 · quiz 1. **2 casestudy Reels are booked for 23-29 Nov** so something other than story finally gets a count.
+- **New preset:** none. "No, No, No... Yes!" is on NewEngen for a 3rd week but still has only one source.
+- **Hooks** (docs/rules.md 22 Nov): kitchen/floor scene, physical loss + number in the first second, Ramu in beat 1-2; desk/phone/paper openers paused until one beats 2x; hookscore logged, not gated.
+- **Clip topics** (docs/clip_topics.md): 23 EN casestudy rizstay_menu_pricing · 24 HI story hr4u_workload (new topic) · 25 EN casestudy voxa_missed_calls · 26 HI story rizstay_stock · 27 EN velocity_social_posting · 28 HI casestudy gst_hotel. All lines pre-checked against used_content.json (max 0.57).
+- **Engage** (docs/engage.md): 10 accounts verified today (8 by outlier Reels dated 11-19 Nov, 2 buyers by profile fetch), including the first hotel-owner audience (@dr.shantanu_hotel_consultant). @digitalstaff.in left out (sells an AI sales agent).
+- **Swipe** (docs/swipe.md, docs/swipe_niche_2026-11-22.tsv): 15 niche Reels, 15 accounts, + our 5.
+- **Profile:** 57/100 (15 Nov: 53). Fixes: pin EP7/EP12/EP5, bio option C, 3 Stories then highlights, delete the 4 Nov repeat. See docs/profile_log.md 22 Nov.
+- **Carousel:** "How long does one order take?" 10 slides on branch c/2026-11-22 (caption READY; ig-human 75.9 caption / 65.7 slides; no product pricing; the 8 min × 30 tables figure is a labelled example).
+- **ig-repurpose:** skipped, no long asset shared.
+- **Next review falls after 24 Nov**, so per the scheduled task it sends a final summary and stops.
