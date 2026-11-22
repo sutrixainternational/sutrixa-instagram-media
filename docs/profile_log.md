@@ -320,3 +320,15 @@
   4. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (+1 grid).
   5. **Name (optional, +0 to +2):** fine at 10/12. If changed: `Sutrixa | Hotel & Restaurant Apps` is 33 characters, too long; use `Sutrixa | Hotel, GST & HR apps` (30).
 - Honest re-score if 1-4 are done: about 76/100. The remaining points need a story habit and a profile photo that reads at 40 px; no rewrite fixes those.
+
+## 2026-11-22 (daily run, ig-profile with rubric.json, live view ~13:00 IST; Sunday deeper pass uses the 22 Nov weekly review above)
+- Live profile: name "Sutrixa | AI Business Software", category "Software", bio `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta |...` (the owner's edit, unchanged), link sutrixa.com (+1 more), 42 posts (EP12 DgAWFDvEYHA, HR4U EN, 21 Nov; today's Reel runs at 18:47 IST), **36 followers** (vidIQ said 37 this morning), 4 following. 0 pinned posts, no highlights (only "New"), story archive still EMPTY ("Add to your story"). Grid first 9: EP12, EP11, EP10, EP9, EP8, EP7, DfwiDjID4zu, EP5, Dffbuyxkq9y.
+- **Not changed: bio.** The 13 Nov bio question is still unanswered, so the owner's edit stays; option C from the weekly review (above) is ready if they pick it.
+- **Not changed: name** (none before the weekly review recommends one; the review rates it fine at 10/12). Highlights: not possible (archive empty).
+- Captions: EP12 (DgAWFDvEYHA, HR4U) checked against docs/products.md (idle sessions auto-close, multiple sessions a day with a live timer, correction requests): matches; no pricing, no InfraRobo. No fix needed. 19 likes, 0 comments at ~1 day.
+- **Score 57/100** (=): name 10/12 · bio line 1 6/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 10/10 (7 Reels in 7 days: 15-21 Nov) · stories 0/6.
+- App-only to-dos still open:
+  1. **Pin 3** (open since 30 Oct, 23 days), list updated by the weekly review: EP7 https://www.instagram.com/reel/Dfzx4_Wjk1d/ (best views on the account) · EP12 https://www.instagram.com/reel/DgAWFDvEYHA/ (1,513 views in a day) · EP5 https://www.instagram.com/reel/DfpIdH3jwPD/. +8.
+  2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 17 days; 12th on the grid, low priority).
+  3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
+  4. **Answer the bio question** (asked 13 Nov, 9 days): keep "Enterprise AI | Agency", or switch to option A, B or C.

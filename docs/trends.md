@@ -554,3 +554,55 @@ Signature moves:
 - Fits Sutrixa: (1) The **numbered list + keyword giveaway** is now strong on 3 scan days (13 Nov namansoni 456 shares, 18 Nov _post2all 4,724 comments, today 2 Reels with comments > likes). It is our `countdown`/`stepper` with the keyword CTA, so **no new preset**; the new grammar is the frame-0 overview row, the numbered red pill and the mock comment bubble. (2) Both winners are "AI does the work of a team" in English: for us "HR4U does the work of a payroll clerk" style, backed only by products.md facts. (3) Keyword searches for restaurant/hotel business returned only old posts (3rd day the web keyword grid shows 3 stale tiles).
 - Use today (next Reel, Sat 21 = HR4U attendance/payroll, EN, send-CTA day): open on a light canvas with a **row of 3 small HR4U screen cards** (the overview) above the character clip, then give each step a **numbered red pill + one large screen card** with a yellow highlight on the proving line; save the mock comment bubble for the next keyword day.
 - Presets: **no new preset** (list + keyword = `countdown`/`stepper`). Still on watch: "Raw vs Edited" layer stack (19 Nov only).
+
+## 2026-11-22
+Sources (laptop browser pane, read-only, ~23 page loads incl. the profile checks; a first og-fetch loop timed out on the tool side and may have kept running in the page, so the true count may be up to ~33. No rate limit or challenge. Pane hidden; Reels feed advanced by scrolling the feed container (1 load, 14 Reels passed); play-then-pause seeks rendered frames; no vidIQ credits). Keyword searches **"small business India", "AI tools for business", "customer calls"** (web keyword grid: "small business India" all older than 14 days; 1 recent in "AI tools"; 3 recent in "customer calls", all tiny). Explore not loaded (budget). 11 posts read at /p/<code>/ for og:description (fetched one by one ~4s apart); durations, shares and reposts from the Reel player for the 2 beat-sheet Reels. Follower counts not loaded, so ratios vs account size are n/r.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| bigbrandtales_official (21 Nov, feed) [DgAV3Eav1F4] | 748 | 3 | 407 (+19 reposts) | 30s | "Ad sau logon ne dekha, kharida sirf ek ne?" (caption: "A hundred people saw your ad. Only one bought?") | Relatable Pain + number contrast | **animated hand-drawn diagram explainer**: one funnel on a cream canvas for the whole Reel, dots fall through it, a stage label is added each beat, Hinglish handwritten line on top |
+| aiwithshivang (11 Nov, "AI tools for business") [DfoDKlGH4nN] | 254 | 590 | n/s | n/r | "Comment BUSINESS to get the complete guide" | keyword giveaway | AI tools for business owners guide (keyword ratio 2.3 comments per like) |
+| mihad.builds (21 Nov, feed) [DgBRDmvhnm9] | 41 | 78 | n/s | 41s | "Claude YouTube Agent Skill: 11 AI skills that run your entire YouTube channel" | Bold Claim + numbered list | AI-tool list, keyword (comments > likes, 4th scan day for list + keyword) |
+| hameddd1998 (21 Nov, feed) [DgBR2HRza8s] | 39 | 34 | 39 | 19s | "Bad vs. good vs. perfect Black Friday emails in 2026" | Curiosity Gap (ranking) | **3-tier ranking**: BAD · GOOD · PERFECT header, three real examples side by side, the current tier lit, face cutout in front |
+| hartimesocial (21 Nov, feed) [Df_w08uJTHV] | n/s | n/s | n/s | 32s | "Instagram is not the same anymore." | Correction | 6-item tips list (caption list), English |
+| sam.gaudet (21 Nov, feed) [DgBEgoxykQX] | 45 | 1 | n/s | 46s | "New trial reel method" | Curiosity Gap | creator tip, talking head |
+| niki.aroca (21 Nov, feed) [DgBaz-AIaQ7] | n/s | n/s | n/s | 26s | "GTA styled websites. Comment GTA..." | keyword giveaway | AI web-design demo (off-niche) |
+| wright_mode (21 Nov, feed) [DgBfBBvjyC0] | 17 | 5 | n/s | 32s | "Drop WRIGHTMODE to join..." | keyword (community) | AI tool news (off-niche) |
+| fewz0n (17 Nov, "customer calls") [Df1pRZjzP1s] | n/s | n/s | n/s | n/r | "comment CALL and I'll DM you the link" | keyword giveaway | AI calling tool (no traction) |
+| heenakshig16 (14 Nov, "customer calls") [DfujE5_Me7h] | 20 | 2 | n/s | n/r | "Bhagwan aise customers sabko de..." | Relatable Pain (humour) | customer-call skit, food brand (face) |
+| xclusivedesk (12 Nov, "customer calls") [Dfq4mSiF7WS] | 5 | 0 | n/s | n/r | "Managing the rising number of customer calls? That's where things get tricky." | Relatable Pain | call-centre software promo (no traction) |
+Skipped: shreyakashera_ (travel), sonylivindia (cricket), teamdiljitglobal (music), happyghostprod (ad), mehakmarketing (older, 23 Oct), akshditi.arora, just_sfurti (personal/creator promos).
+
+### Beat sheet 1: bigbrandtales_official "Ad sau logon ne dekha" (30s, Hinglish; 407 shares on 748 likes, 3 comments)
+Screenshots at 0.5s, 7s, 14s, 21s, 28s.
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | cream paper canvas, a hand-drawn grey funnel centre frame, ~40 black dots falling in from the top, a small bowl under the spout; brand logo small top-left | handwritten line top: "Ad sau logon ne dekha, / kharida sirf ek ne?" | none besides the top line | dots fall continuously, 1-2 drop out past the rim | VO (muted here) |
+| reframe | 3-10s | same funnel, same framing | top line swaps: "Ye problem nahi, yahi funnel hai." | top line only | dots keep flowing, more fall off the sides | |
+| layers | 10-21s | same funnel; ring labels written in one by one on the right: DEKHA → INTEREST → TRUST → KHAREEDA (last one orange); a left label "CHALE GAYE" for the drop-outs | "Unme se kuch trust karte hain." → "Har step par log kam hote hain." | top line only | the dots that reach the bowl turn orange | |
+| payoff | 21-30s | same funnel, bowl now full of orange dots; big brand logo pops in under the funnel | "Yahi hai marketing funnel." | top line only | logo pop, loop back to the falling dots | |
+Signature moves (render_reel3-reproducible, faceless):
+1. **One drawn diagram for the whole Reel**: the camera never cuts; only the line on top changes and one label is added per beat. With us: a funnel/flow PNG drawn once (PIL or a Gemini image) and re-rendered per beat as consecutive `screen` beats, a new label + `hl` box each beat.
+2. **People as dots**: 30-100 dots flow through the diagram, the ones that drop out fall off the sides and get one label ("CHALE GAYE" = "gone"); the survivors change colour (orange) at the bottom. The loss is visible without a single number on screen.
+3. **Plain-language stage labels in the viewer's own words** (DEKHA, INTEREST, TRUST, KHAREEDA), the last one in the accent colour: for Voxa "CALL AAYA → UTHAYA → POOCHHA → BOOK HUA".
+4. **Handwritten one-line top caption, one sentence per beat**, no word-by-word karaoke: quiet, screenshot-friendly.
+5. **Loop**: last frame returns to falling dots so the replay is seamless.
+This is the 2nd scan day for the "problem as an animated diagram with dots" grammar: 18 Nov shahfahid.dev opened on 6 table circles with orange waiting dots popping (9.8K shares on 13K likes); today it carries the whole Reel (407 shares on 748 likes, 0.54 shares per like).
+
+### Beat sheet 2: hameddd1998 "Bad vs good vs perfect" (19s, English; 34 comments and 39 shares on 39 likes)
+Screenshots at 0.5s, 5s, 10s, 17.5s.
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-4s | creator cut out in front (bottom half); behind him 3 real email screenshots side by side in tall columns | white title top "Black friday emails in 2026" + tier row "BAD (red, lit) · GOOD · PERFECT" | none | the lit column is full opacity, the other two dimmed | VO |
+| tier 2 | 4-9s | same; middle screenshot comes forward | "GOOD" lit yellow, BAD/PERFECT dim | none | cross-fade of the lit column | |
+| tier 3 | 9-15s | same; right screenshot forward, a red glow behind it | "PERFECT" lit green | none | the next round's 3 examples slide in (5 rounds total per the caption) | |
+| close | 15-19s | creator alone, full frame, no overlay | none | none | static | speech |
+Signature moves:
+1. **Fixed 3-tier header (BAD · GOOD · PERFECT)** with only the current tier lit (red → yellow → green): our `screen` beats with a 3-slot label row at the top, the same row on every beat.
+2. **Three real examples side by side, current one full opacity, others dimmed**: three Rizstay/Voxa/Velocity outcomes ("BAD: paper bill · GOOD: Excel · PERFECT: GST bill in one tap"), all from products.md.
+3. **Rounds**: the same 3-tier comparison repeated for 3-5 rounds in under 20s, a new visual every ~2s.
+(1 day only for this format; on watch. The face cutout is not copied.)
+
+- Fits Sutrixa: (1) **Animated diagram explainers** (one drawn funnel/flow, dots as customers or calls, a label per beat) have strong share numbers on 2 scan days (18 Nov, 22 Nov), are fully faceless and teach a business principle a viewer can use without buying: added as preset **diagram** (weight 2). Best fits: Voxa (calls → answered → booked), Velocity (walked past → found you on Google → visited), Rizstay stock (bought → used → sold, with waste as the drop-out). (2) List + keyword giveaways again have comments > likes (aiwithshivang, mihad.builds: 4th scan day), still our `countdown`/`stepper` with the keyword CTA. (3) "Bad vs good vs perfect" ranking is new and fits our product screens; 1 day, on watch.
+- Use today (22 Nov HI story Reel): if a beat explains where money or orders go, draw it as **one funnel with dots and a Hinglish label per stage** (e.g. "AAYA → BANA → BIKA", drop-outs labelled "WASTE") under a single handwritten top line, instead of a text card.
+- Presets: **new preset diagram** (weight 2) in docs/presets.md; 3 topics D1-D3 in docs/clip_topics.md (hooks 94.8, 85.6, 81.4). On watch (1 day): "Bad vs good vs perfect" 3-tier ranking; "Raw vs Edited" layer stack (19 Nov, no repeat).
