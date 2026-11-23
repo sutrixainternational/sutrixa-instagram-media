@@ -577,6 +577,29 @@
    ],
    "lang": "hi",
    "topic": "rizstay_guest_experience",
+   "lines": [],
+   "superseded_by": "https://www.instagram.com/reel/DgFgKfCFZQq/",
+   "rejected_by_owner": true,
+   "note": "owner 23 Nov: animation and music could be better; remade as v2"
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://www.instagram.com/reel/DgFgKfCFZQq/",
+   "story": "Flat 2D v2: Kabir moans in the car 'Papa, kab pahunchenge? bhookh lagi hai'; the car screeches up to Aranya Retreat; Priya checks them in with one tap on Rizstay; in the room Ananya orders from her phone; the order lands on the kitchen screen; knock knock, the waiter arrives; Kabir 'itni jaldi?!'; Rohan: aisa hotel ho to chhutti sach mein chhutti hai",
+   "hook": "हर पापा ने ये सुना है!",
+   "clips_src": [
+    "anim_2026-11-23_family_rizstay_v2_car_arrive_desk_room_door_payoff",
+    "shots/anim/rz_checkin.mp4",
+    "shots/anim/rz_order.mp4",
+    "shots/anim/rz_kitchen.mp4"
+   ],
+   "facts": [
+    "rz_frontdesk_checkin_creates_guest_code",
+    "rz_guest_room_service_order_from_phone",
+    "rz_room_order_reaches_kitchen_screen"
+   ],
+   "lang": "hi",
+   "topic": "rizstay_guest_experience",
    "lines": []
   }
  ]

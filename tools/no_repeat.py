@@ -58,6 +58,11 @@ def check(spec, today=None):
     led = load()
     meta = spec.get("meta") or {}
     errs = []
+    # Owner-requested remake (23 Nov 2026: "do it by yourself" after the owner asked for better animation/music):
+    # meta.supersedes = permalink of the post being remade; that one post is left out of the repeat checks.
+    if meta.get("supersedes"):
+        led = {"posts": [p for p in led["posts"] if p.get("url") != meta["supersedes"]]}
+
     for k in ("story", "clips_src", "facts", "hook", "lang", "topic"):
         if not meta.get(k):
             errs.append(f"meta.{k} missing: the spec must declare it")

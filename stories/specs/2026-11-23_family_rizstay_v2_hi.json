@@ -1,0 +1,83 @@
+{
+ "out": "work/reel_family_v2.mp4",
+ "format": "flat2d",
+ "lang": "hi",
+ "owner_ok_tts": true,
+ "note": "Remake of the 23 Nov family Reel after owner feedback (better animation, real music, built to go viral); owner: 'do it by yourself'.",
+ "meta": {
+  "supersedes": "https://www.instagram.com/reel/DgFbNy_DkRa/",
+  "story": "Flat 2D v2: Kabir moans in the car 'Papa, kab pahunchenge? bhookh lagi hai'; the car screeches up to Aranya Retreat; Priya checks them in with one tap on Rizstay; in the room Ananya orders from her phone; the order lands on the kitchen screen; knock knock, the waiter arrives; Kabir 'itni jaldi?!'; Rohan: aisa hotel ho to chhutti sach mein chhutti hai",
+  "hook": "हर पापा ने ये सुना है!",
+  "lang": "hi",
+  "topic": "rizstay_guest_experience",
+  "clips_src": [
+   "anim_2026-11-23_family_rizstay_v2_car_arrive_desk_room_door_payoff",
+   "shots/anim/rz_checkin.mp4",
+   "shots/anim/rz_order.mp4",
+   "shots/anim/rz_kitchen.mp4"
+  ],
+  "facts": [
+   "rz_frontdesk_checkin_creates_guest_code",
+   "rz_guest_room_service_order_from_phone",
+   "rz_room_order_reaches_kitchen_screen"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "dur": 3.0,
+   "say": "पापा, कब पहुँचेंगे? मुझे भूख लगी है!"
+  },
+  {
+   "kind": "clip",
+   "dur": 2.8,
+   "say": "आ गए! अब बस चेक-इन जल्दी हो जाए..."
+  },
+  {
+   "kind": "clip",
+   "dur": 3.1,
+   "say": "बस एक टैप... और आपका चेक-इन हो गया!"
+  },
+  {
+   "kind": "clip",
+   "dur": 2.5,
+   "say": "रिज़स्टे: एक स्क्रीन, एक मिनट।",
+   "ui": true,
+   "video": "shots/anim/rz_checkin.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 2.8,
+   "say": "रुको कबीर... फ़ोन से ही ऑर्डर कर दिया!"
+  },
+  {
+   "kind": "clip",
+   "dur": 2.6,
+   "say": " ",
+   "ui": true,
+   "video": "shots/anim/rz_order.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 2.6,
+   "say": "ऑर्डर सीधा किचन की स्क्रीन पर।",
+   "ui": true,
+   "video": "shots/anim/rz_kitchen.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 3.2,
+   "say": "मम्मा, इतनी जल्दी आ गया?!"
+  },
+  {
+   "kind": "clip",
+   "dur": 3.8,
+   "say": "ऐसा होटल हो, तो छुट्टी सच में छुट्टी है!"
+  },
+  {
+   "kind": "card",
+   "dur": 1.6,
+   "say": " "
+  }
+ ]
+}

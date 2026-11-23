@@ -63,16 +63,17 @@ def check_spec(spec):
     for v, s in per_video.items():
         if s > MAX_PER_VIDEO:
             errs.append(f"{v} is on screen {s:.1f}s in total (max {MAX_PER_VIDEO}s): one clip must not carry the Reel")
-    if not 40 <= total <= 60:
+    lo = 20 if spec.get("format") == "flat2d" else 40   # owner 23 Nov: flat-2D Reels built to go viral run 20-30 s
+    if not lo <= total <= 60:
         errs.append(f"planned length {total:.1f}s (owner rule: 40-60s)")
     return errs
 
 
-def check_video(path):
+def check_video(path, lo=40):
     errs = []
     dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", path],
                                capture_output=True, text=True).stdout.strip() or 0)
-    if not 40 <= dur <= 60.5:
+    if not lo <= dur <= 60.5:
         errs.append(f"rendered length {dur:.1f}s (40-60s)")
     log = subprocess.run(["ffmpeg", "-hide_banner", "-i", path, "-af", "ebur128", "-vf",
                           "blackdetect=d=0.3:pix_th=0.08,freezedetect=n=0.002:d=2.5", "-f", "null", "-"],
@@ -90,7 +91,7 @@ def check_video(path):
 if __name__ == "__main__":
     mode, spec_path = sys.argv[1], sys.argv[2]
     spec = json.load(open(spec_path))
-    e = check_spec(spec) if mode == "spec" else check_video(sys.argv[3])
+    e = check_spec(spec) if mode == "spec" else check_video(sys.argv[3], 20 if spec.get("format") == "flat2d" else 40)
     if e:
         print("QA REFUSED:\n" + "\n".join(" - " + x for x in e))
         sys.exit(1)
