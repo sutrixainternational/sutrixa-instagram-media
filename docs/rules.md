@@ -1,3 +1,12 @@
+> **OWNER RULE 23 Nov 2026 (18:27 IST): "make reels in such a way that it goes viral on social media".** Every flat-2D Reel is built for shares, using what our own numbers show (EP5 1,362 / EP7 1,561 / EP12 1,532 plays at 30-36% skip, vs ~150-250 plays at 45-70% skip for the rest):
+> 1. Frame 0-1s: a character says a relatable PROBLEM or a funny line, mid-action, with a big on-screen hook (no narrator opener, no logo intro, no slow establishing shot: the 23 Nov opener spent 4 s on the hotel exterior).
+> 2. 20-30 s total (35 s max); a scene change every 2-3 s; animated product moments of 2-3 s each.
+> 3. One clear "aha" (before vs after, or a twist) and a punchline/payoff the viewer wants to send to someone ("tag the hotel owner who still does this").
+> 4. Loop: the last frame cuts back into the first line.
+> 5. Real music with energy (owner-supplied or licensed), voices on top; captions big and short.
+> 6. Hindi/Hinglish everyday humour (family, guests, staff), series name kept so people follow for the next one.
+> 7. After posting: read plays, skip rate, watch % and shares at 24 h and copy what worked into the next one.
+
 > **OWNER FEEDBACK 23 Nov 2026 (18:26 IST) on the first flat-2D Reel: "animations and background music could have been better".** Next Reels in this format must have: (1) real motion, not static scenes with a zoom: characters walk in (leg swing), blink, gesture while talking, objects move (car wheels, steam, door, phone pop-ups, waiter walking in), and scene transitions (slide/wipe/match cut) instead of hard cuts; prefer Gemini flat-2D clips for the character scenes when Gemini has capacity; (2) a real music track, not the synthesized sine pad (a licensed/royalty-free track or one the owner supplies), ducked under the voices.
 
 > **23 Nov 2026, 19:05 IST (main session):** the first NEW-FORMAT Reel is POSTED: https://www.instagram.com/reel/DgFbNy_DkRa/ (flat 2D family story, Hindi, narrator + character voices in Hindi via Kokoro, animated Rizstay UI). Owner approved a narrator on 23 Nov ("add narrator according to you"), so owner_ok_tts is allowed for this format only. Today's scheduled runs must not post another Reel. Build tools: tools/flat_family_reel.py + tools/ui_anim_rizstay.py (fonts: Mukta from google/fonts for Devanagari). The 24 Nov ONLY note below still stands: scheduled runs do not post; the main session decides the next Reel with the owner.
