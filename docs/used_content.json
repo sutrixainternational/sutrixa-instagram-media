@@ -558,6 +558,26 @@
     "Approved from my phone.",
     "Ramu gets paid for the real hours."
    ]
+  },
+  {
+   "date": "2026-11-23",
+   "url": "https://www.instagram.com/reel/DgFbNy_DkRa/",
+   "story": "Flat 2D explainer: a family (Rohan, Ananya, Kabir) arrives at Aranya Retreat after a long drive; reception checks them in on Rizstay and they get a guest code; in the room Ananya orders milk and chai from her phone; the order appears instantly on the kitchen's live orders screen; the waiter arrives within minutes; Rohan relaxes: no queue, no repeated calls",
+   "hook": "हर यादगार सफ़र की शुरुआत, एक अच्छे स्वागत से होती है।",
+   "clips_src": [
+    "anim_2026-11-23_family_rizstay_outside_desk_room_door_balcony",
+    "shots/anim/rz_checkin.mp4",
+    "shots/anim/rz_order.mp4",
+    "shots/anim/rz_kitchen.mp4"
+   ],
+   "facts": [
+    "rz_frontdesk_checkin_creates_guest_code",
+    "rz_guest_room_service_order_from_phone",
+    "rz_room_order_reaches_kitchen_screen"
+   ],
+   "lang": "hi",
+   "topic": "rizstay_guest_experience",
+   "lines": []
   }
  ]
 }

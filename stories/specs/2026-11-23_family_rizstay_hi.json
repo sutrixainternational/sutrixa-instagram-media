@@ -1,0 +1,76 @@
+{
+ "out": "work/reel_family.mp4",
+ "lang": "hi",
+ "owner_ok_tts": true,
+ "note": "Owner 23 Nov: new flat 2D format, narrator allowed ('add narrator according to you'), product shown only as animated UI.",
+ "meta": {
+  "story": "Flat 2D explainer: a family (Rohan, Ananya, Kabir) arrives at Aranya Retreat after a long drive; reception checks them in on Rizstay and they get a guest code; in the room Ananya orders milk and chai from her phone; the order appears instantly on the kitchen's live orders screen; the waiter arrives within minutes; Rohan relaxes: no queue, no repeated calls",
+  "hook": "हर यादगार सफ़र की शुरुआत, एक अच्छे स्वागत से होती है।",
+  "lang": "hi",
+  "topic": "rizstay_guest_experience",
+  "clips_src": [
+   "anim_2026-11-23_family_rizstay_outside_desk_room_door_balcony",
+   "shots/anim/rz_checkin.mp4",
+   "shots/anim/rz_order.mp4",
+   "shots/anim/rz_kitchen.mp4"
+  ],
+  "facts": [
+   "rz_frontdesk_checkin_creates_guest_code",
+   "rz_guest_room_service_order_from_phone",
+   "rz_room_order_reaches_kitchen_screen"
+  ]
+ },
+ "beats": [
+  {
+   "kind": "clip",
+   "dur": 8.8,
+   "say": "लंबी ड्राइव थी... बस अब चेक-इन जल्दी हो जाए!"
+  },
+  {
+   "kind": "clip",
+   "dur": 4.2,
+   "say": "स्वागत है! बस एक मिनट... आपका चेक-इन हो गया।"
+  },
+  {
+   "kind": "clip",
+   "dur": 7.6,
+   "say": "रिज़स्टे पर फ्रंट डेस्क एक ही स्क्रीन से चेक-इन करता है, और मेहमान को मिलता है अपना गेस्ट कोड।",
+   "ui": true,
+   "video": "shots/anim/rz_checkin.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 4.0,
+   "say": "कबीर को दूध चाहिए... फ़ोन से ही ऑर्डर कर देती हूँ।"
+  },
+  {
+   "kind": "clip",
+   "dur": 3.8,
+   "say": "गेस्ट कोड से, कमरे से ही रूम सर्विस का ऑर्डर।",
+   "ui": true,
+   "video": "shots/anim/rz_order.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 4.2,
+   "say": "और ऑर्डर उसी पल, किचन की स्क्रीन पर पहुँच जाता है।",
+   "ui": true,
+   "video": "shots/anim/rz_kitchen.mp4"
+  },
+  {
+   "kind": "clip",
+   "dur": 3.2,
+   "say": "मम्मा, ऑर्डर आ गया! इतनी जल्दी?"
+  },
+  {
+   "kind": "clip",
+   "dur": 4.5,
+   "say": "न लाइन, न बार-बार फ़ोन... सब कितना आसान!"
+  },
+  {
+   "kind": "card",
+   "dur": 4.7,
+   "say": "रिज़स्टे... सुत्रिक्सा इंटरनेशनल की एक पेशकश।"
+  }
+ ]
+}
