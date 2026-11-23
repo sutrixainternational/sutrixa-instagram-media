@@ -606,3 +606,57 @@ Signature moves:
 - Fits Sutrixa: (1) **Animated diagram explainers** (one drawn funnel/flow, dots as customers or calls, a label per beat) have strong share numbers on 2 scan days (18 Nov, 22 Nov), are fully faceless and teach a business principle a viewer can use without buying: added as preset **diagram** (weight 2). Best fits: Voxa (calls → answered → booked), Velocity (walked past → found you on Google → visited), Rizstay stock (bought → used → sold, with waste as the drop-out). (2) List + keyword giveaways again have comments > likes (aiwithshivang, mihad.builds: 4th scan day), still our `countdown`/`stepper` with the keyword CTA. (3) "Bad vs good vs perfect" ranking is new and fits our product screens; 1 day, on watch.
 - Use today (22 Nov HI story Reel): if a beat explains where money or orders go, draw it as **one funnel with dots and a Hinglish label per stage** (e.g. "AAYA → BANA → BIKA", drop-outs labelled "WASTE") under a single handwritten top line, instead of a text card.
 - Presets: **new preset diagram** (weight 2) in docs/presets.md; 3 topics D1-D3 in docs/clip_topics.md (hooks 94.8, 85.6, 81.4). On watch (1 day): "Bad vs good vs perfect" 3-tier ranking; "Raw vs Edited" layer stack (19 Nov, no repeat).
+
+## 2026-11-23
+Context: the owner stopped the cartoon-story format at 17:11 IST today ("I want something else", docs/rules.md). This scan therefore looked for faceless formats with no recurring characters. Sources (laptop browser pane, read-only, ~26 page loads incl. the profile checks, no rate limit or challenge; pane hidden). Reels feed (1 load, 11 Reels passed, shortcode read from the URL as the feed advanced). Keyword searches **"restaurant marketing"** (typed by mistake instead of "marketing for local business"; kept, the grid returned 39 tiles with 7 recent) and **"GST"** (39 tiles, 4 recent). "payroll" and Explore were skipped to stay inside the budget. 19 posts read at /p/<code>/ for og:description (one by one, ~3.5s apart). Durations, reposts and shares come from the Reel player and were read only for the 2 beat-sheet Reels. Follower counts were not loaded, so ratios vs account size are n/r.
+
+| account (date) | likes | comments | shares | length | hook | hook category | format |
+|---|---|---|---|---|---|---|---|
+| taxnest_2026 (21 Nov, "GST") [DgCRdDfBGXA] | 5.6K | 22 | 2.4K (+334 reposts) | 60s | "Adding GST to a bill?" | Curiosity Gap (a plain question) | **flat-illustration object explainer**: cream canvas, one object per beat (coin stacks, calculator, bill), white pill title per beat, worked ₹ example, "NEXT REEL" teaser card at the end. English |
+| websolnlabs (16 Nov, "restaurant marketing") [Df3wiBaJzVN] | 3.7K | 19 | 3.5K (+198 reposts) | 55s | "Agar main aapke cafe ka Instagram handle karta… (Ep. 01)" | Identity Trigger (cafe owner) + Curiosity Gap | **3D phone mockup on a dark background** with real app screens inside, Hinglish 2-3-word captions above (key word orange), small step kicker ("01 SETUP"), numbered series. Hinglish |
+| sethjbrink (20 Nov, "restaurant marketing") [Df-TjkQE5Rc] | 1,827 | 12 | n/s | n/r | "Not all restaurant marketing is worth your budget." | Correction | restaurant-marketing tips (loyalty, menu drops over discounts) |
+| orca.agentics (15 Nov, "restaurant marketing") [Dfw1sL2DbW5] | 874 | 1,335 | n/s | n/r | "Every AI agent a restaurant needs, on one page." | Bold Claim + list | AI-agent list for restaurants (reservations, no-shows, reviews, stock, rosters), keyword (1.5 comments per like) |
+| robin.ebers (21 Nov, feed) [DgAc1IIjMGH] | 85 | 257 | n/s | n/r | "I tested every AI video editing skill I could find…" | Bold Claim | AI-tool review, keyword (comments 3x likes) |
+| alivisuals8 (22 Nov, feed) [DgEEw2yTjxC] | 182 | 129 | n/s | n/r | "Comment MODEL and I'll send you the project file" | keyword giveaway | After Effects behind-the-scenes (off-niche) |
+| bigbrandtales_official (22 Nov, feed) [DgEoghaPYaQ] | 171 | 0 | n/s | n/r | "Does your customer say 'it's expensive'?" (chai ₹10 at a cart vs ₹50 at a cafe) | Relatable Pain + contrast | the same account's drawn-diagram explainer (2nd Reel in a row seen from them) |
+| aiwithviidhii (23 Nov, feed) [DgE6QG1uOzA] | 118 | 8 | n/s | n/r | "Databricks considering raising a series N…" | Bold Claim (news) | AI funding news (off-niche) |
+| gstmatch (22 Nov, "GST") [DgC5jA1uum1] | 41 | 22 | n/s | n/r | "1500 Invoices. 2 Minutes." | Bold Claim + Relatable Pain (Excel) | software demo, STEP 1/2 in the caption, Hinglish |
+| teseria.dev (22 Nov, feed) [DgEDkZExLJ1] | 34 | 0 | n/s | n/r | "You asked for an order tracker and got this one." | Correction | UI before/after ("seven small changes") |
+| mjservicescrm (21 Nov, "GST") [DgB1R8kS_H7] | n/s | n/s | n/s | n/r | "Ek invoice galat gaya, aur sab gadbad!" | Relatable Pain | invoicing software, ❌ mistake list (no traction) |
+Skipped: asmaijazkhann (F1), pranav.hq (creator editing tip), fizzycoding (dev tools), ryuarcdigital/tictecmarketing/bizemporia/leadforgegrowth (tiny restaurant-marketing agencies, < 25 likes), m_u_k_e_s_h.t (firm intro), 2 feed Reels not opened.
+
+### Beat sheet 1: websolnlabs "Agar main aapke cafe ka Instagram handle karta (Ep. 01)" (55s, Hinglish; 3.5K shares on 3.7K likes)
+Screenshots at 0.5s, 6s, 18s, 33s, 51s.
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | near-black background with a soft vignette, a 3D phone slightly tilted in the lower 2/3, showing an empty profile screen | "Agar main aapke" (white, bold, top third) | 2-3 words at a time, one key word orange, no box | phone floats in and settles | VO, Hinglish, from 0s |
+| step 1 | 3-15s | the same phone, now on the app's search screen with the cursor in the box | kicker "01 SETUP" tiny above; "Sabse pehle **naam**…" | same chunked caption | screen content changes inside the static phone; small push-in | VO |
+| step 2 | 15-28s | the phone shows a finished profile; one row (the link in the bio) lifts out of the screen as a white floating card | "**Link** seedha" | same | **the key UI row pops out of the phone** and floats in front of it | VO |
+| step 3 | 28-45s | a 3D promo card "WEEKEND 1+1 COLD BREW" pops out in front of the phone | "**weekend ke** offers." | same | card scale-pop over the phone | VO |
+| CTA | 45-55s | the phone fades; a latte cup with an orange down-arrow; a profile pill + a green WhatsApp number pill | "ya neeche diye **number** pe message" | same | pills slide up | VO |
+Signature moves (render_reel3-reproducible, faceless, no characters):
+1. **Real product screen inside a 3D phone on a dark background for the whole Reel**: our `screen` beats with a phone frame and a dark vignette instead of full-bleed. Only the screen inside changes per beat.
+2. **The proving UI row lifts out of the phone** as a floating white card (= our `hl` box, rendered as a crop of that row scaled 1.15x with a drop shadow, in front of the phone).
+3. **Tiny step kicker ("01 SETUP") above a 2-3-word Hinglish caption with one orange word**: calm, readable, no karaoke.
+4. **"Agar main aapke <business> ka <job> sambhalta" as an episode series** (Ep. 01, 02…): the viewer gets a free day-one plan for their own place. For us: "If I set up your hotel's front desk" with Rizstay screens. The hook shape itself scores low on hookscore (37.8-48.2) without stakes, so lead with a stake line.
+5. Contact pills (profile + WhatsApp) as the last frame instead of a text card.
+This is the 4th scan day with strong numbers for the faceless phone-mockup screen demo: 16 Nov sideeq.workspace (111K views, 250x), 17-18 Nov shahfahid.dev (9.8K shares), 19 Nov buildwithdevender (521 comments on 428 likes), today websolnlabs (3.5K shares).
+
+### Beat sheet 2: taxnest_2026 "Adding GST to a bill?" (60s, English; 2.4K shares on 5.6K likes)
+Screenshots at 0.5s, 8s, 20s, 35s, 55s.
+| beat | time | shot | on-screen text | caption style | motion | audio |
+|---|---|---|---|---|---|---|
+| hook | 0-3s | flat vector man at a desk with a bill and a calculator, thought bubble with coin stacks; cream background | white rounded pill at the top: "ADDING GST TO A BILL?" | none besides the pill | thought bubble pops | VO, English |
+| step 1 | 3-15s | flat icons on a soft circle: a box of goods, a meter dial, grey placeholder lines beside each | pill "START WITH THE **BASIC AMOUNT**" (key words in mustard) | pill only | icons slide in one by one | VO |
+| formula | 15-30s | one big flat calculator, a hand pressing a key | pill "GST = BASIC × RATE ÷ 100" | pill only | finger tap loop | VO |
+| worked example | 30-50s | two coin stacks (dark = base, gold = GST) on a pedestal | pill "₹10,000 + ₹1,800" | pill only | the gold stack grows on top | VO |
+| teaser | 50-60s | a bill with a big tick, a small bird mascot | "NEXT REEL / WHAT TO CHECK ON A GST INVOICE" | pill | tick draws in | VO |
+Signature moves:
+1. **One object per beat on a plain cream canvas** (calculator, coin stack, bill), no people: our `card` beats with one PNG object, or a `screen` crop of the real Rizstay bill.
+2. **The formula as the beat title** ("GST = BASIC × RATE ÷ 100") and a **worked ₹ example** as stacked coins (base vs GST in two colours): the viewer's own maths, so it passes the products.md rule.
+3. **"NEXT REEL: <the next question>" teaser** as the last frame: sets up a series without asking for a follow.
+(Flat illustration of a person is not used: we show the real Rizstay bill screen in its place.)
+
+- Fits Sutrixa: (1) **Faceless phone-mockup screen demos** (a real app screen in a 3D phone on a dark background, the proving row lifting out, 2-3-word captions) have strong numbers on 4 scan days (16, 17-18, 19, 23 Nov), need no characters and no Gemini clips, and satisfy the 11 Nov "real product" rule by design: added as preset **phonedemo** (weight 2). It is a direct candidate for the "something else" the owner asked for today. (2) **Object explainers with a worked ₹ example** (GST maths) are shared hard in the GST niche (2.4K shares): one per Rizstay billing topic, combined with the real bill screen. 1 day as its own format; on watch. (3) Keyword list Reels again have comments > likes (orca.agentics, robin.ebers: 5th scan day), still `countdown`/`stepper` + keyword.
+- Use today: per the owner rule no scheduled Reel is rendered today; offer the main session **phonedemo** as the new-format option (e.g. P1 "Stop typing GST on every bill. Rizstay splits it for you." with rz_dashboard/rz_registers screens in a phone frame, the GST line lifting out, Hinglish 2-3-word captions).
+- Presets: **new preset phonedemo** (weight 2) in docs/presets.md; 3 topics P1-P3 in docs/clip_topics.md (hooks 83.2, 83.2, 81.4). On watch (1 day): flat object explainer with worked ₹ maths; "Bad vs good vs perfect" (22 Nov, no repeat today).

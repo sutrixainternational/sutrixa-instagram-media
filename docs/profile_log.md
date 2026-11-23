@@ -332,3 +332,15 @@
   2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 17 days; 12th on the grid, low priority).
   3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
   4. **Answer the bio question** (asked 13 Nov, 9 days): keep "Enterprise AI | Agency", or switch to option A, B or C.
+
+## 2026-11-23 (daily run, ig-profile with rubric.json, live view ~17:50 IST)
+- Live profile: name "Sutrixa | AI Business Software", category "Software", bio `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta |...` (the owner's edit, unchanged), link sutrixa.com (+1 more), **42 posts** (latest still EP12 DgAWFDvEYHA, 21 Nov: the 22 Nov HI episode did not post), 37 followers (+1 vs the 22 Nov live view), 4 following. 0 pinned posts, no highlights (only "New"), story archive still EMPTY ("Add to your story"). Grid first 9: EP12, EP11, EP10, EP9, EP8, EP7, DfwiDjID4zu, EP5, Dffbuyxkq9y.
+- **Not changed: bio.** The 13 Nov bio question is still unanswered, so the owner's edit stays. Option C from the 22 Nov weekly review mentions "Bablu's Hotel", which no longer fits now that the owner has stopped the cartoon-story format (rules.md 23 Nov). Options A/B still stand.
+- **Not changed: name** (the weekly review rates it fine at 10/12). Highlights: not possible (archive empty).
+- Captions: latest post is EP12 (checked 22 Nov, matches products.md). No new post, no fix needed.
+- **Score 57/100** (=): name 10/12 · bio line 1 6/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 10/10 (6 Reels in 7 days: 16-21 Nov; drops if no Reel posts by 25 Nov) · stories 0/6.
+- App-only to-dos still open:
+  1. **Pin 3** (open since 30 Oct, 24 days): EP7 https://www.instagram.com/reel/Dfzx4_Wjk1d/ · EP12 https://www.instagram.com/reel/DgAWFDvEYHA/ · EP5 https://www.instagram.com/reel/DfpIdH3jwPD/. +8. (If the owner would rather not pin cartoon episodes now that the format is stopped, pin them anyway until a new-format Reel beats them: they are the account's best proof.)
+  2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 18 days; 12th on the grid, low priority).
+  3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
+  4. **Answer the bio question** (asked 13 Nov, 10 days): keep "Enterprise AI | Agency", or switch to option A or B.
