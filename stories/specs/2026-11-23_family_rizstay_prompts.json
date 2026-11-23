@@ -1,0 +1,17 @@
+{
+"style": "Vertical 9:16 portrait. Flat 2D vector animation in a clean modern explainer style: simple flat shapes, no outlines, soft warm peach, cream and terracotta colours, characters with round heads and simple friendly faces, smooth gentle motion, plain background shapes.",
+"chars": {
+ "ROHAN": "ROHAN: Indian father, about 35, short black hair, short light beard, blue t-shirt, dark grey trousers.",
+ "ANANYA": "ANANYA: Indian mother, about 32, long black hair tied back, orange kurta with a cream dupatta across one shoulder, dark trousers.",
+ "KABIR": "KABIR: Indian boy, about 7, short black hair, yellow t-shirt, blue shorts.",
+ "PRIYA": "PRIYA: young Indian hotel receptionist, neat bun, maroon blazer over a white shirt.",
+ "CHEF": "CHEF: Indian hotel chef, about 40, round face, small moustache, white chef jacket and white chef cap."
+},
+"clips": [
+ {"id":"arrive","who":["ROHAN","ANANYA","KABIR"],"speaker":"ROHAN","scene":"A red car parked in front of a cream two-storey hotel with a plain dark green sign board (no letters) and round green trees. The family steps out of the car with a suitcase; Rohan stretches, smiles at Ananya and Kabir","line":"Lambi drive thi... bas ab check-in jaldi ho jaaye!","cam":"Slow push-in"},
+ {"id":"desk","who":["PRIYA","ROHAN","ANANYA","KABIR"],"speaker":"PRIYA","scene":"A hotel reception desk with a laptop. Priya stands behind the desk, the family stands in front. Priya taps the laptop, then smiles and hands Rohan a small card","line":"Swagat hai! Do minute mein aapka check-in ho gaya. Yeh rahi aapki guest code.","cam":"Gentle push-in on Priya"},
+ {"id":"room","who":["ANANYA","KABIR"],"speaker":"ANANYA","scene":"A cosy hotel room with a bed, orange curtains and a window. Ananya sits on the bed holding a phone; Kabir bounces on the bed. Ananya taps her phone and smiles","line":"Kabir ko doodh chahiye... main phone se hi order kar deti hoon. Ho gaya!","cam":"Slow push-in"},
+ {"id":"kitchen","who":["CHEF"],"speaker":"CHEF","scene":"A clean hotel kitchen with a tablet screen on the wall. The chef looks at the tablet, nods, and picks up a tray with a glass of milk and two cups of tea","line":"Room do sau chaar, ek doodh, do chai. Abhi bhejta hoon!","cam":"Static, slight push-in"},
+ {"id":"door","who":["KABIR"],"speaker":"KABIR","scene":"The hotel room door opens and a smiling waiter in a white shirt and black vest holds a tray with a glass of milk and two cups of tea. Kabir runs to the door, excited, and turns back towards his mother","line":"Mumma, order aa gaya! Itni jaldi?","cam":"Handheld-feel push-in on Kabir"},
+ {"id":"relax","who":["ROHAN"],"speaker":"ROHAN","scene":"On the hotel room balcony at sunset, Rohan sits in a chair sipping tea, relaxed, looking at the camera with a big smile","line":"Na line, na baar baar phone... is hotel mein sab kitna aasaan hai!","cam":"Slow push-in"}
+]}
