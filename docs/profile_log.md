@@ -344,3 +344,15 @@
   2. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 18 days; 12th on the grid, low priority).
   3. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
   4. **Answer the bio question** (asked 13 Nov, 10 days): keep "Enterprise AI | Agency", or switch to option A or B.
+
+## 2026-11-24 (daily run, ig-profile with rubric.json, live view ~00:30 IST)
+- Live profile: name "Sutrixa | AI Business Software", category "Software", bio `Enterprise AI | Agency` / `Rizstay · Voxa · HR4U · Velocity` / `$1.1M+ in projects` / `📍 HQ: Mississauga, Canada 📍India- Calcutta |...` (the owner's edit, unchanged), link sutrixa.com (+1 more), **44 posts** (+2: the two flat-2D family Reels of 23 Nov, DgFbNy_DkRa and its v2 DgFgKfCFZQq), 37 followers (=), 4 following. 0 pinned, no highlights (only "New"), story archive still EMPTY. Grid first 9: family v2, family v1, EP12, EP11, EP10, EP9, EP8, EP7, EP6.
+- **Not changed: bio.** No clear new reason (no new post-mortem lesson or products.md proof), and the 13 Nov bio question is still unanswered, so the owner's edit stays. **Not changed: name** (none due). Highlights: not possible (archive empty).
+- Captions checked against docs/products.md: DgFgKfCFZQq (v2) and DgFbNy_DkRa (v1): check-in at the front desk + guest code, room-service order from the room, order on the kitchen's live screen. Matches (guest codes, room orders → kitchen display, live view); no "guests check in from their phone" claim, no pricing, no InfraRobo. No fix needed. Early numbers: v2 3 likes, v1 2 likes, 0 comments.
+- **Score 57/100** (=): name 10/12 · bio line 1 6/12 · bio body 5/8 · pinned 0/10 · link 6/8 · highlights 0/8 · grid 6/8 (the top row now shows the same story twice) · photo 4/6 · handle 4/6 · category/contact 6/6 · recent activity 10/10 · stories 0/6.
+- App-only to-dos still open:
+  1. **Pin 3** (open since 30 Oct, 25 days): EP7 https://www.instagram.com/reel/Dfzx4_Wjk1d/ · EP12 https://www.instagram.com/reel/DgAWFDvEYHA/ · EP5 https://www.instagram.com/reel/DfpIdH3jwPD/. +8. Swap one for the family v2 if it passes ~1,000 plays.
+  2. **NEW: archive the superseded family Reel v1** https://www.instagram.com/reel/DgFbNy_DkRa/ (v2 DgFgKfCFZQq replaces it; two versions of the same story sit side by side in the top row). Grid +1.
+  3. **Delete or archive the 4 Nov repeat** https://www.instagram.com/reel/DfUki2olOVU/ (open since 5 Nov, 19 days; low priority).
+  4. **Post Stories from the phone** (stories/ frames) so the START · RIZSTAY · VOXA · HR4U · VELOCITY highlights can be built (open since 28 Oct).
+  5. **Answer the bio question** (asked 13 Nov, 11 days): keep "Enterprise AI | Agency", or switch to option A or B.
