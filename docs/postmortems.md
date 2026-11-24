@@ -730,3 +730,24 @@ Last-10 median: **~187** (137, 155, 158, 175, 184, 190, 192, 255, 1,360, 1,561).
 5. Follow reason: "EP 13 TOMORROW · FOLLOW" + Bablu "Follow us!".
 
 **Result: EP12 POSTED** https://www.instagram.com/reel/DgAWFDvEYHA/ (~19:10 IST). Watch tomorrow: does an English kitchen wage-loss story with a guilty-cook beat get likes/sends above the 0-3 floor?
+
+## 2026-11-24 run (6:47 PM scheduled, post-mortem + owner pack ONLY: 24 Nov ONLY note, main session posts) · post-mortem of: Family Reel v2 (DgFgKfCFZQq, 23 Nov ~19:07 IST, Rizstay, HINDI, flat 2D, 28 s) at ~24h
+vidIQ owner insights OK (0 credits). Followers **37** (+1 since 21 Nov). No Reel posted yet today (latest IG Reel = DgFgKfCFZQq).
+
+| Reel | views | avg watch / % | skip | likes / comments / shares / saves |
+|---|---|---|---|---|
+| **Family v2 flat-2D HI (23 Nov, 28 s)** | **268** | **7.9s / 28.1%** | **44.9%** | 5 / 0 / 1 / 0 |
+| Family v1 flat-2D HI (23 Nov, 45 s, superseded) | 127 | 5.9s / 13.2% | 62.6% | 2 / 0 / 2 / 0 |
+| EP12 HR4U EN (21 Nov, ~72h) | 1,562 | 12.8s / 31.9% | 36.8% | 21 / 0 / 1 / 2 |
+| EP11 Rizstay rooms HI (20 Nov) | 184 | 8.6s / 21.5% | 44.1% | 1 / 0 / 1 / 0 |
+
+Last-10 median: **192** (127, 156, 184, 188, 192, 192, 268, 1,362, 1,561, 1,562). v2 = **1.4x**, v1 = 0.66x.
+
+**What worked (v2 vs v1)**: the owner-led remake fixed the opener. Skip fell from 62.6% to 44.9%, watched % doubled (13% to 28%) and views doubled (127 to 268) with a relatable kid line at frame 0 ("Papa, kab pahunchenge?") instead of the 4 s hotel exterior. 28 s length + motion + real music = best flat-2D numbers so far and above median.
+**What went wrong**: still well short of the 1,300-1,560 hits (skip 30-37%). 44.9% skip means the first 3 s are better but not yet stopping thumbs; 0 saves, 1 share: the "send to a hotel-owner friend" payoff did not trigger sends. EP12 (English kitchen wage loss, "16 hours?") became the 3rd 8x Reel at 72h: a countable money loss spoken in the first second is still the strongest recipe we have, in either language.
+
+**Changes for the NEXT Reel (main session decides; scheduled run did not post per the 24 Nov ONLY note)**
+1. Keep the flat-2D format and the 20-30 s length; open on a character saying a COUNTABLE loss or absurd number in the first second (EP12 "16 hours", EP7 "10 table, 1 waiter", EP5 "5 kilo paneer"), not a general family line.
+2. Put the payoff/twist on screen by ~15 s and make the send line specific ("send this to the cousin who runs a dhaba"), plus a loop back to frame 0.
+3. One animated product moment per problem, 2-3 s each, captions big and short.
+4. Archive v1 (DgFbNy_DkRa) in the app so it stops dragging the profile grid average.

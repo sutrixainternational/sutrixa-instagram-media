@@ -187,3 +187,15 @@ The cloud can't open instagram.com. Comments are drafted by ig-comment and poste
 8. @aiwith.om: Good breakdown. The practical bit for small businesses is always "who checks it at 7 AM", not the tool itself.
 9. @labibs_india: People see the rolls, not the 6 AM prep. Respect for showing the real work behind the counter.
 10. @desitouch.vlogs: Packaging sourcing is the part nobody films. Which supplier question saved you the most money?
+
+## Comment drafts, 24 Nov 2026 (owner posts from the app; adapt the first words to the Reel you comment on). Never pitch, never link.
+1. (hotel/homestay owner Reel) The check-in desk is where guests decide if they'll come back. Ten minutes of forms there undoes a great room.
+2. (dhaba/restaurant Reel) The rush hour is never the food, it's the order getting lost between table and kitchen. Respect for showing the chaos.
+3. (family travel vlog) "Papa, kab pahunchenge?" is the national anthem of every road trip. The hotel that has chai ready wins forever.
+4. (small-business finance creator) Most owners know their sales number by heart and have no idea what staff overtime cost them last month.
+5. (cloud kitchen founder) Prep waste is the silent margin killer. Do you weigh it daily or just eyeball the bin?
+6. (hospitality student / hotel management page) Housekeeping and front desk talking to each other in real time fixes half the guest complaints.
+7. (AI tools explainer) The tools are the easy part. The hard part is getting the 7 AM staff to actually use them.
+8. (homestay host) Guests remember the small thing: someone noticing the kid was hungry. No software replaces that, it just frees time for it.
+9. (Indian startup storyteller) Love that you showed the boring operations side. That's where most small businesses quietly win or lose.
+10. (restaurant owner sharing a bad review) Replying calmly like this does more for the next guest than the review did harm. Well handled.

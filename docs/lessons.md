@@ -131,3 +131,8 @@ Status tags: TRY (seen once) · PROVEN (2+, now a rule) · DROPPED.
 - TRY: Hindi hotel-room money loss (free VIP room missing from the bill, broken room booked) as the non-kitchen version of the EP5/EP7 recipe. Read at 24h on 21 Nov.
 - CHECKED: Veo clips can start speaking late (EP11 mantri clip at 2.1s). Always measure speech start and set vstart so the first word lands inside 0.3s.
 - CHECKED: render_reel3's face guard can see a false "head" (thumbs-up hand) in a few sampled frames and refuse the captions; shifting vstart/dur by 0.1-0.2s fixes it without touching the gate.
+
+## 24 Nov run (Family v2 at ~24h, EP12 at ~72h)
+- CHECKED: in the flat-2D format, a relatable line at frame 0 + 28 s beats an establishing shot + 45 s: v2 268 views / 44.9% skip vs v1 127 / 62.6%. Same story, same day.
+- CHECKED: EP12 (English, "Do I pay him for sixteen hours?") reached 1,562 at 72h: the countable-loss hook works in English too; language is not the gate, the countable loss is.
+- TRY: flat-2D Reel whose frame-0 line names a number-loss (hours, kilos, tables, rupees lost) rather than a general family moment.
