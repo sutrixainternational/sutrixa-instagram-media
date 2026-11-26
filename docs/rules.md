@@ -1,3 +1,5 @@
+> **26 Nov 2026 (scheduled 7:47 PM IST run):** approval still ended (24 Nov), no extension found. No Reel, post-mortem or owner pack. Owner reminded once today. Later runs today: do nothing.
+
 > **25 Nov 2026 (scheduled hourly run):** the daily-autopost approval ended 24 Nov. No Reel, post-mortem or owner pack. Owner messaged once that the month is over. Later runs (today and after): do nothing unless the owner extends the approval here.
 
 > **24 Nov 2026, 19:00 IST (scheduled 6:47 PM run):** per the 24 Nov ONLY note, NO Reel rendered or posted by the scheduled task. Post-mortem of Family v2 written (268 views 1.4x median, skip 44.9%, 5 likes / 1 share; v1 127 views). Followers 37. Story frames stories/frames/2026-11-24/, comment drafts in docs/engage.md. Owner told once. The owner's daily-autopost approval ends today (24 Nov); from 25 Nov the scheduled task only messages the owner that the month is over. Later runs today: do nothing.
