@@ -1,3 +1,5 @@
+> **28 Nov 2026 (scheduled hourly run):** approval still ended (24 Nov), no extension found. No Reel, post-mortem or owner pack. Owner reminded once today. Later runs today: do nothing.
+
 > **27 Nov 2026 (scheduled 6:47 PM IST run):** approval still ended (24 Nov), no extension found. No Reel, post-mortem or owner pack. Owner reminded once today. Later runs today: do nothing.
 
 > **26 Nov 2026 (scheduled 7:47 PM IST run):** approval still ended (24 Nov), no extension found. No Reel, post-mortem or owner pack. Owner reminded once today. Later runs today: do nothing.
